@@ -30,6 +30,10 @@ out/
 *.json
 !rag_queries.json
 *.faiss
+*.txt
+
+# runtime state
+state/
 
 # copied corpus files (source: ../rag-corpus/)
 sandbox/court_opinions/
