@@ -67,7 +67,10 @@ uv sync
 
 # Configure environment
 cp .env.example .env
-# Edit .env and set TAVILY_API_KEY (optional)
+# Edit .env and set GEMINI_API_KEY (required), OPEN_ROUTER_API_KEY and TAVILY_API_KEY (optional)
+
+# Symlink .env so the gateway can find it
+ln -s "$(pwd)/.env" ../.env
 
 # Start the LLM Gateway V7 in a separate terminal
 cd ../llm_gatewayV7 && uv run main.py
