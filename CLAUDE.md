@@ -11,12 +11,24 @@ Python AI agent with a four-layer cognitive architecture (Memory → Perception 
 ```bash
 uv sync                                        # install deps
 uv run agent7.py "query"                       # run agent (gateway must be running)
+uv run python rag_app.py --port 8117           # start RAG UI at http://127.0.0.1:8117
 uv run pytest -v test_mcp_server.py            # all tests
 uv run pytest -v test_mcp_server.py -m "not network"  # skip internet tests
 uv run pytest -v test_mcp_server.py -m "not embed"    # skip embedding tests
 uv run ruff check .                                    # lint
 uv run ruff format .                                   # format
 ```
+
+## Court Opinion RAG UI
+
+A localhost web app for querying court opinions with and without vector indexing.
+
+- **Server**: `rag_app.py` — stdlib `ThreadingHTTPServer`, no extra framework
+- **Static assets**: `static/index.html`, `static/styles.css`, `static/app.js`
+- **API endpoints**: `GET /api/status`, `POST /api/index`, `POST /api/query`
+- **Port**: 8117 (default), override with `--port`
+- **Requires**: LLM Gateway V7 running at `localhost:8107` for embeddings and answer generation
+- **Sample queries**: `rag_queries.json` — five evaluation queries for indexed vs. unindexed comparison
 
 ## Prerequisites
 
