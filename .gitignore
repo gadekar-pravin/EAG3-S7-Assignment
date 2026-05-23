@@ -3,19 +3,18 @@
 .env.*
 !.env.example
 
-# runtime state
-state/
-sandbox/
-usage.json
-
 # python
 __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
+dist/
+build/
+*.whl
 
 # os
 .DS_Store
+Thumbs.db
 
 # JetBrains IDEs
 .idea/
@@ -23,3 +22,6 @@ __pycache__/
 *.iws
 *.ipr
 out/
+
+# VS Code
+.vscode/
