@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+import shutil
 import sys
 import uuid
 from pathlib import Path
@@ -169,8 +170,27 @@ async def run(query: str) -> str:
     return final_answer
 
 
+def _clean_state() -> None:
+    """Remove durable agent state (FAISS index, memory, usage) but preserve sandbox fixtures."""
+    root = Path(__file__).parent
+    for target in ("state", "usage.json"):
+        p = root / target
+        if p.is_dir():
+            shutil.rmtree(p)
+            print(f"[clean] removed {p}")
+        elif p.is_file():
+            p.unlink()
+            print(f"[clean] removed {p}")
+
+
 def main() -> None:
-    query = " ".join(sys.argv[1:]) or (
+    args = sys.argv[1:]
+    clean = "--clean" in args
+    if clean:
+        args = [a for a in args if a != "--clean"]
+        _clean_state()
+
+    query = " ".join(args) or (
         "What is the current time in Asia/Tokyo and Asia/Kolkata? Tell me the difference in hours."
     )
     asyncio.run(run(query))
