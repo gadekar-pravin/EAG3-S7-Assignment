@@ -29,3 +29,6 @@ out/
 # data files
 *.json
 *.faiss
+
+# test reports
+logs/
