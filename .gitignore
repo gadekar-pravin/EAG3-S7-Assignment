@@ -25,3 +25,7 @@ out/
 
 # VS Code
 .vscode/
+
+# data files
+*.json
+*.faiss
