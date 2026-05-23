@@ -30,5 +30,8 @@ out/
 *.json
 *.faiss
 
+# copied corpus files (source: ../rag-corpus/)
+sandbox/court_opinions/
+
 # test reports
 logs/
