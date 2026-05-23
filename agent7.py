@@ -105,7 +105,7 @@ async def run(query: str) -> str:
 
                 goal = obs.next_unfinished()
                 if goal is None:
-                    print(f"\n[done] no unfinished goal — stopping")
+                    print("\n[done] no unfinished goal — stopping")
                     break
 
                 # Perception decided whether to attach an artifact.
@@ -119,13 +119,17 @@ async def run(query: str) -> str:
                 out = decision.next_step(goal, hits, attached, history, tools_for_decision)
 
                 if out.is_answer:
-                    print(f"[decision]      ANSWER: {out.answer[:200]}{'...' if len(out.answer) > 200 else ''}")
-                    history.append({
-                        "iter": it,
-                        "kind": "answer",
-                        "goal_id": goal.id,
-                        "text": out.answer,
-                    })
+                    truncated = out.answer[:200]
+                    ellipsis = "..." if len(out.answer) > 200 else ""
+                    print(f"[decision]      ANSWER: {truncated}{ellipsis}")
+                    history.append(
+                        {
+                            "iter": it,
+                            "kind": "answer",
+                            "goal_id": goal.id,
+                            "text": out.answer,
+                        }
+                    )
                     final_answer = out.answer
                     continue
 
@@ -134,8 +138,10 @@ async def run(query: str) -> str:
                 print(f"[decision]      TOOL_CALL: {tc.name}({json.dumps(tc.arguments)[:120]})")
                 result_text, art_id = await action.execute(session, tc)
                 preview = result_text[:200].replace("\n", " ")
-                print(f"[action]        → {preview}{'...' if len(result_text) > 200 else ''}"
-                      + (f"   +{art_id}" if art_id else ""))
+                print(
+                    f"[action]        → {preview}{'...' if len(result_text) > 200 else ''}"
+                    + (f"   +{art_id}" if art_id else "")
+                )
 
                 # 5. MEMORY WRITE (zero-LLM for tool outcomes)
                 memory.record_outcome(
@@ -145,15 +151,17 @@ async def run(query: str) -> str:
                     run_id=run_id,
                     goal_id=goal.id,
                 )
-                history.append({
-                    "iter": it,
-                    "kind": "action",
-                    "goal_id": goal.id,
-                    "tool": tc.name,
-                    "arguments": tc.arguments,
-                    "result_descriptor": result_text[:300],
-                    "artifact_id": art_id,
-                })
+                history.append(
+                    {
+                        "iter": it,
+                        "kind": "action",
+                        "goal_id": goal.id,
+                        "tool": tc.name,
+                        "arguments": tc.arguments,
+                        "result_descriptor": result_text[:300],
+                        "artifact_id": art_id,
+                    }
+                )
 
     print(f"\n{'═' * 78}")
     print(f"FINAL: {final_answer}")
@@ -162,7 +170,9 @@ async def run(query: str) -> str:
 
 
 def main() -> None:
-    query = " ".join(sys.argv[1:]) or "What is the current time in Asia/Tokyo and Asia/Kolkata? Tell me the difference in hours."
+    query = " ".join(sys.argv[1:]) or (
+        "What is the current time in Asia/Tokyo and Asia/Kolkata? Tell me the difference in hours."
+    )
     asyncio.run(run(query))
 
 

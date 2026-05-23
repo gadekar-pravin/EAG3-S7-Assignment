@@ -25,9 +25,7 @@ import numpy as np
 try:
     import faiss  # type: ignore[import-untyped]
 except ImportError as e:
-    raise SystemExit(
-        "faiss-cpu is required for S7. Run: uv add faiss-cpu"
-    ) from e
+    raise SystemExit("faiss-cpu is required for S7. Run: uv add faiss-cpu") from e
 
 
 def _l2_normalize(vec: np.ndarray) -> np.ndarray:

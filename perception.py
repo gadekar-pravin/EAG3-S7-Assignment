@@ -60,7 +60,7 @@ SYSTEM = (
     "Procedure:\n"
     "1. If PRIOR GOALS is empty, decompose the query into one or more short\n"
     "   imperative goals (one per distinct part). If the query asks to\n"
-    "   read/fetch/process N items (\"top 3 results\", \"first 5 articles\"),\n"
+    '   read/fetch/process N items ("top 3 results", "first 5 articles"),\n'
     "   emit a SEPARATE fetch goal for each item plus the final\n"
     "   synthesis goal — NOT a single umbrella goal.\n"
     "   If the query asks to ingest N files so they can be searched\n"
@@ -134,13 +134,15 @@ def _snapshot_hits(hits: list[MemoryItem]) -> list[dict]:
         if h.artifact_id:
             i = art_pos
             art_pos += 1
-        out.append({
-            "i": i,
-            "kind": h.kind,
-            "descriptor": h.descriptor,
-            "keywords": h.keywords,
-            "artifact_id": h.artifact_id,
-        })
+        out.append(
+            {
+                "i": i,
+                "kind": h.kind,
+                "descriptor": h.descriptor,
+                "keywords": h.keywords,
+                "artifact_id": h.artifact_id,
+            }
+        )
     return out
 
 
@@ -190,10 +192,30 @@ def observe(
     # substantive answer; we won't let Perception declare them done on the
     # strength of a tool-call alone.
     SYNTHESIS_KW = (
-        "evaluate", "select", "synthes", "compare", "decide", "recommend",
-        "tell me which", "most appropriate", "analy", "pick", "choose",
-        "summarise", "summarize", "answer", "identify", "find", "determine",
-        "extract", "list", "report", "tell", "explain", "describe", "name",
+        "evaluate",
+        "select",
+        "synthes",
+        "compare",
+        "decide",
+        "recommend",
+        "tell me which",
+        "most appropriate",
+        "analy",
+        "pick",
+        "choose",
+        "summarise",
+        "summarize",
+        "answer",
+        "identify",
+        "find",
+        "determine",
+        "extract",
+        "list",
+        "report",
+        "tell",
+        "explain",
+        "describe",
+        "name",
     )
 
     # Goal-count invariant: never contract, never reorder. Prior goals keep
@@ -208,8 +230,8 @@ def observe(
     raw_goals = parsed["goals"]
     if prior_goals:
         prior_texts = {g.text.strip().lower() for g in prior_goals}
-        deduped = list(raw_goals[:len(prior_goals)])
-        for extra in raw_goals[len(prior_goals):]:
+        deduped = list(raw_goals[: len(prior_goals)])
+        for extra in raw_goals[len(prior_goals) :]:
             t = (extra.get("text") or "").strip().lower()
             if not t or t in prior_texts:
                 continue
@@ -235,18 +257,20 @@ def observe(
                 has_answer = any(
                     h.get("kind") == "answer"
                     and h.get("goal_id") == gid
-                    and len((h.get("text") or "")) > 60
+                    and len(h.get("text") or "") > 60
                     for h in history
                 )
                 if not has_answer:
                     proposed_done = False
 
-        out_goals.append(Goal(
-            id=gid,
-            text=delta.text,
-            done=proposed_done,
-            attach_artifact_id=attach,
-        ))
+        out_goals.append(
+            Goal(
+                id=gid,
+                text=delta.text,
+                done=proposed_done,
+                attach_artifact_id=attach,
+            )
+        )
 
     # Safety net: if the first unfinished goal needs raw bytes (its text
     # matches a synthesis keyword) AND we have artifacts in memory AND the

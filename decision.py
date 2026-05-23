@@ -40,8 +40,8 @@ SYSTEM = (
     "  list_dir, fetch_url, or ANY other tool. If a goal needs the bytes of\n"
     "  an artifact, those bytes will already appear in the ATTACHED\n"
     "  ARTIFACTS section of your input — answer directly from that text.\n"
-    "  WRONG:  read_file({\"path\": \"art:abc1234\"})\n"
-    "  WRONG:  fetch_url({\"url\": \"art:abc1234\"})\n"
+    '  WRONG:  read_file({"path": "art:abc1234"})\n'
+    '  WRONG:  fetch_url({"url": "art:abc1234"})\n'
     "  RIGHT:  read the bytes already in ATTACHED ARTIFACTS and answer.\n"
     "- read_file and list_dir operate on the local sandbox/ directory, not\n"
     "  artifacts. Only call them when the user has asked you to read/list a\n"
@@ -106,7 +106,8 @@ def _format_hits(hits: list[MemoryItem]) -> str:
                 line += f"\n      chunk ({src}): {preview}{more}"
             else:
                 compact = {
-                    k: v for k, v in val.items()
+                    k: v
+                    for k, v in val.items()
                     if k != "chunk" and not (isinstance(v, str) and len(v) > 200)
                 }
                 if compact:

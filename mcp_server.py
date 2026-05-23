@@ -23,6 +23,10 @@ from __future__ import annotations
 
 import json
 import os
+
+# Same-directory imports for the Memory and Artifact services so that the
+# new index_document / search_knowledge tools can delegate into them.
+import sys
 import threading
 from datetime import datetime
 from pathlib import Path
@@ -33,9 +37,6 @@ from ddgs import DDGS
 from dotenv import load_dotenv
 from mcp.server.fastmcp import FastMCP
 
-# Same-directory imports for the Memory and Artifact services so that the
-# new index_document / search_knowledge tools can delegate into them.
-import sys
 sys.path.insert(0, str(Path(__file__).parent))
 import artifacts as _artifacts  # noqa: E402
 import memory as _memory  # noqa: E402
@@ -173,7 +174,11 @@ async def _crawl4ai_fetch(url: str) -> dict:
 
 @mcp.tool()
 def web_search(query: str, max_results: int = 5) -> list[dict]:
-    """Search the web (Tavily primary, DDG fallback). Hard-capped at 5 results. Example: web_search("python asyncio tutorial", 3)."""
+    """Search the web (Tavily primary, DDG fallback).
+
+    Hard-capped at 5 results.
+    Example: web_search("python asyncio tutorial", 3).
+    """
     max_results = max(1, min(max_results, MAX_SEARCH_RESULTS))
     if os.environ.get("TAVILY_API_KEY") and _under_cap("tavily"):
         try:
@@ -211,7 +216,10 @@ def get_time(timezone: str = "UTC") -> dict:
 
 @mcp.tool()
 def currency_convert(amount: float, from_currency: str, to_currency: str) -> dict:
-    """Convert money between ISO-3 currencies via frankfurter.dev. Example: currency_convert(100, "USD", "INR")."""
+    """Convert money between ISO-3 currencies via frankfurter.dev.
+
+    Example: currency_convert(100, "USD", "INR").
+    """
     f = from_currency.upper()
     t = to_currency.upper()
     url = f"https://api.frankfurter.dev/v1/latest?amount={amount}&base={f}&symbols={t}"
@@ -258,18 +266,23 @@ def list_dir(path: str = ".") -> dict:
     names: list[str] = []
     for child in sorted(p.iterdir()):
         is_dir = child.is_dir()
-        entries.append({
-            "name": child.name,
-            "type": "dir" if is_dir else "file",
-            "size_bytes": 0 if is_dir else child.stat().st_size,
-        })
+        entries.append(
+            {
+                "name": child.name,
+                "type": "dir" if is_dir else "file",
+                "size_bytes": 0 if is_dir else child.stat().st_size,
+            }
+        )
         names.append(child.name)
     return {"path": path, "count": len(entries), "names": names, "entries": entries}
 
 
 @mcp.tool()
 def create_file(path: str, content: str) -> dict:
-    """Create a new file in the sandbox; errors if it exists. Example: create_file("hello.txt", "hi")."""
+    """Create a new file in the sandbox; errors if it exists.
+
+    Example: create_file("hello.txt", "hi").
+    """
     p = _safe(path)
     if p.exists():
         raise ValueError(f"File '{path}' already exists")
@@ -298,9 +311,7 @@ def edit_file(path: str, find: str, replace: str, replace_all: bool = False) -> 
     if count == 0:
         raise ValueError(f"'{find}' not found in '{path}'")
     if count > 1 and not replace_all:
-        raise ValueError(
-            f"'{find}' occurs {count} times in '{path}'; pass replace_all=True"
-        )
+        raise ValueError(f"'{find}' occurs {count} times in '{path}'; pass replace_all=True")
     new_text = text.replace(find, replace) if replace_all else text.replace(find, replace, 1)
     p.write_text(new_text, encoding="utf-8")
     replacements = count if replace_all else 1
@@ -313,6 +324,7 @@ def edit_file(path: str, find: str, replace: str, replace_all: bool = False) -> 
 
 
 # ── document indexing (Session 7) ───────────────────────────────────────────
+
 
 def _read_for_index(path: str) -> tuple[str, str]:
     """Return (content, source_label) for an indexable file or artifact."""
@@ -332,7 +344,7 @@ def _chunk_text(text: str, size: int = 400, overlap: int = 80) -> list[str]:
     stride = max(1, size - overlap)
     i = 0
     while i < len(words):
-        chunks.append(" ".join(words[i:i + size]))
+        chunks.append(" ".join(words[i : i + size]))
         if i + size >= len(words):
             break
         i += stride
@@ -341,7 +353,14 @@ def _chunk_text(text: str, size: int = 400, overlap: int = 80) -> list[str]:
 
 @mcp.tool()
 def index_document(path: str, chunk_size: int = 400, overlap: int = 80) -> dict:
-    """Chunk a sandbox file or artifact and write each chunk into Memory as a searchable `fact`. Use this when the content must remain retrievable across later turns or runs (an indexing step before later vector queries). For one-shot inspection of a known file's contents in this turn, prefer `read_file` instead. Example: index_document("notes/spec.md")."""
+    """Chunk a sandbox file or artifact and write each chunk into Memory.
+
+    Each chunk is stored as a searchable `fact`. Use this when the content
+    must remain retrievable across later turns or runs (an indexing step
+    before later vector queries). For one-shot inspection of a known file's
+    contents in this turn, prefer `read_file` instead.
+    Example: index_document("notes/spec.md").
+    """
     text, source = _read_for_index(path)
     if not text.strip():
         return {"path": path, "source": source, "chunks_indexed": 0, "warning": "empty content"}
@@ -350,7 +369,7 @@ def index_document(path: str, chunk_size: int = 400, overlap: int = 80) -> dict:
     indexed = 0
     for i, chunk in enumerate(chunks):
         preview = chunk[:120].replace("\n", " ")
-        descriptor = f"[{source} chunk {i+1}/{len(chunks)}] {preview}"
+        descriptor = f"[{source} chunk {i + 1}/{len(chunks)}] {preview}"
         _memory.add_fact(
             descriptor=descriptor,
             value={
@@ -374,7 +393,13 @@ def index_document(path: str, chunk_size: int = 400, overlap: int = 80) -> dict:
 
 @mcp.tool()
 def search_knowledge(query: str, k: int = 5) -> list[dict]:
-    """Vector search over indexed `fact` chunks. Returns up to k ranked chunks with provenance. Call this rather than re-fetching URLs or re-reading source files whenever Memory already contains indexed chunks for the topic — that is the whole point of having indexed the corpus. Example: search_knowledge("authentication flow", 5)."""
+    """Vector search over indexed `fact` chunks.
+
+    Returns up to k ranked chunks with provenance. Call this rather than
+    re-fetching URLs or re-reading source files whenever Memory already
+    contains indexed chunks for the topic.
+    Example: search_knowledge("authentication flow", 5).
+    """
     items = _memory.read(query, kinds=["fact"], top_k=k)
     return [
         {

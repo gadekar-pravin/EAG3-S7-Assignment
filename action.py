@@ -67,7 +67,9 @@ async def execute(
             text.encode("utf-8"),
             content_type="text/plain",
             source=f"mcp:{tool_call.name}",
-            descriptor=f"{tool_call.name}({json.dumps(tool_call.arguments)[:80]}) → {nbytes} bytes",
+            descriptor=(
+                f"{tool_call.name}({json.dumps(tool_call.arguments)[:80]}) → {nbytes} bytes"
+            ),
         )
         descriptor = (
             f"[artifact {art_id}, {nbytes} bytes] preview: "

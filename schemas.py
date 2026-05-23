@@ -36,10 +36,10 @@ class MemoryItem(BaseModel):
     id: str
     kind: MemoryKind
     keywords: list[str] = Field(default_factory=list)
-    descriptor: str                              # one short human-readable line
-    value: dict = Field(default_factory=dict)    # structured payload
+    descriptor: str  # one short human-readable line
+    value: dict = Field(default_factory=dict)  # structured payload
     artifact_id: str | None = None
-    embedding: list[float] | None = None         # set by Memory at write time
+    embedding: list[float] | None = None  # set by Memory at write time
     source: str
     run_id: str
     goal_id: str | None = None
@@ -48,6 +48,7 @@ class MemoryItem(BaseModel):
 
 
 # ── Artifacts ───────────────────────────────────────────────────────────────
+
 
 class Artifact(BaseModel):
     id: str
@@ -60,11 +61,13 @@ class Artifact(BaseModel):
 
 # ── Goals & Observations ────────────────────────────────────────────────────
 
+
 class Goal(BaseModel):
     id: str
     text: str
     done: bool = False
-    attach_artifact_id: str | None = None        # Perception sets this when the goal needs raw bytes
+    # Perception sets this when the goal needs raw bytes
+    attach_artifact_id: str | None = None
 
 
 class Observation(BaseModel):
@@ -79,6 +82,7 @@ class Observation(BaseModel):
 
 
 # ── Decision output ─────────────────────────────────────────────────────────
+
 
 class ToolCall(BaseModel):
     name: str

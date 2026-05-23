@@ -28,7 +28,8 @@ from pathlib import Path
 
 from pydantic import BaseModel, Field
 
-from gateway import LLM, embed as _gateway_embed, ensure_gateway
+from gateway import LLM, ensure_gateway
+from gateway import embed as _gateway_embed
 from schemas import MemoryItem, ToolCall, new_id
 from vector_index import VectorIndex
 
@@ -42,6 +43,7 @@ _EMBEDDABLE_KINDS = {"fact", "preference", "tool_outcome"}
 
 # ── persistence ─────────────────────────────────────────────────────────────
 
+
 def _load() -> list[MemoryItem]:
     if not STATE_PATH.exists():
         return []
@@ -50,12 +52,11 @@ def _load() -> list[MemoryItem]:
 
 
 def _save(items: list[MemoryItem]) -> None:
-    STATE_PATH.write_text(
-        json.dumps([i.model_dump(mode="json") for i in items], indent=2)
-    )
+    STATE_PATH.write_text(json.dumps([i.model_dump(mode="json") for i in items], indent=2))
 
 
 # ── vector index ────────────────────────────────────────────────────────────
+
 
 def _index() -> VectorIndex:
     """Return a freshly-loaded FAISS index every call.
@@ -90,17 +91,44 @@ def _try_embed(text: str, task_type: str) -> list[float] | None:
 # ── keyword search (Session 6 path, used as fallback) ───────────────────────
 
 _STOPWORDS = {
-    "the", "is", "a", "an", "of", "to", "and", "or", "in", "on", "for", "at",
-    "with", "by", "from", "what", "how", "when", "where", "why", "this", "that",
-    "it", "be", "as", "are", "was", "were", "i", "you", "me", "my", "your",
+    "the",
+    "is",
+    "a",
+    "an",
+    "of",
+    "to",
+    "and",
+    "or",
+    "in",
+    "on",
+    "for",
+    "at",
+    "with",
+    "by",
+    "from",
+    "what",
+    "how",
+    "when",
+    "where",
+    "why",
+    "this",
+    "that",
+    "it",
+    "be",
+    "as",
+    "are",
+    "was",
+    "were",
+    "i",
+    "you",
+    "me",
+    "my",
+    "your",
 }
 
 
 def _tokens(text: str) -> set[str]:
-    return {
-        w for w in re.findall(r"\w+", text.lower())
-        if w not in _STOPWORDS and len(w) > 2
-    }
+    return {w for w in re.findall(r"\w+", text.lower()) if w not in _STOPWORDS and len(w) > 2}
 
 
 def _keyword_search(
@@ -128,6 +156,7 @@ def _keyword_search(
 
 
 # ── vector search (the new S7 path) ─────────────────────────────────────────
+
 
 def _vector_search(
     query: str,
@@ -174,6 +203,7 @@ def read(
 
 # ── writes ──────────────────────────────────────────────────────────────────
 
+
 class _Classification(BaseModel):
     """What the LLM classifier returns for an ambiguous free-form write."""
 
@@ -197,7 +227,11 @@ def _persist_item(item: MemoryItem) -> MemoryItem:
 
 
 def _fallback_remember(
-    raw_text: str, *, source: str, run_id: str, goal_id: str | None,
+    raw_text: str,
+    *,
+    source: str,
+    run_id: str,
+    goal_id: str | None,
 ) -> MemoryItem:
     """Deterministic write when the classifier LLM is unavailable.
     Keyword extraction is naive (top word tokens); kind defaults to fact.
@@ -247,12 +281,14 @@ def remember(
     parsed_value = parsed.get("value")
     if not parsed_value:
         parsed_value = {"raw": raw_text}
-    c = _Classification.model_validate({
-        "kind": parsed.get("kind", "fact"),
-        "descriptor": parsed.get("descriptor", raw_text[:120]),
-        "keywords": parsed.get("keywords") or list(_tokens(raw_text))[:10],
-        "value": parsed_value,
-    })
+    c = _Classification.model_validate(
+        {
+            "kind": parsed.get("kind", "fact"),
+            "descriptor": parsed.get("descriptor", raw_text[:120]),
+            "keywords": parsed.get("keywords") or list(_tokens(raw_text))[:10],
+            "value": parsed_value,
+        }
+    )
 
     embedding: list[float] | None = None
     if c.kind in _EMBEDDABLE_KINDS:
@@ -289,7 +325,7 @@ def _llm_classify(raw_text: str, schema: dict) -> dict:
             "- value: a dict with structured fields (entities, dates,\n"
             "  attributes). MUST NOT be empty when the content has any\n"
             "  identifiable entity — if you cannot classify a specific\n"
-            "  attribute, include {\"raw\": <the original content>}."
+            '  attribute, include {"raw": <the original content>}.'
         ),
         auto_route="memory",
         provider="g",
