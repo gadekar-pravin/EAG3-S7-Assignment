@@ -28,6 +28,7 @@ out/
 
 # data files
 *.json
+!rag_queries.json
 *.faiss
 
 # copied corpus files (source: ../rag-corpus/)

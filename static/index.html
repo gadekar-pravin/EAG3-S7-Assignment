@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Court Opinion RAG</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar">
+        <div>
+          <p class="eyebrow">Localhost legal retrieval</p>
+          <h1>Court Opinion RAG</h1>
+        </div>
+        <div class="status" id="status">Checking index...</div>
+      </section>
+
+      <section class="workspace">
+        <aside class="query-bank">
+          <div class="panel-heading">
+            <h2>Evaluation Queries</h2>
+            <button id="buildIndex" type="button">Build Index</button>
+          </div>
+          <div id="samples" class="samples"></div>
+        </aside>
+
+        <section class="search-panel">
+          <label for="query">Question</label>
+          <textarea id="query" rows="4" spellcheck="true"></textarea>
+          <div class="actions">
+            <button id="askWithIndex" type="button">Ask With Index</button>
+            <button id="askWithoutIndex" type="button" class="secondary">Ask Without Index</button>
+            <button id="compare" type="button" class="ghost">Compare</button>
+          </div>
+
+          <div class="answers">
+            <article class="answer-card">
+              <div class="answer-head">
+                <span>Indexed</span>
+                <strong id="indexedState">Idle</strong>
+              </div>
+              <div id="indexedAnswer" class="answer"></div>
+            </article>
+            <article class="answer-card muted">
+              <div class="answer-head">
+                <span>No Index</span>
+                <strong id="plainState">Idle</strong>
+              </div>
+              <div id="plainAnswer" class="answer"></div>
+            </article>
+          </div>
+        </section>
+      </section>
+
+      <section class="evidence">
+        <div class="panel-heading">
+          <h2>Sources</h2>
+          <span id="sourceCount">0 cited</span>
+        </div>
+        <div id="sources" class="sources"></div>
+        <div id="chunks" class="chunks"></div>
+      </section>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

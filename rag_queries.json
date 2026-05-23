@@ -1,0 +1,58 @@
+{
+  "queries": [
+    {
+      "id": "semantic-transferred-intent",
+      "query": "What did the court say about the bad-aim rule for an unfinished homicide charge?",
+      "semantic_recall": true,
+      "expected_sources": ["cl_10319961.txt"],
+      "answer_anchors": [
+        "transferred intent does not apply to attempted murder",
+        "specific intent to kill"
+      ]
+    },
+    {
+      "id": "semantic-workers-comp-ptsd",
+      "query": "Did the cash-store holdup psychological trauma claim qualify for benefits?",
+      "semantic_recall": true,
+      "expected_sources": ["cl_5148470.txt"],
+      "answer_anchors": [
+        "armed robbery",
+        "not an abnormal working condition",
+        "denied"
+      ]
+    },
+    {
+      "id": "late-new-trial-motion",
+      "query": "Which Tennessee appeal was dismissed because the motion for new trial was filed too late?",
+      "semantic_recall": false,
+      "expected_sources": ["cl_9451047.txt"],
+      "answer_anchors": [
+        "Robert Leroy Littleton",
+        "motion for new trial was untimely",
+        "appeal is dismissed"
+      ]
+    },
+    {
+      "id": "wrongful-conviction-own-conduct",
+      "query": "Who was denied wrongful-conviction compensation because his own shooting conduct caused the conviction?",
+      "semantic_recall": false,
+      "expected_sources": ["cl_9497292.txt"],
+      "answer_anchors": [
+        "William P. Spangler",
+        "own conduct caused or brought about the conviction",
+        "compensation"
+      ]
+    },
+    {
+      "id": "reckless-homicide-argument",
+      "query": "Which defendant argued the jury should have picked reckless homicide instead of second-degree murder?",
+      "semantic_recall": false,
+      "expected_sources": ["cl_10041729.txt"],
+      "answer_anchors": [
+        "Francisco Oliva",
+        "reckless homicide",
+        "second degree murder"
+      ]
+    }
+  ]
+}

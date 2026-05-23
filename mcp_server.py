@@ -27,10 +27,10 @@ import os
 # Same-directory imports for the Memory and Artifact services so that the
 # new index_document / search_knowledge tools can delegate into them.
 import sys
-from typing import Any
 import threading
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 from zoneinfo import ZoneInfo
 
 import httpx

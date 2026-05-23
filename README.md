@@ -81,6 +81,24 @@ uv run agent7.py "What is the current time in Asia/Tokyo and Asia/Kolkata?"
 
 If no query is provided, the agent uses a default query about time differences between Tokyo and Kolkata.
 
+## Local Court-Opinion RAG App
+
+The Session 7 assignment UI is a standalone localhost app over `sandbox/court_opinions`.
+It reuses LLM Gateway V7 for embeddings and answer generation, but keeps the
+four-layer agent loop unchanged.
+
+```bash
+# Start the gateway first in another terminal
+cd ../llm_gatewayV7 && uv run main.py
+
+# Then run the RAG UI from this repo
+uv run python rag_app.py --port 8117
+```
+
+Open `http://127.0.0.1:8117`, click **Build Index**, and try the five sample
+queries from `rag_queries.json`. The **Ask Without Index** path intentionally
+returns no grounded answer so the indexed-vs-unindexed behavior is visible.
+
 ## Testing
 
 ```bash
