@@ -27,6 +27,7 @@ import os
 # Same-directory imports for the Memory and Artifact services so that the
 # new index_document / search_knowledge tools can delegate into them.
 import sys
+from typing import Any
 import threading
 from datetime import datetime
 from pathlib import Path
@@ -147,7 +148,7 @@ async def _crawl4ai_fetch(url: str) -> dict:
     os.dup2(2, 1)
     try:
         async with AsyncWebCrawler(verbose=False) as crawler:
-            r = await crawler.arun(url=url)
+            r: Any = await crawler.arun(url=url)
     finally:
         os.dup2(saved_fd, 1)
         os.close(saved_fd)

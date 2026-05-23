@@ -6,6 +6,7 @@ import json
 import shutil
 import sys
 from pathlib import Path
+from typing import Any
 
 import pytest
 import pytest_asyncio
@@ -17,7 +18,7 @@ SERVER = HERE / "mcp_server.py"
 SANDBOX = HERE / "sandbox"
 
 
-def _result(res) -> object:
+def _result(res) -> Any:
     """Extract a structured payload from a CallToolResult."""
     if getattr(res, "structuredContent", None) is not None:
         sc = res.structuredContent

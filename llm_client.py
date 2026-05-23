@@ -21,12 +21,12 @@ class LLM:
 
     def chat(
         self,
-        prompt: str = None,
+        prompt: str | None = None,
         *,
         messages: list | None = None,
         system: Any = None,
-        provider: str = None,
-        model: str = None,
+        provider: str | None = None,
+        model: str | None = None,
         max_tokens: int = 2048,
         temperature: float = 0.7,
         tools: list | None = None,
@@ -59,12 +59,12 @@ class LLM:
 
     def stream(
         self,
-        prompt: str = None,
+        prompt: str | None = None,
         *,
         messages=None,
         system=None,
-        provider: str = None,
-        model: str = None,
+        provider: str | None = None,
+        model: str | None = None,
         max_tokens: int = 2048,
         temperature: float = 0.7,
         tools=None,
@@ -116,7 +116,7 @@ class LLM:
         return r.json()
 
 
-def ask(prompt: str, provider: str = None, **kw) -> str:
+def ask(prompt: str, provider: str | None = None, **kw) -> str:
     return LLM().chat(prompt, provider=provider, **kw)["text"]
 
 

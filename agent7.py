@@ -119,7 +119,7 @@ async def run(query: str) -> str:
                 # 3. DECISION
                 out = decision.next_step(goal, hits, attached, history, tools_for_decision)
 
-                if out.is_answer:
+                if out.answer is not None:
                     truncated = out.answer[:200]
                     ellipsis = "..." if len(out.answer) > 200 else ""
                     print(f"[decision]      ANSWER: {truncated}{ellipsis}")
@@ -131,11 +131,12 @@ async def run(query: str) -> str:
                             "text": out.answer,
                         }
                     )
-                    final_answer = out.answer
+                    final_answer = out.answer or ""
                     continue
 
                 # 4. ACTION
                 tc = out.tool_call
+                assert tc is not None
                 print(f"[decision]      TOOL_CALL: {tc.name}({json.dumps(tc.arguments)[:120]})")
                 result_text, art_id = await action.execute(session, tc)
                 preview = result_text[:200].replace("\n", " ")

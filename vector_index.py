@@ -59,9 +59,10 @@ class VectorIndex:
 
     def _load(self) -> None:
         if self.index_path.exists() and self.ids_path.exists():
-            self._index = faiss.read_index(str(self.index_path))
+            idx = faiss.read_index(str(self.index_path))
+            self._index = idx
             self._ids = json.loads(self.ids_path.read_text())
-            self._dim = self._index.d
+            self._dim = idx.d
 
     def persist(self) -> None:
         if self._index is None:
@@ -90,7 +91,8 @@ class VectorIndex:
                 f"Embedding dim {vec.shape[0]} does not match index dim {self._dim}. "
                 "The embedding model must stay fixed for the lifetime of an index."
             )
-        self._index.add(vec.reshape(1, -1))
+        assert self._index is not None
+        self._index.add(vec.reshape(1, -1))  # type: ignore[reportCallIssue]
         self._ids.append(item_id)
 
     # ── query ──────────────────────────────────────────────────────────────
@@ -99,8 +101,9 @@ class VectorIndex:
         """Return up to k `(item_id, similarity)` pairs, ranked by similarity."""
         if self._index is None or self._index.ntotal == 0:
             return []
+        idx = self._index
         vec = _l2_normalize(np.array(query_embedding, dtype=np.float32))
-        scores, idxs = self._index.search(vec.reshape(1, -1), min(k, self._index.ntotal))
+        scores, idxs = idx.search(vec.reshape(1, -1), min(k, idx.ntotal))  # type: ignore[reportCallIssue]
         out: list[tuple[str, float]] = []
         for score, idx in zip(scores[0].tolist(), idxs[0].tolist()):
             if idx < 0:
