@@ -1,57 +1,69 @@
 {
   "queries": [
     {
-      "id": "semantic-transferred-intent",
-      "query": "What did the court say about the bad-aim rule for an unfinished homicide charge?",
-      "semantic_recall": true,
-      "expected_sources": ["cl_10319961.txt"],
-      "answer_anchors": [
-        "transferred intent does not apply to attempted murder",
-        "specific intent to kill"
-      ]
-    },
-    {
       "id": "semantic-workers-comp-ptsd",
       "query": "Did the cash-store holdup psychological trauma claim qualify for benefits?",
       "semantic_recall": true,
       "expected_sources": ["cl_5148470.txt"],
       "answer_anchors": [
         "armed robbery",
-        "not an abnormal working condition",
+        "abnormal working condition",
         "denied"
       ]
     },
     {
-      "id": "late-new-trial-motion",
-      "query": "Which Tennessee appeal was dismissed because the motion for new trial was filed too late?",
-      "semantic_recall": false,
-      "expected_sources": ["cl_9451047.txt"],
+      "id": "semantic-juror-names-disclosure",
+      "query": "After a trial with an indecisive jury, can the news media obtain the names of panel members, or can the judge hide them?",
+      "semantic_recall": true,
+      "expected_sources": ["cl_10315589.txt"],
       "answer_anchors": [
-        "Robert Leroy Littleton",
-        "motion for new trial was untimely",
-        "appeal is dismissed"
+        "First Amendment",
+        "temporary closure order",
+        "collateral order"
       ]
     },
     {
-      "id": "wrongful-conviction-own-conduct",
-      "query": "Who was denied wrongful-conviction compensation because his own shooting conduct caused the conviction?",
-      "semantic_recall": false,
-      "expected_sources": ["cl_9497292.txt"],
+      "id": "semantic-juvenile-life-resentencing",
+      "query": "When a teenager gets life without parole, then decades later landmark appellate rulings change sentencing rules for minors, can courts reconsider the punishment?",
+      "semantic_recall": true,
+      "expected_sources": ["cl_10162554.txt"],
       "answer_anchors": [
-        "William P. Spangler",
-        "own conduct caused or brought about the conviction",
-        "compensation"
+        "Miller v. Alabama",
+        "Montgomery v. Louisiana",
+        "resentencing hearing"
       ]
     },
     {
-      "id": "reckless-homicide-argument",
-      "query": "Which defendant argued the jury should have picked reckless homicide instead of second-degree murder?",
+      "id": "direct-seized-cash-return",
+      "query": "In State v. Stewart, what was the specific amount of cash seized by the Xenia Police Division that Stewart requested be returned?",
       "semantic_recall": false,
-      "expected_sources": ["cl_10041729.txt"],
+      "expected_sources": ["cl_10015061.txt"],
       "answer_anchors": [
-        "Francisco Oliva",
-        "reckless homicide",
-        "second degree murder"
+        "$1,779.17",
+        "Xenia Police Division",
+        "seized in August 2021"
+      ]
+    },
+    {
+      "id": "direct-autopsy-cause-of-death",
+      "query": "What did the autopsy report list as the cause of death in the Reynolds heroin case?",
+      "semantic_recall": false,
+      "expected_sources": ["cl_10160603.txt"],
+      "answer_anchors": [
+        "heroin intoxication",
+        "accident",
+        "autopsy report"
+      ]
+    },
+    {
+      "id": "direct-body-shop-distance",
+      "query": "In the Brian Shannon, Jr. shooting case, what business did the defendant own near the victim's residence, and how far was it from the Shannon house?",
+      "semantic_recall": false,
+      "expected_sources": ["cl_10289634.txt"],
+      "answer_anchors": [
+        "auto body shop",
+        "one tenth of a mile from the Shannon house",
+        "Trinity Lane"
       ]
     }
   ]
