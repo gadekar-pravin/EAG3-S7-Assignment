@@ -3,65 +3,97 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Court Opinion RAG</title>
+    <title>The Court Opinion Reporter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/static/styles.css">
   </head>
   <body>
     <main class="shell">
-      <section class="topbar">
-        <div>
-          <p class="eyebrow">Localhost legal retrieval</p>
-          <h1>Court Opinion RAG</h1>
-        </div>
-        <div class="status" id="status">Checking index...</div>
-      </section>
 
+      <!-- Masthead -->
+      <header class="masthead">
+        <div class="masthead-left">
+          <p class="eyebrow">Vol. 1 &middot; No. 1</p>
+          <h1>The Court Opinion Reporter</h1>
+          <p class="subtitle">An agentic reading of local opinions, retrieved and compared.</p>
+        </div>
+        <div class="status-pill" id="status">
+          <span class="status-dot" id="statusDot"></span>
+          <span id="statusText">Checking index&hellip;</span>
+        </div>
+      </header>
+
+      <!-- Workspace -->
       <section class="workspace">
+
+        <!-- Query Sidebar -->
         <aside class="query-bank">
           <div class="panel-heading">
-            <h2>Evaluation Queries</h2>
-            <button id="buildIndex" type="button">Build Index</button>
+            <h2>Queries <span class="query-count" id="queryCount">0</span></h2>
           </div>
           <div id="samples" class="samples"></div>
+          <div class="sidebar-footer">
+            <button id="buildIndex" type="button" class="btn btn-outline btn-sm">Build Index</button>
+          </div>
         </aside>
 
+        <!-- Search Panel -->
         <section class="search-panel">
           <label for="query">Question</label>
-          <textarea id="query" rows="4" spellcheck="true"></textarea>
+          <textarea id="query" rows="4" spellcheck="true"
+                    placeholder="Type a legal question or select a sample query&hellip;"></textarea>
+          <p class="hint">Press <kbd>Enter</kbd> to submit &middot; <kbd>Shift+Enter</kbd> for new line</p>
+
           <div class="actions">
-            <button id="askWithIndex" type="button">Ask With Index</button>
-            <button id="askWithoutIndex" type="button" class="secondary">Ask Without Index</button>
-            <button id="compare" type="button" class="ghost">Compare</button>
+            <button id="askWithIndex" type="button" class="btn btn-primary">&diams; Ask with Index</button>
+            <button id="askWithoutIndex" type="button" class="btn btn-outline">Ask without Index</button>
+            <button id="compare" type="button" class="btn btn-outline">&hArr; Compare</button>
           </div>
+          <p class="settings-line">k=5 &middot; RAG pipeline</p>
 
           <div class="answers">
-            <article class="answer-card">
+            <!-- Indexed answer card -->
+            <article class="answer-card" id="indexedCard">
               <div class="answer-head">
                 <span>Indexed</span>
-                <strong id="indexedState">Idle</strong>
+                <span class="answer-badge answer-badge--idle" id="indexedBadge">Idle</span>
               </div>
-              <div id="indexedAnswer" class="answer"></div>
+              <div class="answer-body">
+                <div id="indexedAnswer" class="answer"></div>
+              </div>
+              <div class="answer-footer" id="indexedFooter" style="display:none"></div>
             </article>
-            <article class="answer-card muted">
+
+            <!-- Plain answer card -->
+            <article class="answer-card" id="plainCard">
               <div class="answer-head">
                 <span>No Index</span>
-                <strong id="plainState">Idle</strong>
+                <span class="answer-badge answer-badge--idle" id="plainBadge">Idle</span>
               </div>
-              <div id="plainAnswer" class="answer"></div>
+              <div class="answer-body">
+                <div id="plainAnswer" class="answer"></div>
+              </div>
+              <div class="answer-footer" id="plainFooter" style="display:none"></div>
             </article>
           </div>
         </section>
       </section>
 
-      <section class="evidence">
+      <!-- Evidence -->
+      <section class="evidence" id="evidenceSection">
         <div class="panel-heading">
           <h2>Sources</h2>
-          <span id="sourceCount">0 cited</span>
+          <span id="sourceCount" class="query-count">0</span>
         </div>
         <div id="sources" class="sources"></div>
+        <h3 class="chunks-heading" id="chunksHeading">Retrieved Chunks</h3>
         <div id="chunks" class="chunks"></div>
       </section>
     </main>
+
+    <div id="toasts" class="toast-container" aria-live="polite"></div>
     <script src="/static/app.js"></script>
   </body>
 </html>
