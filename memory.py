@@ -52,6 +52,7 @@ def _load() -> list[MemoryItem]:
 
 
 def _save(items: list[MemoryItem]) -> None:
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
     STATE_PATH.write_text(json.dumps([i.model_dump(mode="json") for i in items], indent=2))
 
 
