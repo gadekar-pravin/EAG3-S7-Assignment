@@ -2,7 +2,7 @@
 set -uo pipefail
 
 # ── Prerequisites ──────────────────────────────────────────────────────
-GATEWAY_URL="http://localhost:8107/health"
+GATEWAY_URL="http://localhost:8107/v1/status"
 if ! curl -sf "$GATEWAY_URL" > /dev/null 2>&1; then
     echo "ERROR: LLM Gateway V7 is not reachable at $GATEWAY_URL"
     echo "Start it first:  cd ../llm_gatewayV7 && uv run python gateway.py"
@@ -50,7 +50,7 @@ run_test() {
     local t_start
     t_start=$(date +%s)
 
-    "$@" > "$WORK_DIR/${TOTAL}_output.txt" 2>&1
+    "$@" 2>&1 | tee "$WORK_DIR/${TOTAL}_output.txt"
     local rc=$?
 
     local t_end
@@ -79,7 +79,7 @@ run_test() {
     echo "$duration" > "$WORK_DIR/${TOTAL}_duration.txt"
 
     # HTML-escape output (& first, then < and >)
-    sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' \
+    LC_ALL=C sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' \
         "$WORK_DIR/${TOTAL}_output.txt" > "$WORK_DIR/${TOTAL}_escaped.txt"
 }
 
