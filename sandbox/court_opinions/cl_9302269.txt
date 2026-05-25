@@ -1,0 +1,262 @@
+=========================================================
+Case: State v. Nyquan T. Browen
+Court: Court of Appeals of South Carolina
+Date Filed: 2022-11-02
+Citations: 
+URL: https://www.courtlistener.com/opinion/9302269/state-v-nyquan-t-browen/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Nyquan Tykie Brown, Appellant.
+
+Appellate Case No. 2019-001548
+
+Appeal From Greenville County
+Edward W. Miller, Circuit Court Judge
+
+Opinion No. 5953
+Heard September 15, 2022 – Filed November 30, 2022
+
+AFFIRMED
+
+Appellate Defender Lara M. Caudy, of Columbia, for
+Appellant.
+
+Attorney General Alan McCrory Wilson, Deputy
+Attorney General Donald J. Zelenka, Senior Assistant
+Deputy Attorney General Melody J. Brown, and
+Assistant Attorney General Julianna E. Battenfield, all of
+Columbia; and Solicitor William Walter Wilkins, III, of
+Greenville, all for Respondent.
+
+HEWITT, J.: This is an appeal of a murder conviction. The sole issue is whether
+it was error for the circuit court to instruct the jury that it was permissible (but not
+required) for the jury to infer malice if the killing occurred during the commission
+of a felony.
+
+The charge was straight out of precedent, but a line of cases suggests it may be
+improper because it arguably emphasizes a particular fact in evidence—the
+commission of a felony. We do not reach that question; we do not hold the charge
+was improper. Instead, we hold that if it was error, the error was harmless. The only
+dispute at trial was identity, not malice. For that reason, we affirm.
+
+FACTS
+
+Nyquan Brown was indicted for murder, armed robbery, and possession of a weapon
+during the commission of a violent crime. Fred Anderson—the victim—was robbed,
+shot, and killed in his friend's apartment. Anderson was a known marijuana dealer.
+
+The basic facts were not disputed. Anderson was sitting in the apartment with one
+of the women who lived there. Two masked men entered through an unlocked door.
+They demanded Anderson give them his marijuana and money. Anderson gave the
+men a mason jar containing marijuana and the small amount of money in his pocket.
+The men demanded Anderson give them his wallet. Anderson said he did not carry
+a wallet.
+
+The intruders allowed the woman sitting with Anderson to go upstairs. She did so,
+but after that, she walked part of the way back down the stairs and remained in the
+stairwell. She heard commotion and tussling and heard Anderson say he would not
+fight the men because one of them had a gun. There were multiple gunshots after
+that. The investigation eventually revealed that someone shot Anderson four times
+and that two of the shots were likely fatal. There was also testimony of a delay
+between the third and fourth gunshots.
+
+No one gave a detailed description of the robbers. The woman who had been sitting
+with Anderson saw only one person with a gun before she went upstairs. She said
+this person was Black and unusually short. Surveillance footage revealed the men
+running into a nearby apartment after the shooting. Footage from before the crime
+showed someone coming out of that same apartment and pointing the men towards
+Anderson's apartment. An investigator identified that person as Jonathan
+Suber-Purry. After giving several inconsistent and false statements, Suber-Purry
+identified Brown as one of the men shown on the footage for the police. Phone
+records supported this identification.
+
+Police located and arrested Brown, and the case proceeded to trial. The circuit court
+gave the following instruction in its jury charge:
+
+Malice can be inferred if one kills another during the
+commission of a felony. Now, [if] the facts are proved
+beyond a reasonable doubt sufficient to raise an inference
+of malice to your satisfaction, this inference would be
+simply an evidentiary fact to be considered by you, along
+with all the other evidence in the case. And you give it the
+weight that you decide it should receive.
+
+A jury found Brown guilty as to all three indictments.
+
+ISSUE
+
+Was the implied malice instruction burden-shifting or a charge on the facts?
+
+STANDARD OF REVIEW
+
+"An appellate court will not reverse the trial court's decision regarding jury
+instructions unless the trial court abused its discretion." Clark v. Cantrell, 339 S.C.
+369, 389, 529 S.E.2d 528, 539 (2000). "When reviewing a jury charge for error, an
+appellate court considers the charge as a whole; the charge must be prejudicial to the
+appellant to warrant a new trial." State v. Stukes, 416 S.C. 493, 498, 787 S.E.2d 480,
+482 (2016).
+
+HARMLESS ERROR
+
+While we do not hold that the instruction was error, we think that if it was erroneous,
+the instruction was harmless.
+
+"Errors, including erroneous jury instructions, are subject to harmless error
+analysis." State v. Burdette, 427 S.C. 490, 496, 832 S.E.2d 575, 578 (2019) (quoting
+State v. Belcher, 385 S.C. 597, 611, 685 S.E.2d 802, 809 (2009), overruled on other
+grounds by Burdette, 427 S.C. at 504 n.3, 832 S.E.2d at 583 n.3). "In order to find
+the error harmless, we must determine beyond a reasonable doubt that the error
+complained of did not contribute to the verdict." State v. Kerr, 330 S.C. 132, 144-45,
+498 S.E.2d 212, 218 (Ct. App. 1998). "In making a harmless error analysis, our
+inquiry is not what the verdict would have been had the jury been given the correct
+charge, but whether the erroneous charge contributed to the verdict rendered." Id.
+at 145, 498 S.E.2d at 218.
+
+The core dispute in this case was identity—whether the State could prove beyond a
+reasonable doubt that Brown was the masked shooter. The evidence was somewhat
+limited, including only the description from Anderson's friend (she said the shooter
+was short and Black), Suber-Purry's identification of Brown, and phone records
+placing Brown's phone near the scene. The defense focused on discrediting
+Suber-Purry by highlighting his inconsistent and false statements to police. It also
+argued the State was blaming Brown for the crime because Brown happened to be
+short.
+
+The point is that nobody disputed the other aspects of this incident, including
+whether this killing was unprovoked and deliberate. Nobody disputed there had
+been an armed robbery. Nobody argued Anderson's killing lacked malice. While
+the State always bears the burden of proving all elements of a crime beyond a
+reasonable doubt, we are not persuaded that an instruction about drawing an
+inference of malice had any bearing on a case where the undisputed evidence is that
+an unarmed victim was shot multiple times after he expressly disclaimed any intent
+to defend himself.
+
+FELONY MURDER
+
+We need not go further to resolve this case, but as far as we can tell, this is the first
+case that has called on us to apply our supreme court's "elevating a fact" cases to
+felony murder.
+
+Jury charges that comment on the facts of a case are not allowed. See S.C. Const.
+art. V, § 21 ("Judges shall not charge juries in respect to matters of fact, but shall
+declare the law."). A jury instruction is a comment on the facts when it expresses
+the court's opinion of a case, thereby imposing the court's belief on the jury in a way
+likely to influence it. See Enlee v. Seaboard Air Line Ry., 110 S.C. 137, 146, 96 S.E.
+490, 492 (1918) ("The purpose of [prohibiting judges from charging on the facts] is
+to prevent the trial judge from intimating to the jury his opinion of the case what
+weight or credence should be given to the evidence and participating in any manner
+with the jury's finding of fact."); see also State v. Thorne, 237 S.C. 248, 251, 116
+S.E.2d 854, 855 (1960) ("Under our Constitution the jury is the exclusive judge of
+the facts, and the true meaning and real object is that the jury must be left to form its
+own judgment, unbiased by any expressions, or even intimations, of opinion by the
+Judge.").
+
+We do not think the charge here is a comment on the facts. The instruction does not
+imply the circuit court believed Brown committed armed robbery. It does not
+
+suggest the court was attempting to influence the jury to find malice in this particular
+way, nor did it encourage the jury to give evidence of the robbery any special weight.
+
+Recent precedent has directed circuit courts to refrain from giving instructions that
+guide juries on the inferences they can draw from evidence or that tells the jury to
+consider particular evidence and how to construe it. State v. Cheeks invalidated the
+instruction that knowledge of the presence of drugs is strong evidence of intent to
+control the disposition or use of drugs. 401 S.C. 322, 328-29, 737 S.E.2d 480, 484
+(2013). State v. Stukes invalidated the instruction that the accuser's testimony in a
+criminal sexual conduct case need not be corroborated. 416 S.C. 493, 499-500, 787
+S.E.2d 480, 483 (2016). Burdette held courts could no longer instruct juries that
+they may infer malice from the use of a deadly weapon. 427 S.C. at 501-04, 832
+S.E.2d at 582-83. This list goes on. See State v. Stewart, 433 S.C. 382, 391, 858
+S.E.2d 808, 813 (2021) (involving an instruction about knowledge or possession of
+drugs when drugs are found on property under the defendant's control); Pantovich v.
+State, 427 S.C. 555, 562, 832 S.E.2d 596, 600 (2019) (involving an instruction on
+good character alone).
+
+We understand these decisions as being driven by the desire to protect the jury's
+authority to weigh the evidence and draw inferences from the evidence. The lawyers
+are free in argument to suggest how the jury should think about the evidence and
+what conclusions they should draw, but the ultimate decision is the jury's to make.
+
+There is a good argument that this charge is meaningfully different from the ones
+listed above. Precedent tells us the key feature of felony murder is that the intent to
+commit the underlying felony substitutes for the malice element of murder. See
+Gore v. Leeke, 261 S.C. 308, 315, 199 S.E.2d 755, 757 (1973). One argument that
+this charge is different than the charges that have been recently invalidated is that
+felony murder under Gore does not involve the jury using the intent to commit a
+felony to infer the malice element of murder. In felony murder, "[t]he law" implies
+malice "from proof of the felony." Id.
+
+This view makes sense when considering the rationale of felony murder as aimed at
+deterring people from committing felonies that are inherently dangerous. As Iowa's
+highest court explained, felony murder is not a "shortcut" to finding malice. State v.
+Harrison, 914 N.W.2d 178, 193 (Iowa 2018). There, and (apparently) under Gore,
+malice is not an element of felony murder.
+
+Even so, we cannot say this approach to felony murder is the approach that clearly
+applies in South Carolina. We have Gore's instruction that the intent to commit a
+
+felony will make murder out of any killing during the felony, but we also have two
+burden-shifting cases that say the most the court can charge in a felony murder
+situation is that the jury may infer malice from the felony. Lowry v. State, 376 S.C.
+499, 506, 657 S.E.2d 760, 764 (2008); State v. Norris, 285 S.C. 86, 92, 328 S.E.2d
+339, 342 (1985), overruled by Belcher, 385 S.C. at 612 n.10, 685 S.E.2d at 810 n.10.
+These cases state the court cannot tell the jury that it must infer malice or that the
+law infers malice.
+
+We may be mistaken, but we were not able to read Gore together with Lowry and
+Norris and reach a clear conclusion about how felony murder applies in South
+Carolina and what (if anything) a circuit court should charge with respect to that
+doctrine. A charge from a case in another jurisdiction seemed to make made good
+sense under Gore. That charge said:
+
+The unlawful killing of a human being, whether
+intentional, unintentional or accidental, which occurs as a
+result of the commission or attempt to commit [the
+underlying felony, which must be a dangerous felony] and
+where there was in the mind of the perpetrator the specific
+intent to commit [that crime] is murder . . . . The specific
+intent to commit [the felony] and the commission or
+attempt to commit such crime must be proved beyond a
+reasonable doubt.
+
+People v. Burton, 491 P.2d 793, 799 n.3 (Cal. 1971) (en banc) (internal references
+omitted). While that charge seems to accurately capture "traditional" felony murder
+that criminalizes any killing—even an accidental one—occurring during the
+commission of a dangerous felony, it seems contrary to Lowry and Norris, which
+limited courts to giving a permissive inference charge. It may be that Lowry and
+Norris are distinguishable because they were brought as burden-shifting cases, not
+as directly addressing whether "malice" is an element of felony murder. Or, it may
+be that a permissive inference charge under Lowry and Norris is all the court can
+say. If the permissive inference charge is invalid under the "elevating a fact" line of
+cases, we wonder what the circuit court can say about felony murder, if anything.
+This uncertainty is why we started with harmless error, for as we explained at the
+beginning, the parties in this case did not dispute malice, and there is no doubt the
+permissive inference charge did not contribute to this verdict.
+
+BURDEN-SHIFTING
+
+Brown argues the permissive inference charge given here was burden-shifting. We
+will not dwell long on this argument. As we explained during our discussion of
+Lowry and Norris, inference charges are not burden-shifting if they are permissive
+and not mandatory. See Lowry, 376 S.C. at 506, 657 S.E.2d at 764 (granting
+post-conviction relief because the instruction did not tell the jury it may infer malice
+but that it must); Norris, 285 S.C. at 92, 328 S.E.2d at 342 (finding no error with the
+instruction telling the jury it could infer malice); see also State v. Wilds, 355 S.C.
+269, 277, 584 S.E.2d 138, 142 (Ct. App. 2003) ("In a charge to the jury, the judge
+should make clear to the jury that it is free to accept or reject the permissive
+inferences depending on its view of the evidence.").
+
+CONCLUSION
+
+For these reasons, Brown's murder conviction and sentence is
+
+AFFIRMED.
+
+KONDUROS and VINSON, JJ., concur.

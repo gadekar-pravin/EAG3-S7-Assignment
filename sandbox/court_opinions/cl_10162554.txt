@@ -1,0 +1,263 @@
+=========================================================
+Case: Jonathan W. Stephenson v. Zachary Pounds, Warden
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-10-29
+Citations: 
+URL: https://www.courtlistener.com/opinion/10162554/jonathan-w-stephenson-v-zachary-pounds-warden/
+Source Query: murder conviction appeal
+=========================================================
+
+10/29/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+Assigned on Briefs at Jackson October 1, 2024
+
+JONATHAN W. STEPHENSON v. ZACHARY POUNDS, WARDEN
+
+Appeal from the Criminal Court for Davidson County
+No. 5848 Cynthia Chappell, Judge
+___________________________________
+
+No. M2024-00417-CCA-R3-HC
+___________________________________
+
+Petitioner, Jonathan W. Stephenson, appeals from the Davidson County Criminal Court’s
+order summarily dismissing his fifth petition for writ of habeas corpus. On appeal,
+Petitioner challenges his convictions for first degree murder and conspiracy to commit first
+degree murder, and the legality of his death plus sixty-years effective sentence. After
+review, we affirm the judgment of the habeas corpus court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+MATTHEW J. WILSON, J., delivered the opinion of the court, in which ROBERT H.
+MONTGOMERY, JR., and TIMOTHY L. EASTER, JJ., joined.
+
+Jonathan W. Stephenson, Nashville, Tennessee, Pro Se.
+
+Jonathan Skrmetti, Attorney General and Reporter; Edwin Groves, Assistant Attorney
+General; and Glenn Funk, District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+I. Background
+
+In 1990, a Cocke County jury convicted Petitioner of first degree murder and
+conspiracy to commit first degree murder. See State v. Stephenson, 878 S.W.2d 530, 535-
+37 (Tenn. 1994), abrogated on other grounds by State v. Saylor, 117 S.W.3d 239 (Tenn.
+2003). Since then, Petitioner has challenged his convictions through repeated filings of
+habeas corpus and post-conviction petitions. See Stephenson v. State, No. M2013-00720-
+CCA-R3-HC, 2013 WL 6705997 (Tenn. Crim. App. Dec. 19, 2013) (“Stephenson Habeas
+IV”), no perm. app. filed; Stephenson v. Bell, No. M2011-01562-CCA-R3-HC, 2012 WL
+
+2356586 (Tenn. Crim. App. June 20, 2012) (“Stephenson Habeas III”),1 perm. app. denied
+(Tenn. Nov. 28, 2012); Stephenson v. Carlton; 28 S.W.3d 910 (Tenn. 2000) (“Stephenson
+Habeas I”); Stephenson v. State, No. E2012-01339-CCA-R3-PD, 2014 WL 108137 (Tenn.
+Crim. App. Jan. 13, 2014), perm. app. denied (Tenn. Sept. 19, 2014).
+
+Now, Petitioner appeals the dismissal of his fifth habeas corpus petition, alleging
+that “issues presented” in this petition “are new.”
+
+A thorough summary of the factual and procedural history was provided by this
+court in Petitioner’s fourth petition for habeas corpus relief:
+
+The proof at trial tended to show that, after unsuccessfully soliciting two
+individuals to kill his wife, Lisa Stephenson, the mother of his four-year-old
+and eight-month-old children, [Petitioner] arranged for Ralph Thompson to
+shoot her with a rifle. State v. Stephenson, 878 S.W.2d 530, 535-37 (Tenn.
+1994), abrogated on other grounds by State v. Saylor, 117 S.W.3d 239
+(Tenn. 2003).
+
+The jury convicted [Petitioner] of both first degree murder and
+conspiracy to commit first degree murder. Id. at 537. At the sentencing
+proceedings, the jury imposed the death penalty for the first degree murder
+conviction, and the trial court sentenced him to serve a consecutive twenty-
+five years for the conspiracy to commit first degree murder. Id. at 534[.] On
+appeal, his convictions were affirmed. Id. at 557. The case, however, was
+remanded for resentencing. Id. at 556-57. [Petitioner’s] death sentence was
+reversed because the jury had not been instructed that it must find the
+aggravating factors outweighed the mitigating factors beyond a reasonable
+doubt. Id. at 553-56. The case was also remanded for resentencing on the
+conviction for conspiracy to commit first degree murder, “to allow the trial
+court judge an opportunity to make explicit findings on the record with
+regard to how the sentencing principles of the 1989 Act relate to the facts in
+this case.” Id. at 556-57.
+
+On remand, [Petitioner] was able to come to an agreement with the
+prosecution in which he received a sentence of life without parole for the first
+degree murder conviction and a consecutive sentence of sixty years for the
+conspiracy to commit first degree murder conviction. [Stephenson Habeas
+
+1
+Petitioner filed his second habeas corpus petition in 2004 (“Stephenson Habeas II”), which he
+voluntarily withdrew. The habeas corpus court subsequently dismissed Petitioner’s second petition and he
+filed no appeal. Stephenson Habeas III, 2012 WL 2356586, at *2.
+-2-
+
+I, 28 S.W.3d at 911; Stephenson Habeas III, 2012 WL 2356586, at *1]. As
+part of the agreement, [Petitioner] also entered guilty pleas to the two
+offenses for which he stood convicted by a jury. [Stephenson Habeas III,
+2012 WL 2356586, at *1]. The obvious benefit to [Petitioner] was that he
+no longer ran the risk that a jury would sentence him to death. Snatching
+defeat from the jaws of victory, however, [Petitioner], in 1998 (four years
+after the plea agreement), filed a successful petition for the writ of habeas
+corpus, challenging his sentence of life without parole for the murder
+conviction.2 [Stephenson Habeas I, 28 S.W.3d at 911]. The Tennessee
+Supreme Court, reversing the judgment of the Court of Criminal Appeals and
+trial court, concluded that the only statutorily authorized punishments for
+first degree murder at the time of [Petitioner’s] crime were life imprisonment
+with the possibility of parole or, alternatively, death. Id. at 912. While the
+Court held that the life without parole sentence was illegal and void, it noted
+that its ruling did not affect the sixty-year sentence for the conspiracy to
+commit first degree murder conviction. Id. at 911, 912 n.3. The Court
+explicitly determined that the conspiracy conviction had been remanded for
+resentencing on direct appeal and that “the sentence imposed for the
+conspiracy was not void or illegal.” Id. at 912 n.3.
+
+A jury once again sentenced [Petitioner] to death. State v. Stephenson,
+195 S.W.3d 574, 582 (Tenn. 2006). The judgment indicated that the sixty-
+year sentence for the conspiracy to commit first degree murder was to run
+consecutively to the death sentence. Id. at 585, n.4. This time, the death
+penalty was upheld on appeal. Id. at 596.
+
+Stephenson Habeas IV, 2013 WL 6705997, at *1-2.
+
+In one appeal of his death sentence, Petitioner sought to invalidate his sixty-year
+sentence for conspiracy to commit murder, arguing that his conspiracy and first degree
+murder sentences were intertwined and the “nullification of the sentence of life without
+parole necessarily negated the agreement regarding the conspiracy sentence.” Stephenson,
+195 S.W.3d at 596, n.16. In response, our supreme court held that that issue was waived
+because Petitioner failed to file a petition to rehear in Stephenson Habeas I, in which the
+court reached the opposite conclusion. Id.; see also Stephenson Habeas I, 28 S.W.3d at
+912, n.3 (concluding that the granting of habeas corpus relief for Petitioner’s illegal life
+
+2
+[Petitioner] had also prior to that time filed a petition for post-conviction relief, which
+he voluntarily dismissed. Stephenson v. Carlton, No. 03C01–9807–CR–00255, 1999 WL
+318835, at *1 (Tenn. Crim. App. May 19, 1999).
+
+-3-
+
+without parole sentence for first degree murder “does not affect [Petitioner’s] separate
+conviction and 60-year sentence for the offense of conspiracy to commit first-degree
+murder.”).
+
+II. Current Petition
+
+On November 9, 2023, Petitioner filed the petition for habeas corpus relief that is
+the subject of this appeal. In the petition, he alleged that (1) his first degree murder
+conviction and death sentence were void because the trial court lacked jurisdiction to
+resentence him after a limited appellate remand; (2) his conviction and sentence for
+conspiracy to commit first degree murder were void because the State violated a plea
+agreement; and (3) the judgments of the Cocke County Circuit Court following his
+resentencing were void because they violate the constitutional principles of equal
+protection, due process, and double jeopardy.
+
+On February 7, 2024, the State moved to dismiss Petitioner’s current habeas corpus
+petition, arguing that the petition failed to meet the pleading requirements of Tennessee
+Code Annotated section 29-21-107(b)(4). The State further argued that Petitioner’s claims
+had been previously determined and were without merit.
+
+On February 27, 2024, the habeas corpus court entered a written order summarily
+dismissing Petitioner’s application for habeas corpus relief without a hearing. Petitioner’s
+timely appeal followed.
+
+III. Analysis
+
+“Whether habeas corpus relief should be granted is a question of law. Thus, we
+apply de novo review and afford no presumption of correctness to the findings and
+conclusions of the courts below.” Edwards v. State, 269 S.W.3d 915, 919 (Tenn. 2008).
+The petitioner bears “the burden” of showing “by a preponderance of the evidence that the
+sentence is void or that the confinement is illegal.” Wyatt v. State, 24 S.W.3d 319, 322
+(Tenn. 2000).
+
+Pursuant to Article I, section 15 of the Tennessee Constitution, “the privilege of the
+writ of Habeas Corpus shall not be suspended, unless when in case of rebellion or invasion,
+the General Assembly shall declare the public safety requires it.” Tenn. Const. art I, § 15.
+While writs of habeas corpus are “guaranteed constitutionally,” they are “regulated
+statutorily.” Stephenson Habeas IV, 2013 WL 6705997, at *3. In general, there are “very
+narrow” grounds upon which habeas corpus relief will be granted in Tennessee. Id.
+(quoting Taylor v. State, 995 S.W.2d 78, 83 (Tenn. 1999)).
+
+-4-
+
+Habeas corpus relief is available “only when ‘it appears upon the face of the
+judgment or the record of the proceedings upon which the judgment is rendered’ that a
+convicting court was without jurisdiction or authority to sentence a defendant, or that a
+defendant’s sentence of imprisonment or other restraint has expired.” Archer v. State, 851
+S.W.2d 157, 164 (Tenn. 1993) (quoting State v. Galloway, 45 Tenn. 326, 336-37 (1868)).
+A habeas corpus petition will only provide relief when the “judgment challenged is void
+and not merely voidable.” Stephenson Habeas IV, 2013 WL 6705997, at *3; see also
+Summers v. State, 212 S.W.3d 251, 255 (Tenn. 2007). “A voidable judgment is one that is
+facially valid and requires proof beyond the face of the record or judgment to establish its
+invalidity,” but “[a] void judgment is one that is facially invalid because the court did not
+have the statutory authority to render such judgment.” Summers, 212 S.W.3d at 256
+(citations omitted). To determine whether a judgment is void, the inquiry “is always one
+of jurisdiction, that is, whether the order, judgment or process under attack comes within
+the lawful authority of the court or judge rendering or issuing it.” Edwards, 269 S.W.3d at
+920 (quoting State ex rel. Anglin v. Mitchell, 575 S.W.2d 284, 287 (Tenn. 1979), overruled
+on other grounds by Archer, 851 S.W.2d at 162-64). A void sentence is void upon entry,
+and “[t]he illegality does not ‘spring into being’ at some future point in time.” Hoover v.
+State, 215 S.W.3d 776, 779 (Tenn. 2007); see Smith v. Lewis, 202 S.W.3D 124, 128 (Tenn.
+2006).
+
+Statute regulates “the form which the petition shall take.” Stephenson Habeas IV,
+2013 WL 6705997 at *4; see Tenn. Code Ann. § 29-21-107. The statute requires that a
+petition must state “[t]hat it is [the] first application for the writ, or, if a previous application
+has been made, a copy of the petition and proceedings thereon shall be produced, or
+satisfactory reasons be given for the failure so to do.” Id. at § 29-21-107(b)(4). These
+statutory procedural “requirements ‘are mandatory and must be followed scrupulously.’”
+Summers, 212 S.W.3d at 259 (quoting Archer, 851 S.W.2d at 165). “A trial court properly
+may choose to summarily dismiss a petition for failing to comply with the statutory
+procedural requirements.” Id. at 260. A dismissal is warranted “unless it is shown from
+evidence heard that the claimant is illegally restrained and entitled to sua sponte relief.”
+Cox v. State, 53 S.W.3d 287, 293 (Tenn. Crim. App. 2001), overruled on other grounds by
+Moody v. State, 160 S.W.3d 512, 515-16 (Tenn. 2005).
+
+Here, the State correctly asserts that Petitioner’s habeas corpus petition was properly
+dismissed for failure to comply with the procedural mandates of Code section 29-21-
+107(b)(4), in that Petitioner did not provide copies of any of his four previous petitions.
+Although the present petition includes information about his previous habeas corpus
+petitions, those petitions were not attached to the present petition and were not included in
+the appellate record. Petitioner provides no reason for his failure to include them.
+
+-5-
+
+Accordingly, we conclude that the habeas corpus court did not err by summarily
+dismissing the petition due to Petitioner’s failure to comply with the statutory procedural
+requirements. Additionally, we note that while the State’s appellate brief put Petitioner on
+notice by its assertion that Petitioner failed to follow the mandates of section 29-21-
+107(b)(4), Petitioner chose not to respond to this issue in his reply brief or any other
+pleading. Consequently, Petitioner’s failure to comply with the statute defeats his claims.
+
+Although we have determined that Petitioner is not entitled to relief, we nonetheless
+address Petitioner’s equal protection, due process, and double jeopardy claims. In prior
+opinions, we denied Petitioner relief on the issues of double jeopardy and due process.
+Stephenson Habeas IV, 2013 WL 6705997, at *5; Stephenson, 2014 WL 108137, at *23.
+As such, Petitioner may not relitigate those issues here. See Long v. State, 510 S.W.2d 83,
+87 (Tenn. Crim. App. 1974) (“It is fundamental that habeas corpus . . . proceedings may
+not be employed to raise and relitigate or review questions decided and disposed of in a
+direct appeal.”); Thomas v. State, No. M2018-01153-CCA-R3-HC, 2019 WL 3385196, at
+*6 (Tenn. Crim. App. July 26, 2019) (“Because the facts presented in the first two habeas
+corpus petitions and the present petition were the same and because the Petitioner’s issues
+were necessarily decided in those appeals, we conclude that his issues were previously
+determined.”) no perm. app. filed. Regardless, we note that claims of equal protection, due
+process, and double jeopardy “are not cognizable claims for habeas corpus relief” as they
+would render Petitioner’s judgment voidable, not void. Mosley v. Brandon, No. M2006-
+02398-CCA-R3-HC, 2007 WL 1774309, at *5 (Tenn. Crim. App. June 20, 2007) (first
+citing Smith v. Hesson, 63 S.W.3d 725, 728 (Tenn. Ct. App. 2001) (alleged violations of
+due process and equal protection are not cognizable claims for habeas corpus relief)); then
+citing Claypole v. State, No. M1999-02591-CCA-R3-PC, 2001 WL 523367, at *2 (Tenn.
+Crim. App., May 16, 2001) (alleged double jeopardy violations are not cognizable claims
+in a habeas corpus proceeding)), perm. app. denied (Tenn. Sept. 17, 2007). Accordingly,
+Petitioner’s equal protection, due process, and double jeopardy claims are not cognizable
+claims for relief.
+
+IV. Conclusion
+
+In light of the foregoing reasoning and authorities, we affirm the habeas corpus
+court’s dismissal of Petitioner’s fifth petition for habeas corpus relief.
+
+____________________________________
+MATTHEW J. WILSON, JUDGE
+
+-6-

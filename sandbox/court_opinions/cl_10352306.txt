@@ -1,0 +1,504 @@
+=========================================================
+Case: State of Tennessee v. Davarious Montral Taylor
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-03-07
+Citations: 
+URL: https://www.courtlistener.com/opinion/10352306/state-of-tennessee-v-davarious-montral-taylor/
+Source Query: murder conviction appeal
+=========================================================
+
+03/07/2025
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs February 4, 2025
+
+STATE OF TENNESSEE v. DAVARIOUS MONTRAL TAYLOR
+
+Appeal from the Circuit Court for Tipton County
+No. 10734 A. Blake Neill, Judge
+___________________________________
+
+No. W2024-00560-CCA-R3-CD
+___________________________________
+
+The defendant, Davarious Montral Taylor, was convicted by a Tipton County Circuit Court
+jury of second-degree murder and sentenced to twenty-five years in the Tennessee
+Department of Correction. On appeal, the defendant challenges the sufficiency of the
+convicting evidence and the sentence imposed by the trial court. After review, we affirm
+the judgment of the trial court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+J. ROSS DYER, J., delivered the opinion of the court, in which JILL BARTEE AYERS and TOM
+GREENHOLTZ, JJ., joined.
+
+Claiborne H. Ferguson, Memphis, Tennessee, for the appellant, Davarious Montral Taylor.
+
+Jonathan Skrmetti, Attorney General and Reporter; Abigail H. Hornsby, Assistant Attorney
+General; Mark Davidson, District Attorney General; and Jason R. Poyner, Stephanie
+Draughon, and James Walter Freeland, Jr., Assistant District Attorneys General, for the
+appellee, State of Tennessee.
+
+OPINION
+
+Facts and Procedural History
+
+The defendant was indicted for first-degree murder and employing a firearm during
+the commission of a dangerous felony1 as a result of his shooting the driver of a vehicle
+
+1
+Before trial, the State moved to amend the indictment to clarify that first-degree murder was “not an
+applicable dangerous felony,” so the second count would “only apply if [the defendant was] found guilty
+of a lesser included crime that is an applicable dangerous felony.” The record shows that the jury did not
+
+outside the Broadmeadow Apartments in Covington on March 11, 2021. The State’s proof
+at trial showed that the defendant approached a vehicle occupied by the victim, Andrew
+Terry, knocked on the window, and then shot into the vehicle four times. The evidence
+suggested that the motive for the defendant’s actions was that the defendant learned the
+victim had assaulted a close friend earlier that evening.
+
+Kaylnn Hendrix, the victim’s girlfriend and mother of his unborn child, saw the
+victim several times throughout the day of March 11, 2021. Around 10:00 p.m., the victim
+picked up Ms. Hendrix, and they drove to the Broadmeadow Apartments to return the cell
+phone of the victim’s brother, Jamarius Terry to him. They parked in front of one of the
+buildings, and Jamarius2 came to the car, got the phone, and headed back inside. The
+victim started to back out from where he was parked, but a “black figure” ran up to the car
+and started beating on the driver’s side window “with something” that “wasn’t with a
+hand.”
+
+Ms. Hendrix heard the “person beating on the window” saying something, but she
+could not make out the words. Ms. Hendrix then heard the victim say, “something about
+his gun going for his gun,” which the victim kept in the center console. As the victim was
+reaching for his gun, the other individual began firing into the car. Ms. Hendrix heard four
+gunshots, ducked, and felt the car roll forward. According to Ms. Hendrix, the victim
+retrieved his gun but did not fire any shots because the other individual shot first. The
+victim was shot three times.
+
+After the shooting, the victim’s car crashed into several nearby cars. Ms. Hendrix,
+who was sitting in the front passenger seat, was in a panic. She “squeeze[d]” herself out
+of the passenger door and went around to the driver’s side “to turn the car off, because [the
+victim] was still driving into the other cars.” The victim was “gasping for his breath” and
+“had globs of blood coming out of his nose.” Ms. Hendrix yelled for help and called the
+police. The victim was transported by ambulance to the hospital where he died of “a
+gunshot wound to the head and chest.”
+
+Martavis Bland and Trevon White were home cooking pizza that evening when they
+decided to walk to a friend’s home at the Broadmeadow Apartments. While walking, they
+encountered the defendant, and the three men walked to the Broadmeadow Apartments
+together. According to Mr. Bland, the defendant told them that “Little D,” Sheldrion
+Somerville, had “got jumped” and that the defendant was “going over there to try to talk”
+
+consider the firearm charge after finding the defendant guilty of second-degree murder, and the judgment
+indicates that the count was dismissed.
+2
+Because the victim and the victim’s brother have the same surname, we will refer to the victim’s brother
+by first name only at times to avoid confusion. No disrespect is intended by this practice.
+-2-
+
+to someone named Drew. Mr. White did not recall any specifics about their conversation
+and did not think the defendant said who he was going to see or what he was going to do.
+
+As the three men walked into the apartment complex, Mr. Bland and Mr. White fell
+behind the defendant because they “weren’t all going to the same place.” The defendant
+ran up to a car that was “pulling off” and began shooting. Mr. Bland immediately thought
+that he wanted to “[g]et away from there,” explaining he had been expecting the defendant
+to have a conversation at the car, not to begin shooting. Similarly, Mr. White immediately
+ran from the area. Neither man had seen the defendant with a gun while they were walking.
+Mr. Bland acknowledged that he told officers that night that the defendant approached the
+car and said, “[Y]ou better not move this car or I’ll put a whistle call on,” and then started
+shooting. Mr. Bland denied being able to remember the specifics of his conversation with
+police but agreed that what he said in his statement was correct. Mr. White maintained that
+he did not hear what the defendant said at the car because he “was a good distance” away.
+However, when questioned about whether he told the police that he heard the defendant
+tell the driver of the car not to pull off and then started shooting, Mr. White stated that he
+did not remember doing so but did not disagree that he could have, or did tell them that.
+
+Sergeant Sarah Maclin3 with the Covington Police Department began her shift
+around 10:00 p.m. on March 11, 2021, and went to relieve another sergeant at a crime scene
+on Zion Street. Sergeant Maclin arrived around 10:07 p.m. and stayed for approximately
+15-20 minutes. The alleged victim, Sheldrion Somerville, had apparently been assaulted,
+but “he was not trying to give us a statement on the assault” and “did not want to be a
+victim.” Sometime after Sergeant Maclin arrived, the defendant “walked on the scene.”
+
+Sergeant Maclin left the scene on Zion Street and was patrolling the area when she
+received a shots fired call at the Broadmeadow Apartments. Because she was in the area,
+Sergeant Maclin actually heard the shots and was en route to the location before the call
+came through dispatch at 10:50 p.m. Sergeant Maclin entered the apartment complex via
+the rear entrance. As she drove towards the front, Sergeant Maclin saw two individuals
+walking calmly towards the back entrance. She shined her spotlight on the individuals and
+recognized one as Martavis Bland. Observing no alarming behavior, Sergeant Maclin
+continued driving in the direction of the front entrance, eventually encountering a dark-
+colored “car that was wrecked and crashed into multiple other cars in the parking lot[.]”
+People were “yelling and screaming,” so Sergeant Maclin parked her vehicle and assessed
+the situation. Ms. Hendrix and Jamarius Terry were near the driver’s side of the wrecked
+car, “screaming that he needs help.” Sergeant Maclin saw the victim in the driver’s seat of
+the car, “leaned back,” with a bullet wound in his chest. Ms. Hendrix advised that the
+victim was still breathing, but Sergeant Maclin “could not see any chest movement going
+
+3
+At the time of trial, Sergeant Maclin’s last name was Dillingham, and she had been promoted to lieutenant.
+-3-
+
+up and down.” Sergeant Maclin also checked for a pulse but could not determine if the
+victim had one. At that point, Sergeant Maclin’s backup arrived and began to secure and
+process the scene. Medical personnel also arrived and took over assessment of the victim.
+
+Sergeant Maclin found a gun on the driver’s side floorboard, near the victim’s feet,
+so she removed it for safety purposes. The gun had thirteen bullets in the magazine and
+none in the chamber. Remembering that the apartment complex had active cameras it
+allowed police to access, Sergeant Maclin obtained the surveillance footage and rewound
+it from when she arrived at the scene to see if it captured the shooting. The video showed
+Mr. Bland, Mr. White, and the defendant entering the complex on foot. Sergeant Maclin
+immediately noticed that the defendant, who she did not know at the time, was wearing
+“noticeable” royal blue shoes with a reflective tongue. Sergeant Maclin had seen the
+defendant wearing the same shoes earlier at the scene on Zion Street. Around two and a
+half minutes after the three men entered the complex, the video showed the defendant
+“running out of the exit[.]” Less than a minute later, Mr. Bland and Mr. White walked out
+as Sergeant Maclin drove in.
+
+Another camera angle, with the victim’s car in view, showed Jamarius Terry walk
+out of a building, get into the victim’s car, and then exit the car and walk back towards the
+building. The victim’s car started reversing to leave, and the defendant ran toward the car
+and began shooting. The defendant was then seen running away. The victim wrecked his
+car into several parked vehicles, and Ms. Hendrix got out of the passenger side and ran
+around the car to help the victim. Jamarius Terry ran back out of the building to help, and
+Sergeant Maclin arrived soon thereafter.
+
+Detective Tony Doss with the Covington Police Department arrived at the scene at
+the Broadmeadow Apartments between 11:00 p.m. and midnight. When he arrived, the
+scene was “already contained . . . pretty well,” and the victim had been taken for medical
+treatment. Officers collected a 9mm Smith & Wesson firearm, four 9mm spent shell
+casings, ammunition, two small bags of marijuana, blood-stained clothes, and $98.12. The
+victim’s wallet with ID and debit card, keys, and cell phone were also collected. The shell
+casings were on the pavement in the parking lot, along with shattered glass from the
+victim’s car window, and none of the casings matched the ammunition from the gun found
+inside the victim’s car. Based on that evidence, Detective Doss determined that the
+victim’s gun was never fired.
+
+Detective Doss interviewed Mr. Bland and Mr. White that night and developed the
+defendant as a suspect. Detective Doss explained that the term “whistle call” means “a
+gun.” Detective Doss obtained warrants to search the defendant’s mother’s and
+grandmother’s homes, as well as spoke to the defendant’s father in Arkansas. Based on
+the evidence gathered, Detective Doss obtained an arrest warrant for the defendant but
+-4-
+
+ultimately needed help from the U.S. Marshals to locate him. The defendant was taken
+into custody about two months later on May 17, 2021.
+
+During the investigation, Detective Doss obtained search warrants for the
+defendant’s social media accounts and cell phone records. Specifically, Detective Doss
+searched the defendant’s Snapchat account after finding a Snapchat conversation between
+the victim and “a name listed as All Mighty Va-va,” who Detective Doss identified as the
+defendant. At 11:13 p.m. on March 11, 2021, the defendant sent the victim a message that
+said, “Hey, bruh, you know what come behind TS you just pulled, right?” Detective Doss
+interpreted “TS” to mean “the shit.”
+
+Testifying on his own behalf, the defendant admitted that he shot the victim but
+claimed he acted in self-defense. The defendant explained that his friend Sheldrion
+Somerville called or texted him saying that “a black car just pulled up on him and pistol
+whipped him. Beat him up or something,” and the defendant went to Mr. Somerville’s
+house “to check up on him.” Based on what he learned from Mr. Somerville, the defendant
+“wanted to get in contact” with the victim and Jamarius Terry.
+
+The defendant left Mr. Somerville’s house, went home to put on extra clothing and
+get his gun, and then messaged the victim and Jamarius to ask where they were. The
+defendant admitted that he usually carried a gun with him, which was typical in his social
+circle, but had not taken it to Mr. Somerville’s house because he knew the police would be
+there. When the defendant received no response to his messages to the victim and
+Jamarius, the defendant went to the Broadmeadow Apartments to find Jamarius, who he
+believed would then be able to get ahold of the victim. The defendant acknowledged that
+he was “angry at the situation” but denied that he intended to murder or fight with the
+victim. The defendant maintained that he only intended to talk to the victim and Jamarius.
+
+When he got to the apartment complex, the defendant saw that the victim’s car was
+about to leave, so he ran to the car and knocked on the window. The defendant denied
+having his gun in his hand when he approached the car, explaining it was in the front pocket
+of his sweatshirt albeit with a bullet in the chamber. According to the defendant, the victim
+looked at him and “then he reached and came up,” at which point the defendant “ran back”
+and started firing to defend himself. The defendant denied using the term “whistle call”
+when trying to get the victim to stop the car or even knowing what the term meant. The
+defendant claimed that he only shot “to get away from the scene” and did not intend to kill
+the victim. The defendant did not know the victim had died until the next day.
+
+After the shooting, the defendant threw his gun and phone into some nearby woods
+because he was “scared” and “panicking.” The defendant also explained that although he
+knew the police were looking for him, he did not turn himself in because he was scared.
+-5-
+
+The defendant admitted that once he was brought in and questioned by the police, he did
+not tell them that the victim had pulled a gun on him because he “d[id]n’t want them to try
+to switch [his] words around without a lawyer” present.
+
+Following the conclusion of the proof, the jury convicted the defendant of the lesser-
+included offense of second-degree murder. The trial court conducted a sentencing hearing,
+after which it imposed a sentence of twenty-five years served consecutively to the sentence
+in an unrelated case. The defendant appealed.
+
+Analysis
+
+On appeal, the defendant challenges the sufficiency of the convicting evidence and
+the trial court’s imposition of a twenty-five-year sentence.
+
+I. Sufficiency
+
+The defendant argues that the evidence is insufficient to sustain his conviction
+because the State failed to establish the mens rea of the offense based on his claim that he
+acted in self-defense. The State responds that there “is ample evidence” to support the
+defendant’s conviction and that “the jury reasonably rejected [the defendant’s] self-defense
+claim.” We agree with the State.
+
+When the sufficiency of the evidence is challenged, the relevant question of the
+reviewing court is “whether, after viewing the evidence in the light most favorable to the
+prosecution, any rational trier of fact could have found the essential elements of the crime
+beyond a reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979); see also Tenn.
+R. App. P. 13(e) (“Findings of guilt in criminal actions whether by the trial court or jury
+shall be set aside if the evidence is insufficient to support the findings by the trier of fact
+of guilt beyond a reasonable doubt.”); State v. Evans, 838 S.W.2d 185, 190-92 (Tenn.
+1992); State v. Anderson, 835 S.W.2d 600, 604 (Tenn. Crim. App. 1992). All questions
+involving the credibility of witnesses, the weight and value to be given the evidence, and
+all factual issues are resolved by the trier of fact. See State v. Pappas, 754 S.W.2d 620,
+623 (Tenn. Crim. App. 1987). “A guilty verdict by the jury, approved by the trial judge,
+accredits the testimony of the witnesses for the State and resolves all conflicts in favor of
+the theory of the State.” State v. Grace, 493 S.W.2d 474, 476 (Tenn. 1973). Our Supreme
+Court has stated the rationale for this rule:
+
+This well-settled rule rests on a sound foundation. The trial judge and the
+jury see the witnesses face to face, hear their testimony and observe their
+demeanor on the stand. Thus, the trial judge and jury are the primary
+instrumentality of justice to determine the weight and credibility to be given
+-6-
+
+to the testimony of witnesses. In the trial forum alone is there human
+atmosphere and the totality of the evidence cannot be reproduced with a
+written record in this Court.
+
+Bolin v. State, 405 S.W.2d 768, 771 (Tenn. 1966) (citing Carroll v. State, 370 S.W.2d 523
+(1963)). “A jury conviction removes the presumption of innocence with which a defendant
+is initially cloaked and replaces it with one of guilt, so that on appeal a convicted defendant
+has the burden of demonstrating that the evidence is insufficient.” State v. Tuggle, 639
+S.W.2d 913, 914 (Tenn. 1982).
+
+Guilt may be found beyond a reasonable doubt where there is direct evidence,
+circumstantial evidence, or a combination of the two. State v. Matthews, 805 S.W.2d 776,
+779 (Tenn. Crim. App. 1990) (citing State v. Brown, 551 S.W.2d 329, 331 (Tenn. 1977);
+Farmer v. State, 343 S.W.2d 895, 897 (Tenn. 1961)). The standard of review for
+sufficiency of the evidence “is the same whether the conviction is based upon direct or
+circumstantial evidence.” State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011) (quoting
+State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)). Moreover, the jury determines the
+weight to be given to circumstantial evidence and the inferences to be drawn from this
+evidence, and the extent to which the circumstances are consistent with guilt and
+inconsistent with innocence are questions primarily for the jury. See id. at 379.
+Circumstantial evidence alone may be sufficient to support a conviction. State v.
+Richmond, 7 S.W.3d 90, 91 (Tenn. Crim. App. 1999). This Court, when considering the
+sufficiency of the evidence, shall not reweigh the evidence or substitute its inferences for
+those drawn by the trier of fact. Id. This Court will not exchange its “inferences for those
+drawn by the trier of fact from circumstantial evidence.” State v. Matthews, 805 S.W.2d
+776, 779 (Tenn. Crim. App. 1990).
+
+Second degree murder is the “knowing killing of another.” Tenn. Code Ann. § 39-
+13-210(a)(1). A person acts knowingly “when the person is aware that the conduct is
+reasonably certain to cause the result.” Id. § 39-11-302(b). Whether a defendant acted
+“knowingly” is a question of fact for the jury. State v. Inlow, 52 S.W.3d 101, 104-105
+(Tenn. Crim. App. 2000).
+
+It is well-established “that whether an individual acted in self-defense is a factual
+determination to be made by the jury as the sole trier of fact.” State v. Goode, 956 S.W.2d
+521, 527 (Tenn. Crim. App. 1997) (citing State v. Ivy, 868 S.W.2d 724, 727 (Tenn. Crim.
+App. 1993)). At the time of the offense, the applicable statute provided:
+
+(2) Notwithstanding § 39-17-1322, a person who is not engaged in conduct
+that would constitute a felony or Class A misdemeanor and is in a place
+
+-7-
+
+where the person has a right to be has no duty to retreat before threatening or
+using force intended or likely to cause death or serious bodily injury, if:
+
+(A) The person has a reasonable belief that there is an
+imminent danger of death, serious bodily injury, or grave
+sexual abuse;
+
+(B) The danger creating the belief of imminent death or serious
+bodily injury is real, or honestly believed to be real at the time;
+and
+
+(C) The belief of danger is founded upon reasonable grounds.
+
+Tenn. Code Ann. § 39-11-611(b)(2). When self-defense is fairly raised by the proof, the
+State is required to prove beyond a reasonable doubt that the defendant did not act in self-
+defense. State v. Benson, 600 S.W.3d 896, 903 (Tenn. 2020).
+
+Viewing the evidence in the light most favorable to the State, the evidence was
+sufficient for a rational jury to find that the defendant knowingly killed the victim and reject
+the defendant’s claim of self-defense. The security footage and testimony at trial showed
+that the defendant ran up to the victim’s car as it was pulling away and shot into the driver’s
+side of the car from only a few feet away. The defendant would certainly be aware that
+doing so could kill the victim and, thus, acted “knowingly.” With regard to the defendant’s
+claim of self-defense, the defendant relies on his own self-serving testimony that the victim
+raised his gun first. The defendant’s testimony, however, was countered by Ms. Hendrix’s
+testimony that the “figure” that approached the car banged on the driver’s side window
+“with something” that “wasn’t with a hand.” Ms. Hendrix recalled that as the victim was
+reaching for his gun, the other individual began firing into the car. Mr. Bland, who was in
+the vicinity, told police that night that the defendant approached the victim’s car and said,
+“[Y]ou better not move this car or I’ll put a whistle call on,” and then started shooting. It
+was explained at trial that “whistle call” meant to use a gun. The defendant’s assertion that
+the victim was “known to be violent and was drawing a firearm” does not entitle him to
+relief as the defendant presented no evidence that the victim was “known to be violent”
+and the victim’s “drawing a firearm” was disputed by other testimony. The jury heard the
+conflicting evidence and, within its prerogative, rejected the defendant’s claim of self-
+defense. Goode, 956 S.W.2d at 527. The evidence is sufficient to sustain the defendant’s
+conviction for second degree murder.
+
+II. Sentencing
+
+-8-
+
+The defendant argues that the trial court imposed an excessive sentence by imposing
+the maximum in the range without addressing any mitigating factors or assigning weight
+to the enhancement factors. The State responds that the trial court properly exercised its
+discretion in imposing a within-range sentence of twenty-five years. We agree with the
+State.
+
+In determining an appropriate sentence, a trial court must consider the following
+factors: (1) the evidence, if any, received at the trial and the sentencing hearing; (2) the
+presentence report; (3) the principles of sentencing and arguments as to sentencing
+alternatives; (4) the nature and characteristics of the criminal conduct involved; (5)
+evidence and information offered by the parties on mitigating and enhancement factors; (6)
+any statistical information provided by the administrative office of the courts as to
+sentencing practices for similar offenses in Tennessee; (7) any statement the defendant
+makes on his own behalf as to sentencing; and (8) the result of the validated risk and needs
+assessment conducted by the department and contained in the presentence report. Tenn.
+Code Ann. §§ 40-35-113, -114, -210(b). In addition, the court must consider the
+defendant’s potential for rehabilitation, and that “[t]he sentence imposed should be the least
+severe measure necessary to achieve the purposes for which the sentence is imposed.” Id.
+§ 40-35-103(4), (5).
+
+Pursuant to the 2005 amendments, the Sentencing Act abandoned the statutory
+presumptive minimum sentence and rendered enhancement factors advisory only. See
+Tenn. Code Ann. §§ 40-35-114, -210(c). Although the application of the factors is
+advisory, a court shall consider “[e]vidence and information offered by the parties on the
+mitigating and enhancement factors set out in §§ 40-35-113 and 40-35-114.” Id. § 40-35-
+210(b)(5). The trial court must also place on the record “what enhancement or mitigating
+factors were considered, if any, as well as the reasons for the sentence, in order to ensure
+fair and consistent sentencing.” Id. § 40-35-210(e).
+
+When an accused challenges the length or manner of service of a sentence, this
+Court reviews the trial court’s sentencing determination under an abuse of discretion
+standard accompanied by a presumption of reasonableness. State v. Bise, 380 S.W.3d 682,
+707 (Tenn. 2012). If a trial court misapplies an enhancement or mitigating factor in passing
+sentence, said error will not remove the presumption of reasonableness from its sentencing
+determination. Bise, 380 S.W.3d at 709. This Court will uphold the trial court’s sentencing
+decision “so long as it is within the appropriate range and the record demonstrates that the
+sentence is otherwise in compliance with the purposes and principles listed by statute.” Id.
+at 709-10. Moreover, under such circumstances, appellate courts may not disturb the
+sentence even if we had preferred a different result. See State v. Carter, 254 S.W.3d 335,
+346 (Tenn. 2008). The party challenging the sentence imposed by the trial court has the
+
+-9-
+
+burden of establishing that the sentence is erroneous. Tenn. Code Ann. § 40-35-401,
+Sentencing Comm’n Cmts.; State v. Ashby, 823 S.W.2d 166, 169 (Tenn. 1991).
+
+The trial court conducted a sentencing hearing, at which the victim’s adoptive
+mother testified concerning the impact of the victim’s death. The State entered the
+defendant’s juvenile court records, under seal, as well as an affidavit of complaint from the
+Tipton County General Sessions Court for a burglary case that was pending at the time of
+the victim’s murder.
+
+The State filed a notice of enhancement factors asserting that the defendant’s
+sentence should be enhanced based on: (1) the defendant’s previous history of
+unwillingness to comply with the conditions of a sentence involving release in the
+community as supported by the defendant’s Tipton County Juvenile Court records,
+Tennessee Code Annotated section 40-35-114(8); (2) the defendant’s use of a gun in the
+commission of the offense, id. section 40-35-114(9); (3) the defendant’s commission of the
+offense while released on bond in February 2020 Tipton County and April 2020 Obion
+County cases, id. section 40-35-114(13); and (4) the defendant’s having been adjudicated
+to have committed criminal acts as a juvenile that would be felonies if committed by an
+adult as supported by the defendant’s juvenile court file, id. section 40-35-114(16).
+
+The defendant filed a notice of mitigating factors asserting that the court should
+apply in mitigation that, “although guilty of the crime, [the defendant] committed the
+offense under such unusual circumstances that it is unlikely that a sustained intent to violate
+the law motivated the defendant’s criminal conduct.” See id. § 40-35-113(11). At the
+sentencing hearing, the defendant argued that this incident “directly flows” from the earlier
+alleged assault incident at Mr. Somerville’s home and the victim was “likewise[] armed
+with a weapon.”
+
+In determining the defendant’s sentence, the trial court recounted the evidence
+received at trial and nature and characteristics of the criminal conduct involved, observing
+that the “jury didn’t think there was any evidence . . . of self[-]defense and didn’t think
+there was evidence of voluntary manslaughter. It seems that the main thing the jury found
+was that maybe he didn’t premeditate it.” The court noted its consideration of the statistical
+information provided by the Administrative Office of the Courts, the validated risk and
+needs assessment, and that it would have taken into account any statement the defendant
+wished to make on his own behalf. The court reviewed the presentence report, pointing
+out the defendant’s two misdemeanor convictions since becoming an adult for failure to
+appear and theft of property. The court also observed the principles of sentencing and
+arguments as to sentencing alternatives, finding that confinement was necessary to protect
+society by restraining a defendant with a long history of criminal conduct given the
+defendant’s juvenile record and to avoid depreciating the seriousness of the offense.
+- 10 -
+
+The court found that five enhancement factors applied: the defendant’s history of
+criminal behavior, the defendant’s failure to comply with the conditions of a sentence
+involving release in the community, the defendant’s use of a firearm during the commission
+of the offense, the defendant’s commission of the present offense while released on bail,
+and the defendant’s having been adjudicated to have committed delinquent acts as a
+juvenile that would constitute felonies if committed by an adult. See Tenn. Code Ann. §
+40-35-114(1), (8), (9), (13) and (16).
+
+The court summarized the defendant’s juvenile record, noting that from 2016 to
+2019 the defendant had seven burglary adjudications, seven theft adjudications, and five
+unlawful possession of a handgun adjudications. Then, in 2020, the defendant stole a
+firearm from a car and was released on bond, a condition of which prohibited him from
+possessing a firearm. While out on bond, the defendant committed the present murder with
+a firearm.
+
+The court concluded:
+
+Considering everything and considering all of the enhancement factors,
+considering the fact that [the defendant] throughout his life really beginning
+at the age of 14 or 15 has been in the court system, has been repeatedly told
+not to have firearms and yet has repeatedly continued to not only carry
+firearms but to steal firearms. And then in this case, the reason that the courts
+have told him over and over and over again not to have firearms is so that
+you don’t use a firearm. The reason the courts have told you over and over
+and over again not to have a firearm so you don’t use a firearm is so
+somebody doesn’t end up dead.
+
+Regardless of whatever happened that night, [the victim] is never
+coming home. And you’re responsible for that . . . . And the result of that,
+and again, as to all of the enhancement factors, the Court is going to sentence
+you to 25 years, which is the maximum sentence that I can give you.
+
+Although the trial court did not explicitly state the weight given to each
+enhancement factor or expressly discuss the mitigating factor raised in the defendant’s
+notice, we reiterate that the statutory enhancement and mitigating factors are advisory only
+and that “a trial court’s weighing of various mitigating and enhancement factors [is] left to
+the trial court’s sound discretion.” Carter, 254 S.W.3d 335, 345 (Tenn. 2008); see also
+Bise, 380 S.W.3d at 706. It is clear the trial court found the maximum sentence to be
+appropriate in light of the vast number of applicable enhancement factors and the
+defendant’s consistent disrespect for the law. Moreover, as to mitigation, while the
+- 11 -
+
+defendant filed a notice of mitigating factors before sentencing, he did not provide any
+specific argument about mitigation in his notice or at the hearing. The trial court was not
+required to surmise the defendant’s argument. The burden of proving applicable mitigating
+factors rests upon the defendant. State v. Moore, 1995 WL 548786, at *6 (Tenn. Crim.
+App. Sept. 18, 1995) (citation omitted). Regardless, based on his brief, we understand the
+defendant’s claim of mitigation to relate to his assertion that he acted in self-defense, and
+the trial court specifically recounted the jury’s lack of persuasion by such theory and the
+evidence supports the jury’s finding. The trial court’s ruling was consistent with the
+applicable statutes, reflected the purposes and principles of sentencing, and was supported
+by the proof presented. Accordingly, the trial court’s sentence is presumed reasonable, and
+we conclude there was no abuse of discretion. The defendant is not entitled to relief.
+
+Conclusion
+
+Based on the foregoing authorities and reasoning, we affirm the judgment of the
+trial court.
+
+S/ J. ROSS DYER _
+J. ROSS DYER, JUDGE
+
+- 12 -

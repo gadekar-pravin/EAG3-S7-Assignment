@@ -1,0 +1,262 @@
+=========================================================
+Case: State of Tennessee v. Francisco Oliva
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-08-15
+Citations: 
+URL: https://www.courtlistener.com/opinion/10041729/state-of-tennessee-v-francisco-oliva/
+Source Query: murder conviction appeal
+=========================================================
+
+08/15/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs May 1, 2024
+
+STATE OF TENNESSEE v. FRANCISCO OLIVA
+
+Appeal from the Criminal Court for Shelby County
+No. C2201103/22-00755 Carolyn Wade Blackett, Judge
+___________________________________
+
+No. W2023-01572-CCA-R3-CD
+___________________________________
+
+A Shelby County jury convicted the Defendant, Francisco Oliva, of second degree murder,
+and the trial court ordered him to serve a twenty-year sentence. On appeal, the Defendant
+asserts that the evidence was insufficient to support his conviction. After review, we affirm
+the trial court’s judgment.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+ROBERT W. WEDEMEYER, J., delivered the opinion of the court, in which JILL BARTEE
+AYERS and JOHN W. CAMPBELL, SR., JJ., joined.
+
+Charles Gilchrist, Memphis, Tennessee, for the appellant, Francisco Oliva.
+
+Jonathan Skrmetti, Attorney General and Reporter; Brooke A. Huppenthal, Assistant
+Attorney General; Steven J. Mulroy, District Attorney General; and Stephen Crossnoe and
+Robert Steele, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+I. Facts
+
+This case arises from a shooting that occurred on September 25, 2021, behind the Z
+Mart in Memphis, Tennessee. The Defendant and Juan Zavala, the victim, engaged in an
+argument that resulted in the Defendant shooting the victim multiple times in his upper
+body. A Shelby County grand jury indicted the Defendant for the first degree premeditated
+murder of the victim. We summarize the evidence presented at trial as follows.
+
+Rafat Khmous owned the Z Market located on South Perkins in Memphis,
+Tennessee, and had worked there since 2000. Mr. Khmous was working at the Z Market
+on September 25, 2021, the day of the shooting. Mr. Khmous took the garbage out that
+
+morning and saw six men drinking behind the store. Two of the men, the Defendant and
+the victim, were arguing. As Mr. Khmous passed the men, he told them to “calm down”
+and then returned inside his store. Mr. Khmous was familiar with the Defendant because
+the Defendant was a long-time customer. The Defendant came to the store regularly, and
+Mr. Khmous would help the Defendant fill out a money order. Mr. Khmous believed the
+Defendant to be “a good guy, very friendly” and never knew the Defendant to have
+“problems” with anyone.
+
+Mr. Khmous left the Z Market to take groceries home. While away, his brother who
+was working at the Z Market, called to tell Mr. Khmous that someone had been killed. Mr.
+Khmous immediately returned to the Z Market where the police had already arrived. The
+police requested the surveillance footage from the camera installed on the property and Mr.
+Khmous provided the recording to them.
+
+Rebecca Gross, a technical litigation analyst at the Shelby County District
+Attorney’s Office, prepared the surveillance footage Mr. Khmous provided for the State’s
+use at trial. She shortened the footage, “zoomed in” on the actual crime, and then “zoomed
+out” to follow the Defendant as he left the area. She made these alterations to eliminate
+irrelevant portions of the video and to focus on the criminal incident on the recording to
+better aid the jury. The video was published to the jury. Ms. Gross also extracted still shots
+from the surveillance video.
+
+The surveillance video showed the Defendant standing by the fence and firing
+several rounds at the victim. The Defendant stepped backward and then moved forward
+toward the victim and shot him again at close range. The Defendant stepped back again
+and then stepped forward and shot the victim in the head. The victim collapsed on the
+ground after the initial gun shots and remained slumped over on the ground.
+
+Santa Rosa Bautista owned a taco truck that parked on the property behind the Z
+Market on the weekends. Nataly Solis, Ms. Bautista’s daughter, was cooking inside the
+truck on September 25, 2021, when she heard gunfire. Initially, she was not alarmed as it
+was common for the area; however, her mother, Ms. Bautista, who had been sitting outside
+the taco truck, summoned her outside. Ms. Bautista heard gunfire but could not see what
+had occurred because vehicles blocked her view. After the gunfire ceased, the vehicles
+cleared the parking lot, and Ms. Bautista saw the victim slumped over next to the fence.
+She summoned her daughter, who immediately called the police. When the police arrived,
+-2-
+
+Ms. Solis told them that she had seen a man she knew as “Shorty” on the lot and that he
+left in a blue car after the shooting. Ms. Solis and Ms. Bautista also recognized the victim.
+Ms. Solis had often seen the victim sitting behind the Z Mart, drinking. Both women
+recognized and knew the Defendant as a frequent customer. Ms. Bautista described the
+Defendant as someone who “never did anything wrong to anyone.” She had not seen the
+Defendant at the Z Market on the day of the shooting.
+
+Shelby County Sheriff’s Office Deputy Procknaw worked as a Memphis Police
+Department (“MPD”) patrol officer in September 2021. In this capacity, he responded to
+a report of a shooting with injuries on South Perkins Road. Deputy Procknaw found the
+parking lot, mostly empty of vehicles, and the victim lying “next to a fence on the side of
+the building.” He observed “obvious signs of gunshot wounds” on the victim’s body.
+Deputy Procknaw secured the area looking for any potential threats and spoke to two
+women who worked at the food truck. MPD Sergeant Glen Teal photographed the scene,
+which included photographs of five 9 mm shell casings found near the victim’s body.
+
+MPD Officer John Yancey searched the area for the suspect vehicle, a blue Dodge
+Magnum (“Dodge”). Officer Yancey received “second-hand information” that the Dodge
+was at Amigos Restaurant on Mendenhall. Officer Yancey proceeded to Amigos where he
+located the unoccupied Dodge. Officer Yancey and another officer entered the restaurant
+and found the Defendant at the bar drinking a beer. The officers took the Defendant into
+custody and transported him to the MPD Public Safety Building.
+
+At the MPD Public Safety Building, MPD Officer William Watson conducted a GSR
+test and collected the Defendant’s clothing for testing. The Defendant did not speak
+English, and thus, MPD Detective Samuel Nieves, a city certified Spanish speaking officer,
+interpreted during the Defendant’s police interview. Detective Nieves reviewed and
+explained the Defendant’s rights to make sure he understood those rights. The Defendant
+agreed to speak with the detectives. The assigned detective then began questioning the
+Defendant and Detective Nieves translated the dialogue verbatim. Often colloquialisms
+were used, so Detective Nieves would pause the interview to explain to the assigned
+detective the “slang” or colloquialism.
+
+The Defendant initially denied any role in the shooting. He repeatedly stated that
+he did not like “problems.” The Defendant admitted to “run-ins” with the victim in the
+past. The assigned detective told the Defendant that police had surveillance footage and
+-3-
+
+had spoken to several witnesses. Ultimately, the Defendant admitted that he had shot the
+victim and then left with his friend “Shorty” in Shorty’s blue Dodge. The Defendant said
+that the victim bullied him and that he attempted to diffuse the situation by offering the
+victim food, but the victim would not leave the Defendant alone and continued to try to
+pick a fight with him. The Defendant told the detectives that he put the 9mm gun he used
+to shoot the victim in Shorty’s truck.
+
+MPD Sergeant Ammons reviewed the Z Mart surveillance footage and saw that the
+victim had been shot and that the shooter drove away in a blue Dodge Magnum. The store
+owner identified the shooter as the Defendant based upon surveillance footage and showed
+Sergeant Ammons a picture of the Defendant’s driver’s license. Additionally, task force
+officers advised Sergeant Ammons that the blue Dodge Magnum had been located at
+Amigos. Sergeant Ammons instructed the officers at Amigos to have the Dodge towed to
+the Memphis Crime Scene Unit warehouse where cars are secured for processing. The
+following day, Sergeant Ammons obtained a warrant and delivered it to the crime scene
+unit to allow the technicians to process the Dodge. Officers processing the vehicle found
+a stolen Taurus 9 mm handgun with a magazine in the glovebox of the Dodge. The gun
+held one live round and the magazine had five. In the center console, officers found a
+Taurus model 66 .357 Magnum revolver with six live .357 magnum rounds in the chamber.
+
+Scott Collier, a forensic pathologist at the West Tennessee Regional Forensic Center,
+conducted the autopsy in this case. Dr. Collier found five gunshot wounds to the victim’s
+body. The victim sustained gunshot wounds to the head, chest, right and left arm, and
+abdomen. All the gunshot wounds were fatal except for the gunshot wound to the left arm
+because the bullet did not hit any major structures. A toxicology report indicated the
+presence of metabolites of marijuana, alcohol and the metabolite for cocaine. The victim’s
+BAC was .18
+
+After hearing this evidence, the jury found the Defendant guilty of the lesser-
+included offense of second degree murder. After a sentencing hearing, the trial court
+imposed a twenty-year sentence for the conviction. It is from this judgment that the
+Defendant appeals.
+
+II. Analysis
+
+The Defendant challenges the sufficiency of the evidence supporting his conviction
+for second degree murder. He argues that the jury should have found him guilty of reckless
+homicide rather than second degree murder. The State responds that there was sufficient
+-4-
+
+evidence to support the jury’s finding that the Defendant committed second-degree murder.
+We agree with the State.
+
+When an accused challenges the sufficiency of the evidence, this Court’s standard
+of review is whether, after considering the evidence in the light most favorable to the State,
+“any rational trier of fact could have found the essential elements of the crime beyond a
+reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979); see Tenn. R. App. P.
+13(e); State v. Goodwin, 143 S.W.3d 771, 775 (Tenn. 2004) (citing State v. Reid, 91 S.W.3d
+247, 276 (Tenn. 2002)). This standard applies to findings of guilt based upon direct
+evidence, circumstantial evidence, or a combination of both direct and circumstantial
+evidence. State v. Pendergrass, 13 S.W.3d 389, 392-93 (Tenn. Crim. App. 1999) (citing
+State v. Dykes, 803 S.W.2d 250, 253 (Tenn. Crim. App. 1990)). In the absence of direct
+evidence, a criminal offense may be established exclusively by circumstantial evidence.
+Duchac v. State, 505 S.W.2d 237, 241 (Tenn. 1973). “The jury decides the weight to be
+given to circumstantial evidence, and ‘[t]he inferences to be drawn from such evidence,
+and the extent to which the circumstances are consistent with guilt and inconsistent with
+innocence, are questions primarily for the jury.’” State v. Rice, 184 S.W.3d 646, 662 (Tenn.
+2006) (quoting Marable v. State, 313 S.W.2d 451, 457 (Tenn. 1958)). “The standard of
+review [for sufficiency of the evidence] ‘is the same whether the conviction is based upon
+direct or circumstantial evidence.’” State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011)
+(quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)).
+
+In determining the sufficiency of the evidence, this Court should not re-weigh or
+reevaluate the evidence. State v. Matthews, 805 S.W.2d 776, 779 (Tenn. Crim. App. 1990).
+Nor may this Court substitute its inferences for those drawn by the trier of fact from the
+evidence. State v. Buggs, 995 S.W.2d 102, 105 (Tenn. 1999) (citing Liakas v. State, 286
+S.W.2d 856, 859 (Tenn. 1956)). “Questions concerning the credibility of witnesses, the
+weight and value to be given the evidence, as well as all factual issues raised by the
+evidence are resolved by the trier of fact.” State v. Bland, 958 S.W.2d 651, 659 (Tenn.
+1997). “A guilty verdict by the jury, approved by the trial judge, accredits the testimony
+of the witnesses for the State and resolves all conflicts in favor of the theory of the State.”
+State v. Grace, 493 S.W.2d 474, 476 (Tenn. 1973). The Tennessee Supreme Court stated
+the rationale for this rule:
+
+This well-settled rule rests on a sound foundation. The trial judge and the
+jury see the witnesses face to face, hear their testimony and observe their
+demeanor on the stand. Thus the trial judge and jury are the primary
+instrumentality of justice to determine the weight and credibility to be given
+to the testimony of witnesses. In the trial forum alone is there human
+atmosphere and the totality of the evidence cannot be reproduced with a
+written record in this Court.
+-5-
+
+Bolin v. State, 405 S.W.2d 768, 771 (Tenn. 1966) (citing Carroll v. State, 370 S.W.2d 523,
+527 (Tenn. 1963)). This Court must afford the State of Tennessee the “strongest legitimate
+view of the evidence” contained in the record, as well as “all reasonable and legitimate
+inferences” that may be drawn from the evidence. Goodwin, 143 S.W.3d at 775 (quoting
+State v. Smith, 24 S.W.3d 274, 279 (Tenn. 2000)). Because a verdict of guilt against a
+defendant removes the presumption of innocence and raises a presumption of guilt, the
+convicted criminal defendant bears the burden of showing that the evidence was legally
+insufficient to sustain a guilty verdict. State v. Carruthers, 35 S.W.3d 516, 557-58 (Tenn.
+2000) (citations omitted).
+
+Second degree murder is defined as “a knowing killing of another.” T.C.A. § 39-
+13-210(a)(1). “A person acts knowingly with respect to a result of the person’s conduct
+when the person is aware that the conduct is reasonably certain to cause the result.” T.C.A.
+§ 39-11-302(b).
+
+The evidence, viewed in the light most favorable to the State, showed that the
+Defendant knowingly shot and killed the victim. The Defendant and the victim had a
+history of disagreements and were arguing behind the Z Market on the day of the shooting.
+The Defendant admitted to the police that he shot the victim with a 9mm gun and that, after
+the shooting, he put the gun in the Dodge. Police recovered a 9mm gun from the glovebox
+in the blue Dodge. Video surveillance footage showed the Defendant shooting the victim
+multiple times and the autopsy confirmed that the victim sustained five bullet wounds.
+Video surveillance footage also showed the Defendant leaving the scene in the Dodge.
+This is sufficient evidence upon which a jury could find that the Defendant knowingly
+killed the victim by shooting him five times following an argument.
+
+The Defendant argues, essentially, that the jury should have convicted him of
+reckless homicide which is “a reckless killing of another.” T.C.A. § 39-13-215. As stated
+above, this court is not to re-weigh or reevaluate the evidence. Matthews, 805 S.W.2d at
+779. The jury heard the Defendant’s statements to the police that the victim was bullying
+him, and that the Defendant had a good reputation. By its verdict, the jury credited the
+State’s evidence that the Defendant acted knowingly when he brandished a gun and fired
+at the victim multiple times. All questions involving the credibility of witnesses, the weight
+and value to be given the evidence, and all factual issues are resolved by the trier of fact,
+not the appellate courts. State v. Pappas, 754 S.W.2d 620, 623 (Tenn. Crim. App. 1987).
+
+Accordingly, we conclude that the Defendant was aware that shooting the victim
+five times in the torso, head, and arms was reasonably certain to cause death. T.C.A. § 39-
+11-302(b). The Defendant is not entitled to relief.
+
+-6-
+
+III. Conclusion
+
+After a thorough review of the record and the applicable law, we affirm the trial
+court’s judgment.
+
+____________________________________
+ROBERT W. WEDEMEYER, JUDGE
+
+-7-

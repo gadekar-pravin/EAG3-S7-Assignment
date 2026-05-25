@@ -1,0 +1,1146 @@
+=========================================================
+Case: In the Interest of: A.M. Appeal of: A.M.
+Court: Superior Court of Pennsylvania
+Date Filed: 2025-08-07
+Citations: 2025 Pa. Super. 171
+URL: https://www.courtlistener.com/opinion/10649702/in-the-interest-of-am-appeal-of-am/
+Source Query: murder conviction appeal
+=========================================================
+
+J-S15015-25
+
+2025 PA Super 171
+
+IN THE INTEREST OF: A.M., A : IN THE SUPERIOR COURT OF
+MINOR : PENNSYLVANIA
+:
+:
+APPEAL OF: A.M. :
+:
+:
+:
+: No. 1248 WDA 2024
+
+Appeal from the Dispositional Order Entered September 5, 2024
+In the Court of Common Pleas of Somerset County Juvenile Division at
+No(s): CP-56-JV-0000015-2022
+
+BEFORE: OLSON, J., SULLIVAN, J., and FORD ELLIOTT, P.J.E.*
+
+OPINION BY OLSON, J.: FILED: AUGUST 7, 2025
+
+Appellant, A.M., appeals from the order of disposition entered on
+
+September 5, 2024, following his delinquency adjudication for 28 acts
+
+constituting violations of the Game and Wildlife Code.1 We vacate the order
+
+that denied Appellant’s speedy trial claim and remand.2, 3
+
+____________________________________________
+
+* Retired Senior Judge assigned to the Superior Court.
+
+1 Specifically, the Juvenile Court adjudicated Appellant delinquent for the
+following acts: 15 counts of unlawful killing or taking of big game (34
+Pa.C.S.A. § 2321(a)(1)); eight counts of unlawful use of lights while hunting
+(34 Pa.C.S.A. § 2310(a)(2)); and, five counts of unlawful taking or possession
+of game or wildlife (34 Pa.C.S.A. § 2307(a)).
+
+2 We note with dismay that the Commonwealth failed to file a brief in this
+case.
+
+3 The Commonwealth Court has “exclusive jurisdiction of appeals from final
+
+orders of the courts of common pleas” in certain cases, including “[a]ll criminal
+actions or proceedings for the violation of any . . . [r]egulatory statute
+(Footnote Continued Next Page)
+
+J-S15015-25
+
+On March 10, 2022, a written allegation was submitted against
+
+Appellant, alleging that Appellant committed numerous delinquent acts in
+
+violation of the Game and Wildlife Code. See Written Allegation, 3/10/22, at
+
+1-9. Counsel was appointed to represent Appellant and, on May 25, 2022,
+
+the Somerset County Juvenile Probation Department (“Probation
+____________________________________________
+
+administered by any Commonwealth agency subject to Subchapter A of
+Chapter 5 of Title 2 (relating to practice and procedure of Commonwealth
+agencies).” 42 Pa.C.S.A. § 762(a)(2)(ii). Thus, as we have held, “[t]he
+Commonwealth Court [] is conferred with jurisdiction over appeals from
+criminal prosecutions brought pursuant to the Game and Wildlife Code.”
+Commonwealth v. Gosselin, 861 A.2d 996, 999 n.2 (Pa. Super. 2004).
+
+Although the case at bar concerns violations of the Game and Wildlife Code,
+the appeal does not fall under the Commonwealth Court’s jurisdiction, as the
+case proceeded under the Juvenile Act – and was not a “criminal action or
+proceeding.” See, e.g., 42 Pa.C.S.A. § 6322(a) (differentiating a proceeding
+under the Juvenile Act from a “criminal proceeding”); In re S.A.S., 839 A.2d
+1106, 1109 (Pa. Super. 2003) (“juvenile proceedings are not criminal
+proceedings”); see also In re R.A., 761 A.2d 1220, 1224 (Pa. Super. 2000)
+(“[u]nder the Juvenile Act, juveniles are not charged with crimes; they are
+charged with committing delinquent acts. They do not have a trial; they have
+an adjudicatory hearing. If the charges are substantiated, they are not
+convicted; they are adjudicated delinquent. Indeed, the Juvenile Act
+expressly provides an adjudication under its provisions is not a conviction of
+crime. 42 Pa.C.S.A. § 6354(a). These are not insignificant differences or the
+transposing of synonyms. The entire juvenile system is different, with
+different purposes and different rules”) (quotation marks, paragraphing, and
+some citations omitted).
+
+Further, and regardless, neither party has challenged our appellate
+jurisdiction. Thus, we have jurisdiction to consider the merits of this appeal.
+See Pa.R.A.P. 741(a) (“[t]he failure of an appellee to file an objection to the
+jurisdiction of an appellate court on or prior to the last day under these rules
+for the filing of the record shall, unless the appellate court shall otherwise
+order, operate to perfect the appellate jurisdiction of such appellate court,
+notwithstanding any provision of law vesting jurisdiction of such appeal in
+another appellate court”); see also Gosselin, 861 A.2d at 999 n.2.
+
+-2-
+
+J-S15015-25
+
+Department”) filed a delinquency petition against Appellant, which essentially
+
+repeated the acts described in the written allegation. See Delinquency
+
+Petition, 5/25/22, at 1-6.
+
+An adjudicatory hearing on the matter was originally scheduled for June
+
+9, 2022. See Juvenile Court Order, 6/15/22, at 1. That day, however, the
+
+Juvenile Court issued an order continuing the hearing generally, as it
+
+concluded that “extensive discovery will be necessary prior to the
+
+[adjudicatory] hearing.” See id. The Juvenile Court’s order further declared
+
+that Appellant expressly “waived any specific time requirements for the
+
+scheduling and conducting of [the adjudicatory] hearing.” See id.
+
+Following the June 9, 2022 order, the Juvenile Court scheduled an
+
+adjudicatory hearing for January 5, 2023. See Summons, 12/22/22, at 1.
+
+This hearing was, however, continued, as was the later-scheduled hearing for
+
+November 30, 2023. See Juvenile Court Order, 1/5/23, at 1-2; Juvenile Court
+
+Order, 11/30/23, at 1-2. The relevant orders provide no explanation for the
+
+continuances.
+
+On July 10, 2024, the Probation Department requested that the Juvenile
+
+Court schedule an adjudicatory hearing for August 27, 2024 and, on July 12,
+
+2024, the Juvenile Court entered an order, scheduling the adjudicatory
+
+hearing for the requested date. See Juvenile Court Order, 7/15/24, at 1.
+
+At the beginning of the August 27, 2024 hearing, Appellant moved to
+
+dismiss the petition, based upon an alleged violation of his Sixth Amendment
+
+-3-
+
+J-S15015-25
+
+right to a speedy trial.4 See N.T. Adjudicatory Hearing, 8/27/24, at 4.
+
+Appellant argued:
+
+We would submit that [Appellant] indicated at least by
+January of 2023 that he was asking for a contested hearing,
+a contested finding of fact in this matter. We are not sure of
+any reason for delay in the trial from that time period.
+[Appellant] is asserting the right both by asking for a finding
+of fact and by this motion today. And as far as prejudice to
+[Appellant], we would respectfully submit that [Appellant’s
+birthdate is of record and that Appellant] turns 21 [years old]
+in September of this year[. A]nd we submit to the court that
+in the event that he is adjudicated delinquent and there is a
+disposition on some or all of these offenses that [Appellant]
+would have less than a month before, by virtue of turning 21,
+any fines associated with these offenses would be
+presumably become a probation judgment against him, and
+any court costs for that matter; and if the primary purpose
+of juvenile delinquency is rehabilitation, he would not have
+been able to avail of any rehabilitation from being on
+probation any significant length of time prior to presumably
+facing relatively significant judgments.
+
+Id. at 4-5.
+
+During oral argument on Appellant’s motion, the Commonwealth
+
+provided no explanation for its delay in scheduling the adjudicatory hearing.
+
+Id. at 6-7. Nevertheless, the Juvenile Court denied Appellant’s motion. See
+
+id. at 9.
+
+During the adjudicatory hearing, the Commonwealth first presented the
+
+testimony of Pennsylvania State Game Warden Sergeant Brian Witherite. Id.
+
+____________________________________________
+
+4 Appellant was neither in custody nor subject to monitoring prior to the
+adjudicatory hearing.
+
+-4-
+
+J-S15015-25
+
+at 11. As Sergeant Witherite testified, on November 18, 2020 he received
+
+information that:
+
+there was an ongoing poaching activity taking place outside
+of Confluence on Colflesh Road, which sits off of State [Route]
+281 southbound. . . . It’s a very remote dirt road system, a
+couple of farms, but a lot of agricultural is on that road.
+
+There was a witness chasing a motorized vehicle that was
+fleeing his property and reported the [Pennsylvania vehicle]
+registration and related that to the County 911 Center, which
+was forwarded to our dispatch. I was activated to go out to
+investigate and that started the investigation.
+
+Id. at 13.
+
+Sergeant Witherite testified that the identified vehicle was registered to
+
+an individual named Caleb Roland, an adult. Sergeant Witherite met with Mr.
+
+Roland and, during an interview, Mr. Roland told the sergeant that, on
+
+November 18, 2020, he was driving the vehicle and that he and his passengers
+
+“were on that road to poach an antlered whitetail deer.” Id. at 15. Mr. Roland
+
+later took Sergeant Witherite to various locations where he and his passengers
+
+had, from October until November 18, 2020, shot, killed, and left to
+
+decompose whitetail deer. See id. at 25-56. Sergeant Witherite testified
+
+that, during his investigation, Mr. Roland disclosed the carcasses of 19
+
+poached deer. Id. at 60. Further, the sergeant testified his investigation
+
+revealed that Mr. Roland and his passengers had shot and wounded numerous
+
+other deer “that were not retrieved.” Id. The sergeant testified that all 19 of
+
+the deer he identified were shot and killed “outside of the daily seasons and
+
+bag limits.” Id. at 62.
+
+-5-
+
+J-S15015-25
+
+Mr. Roland testified at the hearing. According to his testimony, he,
+
+Appellant, and a second juvenile named D.S., were poaching deer from “like
+
+October [2020] to the day we got caught, which was November 18[, 2020].”
+
+Id. at 130. Mr. Roland testified that, on each poaching trip, “[Appellant] and
+
+[D.S.] were always with me.” Id. at 146.
+
+As Mr. Roland testified, on the night of November 18, 2020, he,
+
+Appellant, and D.S. “went out poaching.” Id. at 130-131. He testified:
+
+[On the night of November 18, 2020, w]e went onto Colflesh
+Road, and we turned around at this farmer’s house because
+we saw a big buck in the field, not too far away from . . . his
+house, so we turned around, like I would say not even a
+quarter mile up the road from his house. [Appellant] was
+sittin’ right next to me, . . . and I was driving, and . . . [D.S.]
+was in the back; and then [Appellant] had his [300
+Winchester Magnum Rifle (“300 Win Mag”)] . . . sittin’ with
+him while [D.S.] had the .22 in the back. [Appellant’s] gun
+clicked; [D.S.] took the shot; it looked like the buck went
+down; and the next thing I knew, we were getting chased by
+the farmer in a Dodge Ram truck and then we went.
+
+Id. at 131.
+
+Mr. Roland testified that Appellant’s gun “clicked” that night because
+
+“[h]e had it on safety. It did not go off. . . . [Although h]e did attempt to
+
+take the shot.” Id. at 132. Further, Mr. Roland testified that, after Appellant’s
+
+gun failed to fire, Appellant held the spotlight on the deer and that this act
+
+allowed D.S. to shoot the deer. Id. at 131-132 and 159.
+
+Mr. Roland testified that, prior to this night, he, Appellant, and D.S.
+
+“went out poaching . . . almost every weekend from the beginning of October
+
+-6-
+
+J-S15015-25
+
+[2020]” until they were caught in November 2020. Id. at 133. Mr. Roland
+
+testified that the first time he, Appellant, and D.S. went poaching:
+
+there was a 10-point [buck], a 12-point [buck,] and two
+does, and [Appellant] and [D.S.] were going off on them . . .
+[j]ust – basically just spraying and spraying [bullets] on
+those [deer] just to see if they [could] get any deer down.
+
+Id. at 134-135.
+
+Mr. Roland testified that they hit at least two of the deer with bullets,
+
+“because [the deer] really did jump,” but that they could not collect any of
+
+the deer they shot that night, as the deer ran away. Id. at 136. Mr. Roland
+
+also testified that, later in the night, they drove to a different location, where
+
+he “took a shot at a doe or two,” but missed his shots. Id.
+
+Mr. Roland testified that the group went out the next weekend and,
+
+during the night, D.S. shot at a group of deer on a hill, with Appellant holding
+
+the spotlight. Id. at 137. Mr. Roland testified that he did not think that any
+
+of the deer were hit by the bullets that night, as the “gun was shootin’ six
+
+inches off to the right.” Id.
+
+As Mr. Roland testified, on the next weekend, at approximately 4:30
+
+a.m., Appellant “poached an 8-point buck, which there is a picture of.” Id. at
+
+138. Mr. Roland testified that Appellant shot and killed the buck with a .22
+
+caliber rifle “and then later that day, [Appellant] used [a] bow and arrow and
+
+shot it [again] . . . to make it look like it got shot by a bow and arrow instead
+
+of a .22.” Id. at 140-141.
+
+-7-
+
+J-S15015-25
+
+As Mr. Roland testified, “later that day,” he, Appellant, and D.S. were
+
+driving when “a family of four deer walked out in front of us.” Id. at 141. He
+
+testified:
+
+[Appellant and D.S.] told me to stop the truck, so I stopped
+the truck[. T]hey got out[,] not took but a few steps on the
+road[,] and [Appellant and D.S.] had their guns, and my .22
+was not at the scene[.] I know the 300 Win Mag was and
+[D.S.] had his high-powered rifle; and if one missed, the
+other one hit. So they wiped that whole family of four deer
+out, and we loaded them – they loaded them up onto the
+truck, and then we took them back to [D.S.’s house].
+
+Id. at 142.
+
+Further, that same day, they were together when D.S. shot two
+
+additional deer. Id. at 144. Mr. Roland testified: “we did take [one of those
+
+deer], and the other was bagged and [we] left it” where it was. Id.
+
+Mr. Roland testified that they did not go out on Halloween weekend.
+
+However, Mr. Roland testified, on the ensuing weekend, they “went to
+
+Somerset behind my Pap’s and saw a group of . . . about 10 deer in a herd .
+
+. . and [Appellant and D.S.] just laid it off, just started spraying them down”
+
+with bullets. Id. at 145. He testified that Appellant and D.S. “took turns”
+
+shooting the deer, while he held the spotlight. Id. Further, he testified that
+
+“at least two [deer were] hit [because the deer] jumped when hit.” Id.
+
+Mr. Roland testified that, from October until November 18, 2020, “the
+
+highest [number of deer] we shot at [in one night] would be 10 to 12 . . . ,
+
+injured or – or – you know, we missed.” Id. at 146. He testified that they
+
+-8-
+
+J-S15015-25
+
+processed and ate a number of the deer they killed, but that they dumped “at
+
+least 11 or 12 deer” at a dump site. Id. at 148-149.
+
+D.S., a juvenile, also testified for the Commonwealth at the hearing.
+
+D.S. testified that, on November 18, 2020, he was in a vehicle with Mr. Roland
+
+and Appellant. Id. at 101. On that date, Mr. Roland was driving the car, D.S.
+
+was sitting in the passenger seat holding a rifle, and Appellant was sitting in
+
+another passenger seat holding a spotlight to identify deer. Id. at 101-102.
+
+As D.S. testified, on November 18, 2020, he ”shot a deer out the [car] window
+
+. . . and the farmer chased us and got our license plate.” Id. at 101.
+
+D.S. testified that, prior to this event, he and Mr. Roland went out
+
+“maybe four to seven” times to spot or shoot deer and Appellant accompanied
+
+them “most of the time[.]” Id. at 102. As D.S. testified, he was the primary
+
+shooter during these events. Id. at 103. However, D.S. testified that Mr.
+
+Roland shot at least two of the deer and Appellant “shot maybe one” deer.
+
+Id. at 103-104. He further testified that, “on several occasions,” Appellant
+
+acted as the deer spotter. Id. D.S. testified that he, personally, shot at
+
+“[a]round 10, 15, 20” deer and actually hit “[h]alf of them.” Id. at 111.
+
+After hearing the testimony, the Juvenile Court concluded that Appellant
+
+committed the delinquent acts alleged in the petition and, on September 5,
+
+2024, the Juvenile Court adjudicated Appellant delinquent. See N.T. Hearing,
+
+9/5/24, at 19. In its order of disposition, the Juvenile Court ordered that
+
+Appellant be placed on probation until the time he turned 21 years old and
+
+pay $30,000.00 in fines and restitution. Id. at 19-21. Further, the Juvenile
+
+-9-
+
+J-S15015-25
+
+Court ordered that Appellant’s hunting and trapping privileges be suspended
+
+for 50 years. Id. at 21.
+
+Appellant filed a timely notice of appeal. He raises two issues to this
+
+Court:
+
+1. Whether the Juvenile Court erred by substantiating and
+ultimately adjudicating [Appellant] delinquent of [28] counts
+under the Game and Wildlife Code, where the substantiation
+and adjudication of delinquency relative to said offenses was
+against the weight of the evidence presented at [Appellant’s]
+finding of fact hearing?
+
+2. Whether the Juvenile Court erred [in] twice denying
+[Appellant’s] motions to dismiss for violation of his
+constitutional right to a speedy trial[?]
+
+Appellant’s Brief at 5.5
+
+First, Appellant claims that his delinquency adjudication was against the
+
+weight of the evidence, as “the Juvenile Court’s reliance on [Mr.] Roland’s
+
+testimony to substantiate and adjudicate [Appellant] delinquent on [28]
+
+separate offenses under the Game and Wildlife Code [was] a palpable abuse
+
+of discretion.” See id. at 45 and 36-45. This claim is waived, as Appellant
+
+did not raise the claim with the Juvenile Court.6 See Pa.R.J.C.P. 415(A) and
+____________________________________________
+
+5 For ease of discussion, we have renumbered Appellant’s claims on appeal.
+
+6 During the September 5, 2024 adjudicative hearing, Appellant made the
+following oral motion to the Juvenile Court:
+
+[Appellant moves] for the [Juvenile Court] to reconsider its [order]
+substantiating the allegations in this matter based on [Appellant’s]
+assertion that his prior counsel failed to raise issues with the
+Commonwealth’s witnesses and whether or not they were on
+(Footnote Continued Next Page)
+
+- 10 -
+
+J-S15015-25
+
+cmt. (“[t]he purpose of [Rule 415] is to make it clear that a challenge to the
+
+weight of the evidence must be raised with the juvenile court judge or it will
+
+be waived”).
+
+Next, Appellant claims that the Juvenile Court erred when it denied his
+
+motion to dismiss, based upon an alleged violation of his Sixth Amendment
+
+right to a speedy trial or adjudicative hearing. See Appellant’s Brief at 23.
+
+“In evaluating speedy trial issues, our standard of review is whether the
+
+trial court abused its discretion, and our scope of review is limited to the trial
+
+court’s findings and the evidence on the record, viewed in the light most
+
+favorable to the prevailing party.” Commonwealth v. Wholaver, 989 A.2d
+
+883, 899 (Pa. 2010). “Discretion is abused when the course pursued
+
+represents not merely an error of judgment, but where the judgment is
+
+manifestly unreasonable or where the law is not applied or where the record
+
+shows that the action is a result of partiality, prejudice, bias or ill will.”
+
+____________________________________________
+
+psychedelics at the time of the alleged incidents, which would
+obviously cut to credibility.
+
+N.T. Hearing, 9/5/24, at 8-9.
+
+This motion questions the effectiveness of Appellant’s prior counsel and
+whether the Commonwealth’s witnesses should have been believed, as “they
+were on psychedelics at the time of the alleged incidents,” but it does not
+assert a claim that “the Juvenile Court’s reliance on [Mr.] Roland’s testimony
+to substantiate and adjudicate [Appellant] delinquent on [28] separate
+offenses under the Game and Wildlife Code [was] a palpable abuse of
+discretion.” See Appellant’s Brief at 45. Therefore, the weight claim Appellant
+currently raises on appeal is waived. See Pa.R.J.C.P. 415(A).
+
+- 11 -
+
+J-S15015-25
+
+Commonwealth v. Jeter, 296 A.3d 1187, 1192 (Pa. Super. 2023) (quotation
+
+marks and citations omitted). “A [determination] by an appellate court that
+
+it would have reached a different result than the trial court does not constitute
+
+a finding of an abuse of discretion. Where the record adequately supports the
+
+trial court's reasons and factual [assessments], the court did not abuse its
+
+discretion.” Id. (quotation marks and citations omitted). Importantly,
+
+however, “an error of law constitutes an abuse of discretion.”
+
+Commonwealth v. Akrie, 159 A.3d 982, 988 n.6 (Pa. Super. 2017); see
+
+also Temple Estate of Temple v. Providence Care Ctr., LLC, 233 A.3d
+
+750, 764 (Pa. 2020) (“[i]n addition to legal error, an abuse of discretion occurs
+
+where the judgment exercised is manifestly unreasonable, or the result of
+
+partiality, prejudice, bias or ill-will”) (quotation marks and citations omitted).
+
+As Pennsylvania Rule of Juvenile Court Procedure 404(B) provides,
+
+where “the juvenile is not detained, the adjudicatory hearing shall be held
+
+within a reasonable time.” Pa.R.J.C.P. 404(B). In Commonwealth v.
+
+Dallenbach, 729 A.2d 1218 (Pa. Super. 1999), this Court recognized that the
+
+prompt trial rule, contained in the Pennsylvania Rules of Criminal Procedure,
+
+does not apply to juvenile proceedings. Commonwealth v. Dallenbach, 729
+
+A.2d 1218, 1219 (Pa. Super. 1999); see also Pa.R.Crim.P. 100 (“[u]nless
+
+otherwise specifically provided, [the Rules of Criminal Procedure] shall not
+
+apply to juvenile or domestic relations proceedings”); Commonwealth v.
+
+Sloan, 907 A.2d 460, 468 (Pa. 2006) (“while Rule 600 generally protects a
+
+defendant's right to a speedy trial, there is no constitutional significance to
+
+- 12 -
+
+J-S15015-25
+
+the number of days or the procedure chosen by the [Pennsylvania Supreme]
+
+Court in enacting [Rule 600]”). Nevertheless, Dallenbach held that “the due
+
+process clause of the 14th Amendment makes applicable to juveniles a 6th
+
+Amendment speedy trial right in delinquency proceedings.” Dallenbach, 729
+
+A.2d at 1222. Further, Dallenbach held that, in determining whether a
+
+juvenile has been deprived of this right, a court must employ the balancing
+
+test stated in Barker v. Wingo, 407 U.S. 514 (1972), and must weigh the
+
+following four, related factors: 1) the length of the delay; 2) the reason for
+
+the delay; 3) the juvenile’s assertion of his right; and, 4) the prejudice to the
+
+juvenile. Dallenbach, 729 A.2d at 1222; see also Barker v. Wingo, 407
+
+U.S. 514 (1972).
+
+Barker concerned an adult murder trial. In its opinion, the United
+
+States Supreme Court formulated a balancing test that courts must apply
+
+when determining whether a defendant’s constitutional right to a speedy trial
+
+has been violated. As the Barker Court initially explained:
+
+A balancing test necessarily compels courts to approach
+speedy trial cases on an ad hoc basis. We can do little more
+than identify some of the factors which courts should assess
+in determining whether a particular defendant has been
+deprived of his right. Though some might express them in
+different ways, we identify four such factors: length of delay,
+the reason for the delay, the defendant's assertion of his
+right, and prejudice to the defendant.
+
+Barker, 407 U.S. at 530.
+
+Moreover, the Barker Court provided some guidance as to how a court
+
+should consider the four, relevant factors:
+
+- 13 -
+
+J-S15015-25
+
+The length of the delay is to some extent a triggering
+mechanism. Until there is some delay which is presumptively
+prejudicial, there is no necessity for inquiry into the other
+factors that go into the balance. Nevertheless, because of
+the imprecision of the right to speedy trial, the length of delay
+that will provoke such an inquiry is necessarily dependent
+upon the peculiar circumstances of the case. To take but one
+example, the delay that can be tolerated for an ordinary
+street crime is considerably less than for a serious, complex
+conspiracy charge.
+
+Closely related to length of delay is the reason the
+government assigns to justify the delay. Here, too, different
+weights should be assigned to different reasons. A deliberate
+attempt to delay the trial in order to hamper the defense
+should be weighted heavily against the government. A more
+neutral reason such as negligence or overcrowded courts
+should be weighted less heavily but nevertheless should be
+considered since the ultimate responsibility for such
+circumstances must rest with the government rather than
+with the defendant. Finally, a valid reason, such as a missing
+witness, should serve to justify appropriate delay.
+
+. . . Whether and how a defendant asserts his right [to a
+speedy trial] is closely related to the other factors we have
+mentioned. The strength of [the defendant’s] efforts will be
+affected by the length of the delay, to some extent by the
+reason for the delay, and most particularly by the personal
+prejudice, which is not always readily identifiable, that he
+experiences. The more serious the deprivation, the more
+likely a defendant is to complain. The defendant's assertion
+of his speedy trial right, then, is entitled to strong evidentiary
+weight in determining whether the defendant is being
+deprived of the right. We emphasize that failure to assert
+the right will make it difficult for a defendant to prove that he
+was denied a speedy trial.
+
+A fourth factor is prejudice to the defendant. Prejudice, of
+course, should be assessed in the light of the interests of
+defendants which the speedy trial right was designed to
+protect. [The United States Supreme] Court has identified
+three such interests: (i) to prevent oppressive pretrial
+incarceration; (ii) to minimize anxiety and concern of the
+
+- 14 -
+
+J-S15015-25
+
+accused; and (iii) to limit the possibility that the defense will
+be impaired. Of these, the most serious is the last, because
+the inability of a defendant adequately to prepare his case
+skews the fairness of the entire system. If witnesses die or
+disappear during a delay, the prejudice is obvious. There is
+also prejudice if defense witnesses are unable to recall
+accurately events of the distant past. Loss of memory,
+however, is not always reflected in the record because what
+has been forgotten can rarely be shown.
+
+Barker, 407 U.S. at 530-532 (footnotes omitted).
+
+The Barker Court emphasized that “none of the four factors identified
+
+above [are] either a necessary or sufficient condition to the finding of a
+
+deprivation of the right of speedy trial. Rather, they are related factors and
+
+must be considered together with such other circumstances as may be
+
+relevant.” Id. at 533.
+
+In this case, Appellant moved, at the beginning of the adjudicatory
+
+hearing, to dismiss the delinquency petition, based upon an alleged violation
+
+of his Sixth Amendment right to a speedy trial. As is relevant to the current
+
+appeal, Appellant’s pre-hearing claim asserted that a lengthy, unjustified
+
+delay caused him to suffer prejudice because he would turn 21 years old less
+
+than one month after the hearing – thus thwarting the rehabilitative purpose
+
+behind the Juvenile Act and the delinquency proceedings. See N.T.
+
+Adjudicatory Hearing, 8/27/24, at 4-5; see also Appellant’s Brief at 30. The
+
+Juvenile Court denied Appellant’s motion and, in its opinion to this Court, the
+
+Juvenile Court held that Appellant’s argument failed as a matter of law
+
+- 15 -
+
+J-S15015-25
+
+because Pennsylvania does not recognize Appellant’s claim of prejudice.7 See
+
+Trial Court Opinion, 12/4/24, at 4.
+
+On appeal, Appellant generally claims that the Juvenile Court erred in
+
+weighing the factors relevant to his speedy trial claim and Appellant
+
+specifically claims that the Juvenile Court erred as a matter of law in
+
+concluding that “Pennsylvania jurisprudence does not hold that losing any
+
+rehabilitative benefits of probation and facing civil judgment for fines, costs,
+
+and restitution owed is not the type of prejudice that makes proceedings
+
+fundamentally unfair to a juvenile.” Appellant’s Brief at 33 (quotation marks
+
+and corrections omitted). We agree with Appellant and respectfully conclude
+
+that the Juvenile Court erred as a matter of law when it held that Appellant’s
+
+claim of prejudice was insufficient under Pennsylvania law. Thus, we remand
+
+this case to the Juvenile Court so that it may, in the first instance, consider
+
+Appellant’s claim of prejudice and weigh the relevant factors to assess
+
+Appellant’s speedy trial claim. Our analysis begins with applying the facts of
+
+this case to the four Barker factors. As explained above, these factors are:
+
+1) the length of the delay; 2) the reason for the delay; 3) the juvenile’s
+
+assertion of his right; and, 4) the prejudice to the juvenile. Dallenbach, 729
+
+A.2d at 1222; see also Barker, 407 U.S. at 514.
+
+____________________________________________
+
+7 Recall that Appellant’s claim of prejudice centered upon the contention that
+
+the brief period between the September 5, 2024 dispositional order and his
+21st birthday later in September allowed too little time to benefit from
+rehabilitative supervision. See N.T. Adjudicatory Hearing, 8/27/24, at 4.
+
+- 16 -
+
+J-S15015-25
+
+Here, the juvenile delinquency proceeding against Appellant
+
+commenced on March 22, 2022, when the written allegation was submitted
+
+against Appellant. See Pa.R.J.C.P. 200(1) (“[j]uvenile delinquency
+
+proceedings within a district shall be commenced by . . . submitting a written
+
+allegation pursuant to Rule 231”). Appellant’s adjudicatory hearing did not
+
+occur until August 27, 2024. This constitutes a delay of 901 days (or, 29
+
+months and 17 days) from the time the juvenile delinquency proceedings
+
+against Appellant commenced until the time of Appellant’s adjudicatory
+
+hearing. In the language of Barker, the lengthy delay in this case is
+
+“presumptively prejudicial,” thus necessitating further “inquiry into the other
+
+factors that go into the balanc[ing test].” See Barker, 407 U.S. at 530; c.f.
+
+Pa.R.Crim.P. 600(A)(2) (providing the general rule that trial in an adult
+
+criminal case must commence within 365 days from the date on which the
+
+criminal complaint is filed against the defendant).
+
+We reach this conclusion as to the first speedy trial factor in view of the
+
+particular circumstances before us, the guidance offered in Barker, and a
+
+prior decision of this Court. Barker characterized length-of-delay as a trigger
+
+mechanism, noting that “because of the imprecision of the right to speedy
+
+trial, the length of [a constitutionally intolerable] delay that will provoke
+
+[further] inquiry is necessarily dependent upon the peculiar circumstances of
+
+the case.” Barker, 407 U.S. at 530. In Dallenbach, a total of 18 months
+
+elapsed from the commencement of the delinquency proceedings until the
+
+adjudicatory hearing. See Dallenbach, 729 A.2d at 1218-1219. The
+
+- 17 -
+
+J-S15015-25
+
+Dallenbach panel labeled the length of this delay “extraordinary” and
+
+reasoned:
+
+We are aware of no case where a due process right in a
+juvenile case was recognized or in which the juvenile in a
+delinquency proceeding received less consideration than an
+adult in a criminal case of similar circumstances. In a case
+where, without justification, a person charged with a crime
+as an adult, who through no fault of his own, is not brought
+to trial within 365 days (when not incarcerated), or 180 days
+(when incarcerated), . . . he is entitled to dismissal of the
+charges. Here, the unjustified delay was one and one-half []
+years, more than 540 days.
+
+Id. at 1225. Given our observation in Dellenbach and the delay in
+
+proceeding to Appellant’s adjudicatory hearing, an assessment of Barker’s
+
+additional three factors must be undertaken here.
+
+Regarding the “reason the government assigns to justify the delay,” we
+
+note that, on June 9, 2022, the Juvenile Court continued, generally, the
+
+proceedings against Appellant because “extensive discovery will be necessary
+
+prior to the [adjudicatory] hearing.” Juvenile Court Order, 6/15/22, at 1.
+
+Further, within its order, the Juvenile Court noted that Appellant “waived any
+
+specific time requirements for the scheduling and conducting of [the
+
+adjudicatory] hearing.” See id.
+
+As Appellant correctly notes, however, from January 5, 2023 onward,
+
+the proceedings were continued without his express consent and for no
+
+articulated reason given by the Commonwealth. See N.T. Adjudicatory
+
+Hearing, 8/27/24, at 4 (Appellant argued: “[w]e would submit that
+
+[Appellant] indicated at least by January of 2023 that he was asking for a
+
+- 18 -
+
+J-S15015-25
+
+contested hearing, a contested finding of fact in this matter. We are not sure
+
+of any reason for delay in the trial from that time period”); see also N.T.
+
+Adjudicatory Hearing, 8/27/24, at 6-7 (the Commonwealth provided no
+
+explanation for the delay during argument on Appellant’s speedy trial motion);
+
+Juvenile Court Order, 1/5/23, at 1-2 (providing no reason for the
+
+continuance); Juvenile Court Order, 11/30/23, at 1-2 (providing no reason for
+
+the continuance).
+
+In its opinion, the Juvenile Court noted that Appellant’s case was
+
+complicated by the fact that “there were four other individuals involved in this
+
+case charged with delinquent or criminal behavior and numerous incidents
+
+were involved.” Juvenile Court Opinion, 12/4/24, at 4; see also N.T.
+
+Adjudicatory Hearing, 8/27/24, at 8. Nevertheless, there were 600 days of
+
+essentially unexplained delay from January 5, 2023 until the adjudicatory
+
+hearing of August 27, 2024. This constitutes over 19 months of delay without
+
+exposition from the Commonwealth.
+
+Regarding the third factor, Appellant asserted his right to a speedy trial
+
+in a timely fashion, by orally moving for the dismissal of the petition at the
+
+beginning of the adjudicatory hearing. See N.T. Adjudicatory Hearing,
+
+8/27/24, at 4-5; see also Pa.R.J.C.P. 344(A) (“[a]ll motions and answers shall
+
+be made orally on the record or in writing”); Pa.R.J.C.P. 344 cmt. (“oral
+
+motions and answers are permitted because of the emphasis on prompt
+
+disposition in Juvenile Court”).
+
+- 19 -
+
+J-S15015-25
+
+The fourth and final Barker factor concerns prejudice to the juvenile.
+
+As noted above, in this case, Appellant claimed that the Commonwealth’s
+
+unjustified delay prejudiced him because he turned 21 years old shortly after
+
+the adjudicatory hearing and, thus, the delay caused him to lose substantial
+
+rehabilitative benefits from the juvenile system. See N.T. Adjudicatory
+
+Hearing, 8/27/24, at 4-5. The Juvenile Court denied Appellant’s claim
+
+because, it concluded, “Pennsylvania jurisprudence does not hold that [the
+
+loss of rehabilitative benefits] is the type of prejudice that makes proceedings
+
+fundamentally unfair to a juvenile.” Juvenile Court Opinion, 12/4/24, at 4.
+
+We conclude that the Juvenile Court erred in this regard.
+
+It is true that, in Dallenbach, this Court held a juvenile’s Sixth
+
+Amendment speedy trial claim must be analyzed in accordance with Barker’s
+
+four-factor balancing test. Further, in Barker, the United States Supreme
+
+Court held that the “prejudice” factor
+
+should be assessed in the light of the interests of defendants
+which the speedy trial right was designed to protect. [The
+United States Supreme] Court has identified three such
+interests: (i) to prevent oppressive pretrial incarceration; (ii)
+to minimize anxiety and concern of the accused; and (iii) to
+limit the possibility that the defense will be impaired.
+
+Barker, 407 U.S. at 532.
+
+Read strictly, neither Barker nor Dallenbach expressly hold that the
+
+loss of rehabilitative benefit can support a juvenile’s Sixth Amendment speedy
+
+trial claim. It must be remembered, however, that Barker was not a juvenile
+
+case. Thus, the Barker Court was not called upon to identify interests that
+
+- 20 -
+
+J-S15015-25
+
+specifically apply to juveniles. Further, in Dallenbach, the juvenile defendant
+
+claimed that the delay caused him prejudice because his witness was “now
+
+unavailable to testify.” See Dallenbach, 729 A.2d at 1222. This claim
+
+squarely implicates the third prejudicial interest identified by Barker, as the
+
+loss of the witness impaired Dallenbach’s defense. See Barker, 407 U.S. at
+
+532 (identifying “impairment of the defense” as an interest “which the speedy
+
+trial right was designed to protect”). Thus, the Dallenbach panel also did not
+
+have the opportunity to expound upon the unique form of prejudice alleged
+
+here.
+
+As the District of Columbia Court of Appeals declared: “[a]lthough the
+
+[Barker] factors used in evaluating speedy trial claims for criminal defendants
+
+are instructive, for purposes of consideration of a claim of a juvenile in a
+
+delinquency proceeding, they must be considered and applied in a manner
+
+which is consistent with the goals and purposes of our juvenile system.” In
+
+re D.H., 666 A.2d 462, 473 (D.C. 1995). To be sure, we have held that “the
+
+juvenile court system is markedly different from the criminal court system.”
+
+In re J.B., 39 A.3d 421, 426 (Pa. Super. 2012). Importantly, “[t]he purpose
+
+of juvenile proceedings is to seek treatment, reformation and rehabilitation,
+
+and not to punish.” Id. at 427; see also 42 Pa.C.S.A. § 6301(b)(2) (declaring
+
+that one of the purposes of the Juvenile Act is “to provide for children
+
+committing delinquent acts programs of supervision, care and rehabilitation
+
+which provide balanced attention to the protection of the community, the
+
+imposition of accountability for offenses committed and the development of
+
+- 21 -
+
+J-S15015-25
+
+competencies to enable children to become responsible and productive
+
+members of the community”); In re Iafrate, 594 A.2d 293, 295 (Pa. 1991)
+
+(“our juvenile justice system is primarily rehabilitative in nature”).
+
+“The rehabilitative purpose of the Juvenile Act is attained through
+
+accountability and the development of personal qualities that will enable the
+
+juvenile offender to become a responsible and productive member of the
+
+community.” In re R.D.R., 876 A.2d 1009, 1013 (Pa. Super. 2005)
+
+(quotation marks and citations omitted). This is achieved through various
+
+means, including “[p]lacing the child on probation under supervision of the
+
+probation officer of the court,” “[c]ommitting the child to an institution, youth
+
+development center, camp, or other facility for delinquent children,” and
+
+“[o]rdering payment by the child of reasonable amounts of money as fines,
+
+costs, fees or restitution.” See 42 Pa.C.S.A. § 6352(a).
+
+However, the Juvenile Act only applies to individuals who are under the
+
+age of 21. See 42 Pa.C.S.A. § 6302. The Juvenile Court thus loses jurisdiction
+
+over the individual when they have “attained the age of twenty-one.”
+
+Pa.R.J.C.P. 630 (“[w]hen the juvenile has attained the age of twenty-one, the
+
+court shall enter an order terminating court supervision of the juvenile”).
+
+Delay in holding the adjudicatory hearing can potentially have a negative
+
+impact upon the juvenile’s rehabilitation, as it lessens the amount of time the
+
+juvenile is subject to the “programs of supervision, care and rehabilitation”
+
+ordered by the Juvenile Court – and potentially limits the type of treatment
+
+that is even available for the juvenile. See 42 Pa.C.S.A. § 6301(b)(2).
+
+- 22 -
+
+J-S15015-25
+
+Given the purposes of – and the time constraints inherent in – the
+
+juvenile system, we conclude that the ability to be rehabilitated is, for
+
+juveniles, an additional “interest[] . . . which the speedy trial right was
+
+designed to protect.” See Barker, 407 U.S. at 532. Therefore, we conclude
+
+that the loss of rehabilitative benefits constitutes a colorable basis of concern
+
+that a Juvenile Court must weigh in analyzing the “prejudice” prong of
+
+Barker’s balancing test in the context of a delinquency proceeding.
+
+We respectfully conclude that the Juvenile Court erred as a matter of
+
+law when it held “Pennsylvania jurisprudence does not hold that [the loss of
+
+rehabilitative benefits] is the type of prejudice that makes proceedings
+
+fundamentally unfair to a juvenile” for speedy trial purposes. Juvenile Court
+
+Opinion, 12/4/24, at 4. Thus, we vacate that particular order and remand this
+
+case to the Juvenile Court, so that it may, in the first instance, consider
+
+Appellant’s claim of prejudice and weigh the relevant factors to assess
+
+Appellant’s speedy trial claim.8
+____________________________________________
+
+8 Although Appellant has reached the age of majority, his claim on appeal is
+
+not moot, as Appellant “was under the age of [21] when the [Juvenile Court]
+entered its order” and Appellant is still subject to certain aspects of the
+Juvenile Court’s dispositional order, including the 50-year prohibition on his
+hunting and trapping privileges and the now civil judgment that Appellant
+must pay as a result of the restitution, fines, and costs ordered by the Juvenile
+Court. See 42 Pa.C.S.A. § 6352(a)(5) (“[a]ny restitution order which remains
+unpaid at the time the child attains 21 years of age shall continue to be
+collectible under [42 Pa.C.S.A. §] 9728 (relating to collection of restitution,
+reparation, fees, costs, fines and penalties)”); 42 Pa.C.S.A. § 9728(a)(1); see
+also In re E.F., 995 A.2d 326, 332 (Pa. 2010) (holding the issue of “whether
+the Superior Court erred by concluding that the [Juvenile Court] abused its
+(Footnote Continued Next Page)
+
+- 23 -
+
+J-S15015-25
+
+Order denying Appellant’s speedy trial claim vacated. Case remanded.
+
+Jurisdiction relinquished.
+
+DATE: 8/7/2025
+
+____________________________________________
+
+discretion by denying the Commonwealth’s certification petition” to the adult
+criminal court was not moot, even though the juvenile had turned 21 years
+old because: “[the juvenile] was under the age of [21] when the [Juvenile
+Court] entered its order” and “[i]t is undeniable that [the juvenile] will be
+affected by the outcome of [the] appeal, as [the Supreme Court’s] ruling will
+determine whether he is prosecuted for sexual assault in adult criminal
+court”).
+
+- 24 -

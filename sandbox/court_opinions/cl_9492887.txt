@@ -1,0 +1,155 @@
+=========================================================
+Case: Quartes Williams v. Brandon Watwood, Warden
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-04-11
+Citations: 
+URL: https://www.courtlistener.com/opinion/9492887/quartes-williams-v-brandon-watwood-warden/
+Source Query: murder conviction appeal
+=========================================================
+
+04/11/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Brief March 5, 2024
+
+QUARTES WILLIAMS v. BRANDON WATWOOD, WARDEN
+
+Appeal from the Circuit Court for Lake County
+No. 23-CR-10936 Mark L. Hayes, Judge
+
+No. W2023-01330-CCA-R3-HC
+
+The Petitioner, Quartes Williams, appeals the Lake County Circuit Court’s summary
+dismissal of his petition for a writ of habeas corpus from his convictions for first degree
+murder during the perpetration of a robbery and facilitation of especially aggravated
+robbery. The Petitioner contends that the habeas corpus court erred by summarily
+dismissing his petition. We affirm the judgment of the habeas corpus court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+ROBERT H. MONTGOMERY, JR., J., delivered the opinion of the court, in which ROBERT L.
+HOLLOWAY, JR., and JILL BARTEE AYERS, JJ., joined.
+
+Quartes Williams, Tiptonville, Tennessee, Pro Se.
+
+Jonathan Skrmetti, Attorney General and Reporter; Ronald L. Coleman and Brent C.
+Cherry, Senior Assistant Attorneys General; and Danny Goodman, Jr., District Attorney
+General.
+
+OPINION
+
+On July 18, 2008, a Shelby County jury convicted the Petitioner of first degree
+murder during the perpetration of a robbery and facilitation of especially aggravated
+robbery. The Petitioner received an effective sentence of life imprisonment. The
+Petitioner’s convictions were affirmed on appeal. See State v. Quartes Williams, No.
+W2008-01946-CCA-R3-CD, 2009 WL 2971046 (Tenn. Crim. App. Sept. 14, 2009),
+perm. app. denied (Tenn. Feb. 22, 2010). On August 15, 2023, the Petitioner filed a
+
+petition for a writ of habeas corpus, which the habeas corpus court summarily denied.
+This appeal followed.
+
+The Petitioner contends that the habeas corpus court erred by dismissing his
+petition without appointing counsel, conducting an evidentiary hearing, or making
+specific findings of fact and conclusions of law. Specifically, the Petitioner alleges that
+(1) his judgments are “void and illegal as being the result of [an] invalid indictment”; (2)
+his judgments are void because facilitation is a “nonexistent crime”; and (3) his
+judgments are void because the offense dates “overlap each other.” The State responds
+that the habeas corpus court did not err in dismissing the petition because it failed to state
+a cognizable claim. We agree with the State.
+
+Habeas corpus relief is generally available to “[a]ny person imprisoned or
+restrained of liberty” whose judgment is void or whose sentence has expired. T.C.A. §
+29-21-101 (2018); see Tucker v. Morrow, 335 S.W.3d 116, 119-20 (Tenn. Crim. App.
+2009). A petitioner has the burden of proving by a preponderance of the evidence that a
+judgment is void or that a sentence has expired. State v. Davenport, 980 S.W.2d 407, 409
+(Tenn. Crim. App. 1998). A void judgment exists if it appears from the face of the
+judgment or the record that the convicting court lacked jurisdiction or authority to
+sentence the defendant or that the defendant’s sentence has expired. Archer v. State, 851
+S.W.2d 157, 161 (Tenn. 1993); see Moody v. State, 160 S.W.3d 512, 515 (Tenn. 2005).
+In contrast, “[a] voidable judgment is one that is facially valid and requires proof beyond
+the face of the record or judgment to establish its invalidity.” Summers v. State, 212
+S.W.3d 251, 256 (Tenn. 2007); see State v. Ritchie, 20 S.W.3d 624, 630 (Tenn. 2000).
+
+Post-conviction relief, not habeas corpus relief, is the appropriate avenue of relief
+for certain voidable judgments. See T.C.A. § 40-30-103 (2018); Vaughn v. State, 202
+S.W.3d 106, 115 (Tenn. 2006). A habeas corpus court may dismiss a petition for relief
+without an evidentiary hearing or the appointment of counsel when the petition fails to
+state a cognizable claim. Yates v. Parker, 371 S.W.3d 152, 155 (Tenn. Crim. App. 2012);
+see T.C.A. § 29-21-109 (2012). The question of whether habeas corpus relief should be
+granted is a question of law, and this court will review the matter de novo without a
+presumption of correctness. Hogan v. Mills, 168 S.W.3d 753, 755 (Tenn. 2005).
+
+The Petitioner alleges his judgments are void and illegal because they are the
+result of an invalid indictment. According to the Petitioner, “[h]is judgments are void
+and illegal as being the result of invalid indictment being the result of a constructive
+amendment, which was amended without being resubmitted to the grand jury.”
+The Petitioner contends that the indictment was not consistent with the applicable law,
+the jury instructions, or the verdict.
+
+-2-
+
+The Petitioner and his codefendant were indicted for first degree murder during an
+attempt to perpetrate robbery. See T.C.A. § 39-13-202. The Petitioner and his
+codefendant were also charged with especially aggravated robbery. See id. § 39-13-403.
+Because facilitation of especially aggravated robbery is a lesser-included offense of
+especially aggravated robbery, no amendment to the indictment was necessary. “[T]he
+accused may be convicted only of an offense enumerated in the indictment, or an offense
+that qualifies as a lesser-included offense thereof.” State v. Wilson, 92 S.W.3d 391, 394
+(Tenn. 2002). Further, “[t]he felony murder statute does not require that a defendant who
+is charged with first degree felony murder also be charged in a separate count of the
+indictment with the attempt or perpetration of the underlying felony[.]” State v. Michael
+Lambdin, No. E2014-00547-CCA-R3-CD, 2015 WL 1897461, at *5 (Tenn. Crim. App.
+Apr. 27, 2015). The judgments reflected the jury’s verdict and were consistent with the
+law. The Petitioner has failed to state a cognizable claim for habeas corpus relief. The
+habeas corpus court did not err in summarily dismissing the petition on this basis.
+
+The Petitioner also contends that “facilitation” is a “nonexistent” crime.
+Tennessee Code Annotated section 39-11-403 provides the elements necessary for a
+facilitation of a felony:
+
+(a) A person is criminally responsible for the facilitation of a felony,
+if, knowing that another intends to commit a specific felony, but without
+the intent required for criminal responsibility under § 39-11-402(2), the
+person knowingly furnishes substantial assistance in the commission of the
+felony.
+
+(b) The facilitation of the commission of a felony is an offense of the
+class next below the felony facilitated by the person so charged.
+
+The judgment for facilitation of especially aggravated robbery reflects the jury’s verdict.
+The Petitioner has failed to state a cognizable claim for habeas corpus relief. The habeas
+corpus court did not err in summarily dismissing the petition on this basis.
+
+The Petitioner contends that his judgments are void because the offense dates
+“overlap each other.” The judgment for first degree murder reflects an offense date of
+November 13-16, 2006, and the judgment for facilitation of especially aggravated
+robbery reflects an offense date of November 15, 2006. As noted by the habeas corpus
+court, “[t]here is no conflict in the dates. The jury could very well have convicted the
+petitioner of both offenses without the finding of a specific date.” This court previously
+concluded that the evidence at the trial was sufficient to support the Petitioner’s
+convictions. See Quartes Williams, 2009 WL 2971046. Further, any claim of
+insufficiency of the evidence would render the judgments voidable and not void. See
+Taylor v. State, 995 S.W.2d 78, 83 (Tenn. 1999) (citing Potts v. State, 833 S.W.2d 60, 62
+
+-3-
+
+(Tenn. 1992)); Anthony Bowen v. Howard Carlton, Warden, No. E2007-01845-CCA-R3-
+HC, 2008 WL 450630, at *3 (Tenn. Crim. App. Feb. 20, 2008) (citation omitted) (“Any
+determination of the merits of such a claim would require us to look beyond the face of
+the judgments; therefore, it is not a cognizable claim for habeas corpus relief.”), perm.
+app. denied (Tenn. May 5, 2008). The Petitioner has failed to state a cognizable claim
+for habeas corpus relief. The habeas corpus court did not err in summarily dismissing the
+petition on this basis.
+
+A habeas corpus court may dismiss a petition for relief without an evidentiary
+hearing or the appointment of counsel when the petition fails to state a cognizable claim.
+Yates, 371 S.W.3d at 155. The habeas corpus court did not err by summarily dismissing
+the petition. The Petitioner is not entitled to relief.
+
+In consideration of the foregoing and the record as a whole, the judgment of the
+habeas corpus court is affirmed.
+
+____________________________________
+ROBERT H. MONTGOMERY, JR., JUDGE
+
+-4-

@@ -1,0 +1,433 @@
+=========================================================
+Case: State v. Wilson
+Court: Ohio Court of Appeals
+Date Filed: 2023-04-03
+Citations: 2023 Ohio 1111
+URL: https://www.courtlistener.com/opinion/9388951/state-v-wilson/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Wilson, 2023-Ohio-1111.]
+
+IN THE COURT OF APPEALS
+
+TWELFTH APPELLATE DISTRICT OF OHIO
+
+BUTLER COUNTY
+
+STATE OF OHIO, :
+
+Appellee, : CASE NO. CA2021-12-152
+
+: OPINION
+- vs - 4/3/2023
+:
+
+CAMERON TREITAY KIDD WILSON, :
+
+Appellant. :
+
+CRIMINAL APPEAL FROM BUTLER COUNTY COURT OF COMMON PLEAS
+Case No. CR2020-12-1581
+
+Michael T. Gmoser, Butler County Prosecuting Attorney, and John C. Heinkel, Assistant
+Prosecuting Attorney, for appellee.
+
+Law Office of John H. Forg, and John H. Forg, III, for appellant.
+
+BYRNE, J.
+
+{¶1} Appellant, Cameron Treitay Kidd Wilson, appeals from his conviction of two
+
+counts of murder and two counts of felonious assault related to the fatal shooting of Darrien
+
+Shamel. For the reasons set forth below, we affirm Wilson's convictions.
+
+Butler CA2021-12-152
+
+I. Procedural and Factual Background
+
+{¶2} In the early morning hours of June 2, 2020, Darrien Shamel was shot and
+
+killed in the doorway of his apartment with a 9 mm handgun. His mother called the police
+
+around 12:36 a.m. and officers arrived on the scene within minutes. In December of 2020,
+
+a Butler County grand jury indicted Wilson on two counts of murder and two counts of
+
+felonious assault.
+
+{¶3} During a five-day trial, the state presented testimony from Daija Smith,
+
+Shamel's girlfriend, who testified that she was inside Shamel's apartment in view of the front
+
+door when Shamel answered the door. She stated that when Shamel opened the door, a
+
+tall white male, Blake Michels, gave Shamel a "dap hug."1 At that same time, a lighter-
+
+skinned black male standing behind Michels, wearing all black clothing and a black beanie,
+
+shot Shamel twice—once in the head and once in the neck.
+
+{¶4} The state also presented testimony from Officer Sean Figley who arrived at
+
+the scene just minutes after the shooting. Smith informed Officer Figley that a lighter-
+
+skinned black male shot Shamel. Testimony from Detective Robert Horton confirmed that
+
+investigators recovered two 9 mm shell casings at the scene of the shooting.
+
+{¶5} The state presented the testimony of Blake Michels, who alleged that the
+
+following events occurred: Wilson picked up Michels and a friend, Camden Timenfeld2,
+
+from Michels' home in Delhi. The three then traveled together in Wilson's car to several
+
+different locations before going to Hamilton so that Michels could purchase acid from
+
+Shamel. At some point during the evening, Wilson put on a black hoodie. He was also
+
+wearing a toboggan. When they arrived at Shamel's apartment, Michels and Wilson got
+
+1. A "dap hug" is described by the witness to be a type of handshake where the individuals pull one another
+toward each other.
+
+2. The record contains different spellings of this name.
+
+-2-
+
+Butler CA2021-12-152
+
+out of the car and went to the front door. Timenfeld remained in the car. When Shamel
+
+opened the door, Michels gave him a "dap hug," and at that point Wilson, who was standing
+
+behind Michels, shot Shamel twice. Wilson told Michels to run. They returned to Wilson's
+
+car and Wilson drove back to his home in Harrison. When they arrived, Michels and
+
+Timenfeld remained in the car, and as Wilson exited the car, Michels saw an all-black
+
+firearm. Wilson remained inside his home for roughly five minutes before returning to the
+
+car to drive Michels and Timenfeld back to Michels' home in Delhi. In addition to this
+
+testimony, Michels also admitted that he was not truthful with the police during his initial
+
+interviews.
+
+{¶6} Wilson testified in his own defense and denied that he was present at the
+
+scene of the shooting. He stated that he picked up Michels and Timenfeld from Michels'
+
+home earlier in the evening of June 1, but that he dropped them both off in Hamilton around
+
+11:30 p.m. before returning to his home. He claims to have returned home around 12:15
+
+a.m., where he spoke with his younger brother for a few minutes before driving to his
+
+girlfriend's house.
+
+{¶7} On cross-examination, the prosecutor asked Wilson if he had access to any
+
+firearms and if he ever wore a black toboggan. Wilson responded that he owned a shotgun
+
+and two handgun cases, one of which was found empty during a search of Wilson's room.
+
+He also testified that he normally does not wear a black toboggan. Wilson was then asked
+
+about a video on his cell phone that showed him wearing a black beanie and waiving a 9
+
+mm handgun. Wilson did not deny the existence of the video or dispute its contents.
+
+{¶8} The defense also presented the testimony of two alibi witnesses. Wilson's
+
+mother, Pet Davis, testified that she saw Wilson at home, lying in bed, at 12:09 a.m. on the
+
+morning of the shooting. Wilson's younger brother, Cory Kidd, testified that Wilson was at
+
+home until 12:15 a.m., when Wilson left to go hang out with his girlfriend. He stated that
+
+-3-
+
+Butler CA2021-12-152
+
+Wilson returned home around 12:45 a.m. and went to bed around 1:30 a.m.
+
+{¶9} The state presented rebuttal evidence from Lance Kepple, a special agent
+
+with the Federal Bureau of Investigation's Cellular Analysis Survey Team (CAST). Special
+
+Agent Kepple presented his report on the historical cellular analysis for Wilson's and
+
+Michels' phone numbers, based on data obtained from their cellular service providers. The
+
+report showed the general locations of both cell phones on the evening of June 1, 2020,
+
+and into the morning hours of June 2, 2020. The data did not provide pinpoint locations
+
+and instead identified the general area in which the phones were located at times. But in
+
+general, the data suggested that the cell phones of Wilson and Michels were traveling
+
+together from the hours of 8:00 p.m. on June 1, 2020, until roughly 2:00 a.m. on June 2,
+
+2020.
+
+{¶10} According to the report, Wilson's phone was in Hamilton near Shamel's home
+
+at 12:17 a.m. and 12:32 a.m. on the morning of June 2. Michels' phone was in roughly the
+
+same location at 12:34 a.m. The report gave no indication that Wilson's phone was near
+
+his home at 12:15 a.m. or near his girlfriend's house shortly thereafter. Instead, the report
+
+indicated that at 12:56 a.m., both phones were south of Hamilton, but north of Wilson's
+
+home; at 1:24 a.m., both phones were south of Wilson's home but north of Michels' home;
+
+and at 1:58 a.m., both phones were near Michels' home.
+
+{¶11} The jury convicted Wilson on all four counts. The trial court merged allied
+
+offenses and sentenced Wilson to 15 years to life in prison. Wilson now appeals, raising a
+
+single assignment of error for review.
+
+II. Law and Analysis
+
+{¶12} Wilson's Assignment of Error No. 1 states:
+
+{¶13} THE TRIAL COURT ERRED IN CONVICTING WILSON OF MURDER
+
+AGAINST THE MANIFEST WEIGHT OF THE EVIDENCE.
+
+-4-
+
+Butler CA2021-12-152
+
+{¶14} In his assignment of error, Wilson contends that his conviction was against
+
+the manifest weight of the evidence. Wilson disputes the state's reliance on circumstantial
+
+evidence, specifically the state's CAST report, which he alleges "cannot provide Wilson's
+
+exact location" at the time of the shooting. He also takes issue with the testimony of Smith
+
+and Michels. He argues that the descriptions of the shooter given by Smith were
+
+inconsistent and questionable. He also argues that Michels' testimony is the "only evidence
+
+that places Wilson at the scene of the crime," and that his testimony was not credible.
+
+A. Standard of Review
+
+{¶15} We first note that in his appellate brief, Wilson identifies an incorrect standard
+
+for making a manifest weight determination.3 Wilson cites to a sufficiency of the evidence
+
+standard, but "[t]he legal concepts of sufficiency of the evidence and weight of the evidence
+
+are both quantitatively and qualitatively different." State v. Thompkins, 78 Ohio St.3d 380,
+
+386 (1997). Sufficiency is essentially a test of adequacy, asking whether the evidence is
+
+legally sufficient to sustain a verdict. Id.
+
+{¶16} A manifest weight of the evidence challenge examines the "inclination of the
+
+greater amount of credible evidence, offered at a trial, to support one side of the issue rather
+
+than the other." State v. Barnett, 12th Dist. Butler No. CA2011-09-177, 2012-Ohio-2372, ¶
+
+14. To determine whether a conviction is against the manifest weight of the evidence, the
+
+reviewing court must look at the entire record, weigh the evidence and all reasonable
+
+inferences, consider the credibility of the witnesses, and determine whether in resolving the
+
+conflicts in the evidence, the trier of fact clearly lost its way and created such a manifest
+
+miscarriage of justice that the conviction must be reversed, and a new trial ordered. State
+
+3. In that same vein, Wilson also ties this incorrect standard to an improper standard for reasonable doubt,
+stating that reasonable doubt means "without any degree of uncertainty." It is well established that the
+definition of reasonable doubt, as set forth in R.C. 2901.05, is not "mere possible doubt," but instead is "proof
+of such character that an ordinary person would be willing to rely and act upon it in the most important of his
+own affairs." State v. Van Gundy, 64 Ohio St.3d 230, 232 (1992).
+
+-5-
+
+Butler CA2021-12-152
+
+v. Graham, 12th Dist. Warren No. CA2008-07-095, 2009-Ohio-2814, ¶ 66.
+
+{¶17} In reviewing the evidence, an appellate court must be mindful that the original
+
+trier of fact was in the best position to judge the credibility of witnesses and determine the
+
+weight to be given to the evidence. State v. Blankenburg, 197 Ohio App.3d 201, 2012-
+
+Ohio-1289, ¶ 114 (12th Dist.). An appellate court will overturn a conviction due to the
+
+manifest weight of the evidence only in the exceptional case in which the evidence weighs
+
+heavily against the conviction. State v. Zitney, 12th Dist. Clinton No. CA2020-06-007, 2021-
+
+Ohio-466, ¶ 15.
+
+B. Analysis of the Evidence Presented at Trial
+
+{¶18} Wilson alleges that the testimony of Daija Smith was inconsistent with a
+
+previous statement. Smith witnessed the shooting and testified that she saw a lighter-
+
+skinned black male shoot Shamel. Wilson argues that Smith's testimony is inconsistent
+
+with a 9-1-1 phone call, where "she identified the shooter as a white male." However, Smith
+
+did not call the police—Shamel's mother did. Although Shamel's mother was present at the
+
+scene, she did not witness the shooting.
+
+{¶19} Wilson further argues that the state's reliance on Smith's description of the
+
+shooter is inconsistent with other evidence. Smith testified that the shooter was wearing all
+
+black clothing and a black beanie. A Snapchat video of Wilson taken on the evening of
+
+June 1 shows him wearing a white t-shirt and a blue pair of jeans. Wilson asserts that the
+
+Snapchat video shows that he was not wearing the clothing that Smith identified. However,
+
+Wilson admitted that there was a video of him on his own phone showing him wearing a
+
+black beanie and waiving a 9 mm handgun. Further, Michels testified that he saw Wilson
+
+put on a black hoodie and that he was wearing a toboggan at some point during the evening
+
+of June 1, 2020. It is thus reasonable to conclude that Wilson changed his clothes, or added
+
+another layer of clothing, at some point during the evening before arriving at Shamel's
+
+-6-
+
+Butler CA2021-12-152
+
+apartment in Hamilton.
+
+{¶20} Wilson also argues that his conviction is against the manifest weight of the
+
+evidence because the state's case "rests solely on the testimony of witness Blake Michels."
+
+Wilson asserts that Michels' testimony is unreliable because he lied to police during his
+
+initial interviews, and that his testimony is "inconsistent and suspect" because it leaves an
+
+"unexplained time gap" for what happened between the hours of 11:00 p.m. on June 1,
+
+2020, and 12:17 a.m. on June 2, 2020. Wilson argues that his own testimony accounts for
+
+this period of time: he claims to have been at home.
+
+{¶21} Though Wilson argues that Michels' testimony lacked credibility, a conviction
+
+is not against the manifest weight of the evidence simply because the jury believed the
+
+prosecution testimony. State v. Lovelace, 12th Dist. Warren No. CA2022-05-032, 2023-
+
+Ohio-339, ¶ 39, citing State v. Lunsford, 12th Dist. Brown No. CA2010-10-021, 2011-Ohio-
+
+6529, ¶ 17. The trier of fact is in the best position to judge the credibility of the witnesses
+
+and the weight to be given to the evidence. State v. Johnson, 12th Dist. Warren Nos.
+
+CA2019-07-076 and CA2019-08-080, 2020-Ohio-3501, ¶ 24. It is "entirely appropriate for
+
+the trier of fact to believe the testimony of some witnesses while disregarding the testimony
+
+of other witnesses." State v. Lloyd, 12th Dist. Warren Nos. CA2007-04-052 and CA2007-
+
+04-053, 2008-Ohio-3383, ¶ 51. Here, the jury, as the finder of fact, apparently determined
+
+that Michels was credible, and Wilson was not.
+
+{¶22} Wilson also argues that the CAST report prepared by Special Agent Kepple
+
+"cannot pinpoint the exact location of a person making a call, only the general range in
+
+which the call was received." While the CAST report operates as circumstantial evidence
+
+as to Wilson's whereabouts on the night of Shamel's murder, "a defendant's convictions
+
+may be based on circumstantial evidence alone." State v. Haines, 12th Dist. Clermont No.
+
+CA2021-07-040, 2022-Ohio-1145, ¶ 37. "[A] conviction based on purely circumstantial
+
+-7-
+
+Butler CA2021-12-152
+
+evidence is no less sound than one based on direct evidence." State v. Babyak, 12th Dist.
+
+Madison Nos. CA2009-10-023 and CA2010-03-006, 2010-Ohio-3820, ¶ 18.
+
+{¶23} The CAST report showed that the cell phones of Michels and Wilson were
+
+near the scene of the shooting between 12:17 a.m. and 12:34 a.m. on the morning of June
+
+2, 2020. The report gave no indication that Wilson's phone was at his home or near his
+
+girlfriend's house, which is where he claims to have been during that time. Wilson gave no
+
+explanation for why his phone was detected in Hamilton during that time—he simply argues
+
+that the report cannot provide his exact location at the time of the shooting. But while the
+
+report did not provide a precise location, it did identify the general area in which the phone
+
+was located at various times, and it was reasonable for the jury to conclude that those
+
+locations and times were consistent with the state's theory of the case.
+
+{¶24} After reviewing the record, we find that Wilson's convictions were not against
+
+the manifest weight of the evidence. Although the state's case was partially based on
+
+circumstantial evidence, the state presented convincing evidence indicating that Wilson
+
+committed the murder of Darrien Shamel. "Circumstantial evidence and direct evidence
+
+have the same probative value, and in some instances, certain facts can only be established
+
+by circumstantial evidence." State v. Mobus, 12th Dist. Butler No. CA2005-01-004, 2005-
+
+Ohio-6164, ¶ 51.
+
+{¶25} The jury chose to credit the witnesses presented by the state and believe the
+
+prosecution's version of events. The jury weighed the evidence and concluded that Wilson
+
+was the individual who shot Darrien Shamel. It is within the purview of the jury to believe
+
+some, all, or none of witness testimony, as the jury is in the best position to hear the
+
+witnesses speak and examine their demeanor. Johnson, 2020-Ohio-3501 at ¶ 24; Lloyd,
+
+2008-Ohio-3383 at ¶ 51. We find no merit to Wilson's argument that the jury lost its way in
+
+weighing the evidence and finding him guilty.
+
+-8-
+
+Butler CA2021-12-152
+
+III. Conclusion
+
+{¶26} For the reasons stated above we overrule Wilson's sole assignment of error.
+
+{¶27} Judgment affirmed.
+
+M. POWELL, P.J., and HENDRICKSON, J., concur.
+
+-9-

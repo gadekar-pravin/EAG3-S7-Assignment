@@ -1,0 +1,147 @@
+=========================================================
+Case: State of Tennessee v. Robert Leroy Littleton, III
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2023-12-11
+Citations: 
+URL: https://www.courtlistener.com/opinion/9451047/state-of-tennessee-v-robert-leroy-littleton-iii/
+Source Query: murder conviction appeal
+=========================================================
+
+12/11/2023
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+August 29, 2023 Session
+
+STATE OF TENNESSEE v. ROBERT LEROY LITTLETON, III
+
+Appeal from the Criminal Court for Johnson County
+No. 2018-CR-80 Lisa N. Rice, Judge
+___________________________________
+
+No. E2022-00858-CCA-R3-CD
+___________________________________
+
+The defendant, Robert Leroy Littleton, III, appeals his Johnson County Criminal Court
+convictions of first-degree murder, especially aggravated kidnapping, conspiracy to
+commit especially aggravated kidnapping, extortion, and conspiracy to commit extortion,
+arguing that the trial court erred by denying his motion to suppress his pretrial statements.
+Because the defendant’s motion for new trial was untimely filed, we dismiss the appeal.
+
+Tenn. R. App. P. 3; Appeal Dismissed
+
+JAMES CURWOOD WITT, JR., J., delivered the opinion of the court, in which CAMILLE R.
+MCMULLEN, P.J., and JILL BARTEE AYERS, J., joined.
+
+Helen Nicole Himebaugh (at trial and on appeal) and James T. Bowman (at trial), Johnson
+City, Tennessee, for the appellant, Robert Leroy Littleton, III.
+
+Jonathan Skrmetti, Attorney General and Reporter; Abigail H. Rinard, Assistant Attorney
+General; Steven R. Finney, District Attorney General; and Dennis Brooks and Robin Ray,
+Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+The defendant, along with his wife, Leigh Katherine Littleton, Valerie Ann
+Dollar, Michael Stacy May, Brittany Arnold, and James Combs, was charged with first-
+degree murder, especially aggravated kidnapping, conspiracy to commit especially
+aggravated kidnapping, extortion, and conspiracy to commit extortion in relation to the
+2018 disappearance of the victim, Carlton “Lovey” Edmondson.
+
+-1-
+
+At the November 30, 2020 suppression hearing, the defendant argued that his
+three pretrial statements to the police should be suppressed because they were involuntarily
+made. The defendant did not dispute that he was informed of and knowingly waived his
+Miranda rights prior to his January 20, 2018 interview with Detectives Scott Carico and
+Isaac Propst of the Burke County, North Carolina, Sheriff’s Office. Rather, the defendant
+contended that at several points throughout the interview, he “clearly and unequivocally”
+invoked his right to counsel by requesting to make a phone call. The defendant also argued
+that his pretrial statements were involuntarily made. Detective Propst testified as to his
+January 20, 2018 interview with the defendant, and Chief Investigator Shawn Brown of
+the Johnson County Sheriff’s Department testified as to his January 20 and January 22,
+2018 interviews with the defendant. After arguments by the State and the defendant, the
+trial court denied the defendant’s motion to suppress.
+
+The evidence adduced at the defendant’s July 2022 trial established that on
+the morning of January 18, 2018, the victim’s aunt, mother, and father received telephone
+calls from an unknown number informing them that the caller had possession of the victim
+and demanding repayment of $700 the victim had “stolen” from the caller. The victim’s
+aunt, Irea Suionne Lipford Uebele, described the unknown caller’s voice as male and noted
+several other voices in the background, including that of the victim. During these calls, the
+unknown caller threatened to kill the victim if Ms. Uebele “tr[ied] anything,” and Ms.
+Uebele recalled that she could hear the victim being hit while he begged for his life.
+
+On January 19, 2018, the defendant was arrested by the Johnson County
+Sheriff’s Office in Trade, Tennessee. Detectives Propst and Carico traveled from Burke
+County, North Carolina, to interview the defendant. The defendant was provided with
+Miranda warnings, waived his rights by signing a general waiver form, and was
+subsequently interviewed by Detectives Propst and Carico for three hours and 33 minutes.
+During this interview, the defendant admitted that he had attempted to purchase
+methamphetamine from the victim in Drexel, North Carolina, and that the victim “shorted”
+him on the sale. The defendant confessed that he told the victim to get in the defendant’s
+vehicle, that the victim was blindfolded, and that he transported the victim to a camper
+residence in Vilas, North Carolina. The defendant stated that several other individuals
+joined him at the residence and that he forced the victim to tell “each and every person”
+present that “he tried to rob us and rip us off.” The defendant admitted that he later
+transported the victim to a remote location, where James Combs placed the calls to the
+victim’s family. The defendant confessed to using brass knuckles to strike the victim and
+said that Ms. Arnold also beat the victim. The defendant further admitted that he left the
+victim outside after he had been beaten and that he did not return for him.
+
+Chief Investigator Brown reviewed two videos recovered from Ms. Combs’s
+cell phone, which were played for the jury. The first video depicted the victim lying in the
+snow and speaking with several individuals off-screen, and on a cell phone. Investigator
+Brown identified the defendant’s voice in this video. The second video showed the
+
+-2-
+
+victim’s face, which had been bloodied, and depicted him crouching in the snow briefly
+before being kicked to fall on his side. Investigator Brown concluded from his review of
+these videos that they had been recorded near Canter Road in Trade, Tennessee. Members
+of the Johnson County Sheriff’s Office searched this area and collected a buccal swab of a
+reddish-brown substance found in the snow. This substance was tested by the Tennessee
+Bureau of Investigation against buccal swabs from the victim’s parents. Agent Jillian
+Welker of the Tennessee Bureau of Investigation testified that the DNA collected from the
+reddish-brown substance was consistent with a genetic profile of the offspring of the
+victim’s parents.
+
+The jury convicted the defendant as charged on July 23, 2021. On October
+4, 2021, the trial court sentenced the defendant to an effective sentence of life imprisonment
+plus 20 years, and the judgments were entered on that date. The defendant subsequently
+filed an untimely motion for new trial on November 5, 2021. Neither the State nor the trial
+court acknowledged the untimeliness of the defendant’s motion for new trial.
+Notwithstanding its untimeliness, the trial court heard and denied the defendant’s motion
+for new trial on May 31, 2022. The defendant filed a notice of appeal on June 15, 2022.
+
+A motion for new trial must be made in writing “within thirty days of the
+date the order of sentence is entered” to preserve issues for review by this court. Tenn. R.
+Crim. P. 33(b). This 30-day time limit is mandatory, unforgiving, and may not be extended
+by the trial court. Tenn. R. Crim. P. 45(b)(3); State v. Davis, 748 S.W.2d 206, 207 (Tenn.
+Crim. App. 1987). The trial court is without jurisdiction to consider and rule upon the
+merits of an untimely motion for new trial. Tenn. R. App. P. 3(e). A trial court’s
+consideration of and ruling upon an untimely motion for new trial will not validate the
+motion. State v. Dodson, 780 S.W.2d 778, 780 (Tenn. Crim. App. 1989). “[T]he failure
+to timely file a motion for new trial results in the waiver of those issues which may result
+in the granting of a new trial.” Id.; see also State v. Bough, 152 S.W.3d 453, 460 (Tenn.
+2004) (“If a motion for new trial is not timely filed, all issues are deemed waived except
+for sufficiency of evidence and sentencing”).
+
+The judgments against the defendant were entered on October 4, 2021,
+following his sentencing hearing. Therefore, the defendant had until November 3, 2021 to
+timely file a motion for new trial. The defendant filed his motion for new trial on
+November 5, 2021, rendering his motion untimely. This untimeliness is not cured by the
+fact that the trial court heard and ruled upon the motion. The sole issue raised in this appeal
+is the trial court’s denial of the defendant’s motion to suppress, but because this issue was
+not properly preserved in a timely motion for new trial, it is waived. Additionally, the June
+15, 2022 notice of appeal is, therefore, untimely. See Tenn. R. App. P. 4(a) (“[T]he notice
+of appeal required by Rule 3 shall be filed with the clerk of the appellate court within 30
+days after the date of entry of the judgment appealed from”).
+
+Accordingly, the appeal is dismissed.
+
+-3-
+
+___________________________________
+JAMES CURWOOD WITT, JR., JUDGE
+
+-4-

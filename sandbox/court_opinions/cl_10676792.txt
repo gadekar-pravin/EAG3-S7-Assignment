@@ -1,0 +1,398 @@
+=========================================================
+Case: State v. Quayshaun X. Clark
+Court: Court of Appeals of South Carolina
+Date Filed: 2025-09-24
+Citations: 
+URL: https://www.courtlistener.com/opinion/10676792/state-v-quayshaun-x-clark/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Quayshaun Xzander Clark, Appellant.
+
+Appellate Case No. 2022-000962
+
+Appeal From Lexington County
+Debra R. McCaslin, Circuit Court Judge
+
+Opinion No. 6123
+Heard April 10, 2025 – Filed September 24, 2025
+
+AFFIRMED
+
+Appellate Defender Gary Howard Johnson, II, of
+Columbia, for Appellant.
+
+Attorney General Alan McCrory Wilson, Deputy
+Attorney General Donald J. Zelenka, Senior Assistant
+Deputy Attorney General Melody J. Brown, and Senior
+Assistant Attorney General J. Anthony Mabry, all of
+Columbia; and Samuel R. Hubbard, III, Solicitor, of
+Lexington, all for Respondent.
+
+TURNER, J.: Quayshaun X. Clark appeals his convictions and sentences for
+murder, discharging a firearm into a dwelling, and possession of a weapon during
+the commission of a violent crime. On appeal, Clark argues the trial court erred by
+(1) failing to charge involuntary manslaughter and (2) failing to charge voluntary
+manslaughter under the doctrine of transferred intent. We affirm.
+
+On June 9, 2021, Clark was involved in a shootout at the Rocky Lane mobile home
+park outside of Batesburg, South Carolina. According to the evidence presented at
+trial, there were two parties in the neighborhood that day—Clark attended a
+birthday party for his cousin at Lot 7 and a graduation party was also taking place
+across the street between Lots 15 and 16.
+According to Clark's testimony, around 10:30 p.m., he was sitting in his car, which
+he had parked near the back porch of the mobile home on Lot 7, facing in the
+direction of Lots 15 and 16.1 Clark heard gunshots coming from the area in front
+of the car and initially ran behind the mobile home, but he then returned to his car
+and retrieved his AK pistol. 2 He testified he saw a man shooting and walking
+towards him across the street, so he returned fire because he wanted the shooting to
+stop. In much of his testimony, Clark described what seems to be a single person
+shooting and "coming across the street." Clark explained that although he only
+saw one individual whom he could "sort of make out," he saw shots being fired
+from the direction of Lots 15 and 16 and "a guy come across the street shooting."
+Further, he stated he could see "silhouettes of people" in the area of Lots 15 and 16
+but could not identify them.
+Clark stated he felt "scared and lost" and "everything around [him was] just kind
+of . . . like a blur." Clark fired approximately fifteen rounds in the direction of Lots
+15 and 16 until his magazine "went dry." One of those rounds entered the mobile
+home on Lot 15, striking and killing an eleven-year-old girl (Victim).
+
+1
+The State presented conflicting testimony showing Clark armed himself prior to
+the first shots being fired and gave his 9mm pistol to another man present at the
+party; no other witness saw anyone cross the street and no shell casings were found
+in the area where the man firing at Clark was alleged to have been; Clark fled the
+scene before law enforcement arrived; and Clark gave multiple untrue statements
+to police about his involvement, including initially denying that he shot a gun or
+that he saw anyone shooting at him. However, because our standard of review
+requires us to view the evidence in the light most favorable to Clark, we have
+focused on his version of events here.
+2
+Clark testified he had three guns in his car—"an AR pistol that shoots 300
+blackout," "an AK pistol that shoots [a] 7.62 [mm bullet,]" and "an FN pistol 509,"
+which is a 9mm pistol. He stated he typically stored the AK and AR pistols in the
+trunk and the FN pistol in the glove box because he did not want his daughter to
+gain access to them.
+
+Clark requested jury instructions on involuntary manslaughter and voluntary
+manslaughter. He asserted he killed Victim while acting lawfully in self-defense
+but with a reckless disregard for the safety of others in shooting towards the homes
+on Lots 15 and 16. He also argued voluntary manslaughter was appropriate
+because he acted while under the sudden heat of passion due to being fired upon
+first, and he asserted that the doctrine of transferred intent applies to both murder
+and manslaughter. The trial court denied the request for an involuntary
+manslaughter instruction because "[t]here was not any testimony about any
+accident or [that the shooting] wasn't intentional." The trial court also declined to
+give the voluntary manslaughter charge because our courts have "not applied the
+doctrine of transferred intent to voluntary manslaughter." It also noted that it did
+"not believe the evidence even support[ed] a voluntary manslaughter [charge] in
+this case, nor was there any overt act by [V]ictim to indicate any provocation by
+[V]ictim." Finally, the trial court stated it had not heard any testimony or evidence
+"about a heat of passion or uncontrollable impulse to do violence." The trial court
+charged self-defense without objection.
+The jury convicted Clark of murder, discharging a firearm into a dwelling, and
+possession of a weapon during the commission of a violent crime, and the trial
+court sentenced him to an aggregate term of forty-eight years' imprisonment. This
+appeal followed.
+ISSUES ON APPEAL
+I. Did the trial court err by failing to charge involuntary manslaughter as a
+lesser-included offense?
+
+II. Did the trial court err by failing to charge voluntary manslaughter as a
+lesser-included offense under the doctrine of transferred intent?
+
+LAW/ANALYSIS
+
+"An appellate court will not reverse a trial court's decision regarding a jury
+instruction unless there is an abuse of discretion." State v. Brooks, 428 S.C. 618,
+625, 837 S.E.2d 236, 239 (Ct. App. 2019). "An abuse of discretion occurs when
+the trial court's ruling is based on an error of law or, when grounded in factual
+conclusions, is without evidentiary support." Id. (quoting State v. Pittman, 373
+S.C. 527, 570, 647 S.E.2d 144, 166-67 (2007)).
+
+"The trial [court] determines the law to be charged on the presentation of evidence
+at trial." State v. Shuler, 344 S.C. 604, 632, 545 S.E.2d 805, 819 (2001). "If there
+
+is any evidence from which it could be inferred the lesser, rather than the greater,
+offense was committed, the defendant is entitled to such charge.'" State v. Starnes,
+388 S.C. 590, 596, 698 S.E.2d 604, 608 (2010). "A trial court should refuse to
+charge a lesser-included offense only where there is no evidence the defendant
+committed the lesser rather than the greater offense." State v. Crosby, 355 S.C. 47,
+51, 584 S.E.2d 110, 112 (2003). "In determining whether the evidence requires a
+charge on [a lesser-included offense], this [c]ourt must view the facts in the light
+most favorable to the defendant." State v. Childers, 373 S.C. 367, 373, 645 S.E.2d
+233, 236 (2007).
+
+I. Involuntary Manslaughter
+
+Clark argues the trial court erred in denying his request to charge involuntary
+manslaughter because (1) the evidence created a "factual issue for the jury . . . as to
+whether the shooting itself was committed intentionally or unintentionally" and (2)
+he was lawfully engaged in self-defense when he shot "in a manner that the jury
+could reasonably infer was a reckless disregard for the safety of others." We
+disagree.
+
+Involuntary manslaughter is either "the unintentional killing of another without
+malice, but while engaged in an unlawful activity not naturally tending to cause
+death or great bodily harm" or "the unintentional killing of another without malice,
+while engaged in a lawful activity with reckless disregard for the safety of others."
+State v. Wigington, 375 S.C. 25, 35, 649 S.E.2d 185, 190 (Ct. App. 2007). "To
+constitute involuntary manslaughter, there must be a finding of criminal
+negligence, statutorily defined as a reckless disregard of the safety of others."
+Crosby, 355 S.C. at 52, 584 S.E.2d at 112. "[T]he negligent handling of a loaded
+gun will support a finding of involuntary manslaughter." State v. Light, 378 S.C.
+641, 648, 664 S.E.2d 465, 469 (2008).
+Further, "a self-defense charge and an involuntary manslaughter charge are not
+mutually exclusive, as long as there is any evidence to support both charges." Id.
+at 650, 664 S.E.2d at 470. However, "[t]o warrant a jury charge on involuntary
+manslaughter under either definition, there must be some evidence that the killing
+was unintentional." Sullivan v. State, 407 S.C. 241, 244-45, 754 S.E.2d 885, 887
+(Ct. App. 2014).
+
+Clark contends there is evidence that the killing was unintentional because he did
+not intend to kill anyone and he was scared and "everything around [him was] . . .
+just kind of a blur." However, Clark testified repeatedly that he fired his gun
+aiming at a specific target—the man or group of people he saw shooting at him
+
+from the direction of Lots 15 and 16—and for a specific reason—because he was
+trying to stop the gunshots; further, he stated he only stopped shooting because
+"[his] magazine went dry." Although Clark maintained he only fired in
+self-defense and did not mean to shoot Victim, we find no evidence that Clark
+pulled the trigger unintentionally. Thus, we hold Clark was not entitled to an
+instruction on involuntary manslaughter. See State v. Pickens, 320 S.C. 528, 531,
+466 S.E.2d 364, 366 (1996) (holding the defendant was not entitled to a charge of
+involuntary manslaughter when he "admitted he shot the gun" but "contend[ed] he
+acted lawfully but recklessly in defending himself"); Douglas v. State, 332 S.C. 67,
+74, 504 S.E.2d 307, 310-11 (1998) (reasoning that because "involuntary
+manslaughter is at its core an unintentional killing[,]" when "a defendant
+intentionally arms himself and shoots into a crowd . . . he is not entitled to an
+involuntary manslaughter charge"); Sullivan, 407 S.C. at 245, 754 S.E.2d at 887
+("When the victim was killed by a gunshot, and no evidence is presented showing
+the defendant fired the gun unintentionally, the defendant is not entitled to a charge
+of involuntary manslaughter."). We therefore affirm the trial court as to this issue.
+See Shuler, 344 S.C. at 632, 545 S.E.2d at 819 ("The trial [court] determines the
+law to be charged on the presentation of evidence at trial."); Brooks, 428 S.C. at
+625, 837 S.E.2d at 239 ("An appellate court will not reverse a trial court's decision
+regarding a jury instruction unless there is an abuse of discretion.").
+II. Voluntary Manslaughter
+Clark next argues the trial court erred in refusing his request to charge voluntary
+manslaughter. He asserts there was evidence in the record that he did not intend to
+kill Victim or the person shooting at him; thus, the shooting was without malice.
+Further, Clark asserts that he shot while "under the sudden heat of passion and in
+response to sufficient legal provocation" because he was fired upon first, which
+"overcame his capability of cool reflection and caused him to act in an
+uncontrollable impulse to do violence." Clark argues that the doctrine of
+transferred intent applies to voluntary manslaughter pursuant to State v. Fennell,3
+and "traditional common law aspects of voluntary manslaughter," such as the
+requirement that the victim be the source of the provocation, are also transferred
+when a defendant fires at the person who provoked him or her. We disagree with
+Clark's reasoning and affirm the trial court.
+
+"Whether a voluntary manslaughter charge is warranted turns on the facts."
+Starnes, 388 S.C. at 597, 698 S.E.2d at 608. "If the facts disclose any basis for the
+
+3
+340 S.C. 266, 531 S.E.2d 512 (2000).
+
+charge, the charge must be given." Id. "To warrant the court in eliminating the
+offense of manslaughter it should very clearly appear that there is no evidence
+whatsoever tending to reduce the crime from murder to manslaughter." State v.
+Wharton, 381 S.C. 209, 214, 672 S.E.2d 786, 788 (2009).
+
+"Voluntary manslaughter is the unlawful killing of a human being in [a] sudden
+heat of passion upon sufficient legal provocation." Shuler, 344 S.C. at 632, 545
+S.E.2d at 819. "[B]oth heat of passion and sufficient legal provocation must be
+present at the time of the killing." Starnes, 388 S.C. at 596, 698 S.E.2d at 608. "'A
+defendant is not entitled to a voluntary manslaughter charge merely because he
+was in a heat of passion' or 'merely because he was legally provoked.'" Leggette v.
+State, 440 S.C. 590, 602, 892 S.E.2d 153, 160 (Ct. App. 2023) (quoting Starnes,
+388 S.C. at 596-97, 698 S.E.2d at 608), cert. denied Aug. 13, 2024. "Rather, 'there
+must be evidence that the heat of passion was caused by sufficient legal
+provocation.'" Id. (quoting Starnes, 388 S.C. at 597, 698 S.E.2d at 608).
+"[A] person's fear immediately following an attack or threatening act may cause
+the person to act in a sudden heat of passion." Starnes, 388 S.C. at 598, 698 S.E.2d
+at 609. "However, the mere fact that a person is afraid is not sufficient, by itself, to
+entitle a defendant to a voluntary manslaughter charge." Id. "[I]n order to
+constitute 'sudden heat of passion upon sufficient legal provocation,' the fear must
+be the result of sufficient legal provocation and cause the defendant to lose control
+and create an uncontrollable impulse to do violence." Id.; see also Shuler, 344 S.C.
+at 632, 545 S.E.2d at 819 ("Both heat of passion and sufficient legal provocation
+must be present at the time of killing to constitute voluntary manslaughter."
+(emphasis added)). Moreover, the "[p]rovocation necessary to support a voluntary
+manslaughter charge must come from some act of or related to the victim in order
+to constitute sufficient legal provocation." State v. Locklair, 341 S.C. 352, 362,
+535 S.E.2d 420, 425 (2000).
+A. Heat of passion
+We find the trial court correctly denied the voluntary manslaughter instruction
+because Clark failed to prove he acted under the sudden heat of passion such that
+he was overcome by an uncontrollable impulse to do violence.
+
+In Childers, the defendant "testified he was provoked by the victim's former
+brother‑in‑law and he fired his gun in response to being first shot at by the
+ex‑brother‑in‑law." 373 S.C. at 373, 645 S.E.2d at 236. The shot, however, hit
+and killed the victim. Id. at 370, 645 S.E.2d at 234-35. The defendant asserted
+that he did not intend to harm anyone and only fired because he was fired upon.
+
+Id. at 370-71, 645 S.E.2d at 235. The concurrence by then-Chief Justice Toal
+would have held that the defendant was not entitled to a voluntary manslaughter
+instruction because it, "by definition, requires a criminal intent to do harm to
+another[,]" but he testified he did not mean to harm anyone and only wanted to
+make his ex-brother-in-law stop shooting at him. Id. at 375, 645 S.E.2d at 237
+(Toal, C.J., concurring in result). Therefore, "according to [his] story, he had no
+criminal intent whatsoever." Id. As the concurrence observed, "[i]f, as he
+suggests, the defendant returned fire in a panic for his life, surely the defense of
+self-defense would be appropriate." Id. However, "[w]ithout any evidence
+supporting the view that the defendant fired the fatal shots while under an
+'uncontrollable impulse to do violence,' the trial court properly declined to charge
+the law of voluntary manslaughter to the jury." Id. at 376, 645 S.E.2d at 237.
+
+Similarly, in State v. Niles, the supreme court held the trial court did not err in
+refusing to give a voluntary manslaughter instruction because "there was no
+evidence Niles acted within a sudden heat of passion." 412 S.C. 515, 521-22, 772
+S.E.2d 877, 880 (2015). The court noted, "Niles's own testimony [did] not
+establish that he was overtaken by a sudden heat of passion such that he had an
+uncontrollable impulse to do violence." Id. at 522, 772 S.E.2d at 880.
+Rather, Niles testified that he did not want to hurt the
+victim; that he shot with his eyes closed; that he was
+merely attempting to stop the victim from shooting; and
+that when he shot his gun, he was thinking of [his fiancée's
+safety] rather than of perpetrating violence upon the
+victim.
+Id. at 522-23, 772 S.E.2d at 880. The supreme court stated that because "Niles, by
+his own testimony, lacked the intent to harm the victim, [it could] not see how a
+voluntary manslaughter charge would have been appropriate." Id. at 523, 772
+S.E.2d at 881.
+
+These cases closely match the scenario testified to by Clark—he did not want to
+hurt anyone and only fired because he wanted the shooting to stop. Thus, although
+Clark may have been understandably afraid, his testimony does not illustrate "an
+uncontrollable impulse to do violence." See Starnes, 388 S.C. at 598-99, 698
+S.E.2d at 609 ("Succinctly stated, to warrant a voluntary manslaughter charge, the
+defendant's fear must manifest itself in an uncontrollable impulse to do violence.").
+Rather, Clark made a calculated decision to return fire in the direction that the
+shots were coming from, with a defined purpose of making the shooting stop. As
+Starnes explains, "[a] person may act in a deliberate, controlled manner,
+
+notwithstanding the fact that he is afraid or in fear." Id. at 599, 698 S.E.2d at 609.
+"Conversely, a person can be acting under an uncontrollable impulse to do violence
+and be incapable of cool reflection as a result of fear." Id. However, only "[t]he
+latter situation constitutes sudden heat of passion." Id.
+
+Because we find Clark failed to prove that he acted under the sudden heat of
+passion such that he was overcome by an uncontrollable urge to do violence, we
+affirm the trial court's refusal to give the voluntary manslaughter instruction. See
+Brooks, 428 S.C. at 625, 837 S.E.2d at 239 ("An appellate court will not reverse a
+trial court's decision regarding a jury instruction unless there is an abuse of
+discretion."); Shuler, 344 S.C. at 632, 545 S.E.2d at 819 ("The trial [court]
+determines the law to be charged on the presentation of evidence at trial.");
+Starnes, 388 S.C. at 598, 698 S.E.2d at 609 (explaining the defendant's "fear must
+be the result of sufficient legal provocation and cause the defendant to lose control
+and create an uncontrollable impulse to do violence").
+
+B. Provocation by the victim
+Additionally, Clark relies on Fennell to assert that transferred intent applies to
+voluntary manslaughter; essentially, he argues transferred intent operates to shift
+the assailant's provocation as if it originated from the victim, and, in return, his
+non-malice intent towards the assailant is also shifted to the victim. See Fennell,
+340 S.C. at 272, 531 S.E.2d at 515 ("[A] defendant may be found guilty of murder
+or manslaughter in a case of bad or mistaken aim under the doctrine of transferred
+intent."). At first glance, Fennell appears to support Clark's position and resolve
+the question. However, multiple cases decided after Fennell have held the
+provocation must originate from the victim. Moreover, although our supreme
+court has stated that "the applicability of the doctrine of transferred intent to
+voluntary manslaughter cases where the defendant kills an unintended victim upon
+sufficient legal provocation committed by a third party remains an unsettled
+question in South Carolina," it has never overruled the post-Fennell line of cases.
+See Wharton, 381 S.C. at 215, 672 S.E.2d at 789 (declining to reach the issue of
+whether "the doctrine of transferred intent was inapplicable to voluntary
+manslaughter"). Thus, we find the trial court properly denied Clark's request for a
+voluntary manslaughter instruction because provocation must come from the
+victim, not a third party.
+
+In Locklair, which was decided only months post-Fennell, the supreme court
+reaffirmed that the victim must be the source of the provocation. 341 S.C. at 362,
+535 S.E.2d at 425 ("Provocation necessary to support a voluntary manslaughter
+charge must come from some act of or related to the victim in order to constitute
+
+sufficient legal provocation."). In that case, "Locklair argue[d] that the trial [court]
+erred by refusing to charge voluntary manslaughter because: (1) there was
+evidence of a domestic dispute between Locklair and [the victim]; and (2) [the
+victim's] mother threw a cigarette case at him immediately before he shot [the
+victim]." Id. at 359, 535 S.E.2d at 424. Our supreme court affirmed the trial
+court's decision not to give the charge, noting the "overt act" of throwing the
+cigarette case "was made by a third party, not the deceased, and South Carolina
+has not recognized sufficient legal provocation from a third party that can be
+transferred to the victim." Id. at 363, 535 S.E.2d at 425 (emphasis added).
+Next, in Childers, which was decided seven years after Fennell, our supreme court
+considered a similar factual scenario to that presented in this case and ultimately
+held the defendant was not entitled to a voluntary manslaughter instruction because
+the provocation did not originate with the victim. 4 See Childers, 373 S.C. at
+373-74, 645 S.E.2d at 236. In that case, the plurality held, "[v]iewing the evidence
+in the light most favorable to Childers, this factual scenario [was] completely void
+of any evidence supporting a charge of voluntary manslaughter" because "the overt
+act that produces the sudden heat of passion must be made by the victim." Id.
+
+Finally, in Leggette, this court affirmed the trial court's decision to give a voluntary
+manslaughter charge, which Legette opposed in part because he was not "engaged
+in any argument or altercation with [the victim]" and "the evidence did not show
+[the victim] committed an overt act or provoked [Leggette] into firing his
+weapon."5 440 S.C. at 601, 892 S.E.3d at 159. In that case, Leggette shot at two
+men with whom he had a history of previous altercations, after they followed and
+approached him outside of a bar; one man, Ingram, was injured, and the other,
+Tisdale, was killed. 440 S.C. at 594-96, 892 S.E.2d at 156-57. The trial court gave
+a voluntary manslaughter instruction, and this court affirmed because although the
+testimony established the "main provocation" for the shooting came from Ingram,
+Tisdale accompanied Ingram in following and approaching Leggette in a
+threatening manner. Id. at 604, 892 S.E.2d at 161. Leggette is an example of how
+Fennell's statement that "a defendant may be found guilty of murder or
+manslaughter in a case of bad or mistaken aim under the doctrine of transferred
+
+4
+We acknowledge that Childers was a plurality opinion, with one justice
+concurring in result only and two justices dissenting. 373 S.C. at 374, 645 S.E.2d
+at 236.
+5
+Leggette was a post-conviction relief case, and the issue was raised in the context
+of whether trial counsel was ineffective for failing to object to the trial court's
+instruction. 440 S.C. at 604, 892 S.E.2d at 161.
+
+intent" may be harmonized with the requirement that the provocation come from
+the victim, rather than a third-party. Fennell, 340 S.C. at 272, 531 S.E.2d at 515.
+Leggette's testimony indicated he was firing at Ingram, as Ingram was the one who
+moved toward him and made a motion like he was pulling a gun; however, because
+Tisdale at least contributed to the provocation by accompanying Ingram, the
+voluntary manslaughter instruction was proper despite Tisdale not being the
+intended target. Leggette, 440 S.C. at 604, 892 S.E.2d at 160-61.
+
+Although Wharton stated that the applicability of transferred intent in this situation
+"remains an unsettled question[,]" it declined to rule on the issue. 381 S.C. at 215,
+672 S.E.2d at 789. However, we cannot ignore other precedent which has stated
+that provocation must come from the victim, nor can we reconcile Wharton's
+statement with Locklair's proclamation that "South Carolina has not recognized
+sufficient legal provocation from a third party that can be transferred to the
+victim." 341 S.C. at 363, 535 S.E.2d at 425 (emphases added); see also State v.
+Cheeks, 400 S.C. 329, 342, 733 S.E.2d 611, 618 (Ct. App. 2012) ("[T]his court
+lacks the authority to rule against prior published precedent from our supreme
+court, but is bound by the decisions of the supreme court."), aff'd as modified, 408
+S.C. 198, 758 S.E.2d 715 (2014); S.C. Const. art. V, § 9 ("The decisions of the
+Supreme Court shall bind the Court of Appeals as precedents."). Thus, because it
+is undisputed that Victim was an innocent bystander who was not the source of the
+provocation, we hold Clark was not entitled to a voluntary manslaughter
+instruction. See Locklair, 341 S.C. at 363, 535 S.E.2d at 425; see also Brooks, 428
+S.C. at 625, 837 S.E.2d at 239 ("An appellate court will not reverse a trial court's
+decision regarding a jury instruction unless there is an abuse of discretion.");
+Shuler, 344 S.C. at 632, 545 S.E.2d at 819 ("The trial [court] determines the law to
+be charged on the presentation of evidence at trial.").
+
+CONCLUSION
+
+Based on the foregoing, the decision of the trial court is AFFIRMED.
+
+WILLIAMS, C.J., and GEATHERS, J., concur.

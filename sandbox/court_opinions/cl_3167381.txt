@@ -1,0 +1,498 @@
+=========================================================
+Case: Estate of Susan C. McAndrew Appeal of: McAndrew, J
+Court: Superior Court of Pennsylvania
+Date Filed: 2016-01-05
+Citations: 131 A.3d 988, 2016 Pa. Super. 4, 2016 Pa. Super. LEXIS 4, 2016 WL 81820
+URL: https://www.courtlistener.com/opinion/3167381/estate-of-susan-c-mcandrew-appeal-of-mcandrew-j/
+Source Query: murder conviction appeal
+=========================================================
+
+J-A30029-15
+
+2016 PA Super 4
+
+ESTATE OF SUSAN C. MCANDREW IN THE SUPERIOR COURT OF
+PENNSYLVANIA
+
+APPEAL OF: JOSEPH C. MCANDREW, JR.
+
+No. 830 EDA 2015
+
+Appeal from the Order Dated March 2, 2015
+in the Court of Common Pleas of Montgomery County
+Orphans’ Court at No(s): 2011- X1951
+
+BEFORE: MUNDY, J., JENKINS, J., and FITZGERALD, J.*
+
+OPINION BY JENKINS, J.: FILED JANUARY 05, 2016
+
+Appellant Joseph McAndrew (“Appellant”), through his guardian ad
+
+litem, Joseph Hylan (“Guardian”), appeals the order entered March 2, 2015
+
+in the Montgomery County Court of Common Pleas, Orphans’ Court Division,
+
+dismissing Appellant’s exceptions to the adjudication of Appellant’s mother’s
+
+will. After careful review, we affirm.
+
+On March 5, 2011, Appellant, then 23 years old and deeply mentally
+
+disturbed, killed his father, twin brother, and mother, Susan McAndrew
+
+(“Mother”), with a sword. Following a bench trial, the trial court found
+
+Appellant “guilty but mentally ill” of three first-degree murders. On
+
+November 20, 2014, the trial court sentenced Appellant to three consecutive
+
+____________________________________________
+
+*
+Former Justice specially assigned to the Superior Court.
+
+J-A30029-15
+
+terms of life imprisonment without parole, with the recommendation that he
+
+receive psychiatric treatment at SCI Waymart.1
+
+Mother died intestate. Her husband and Appellant’s twin were deemed
+
+to have predeceased her,2 leaving Mother’s father and Appellant himself as
+
+the only heirs to her estate. The administratrix of Mother’s estate
+
+(“Administratrix”) filed the estate’s first and final account, which showed a
+
+balance of $837,639.83. Following the criminal proceedings, on December
+
+19, 2014, the lower court entered an adjudication of the estate, holding
+
+that, despite being found guilty but mentally ill, the killing was willful and
+
+Appellant was a “slayer” barred from inheriting from Mother’s estate.
+
+Appellant filed objections to the adjudication. The lower court
+
+conducted oral argument on February 25, 2015, and dismissed and denied
+
+the objections by order dated March 2, 2015. Appellant timely appealed on
+
+March 27, 2015.
+____________________________________________
+
+1
+A panel of this Court affirmed Appellant’s judgment of sentence on
+November 5, 2015. See Commonwealth v. McAndrew, 3548 EDA 2014,
+November 5, 2015, (unpublished memorandum). Appellant did not file a
+petition for allowance of appeal with our Supreme Court.
+2
+Pennsylvania’s Simultaneous Death Act provides:
+
+Where the title to property or the devolution thereof depends
+upon priority of death and there is no sufficient evidence that the
+persons have died otherwise than simultaneously, the property
+of each person shall be disposed of as if he had survived, except
+as provided otherwise in this chapter.
+
+20 Pa.C.S. § 8501.
+
+-2-
+
+J-A30029-15
+
+Appellant now raises the following claim for this Court’s review:
+
+Does the Slayer’s Act prohibit the slayer, found guilty but
+mentally ill of homicide, from inheriting the victim’s estate?
+
+Appellant’s Brief, p. 3 (emphasis in original). Both parties agree this claim
+
+presents an issue of first impression that constitutes a question of pure law.
+
+Accordingly, the standard of this Court’s review is de novo, and the scope of
+
+review is plenary. Shafer Elec. & Const. v. Mantia, 96 A.3d 989, 994
+
+(Pa.2014).
+
+1. The Slayer Act
+
+Pennsylvania’s Slayer Act3 (“the Slayer Act”) defines a “slayer” as “any
+
+person who participates, either as a principal or as an accessory before the
+
+fact, in the willful and unlawful killing of any other person.” 20 Pa.C.S. §
+
+8801. To prevent slayers from acquiring property or benefits from the
+
+estates of those they killed, the Slayer Act provides:
+
+No slayer shall in any way acquire any property or receive any
+benefit as the result of the death of the decedent, but such
+property shall pass as provided in the sections following.
+
+20 Pa.C.S. § 8802. To accomplish this goal, the Slayer Act deems slayers
+
+to have predeceased the decedent as to property which would
+have passed from the decedent or his estate to the slayer under
+the statutes of descent and distribution or have been acquired by
+dower, by curtesy or by statutory right as surviving spouse.
+
+____________________________________________
+
+3
+20 Pa.C.S. § 8801 et seq.
+
+-3-
+
+J-A30029-15
+
+20 Pa.C.S. § 8803. Further, the Slayer Act expressly states that it shall “be
+
+construed broadly in order to effect the policy of this State that no person
+
+shall be allowed to profit by his own wrong, wherever committed.” 20
+
+Pa.C.S. § 8815.
+
+In addition to the Slayer Act, the Probate, Estates and Fiduciaries Code
+
+expressly provides:
+
+Slayer’s share.--Any person who participates either as a
+principal or as an accessory before the fact in the wilful [sic] and
+unlawful killing of any person shall not in any way acquire
+property or receive any benefits as the result of such killing, but
+such property or benefits shall be distributed as provided in
+Chapter 88 of this code (relating to slayers).
+
+20 Pa.C.S. § 2106(c).
+
+A criminal conviction for murder acts as a conclusive bar to the slayer
+
+receiving any benefit from the victim’s estate.4 In re Kravitz’s Estate, 211
+
+A.2d 443, 448 (Pa.1965) (holding that a record of conviction and judgment
+
+of sentence for murder is not merely prima facie evidence of, but is a
+
+conclusive bar to, slayer’s right to take under or against decedent’s will);
+
+see also In re Klein’s Estate, 378 A.2d 1182, 1186 n.21 (Pa.1977)
+
+(record of a murder conviction conclusively establishes a willful and unlawful
+
+killing under the Slayer’s Act). Further, the Slayer Act expressly permits the
+
+____________________________________________
+
+4
+The same is true of convictions for voluntary manslaughter. In re Estate
+of Bartolovich, 616 A.2d 1043, 1045 (Pa.Super.1992) (“voluntary
+manslaughter is a willful killing under the Slayer’s Act”).
+
+-4-
+
+J-A30029-15
+
+introduction of the record of a murder conviction in estate challenges as
+
+follows:
+
+The record of his conviction of having participated in the willful
+and unlawful killing of the decedent shall be admissible in
+evidence against a claimant of property in any civil action arising
+under this chapter.
+
+20 Pa.C.S. § 8814.
+
+2. Insanity defense vs. guilty but mentally ill
+
+Appellant was found “guilty but mentally ill” of three first-degree
+
+murders. The Crimes Code defines first-degree murder as an “intentional
+
+killing[,]” which by definition is a killing that is “willful, deliberate and
+
+premeditated[.]” See 18 Pa.C.S. § 2502 (a & d). Appellant now invites this
+
+Court to treat his verdict of “guilty but mentally ill” the same as a verdict of
+
+“not guilty by reason of insanity,” which verdict would allow Appellant to
+
+inherit from Mother’s estate. See Appellant’s Brief, pp. 9-12. We decline
+
+Appellant’s invitation.
+
+In a codification of the English common law insanity defense known as
+
+the M’Naghten Rule, the Crimes Code defines the insanity defense as
+
+follows:
+
+(a) General rule.--The mental soundness of an actor engaged
+in conduct charged to constitute an offense shall only be a
+defense to the charged offense when the actor proves by a
+preponderance of evidence that the actor was legally insane at
+the time of the commission of the offense.
+
+(b) Definition.--For purposes of this section, the phrase
+“legally insane” means that, at the time of the commission of
+the offense, the actor was laboring under such a defect of
+
+-5-
+
+J-A30029-15
+
+reason, from disease of the mind, as not to know the nature and
+quality of the act he was doing or, if the actor did know the
+quality of the act, that he did not know that what he was doing
+was wrong.
+
+18 Pa.C.S. § 315. As of 1982, the Crimes Code has included the additional
+
+verdict option of “guilty but mentally ill”, which the Code explains as follows:
+
+(a) General rule.--A person who timely offers a defense of
+insanity in accordance with the Rules of Criminal Procedure may
+be found “guilty but mentally ill” at trial if the trier of facts finds,
+beyond a reasonable doubt, that the person is guilty of an
+offense, was mentally ill at the time of the commission of the
+offense and was not legally insane at the time of the commission
+of the offense.
+
+*****
+
+(c) Definitions.--For the purposes of this section and 42
+Pa.C.S. § 9727 (relating to disposition of persons found guilty
+but mentally ill):
+
+(1) “Mentally ill.” One who as a result of mental disease or
+defect, lacks substantial capacity either to appreciate the
+wrongfulness of his conduct or to conform his conduct to the
+requirements of the law.
+
+(2) “Legal insanity.” At the time of the commission of the act,
+the defendant was laboring under such a defect of reason, from
+disease of the mind, as not to know the nature and quality of the
+act he was doing or, if he did know it, that he did not know he
+was doing what was wrong.
+
+(d) Common law M’Naghten’s Rule preserved.--Nothing in
+this section shall be deemed to repeal or otherwise abrogate the
+common law defense of insanity (M’Naghten’s Rule) in effect in
+this Commonwealth on the effective date of this section.
+
+18 Pa.C.S. § 314.
+
+Regarding the interplay between the insanity defense and a verdict of
+
+guilty but mentally ill, this Court has explained:
+
+-6-
+
+J-A30029-15
+
+Several steps of inquiry logically follow from the
+legislature’s express language. First, the fact finder is called
+upon to determine if the Commonwealth has proven that the
+actor is guilty of every element of the offense charged beyond a
+reasonable doubt. The Commonwealth needed to prove that
+[the defendant] was guilty beyond a reasonable doubt of each
+element of [the crimes charged]. If the Commonwealth fulfills
+its burden of proof, . . . the fact finder then moves to the second
+step of the probe.
+
+The second step calls for a determination of whether the
+accused has proven the defense of insanity by a preponderance
+of the evidence. If he was able to succeed in proving by a
+preponderance of evidence that he was insane at the time of the
+commission of the offense, then he must be acquitted.
+However, if the accused was unable to fulfill his burden of
+proving insanity, . . . then the fact finder moves to the third level
+of scrutiny.
+
+The third level of examination calls for the fact finder to
+ascertain whether the facts establish beyond a reasonable doubt
+that the accused was mentally ill. If the fact finder establishes
+that the accused meets the statutory definition, the verdict must
+be guilty but mentally ill. If [the fact finder finds] that the
+evidence [does] not support the finding of mental illness, then
+the verdict would [be] merely guilty.
+
+Commonwealth v. Trill, 543 A.2d 1106, 1127-28 (Pa.Super.1988).
+
+Here, (1) the Commonwealth proved the elements of first-degree
+
+murder beyond a reasonable doubt; (2) Appellant failed to prove by a
+
+preponderance of the evidence that he was insane at the time of the
+
+commission of the murders;5 and (3) the trial court – the fact-finder –
+
+determined Appellant was mentally ill.
+
+____________________________________________
+
+5
+Had Appellant proven he was insane, the trial court would have returned a
+verdict of not guilty.
+
+-7-
+
+J-A30029-15
+
+The fundamental fact is that Appellant was found guilty of first-degree
+
+murder. By definition, this guilty verdict means that Appellant committed a
+
+“willful, deliberate and premeditated” crime. See 18 Pa.C.S. § 2502 (a &
+
+d). While the guilty but mentally ill verdict will entitle Appellant to greater
+
+access to mental health treatment while in prison, it does not transform the
+
+verdict into a successful insanity defense, which would have resulted in an
+
+acquittal.
+
+Both sides and the lower court correctly note that no reported Superior
+
+Court case has determined the application of the Slayer’s Act to a verdict of
+
+guilty but mentally ill. However, Appellant and the trial court each discuss a
+
+1988 Common Pleas case, Prudential Insurance v. Roberts, 8
+
+Fiduc.Rep.2s 309 (C.P. Westmoreland 1988). See Appellant’s Brief, p. 10;
+
+Trial Court Order, December 19, 2014, pp. 3-4. In Roberts, the
+
+Westmoreland County Court of Common Pleas addressed the application of
+
+the Slayer Act to a verdict of guilty but mentally ill in denying the slayer
+
+benefits from the decedent’s insurance policy. The Roberts court
+
+determined as follows:
+
+No one questions the fact that the shooting death of [the
+deceased] was unlawful, the question is: does the mentally ill
+aspect of the guilty verdict preclude what would be the normal
+legal conclusion arising out of a guilty verdict on a murder
+charge, that the killing was also willful.
+
+A verdict of not guilty by reason of insanity has been held
+not to raise the bar of the Slayer[] Act (Gabel Est., 27
+Fiduc.Rep. 322); but that is not the verdict rendered in [the
+defendant’s] case.
+
+-8-
+
+J-A30029-15
+
+In [In re] Kravitz[’s Estate, 211 A.2d 443,] 418 Pa. 319
+[(1965)], the Supreme Court held that a murder conviction was
+a conclusive bar to the convicted party’s right to receive any
+property or benefit because of the Slayer Act. We have here a
+murder conviction. Should it be treated any differently because
+the verdict reflected that the defendant was mentally ill in
+addition to being guilty?
+
+The verdict of guilty but mentally ill was created by statute
+in 1982: 18 Pa.C.S.[] Section 314. Its intended effect was not
+to excuse criminal conduct as is the case where a defendant is
+found not guilty by reason of insanity; rather, the legislature
+provided that a person found guilty but mentally ill “may have
+the same sentence imposed upon him which may be lawfully
+imposed on any defendant convicted of the same offense.” 42
+Pa.C.S.[] Section 9727. The act does not in any way reduce the
+defendant’s culpability for his or her act nor in any way does it
+negate the element of intent or willfulness normally required for
+conviction. The only difference is that at sentencing the court
+may, after a finding that the defendant is severely mentally
+disabled and in need of treatment, order the defendant to serve
+some or all of the sentence imposed in treatment pursuant to
+the “Mental Health Procedures Act” 42 Pa.C.S.[] Section 9272(a)
+and (b).
+
+***
+
+[W]e conclude that a guilty but mentally ill verdict where the
+defendant has been convicted of murder does not diminish the
+legal sanctions which may come to bear on the person convicted.
+Among the sanctions which follow a murder conviction is the civil
+disability imposed upon the convicted person under the Slayer’s
+Act.
+
+Roberts, 8 Fiduc.Rep.2s at 310.
+
+Using the Roberts court’s reasoning, the trial court stated the
+
+following in denying Appellant’s objections to Mother’s estate’s accounting:
+
+We can find no flaw in [the Roberts court’s] logic. For
+this reason, we are not persuaded by the spirited arguments of
+[Appellant’s] guardian ad litem as to why the Slayer’s Act should
+not apply. The guardian parses the concept of “guilty but
+mentally ill” by referring to the definition of a mentally ill person
+
+-9-
+
+J-A30029-15
+
+in the Crimes Code, to wit: “One who as a result of mental
+disease or defect, lacks substantial capacity either to appreciate
+the wrongfulness of his conduct or to conform his conduct to the
+requirements of the law.” 18 Pa.C.S.[] § 314.
+
+The guardian asserts that, under this definition,
+[Appellant] should not be deemed to have acted willfully and
+with the intent to kill. He argues that the Slayer’s Act should
+apply only when “a person who intentionally kills the decedent
+with a primary motivation of gaining financial benefit from the
+decedent’s estate or . . . the person, not suffering from a mental
+disorder, kills the decedent[.]” (Guardian’s Supplemental Brief,
+6).
+
+We find this proposed refinement of the Slayer’s Act can
+not [sic] be grafted onto the plain language of the statute.
+Therefore, we must dismiss the [Appellant’s] objections to the
+account, and hold [Appellant] is a slayer and is barred from
+inheriting from his mother’s estate.
+
+Trial Court Order, December 19, 2014, pp. 4-5.
+
+We find the trial court properly decided this matter based on the sound
+
+reasons in the Roberts court’s persuasive decision. Accordingly, we hold
+
+that a verdict of guilty but mentally ill for first-degree murder bars a killer
+
+from inheriting from the decedent’s estate under the Slayer Act.6
+
+Order affirmed.
+
+____________________________________________
+
+6
+We note that the Eastern District of Pennsylvania, in a separate matter
+brought in federal court by father’s life insurer, applied Pennsylvania law to
+also determine that Appellant was a slayer. See Genworth Life & Annuity
+Insurance Company v. Estate of Joseph McAndrew, Sr., et al., Civil
+Action No. 2:14-cv-01578-W.Y. (E.D.Pa.) (applying Pennsylvania law).
+
+- 10 -
+
+J-A30029-15
+
+Judgment Entered.
+
+Joseph D. Seletyn, Esq.
+Prothonotary
+
+Date: 1/5/2016
+
+- 11 -

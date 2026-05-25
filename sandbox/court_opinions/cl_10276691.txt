@@ -1,0 +1,449 @@
+=========================================================
+Case: State of Tennessee v. Colby Mason Kilburn
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-11-18
+Citations: 
+URL: https://www.courtlistener.com/opinion/10276691/state-of-tennessee-v-colby-mason-kilburn/
+Source Query: murder conviction appeal
+=========================================================
+
+11/18/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+October 8, 2024 Session
+
+STATE OF TENNESSEE v. COLBY MASON KILBURN
+
+Appeal from the Circuit Court for Lawrence County
+No. 50CC1-2020-CR-36288 M. Caleb Bayless, Judge
+___________________________________
+
+No. M2023-01021-CCA-R3-CD
+___________________________________
+
+The Defendant, Colby Mason Kilburn, was convicted in the Lawrence County Circuit
+Court of first degree premeditated murder and received a sentence of life in confinement.
+On appeal, the Defendant contends that the evidence is insufficient to support his
+conviction because the State failed to prove premeditation and intent. Based upon the oral
+arguments, the record, and the parties’ briefs, we affirm the judgment of the trial court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+JOHN W. CAMPBELL, SR., J., delivered the opinion of the court, in which CAMILLE R.
+MCMULLEN, P.J., and ROBERT W. WEDEMEYER, J., joined.
+
+G. Kline Preston, IV (on appeal), Nashville, Tennessee, and John S. Colley, III (at trial),
+Columbia, Tennessee, for the appellant, Cody Mason Kilburn.
+
+Jonathan Skrmetti, Attorney General and Reporter; Lacy E. Wilber, Senior Assistant
+Attorney General; Brent Cooper, District Attorney General; and Christi Thompson and
+Jessie Chandler, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+FACTS
+
+In June 2020, the Lawrence County Grand Jury indicted the Defendant for the first
+degree premeditated murder of Aaron Nicholas Stem. The Defendant went to trial in April
+2023.
+
+At trial, Tim McMillan testified that in March 2020, he was employed as a corporal
+corrections officer for the Lawrence County Sheriff’s Department (“LCSD”) and worked
+the 6:00 p.m. to 6:00 a.m. shift at the Lawrence County Jail. On the night of March 21,
+
+another officer notified Mr. McMillan that a man in the lobby of the sheriff’s department
+“looked like he was in a daze.” Mr. McMillan went to the lobby and asked the man if he
+was okay. The man held out both hands and said, “[G]o ahead and restrain me.” Mr.
+McMillian asked the man what he was talking about, and the man responded, “I did a
+murder.” Mr. McMillan did not see any weapons on the man, did not ask him any further
+questions, and waited with him until a deputy arrived.
+
+Mr. McMillan testified that when he first saw the man, the man was “sitting in the
+chair just staring out the window.” The man “looked like he was dazed” and continued to
+stare straight ahead while Mr. McMillan talked with him. The State asked if the man was
+“[r]elatively calm,” and Mr. McMillan said yes. Mr. McMillan said he could not identify
+the man in the courtroom.
+
+On cross-examination, Mr. McMillen testified that he did not ask the man for a name
+or identification. Mr. McMillen did not handcuff him and did not see any blood or injuries
+on him.
+
+Justin Kelsey testified that on the night of March 21, 2020, he was a patrol deputy
+with the LCSD and responded to a request for a deputy at the sheriff’s department. When
+he arrived, the Defendant was sitting in a chair with two corrections officers. As Mr.
+Kelsey approached the Defendant, the Defendant stood up with his head down. He held
+out his hands “[l]ike he was waiting for handcuffs” and said he “needed to be arrested.”
+Mr. Kelsey asked the Defendant what he was talking about, and the Defendant responded,
+“I shot somebody.” Mr. Kelsey asked, “What do you mean?” The Defendant said that he
+“murdered somebody” and that he “shot them in the head.” For Mr. Kelsey’s safety, he
+asked the Defendant where the gun was located. The Defendant said “it was disassembled
+out back, so he didn’t have it on him at the time.” Mr. Kelsey patted down the Defendant
+for weapons, handcuffed and arrested him, and waited for a city officer to arrive. The
+Defendant told Mr. Kelsey that his name was “Zach Kilburn.” Mr. Kelsey identified the
+Defendant in the courtroom as the man he arrested.
+
+On cross-examination, Mr. Kelsey acknowledged that he was in uniform when he
+went to the sheriff’s department and that the Defendant appeared to be “in a daze.” Mr.
+Kelsey did not see any blood or injuries on the Defendant, and the Defendant did not want
+to make eye contact with him. The Defendant kept his head down and talked in a “low”
+voice.
+
+Levi Freeman testified that in March 2020, he and the victim were employed at the
+Speedway convenience store in Lawrenceburg. Prior to their working together at the
+Speedway, Mr. Freeman had known the victim for four to five years because the victim
+was a customer of the store.
+-2-
+
+Mr. Freeman testified that on the night of March 21, he and the victim worked
+together at the Speedway. The victim “had a friend stop by, which he often did.” That
+friend was the Defendant. Mr. Freeman did not know the Defendant personally but had
+seen him in the store about a week before this incident.
+
+Mr. Freeman testified that the victim got off work early and that Mr. Freeman talked
+with the victim and the Defendant while the victim was “cashing out his register.” No
+customers were in the store, so Mr. Freeman went outside to smoke a cigarette. The victim
+and the Defendant were still at the store, and the situation seemed calm. Mr. Freeman
+jokingly asked the victim if he was ever going to leave, and the victim was “joking back”
+with Mr. Freeman. However, the Defendant “never really said anything.” The victim and
+the Defendant left in separate vehicles about 10:00 p.m. with the Defendant driving behind
+the victim. The State asked if Mr. Freeman noticed anything unusual about the Defendant’s
+demeanor, and Mr. Freeman responded:
+
+As a matter of fact, yes. When -- after [the victim] pulled out, because like I
+said, the [Defendant] drove behind [the victim], you know, in their own
+vehicles, after [the victim] passed the building, [the Defendant] happened to
+look over at me and, like, his facial expression, like, changed. I don’t really
+know how to describe it exactly, but, like, it just kind of gave me the creeps.
+
+On cross-examination, Mr. Freeman testified that he did not remember “the
+specifics” of his conversation with the victim and the Defendant and that he did not
+remember hearing the two of them talk about “hanging out” together after work. Mr.
+Freeman acknowledged telling the police that the Defendant had a “‘cold, disconnected’”
+expression on his face while Mr. Freeman and the victim were joking with each other. He
+also acknowledged telling the police, “‘While I was outside smoking, the [Defendant] kept
+looking over at myself and [the victim] with the same disconnected look on his face.’” The
+Defendant was at the store no more than thirty minutes, and Mr. Freeman did not hear any
+“ill” words between the Defendant and the victim.
+
+Dakota Blake Watts testified that he used to work with the victim at the Speedway
+convenience store in Lawrenceburg and that they became friends. At the time of the
+victim’s death, Mr. Watts had known the victim for two to three years, but Mr. Watts was
+no longer employed at the Speedway.
+
+Mr. Watts testified that the victim usually came to Mr. Watts’ residence after the
+victim got off work. On the night of March 21, 2020, the victim and Mr. Watts were
+planning to go to Mr. Watts’ mother’s house. The victim left the Speedway and drove to
+Mr. Watts’ apartment. Mr. Watts did not remember what time the victim arrived, but it
+
+-3-
+
+was dark outside. Mr. Watts was expecting the victim, so he went outside and got into the
+victim’s truck.
+
+Mr. Watts testified that the victim began driving and that the victim said someone
+had been following him since he left the Speedway. Mr. Watts told the victim to pull into
+the parking lot of a volunteer fire department so they could see who was following the
+victim. The victim turned into the lot, which was less than a mile from Mr. Watts’
+apartment, and they saw that it was the Defendant. The Defendant stopped his truck beside
+the driver’s side of the victim’s truck, and they rolled down their windows. Mr. Watts
+knew the Defendant because they had attended elementary school and high school together.
+
+Mr. Watts testified that the Defendant said he wanted them to come by his apartment
+so he could show them something. The Defendant lived in the B&K Apartments, and the
+victim and Mr. Watts had been to the Defendant’s apartment previously. The victim began
+driving to the Defendant’s apartment complex, and the Defendant followed him. When
+they arrived, the victim and the Defendant parked their trucks, and the three men walked
+to the Defendant’s apartment. Mr. Watts noticed a gun at the Defendant’s side, and the
+Defendant said, “I only carry this sometimes.” The Defendant walked into his apartment
+and put the gun on a table. The three of them then walked out the back door of the
+apartment to smoke on the patio.
+
+Mr. Watts testified that the Defendant offered them a marijuana “joint” and that they
+smoked the joint and cigarettes. Mr. Watts said that he could not remember how long they
+were outside smoking but that he thought they were outside thirty minutes to one hour. He
+stated that the three of them were standing in a circle, were facing each other, and were
+about one foot apart so that they could pass the joint around. They were “[j]ust chitchatting
+random talking about stuff we did, laughing, cutting up,” and no one was angry or arguing.
+When they finished smoking the joint, Mr. Watts asked the Defendant for a cigarette. The
+Defendant handed the cigarette to Mr. Watts, so Mr. Watts asked the Defendant for the
+Defendant’s cigarette lighter. The Defendant handed the lighter to Mr. Watts, and Mr.
+Watts bent his head down and shielded the lighter from the wind. Mr. Watts stated:
+
+And as I leaned my head down to light the cigarette, I seen an arm swing, a
+flashing light, and a loud bang and my ears started ringing. And then I
+reached down and tried to grab [the victim] up because he fell, or I thought
+he fell, but he wasn’t there.
+
+Mr. Watts testified that he thought he saw “some liquid” on the victim’s face and
+that the Defendant told him, “[R]un.” The Defendant again told Mr. Watts to “run.” Mr.
+Watts saw that the Defendant was holding a black and silver gun in his right hand and that
+the Defendant was pointing the gun at the victim. Mr. Watts ran because he was scared
+-4-
+
+and heard what sounded like another gunshot. He ran faster, lay down in a field, and “got
+sick.” He got up and ran all the way home. He told his roommates what had happened,
+and they telephoned the police.
+
+Mr. Watts testified that when the three of them first entered the Defendant’s
+apartment, he saw the Defendant put the gun on the table. He did not see the Defendant
+pick up the gun, and he did not remember if the gun used to shoot the victim looked like
+the gun on the table. He also did not remember hearing anyone say anything before the
+shooting.
+
+On cross-examination, Mr. Watts acknowledged that he testified at a previous
+hearing just thirteen days after the shooting and that his memory about the shooting would
+have been more accurate at the hearing than at trial. Mr. Watts testified at trial that he
+thought the victim arrived at his residence unannounced. At the previous hearing, though,
+Mr. Watts testified that the victim texted him at 8:00 p.m. about coming over. Mr. Watts
+also testified at the previous hearing that they had been at the Defendant’s apartment only
+five to ten minutes when the shooting occurred, not thirty minutes to one hour. Although
+Mr. Watts testified on direct examination that he was about to light a cigarette when the
+Defendant shot the victim, he previously testified that “‘I got it lit and about half way
+smoked’” when the Defendant shot the victim. Mr. Watts also previously testified, “‘[The
+victim] walked to this side. I turned back to hit my cigarette. A loud flash in my eye or a
+loud bang in my ear and a bright flashing light. Before all of that, I seen the arm swing.’”
+
+Mr. Watts testified that he was not looking at the Defendant or the victim at the time
+of the shooting but that he could see their feet. At the previous hearing, defense counsel
+asked if Mr. Watts saw the gun that was used to shoot the victim, and Mr. Watts answered,
+“‘No, sir. I wasn’t paying any attention to it. I was more worried about helping him out.’”
+Mr. Watts told the jury that he “didn’t go into detail” at the previous hearing and that he
+was just explaining at the hearing what happened when he tried to pick up the victim. Mr.
+Watts said he saw the Defendant holding the gun after the Defendant told him to “run” for
+the second time. The Defendant was pointing the gun at the victim, who was lying on the
+ground, and at Mr. Watts, who had reached down to grab the victim.
+
+On redirect examination, Mr. Watts testified that “[t]here was no aggression,
+conflict, just chill” prior to the shooting and that he did not see the victim try to take the
+gun from the Defendant. On recross-examination, defense counsel questioned Mr. Watts
+about the discrepancies in his trial testimony and his testimony at the previous hearing and
+suggested that he could not remember the shooting accurately. Mr. Watts stated, “It was,
+like we said, it was three years ago. . . . I just don’t remember everything I said from that
+day. I can’t give you everything exactly but I can give you the main detail.” Mr. Watts
+acknowledged that he was not paying attention to what the victim and the Defendant were
+-5-
+
+doing at the time of the shooting but said that he would have seen their feet and legs move
+if the victim had tried to take the gun from the Defendant.
+
+Detective Raymond Chavez of the LCSD testified that on the night of March 21,
+2020, another officer notified him about a shooting at the B&K Apartments in which one
+male was deceased and the shooter was not in custody. En route to the apartment complex,
+Detective Chavez heard over the police radio that an officer was needed at the LCSD “for
+a possible suspect” in the case. Detective Chavez continued to the B&K Apartments,
+walked to a patio behind an apartment building, and saw the victim lying on his back. The
+victim had trauma to his head, and Detective Chavez could see a hole in his cheek. Parts
+of a disassembled gun were on the concrete, and the victim was lying near the disassembled
+firearm. Detective Chavez found two spent cartridges cases.
+
+At that point, the State read two stipulations of fact to the jury. The first stipulation
+provided that the disassembled forty-five caliber pistol found on the patio was the gun that
+was used to kill the victim. The second stipulation provided that the pistol, which was
+reassembled and test-fired by a special agent from the Tennessee Bureau of Investigation
+(“TBI”), was in normal operating condition with the safety features functioning and that
+the two forty-five-caliber cartridge cases found at the scene were fired from the pistol.
+
+Detective Chavez testified that as part of his investigation, he went to the Speedway
+convenience store and obtained the victim’s timecard. He also viewed the store’s
+surveillance video. The timecard showed that the victim “clocked out” at 8:59 p.m. The
+video, which did not have audio, showed that the Defendant entered the store about fifteen
+minutes before the victim clocked out. The Defendant and the victim appeared to have a
+normal conversation, and Mr. Freeman walked over and joined them. The Defendant went
+outside, and the victim clocked out and went outside. The Defendant and the victim
+appeared to have another normal conversation. One or two minutes later, Mr. Freeman
+walked outside, smoked a cigarette, and went back inside the store. The victim and the
+Defendant drove out of the parking lot with the Defendant’s black pickup behind the
+victim’s blue pickup. Detective Chavez was unable to obtain a copy of the video.
+
+Detective Chavez testified that he collected gunshot residue kits from the hands of
+the Defendant and Mr. Watts on March 20, 2021, and that he submitted the kits to the TBI
+Crime Laboratory. Detective Chavez also obtained 911 call records for the shooting. The
+records showed that at 9:27 p.m., a resident of the B&K Apartments called 911 and reported
+hearing two gunshots. At 9:46 p.m., Mr. Watts’ roommate called 911 and reported that the
+Defendant had shot the victim at the B&K Apartments.
+
+On cross-examination, Detective Chavez testified that the Speedway video showed
+a short “gap” of time between the victim’s and the Defendant’s trucks leaving the parking
+-6-
+
+lot. Defense counsel asked if it was “completely illogical” for the victim not to know that
+the Defendant was following him after they left the store, and Detective Chavez said the
+video did not show the direction in which each truck went. He acknowledged that it was
+dark behind the Defendant’s apartment and that the frame of the Defendant’s gun could
+have been “sticking out” of the Defendant’s blue jeans prior to the shooting.
+
+Special Agent Lindsey Anderson of the TBI Crime Laboratory testified as an expert
+in forensic science and microanalysis that she received the victim’s and the Defendant’s
+gunshot residue kits for analysis. Agent Anderson found gunshot residue in the
+Defendant’s kit, meaning he could have discharged a firearm, handled a firearm, or been
+near a firearm when it was discharged. Agent Anderson did not find any gunshot residue
+in Mr. Watts’ kit.
+
+Special Agent Lisa Forester of the TBI Crime Laboratory testified as an expert in
+forensic biology and DNA testing that she received for analysis the Defendant’s clothing,
+the pistol pieces found on the patio, and DNA standards collected from the victim and the
+Defendant. The Defendant’s clothing and the pistol pieces were negative for blood. Agent
+Forester found mixtures of “touch DNA” on the pistol’s magazine, slide, barrel, spring,
+and buffer tube, but the DNA profiles were too limited for her to identify a contributor.
+Agent Forester also found touch DNA on the gun’s frame. The DNA on the frame was a
+mixture of at least three individuals, but the “major profile” of the mixture consisted of the
+victim’s and the Defendant’s DNA. Agent Forester said that she could not determine when
+or how the DNA was deposited onto the pistol frame and that she could not identify exactly
+where the victim and the Defendant touched the frame.
+
+On cross-examination, Agent Forester acknowledged that one person could transfer
+a second person’s DNA onto an object without the second person touching the object. For
+example, a person could transfer DNA by shaking another person’s hand and then touching
+an item. Agent Forester acknowledged that the DNA on the pistol frame could have been
+transfer DNA rather than touch DNA.
+
+The State recalled Detective Chavez to the stand. Detective Chavez identified a
+recording of a jailhouse telephone call made by the Defendant to his mother the day after
+the shooting, and the State played the recording for the jury. During the call, the
+Defendant’s mother asked him what happened, and the Defendant told her that he did not
+want to talk about it. She then asked him, “Was this self-defense? Did he try to hurt you?”
+The Defendant said no.
+
+Dr. Thomas Deering, a forensic pathologist for Forensic Medical Management
+Services, testified as an expert in forensic pathology that he conducted the victim’s autopsy.
+The victim sustained two gunshot entrance wounds to his head. The wounds were “side
+-7-
+
+by side” on his right cheek, below his eye. Dr. Deering classified one of the wounds as
+“close to intermediate” because soot and stipple from the barrel of the pistol were around
+the wound, meaning that the end of the pistol barrel was six inches or less from the victim’s
+face when the gun was fired. Dr. Deering classified the second wound as “distant” because
+no soot or stippling was around the wound, meaning that the end of the pistol barrel was
+more than two feet from the victim’s face when the gun was fired. Dr. Deering could not
+determine which wound occurred first.
+
+Dr. Deering testified that both bullets traveled front to back but that they traveled in
+different directions. One bullet traveled “a little bit from the midline outward” and struck
+the base of the victim’s skull. The bullet broke into pieces and caused brain hemorrhaging,
+and the bullet fragments ended up around the victim’s right ear. The second bullet traveled
+right to left and somewhat downward and ended up in the left side of the victim’s neck.
+Both bullets struck the victim’s sinuses. At some point during the shooting, the victim took
+a couple of breaths and aspirated blood into his lungs. Dr. Deering said that either bullet
+could have knocked the victim to the ground and that either gunshot would have been fatal.
+
+Dr. Deering testified that a time delay could have occurred between the two
+gunshots and that the victim could have been lying on the ground when he sustained one
+of the gunshots. Dr. Deering did not find any other injuries on the victim, but toxicology
+tests showed “a little bit” of marijuana in his system. Dr. Deering concluded that the
+victim’s cause of death was multiple gunshot wounds to the head and that the victim’s
+manner of death was homicide.
+
+At the conclusion of Dr. Deering’s testimony, the State rested its case, and the
+Defendant did not present any proof. During the Defendant’s closing argument, defense
+counsel acknowledged that the Defendant shot the victim but asserted that the State failed
+to prove premeditation beyond a reasonable doubt. The jury convicted the Defendant of
+first degree murder as charged in the indictment, and the trial court immediately sentenced
+him to life.
+
+ANALYSIS
+
+The Defendant claims that the evidence is insufficient to support his conviction
+because the State failed to establish that he acted with premeditation and intent. The State
+argues that the evidence is sufficient. We agree with the State.
+
+When the sufficiency of the evidence is challenged on appeal, the relevant question
+of the reviewing court is “whether, after viewing the evidence in the light most favorable
+to the prosecution, any rational trier of fact could have found the essential elements of the
+crime beyond a reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979); see also
+-8-
+
+Tenn. R. App. P. 13(e) (“Findings of guilt in criminal actions whether by the trial court or
+jury shall be set aside if the evidence is insufficient to support the findings by the trier of
+fact of guilt beyond a reasonable doubt.”); State v. Evans, 838 S.W.2d 185, 190-92 (Tenn.
+1992); State v. Anderson, 835 S.W.2d 600, 604 (Tenn. Crim. App. 1992).
+
+Therefore, on appeal, the State is entitled to the strongest legitimate view of the
+evidence and all reasonable inferences that may be drawn from it. State v. Williams, 657
+S.W.2d 405, 410 (Tenn. 1983). All questions involving the credibility of witnesses, the
+weight and value to be given the evidence, and all factual issues are resolved by the trier
+of fact. State v. Pruett, 788 S.W.2d 559, 561 (Tenn. 1990). “A jury conviction removes
+the presumption of innocence with which a defendant is initially cloaked and replaces it
+with one of guilt, so that on appeal a convicted defendant has the burden of demonstrating
+that the evidence is insufficient.” State v. Tuggle, 639 S.W.2d 913, 914 (Tenn. 1982).
+
+The guilt of a defendant, including any fact required to be proven, may be predicated
+upon direct evidence, circumstantial evidence, or a combination of both direct and
+circumstantial evidence. State v. Pendergrass, 13 S.W.3d 389, 392-93 (Tenn. Crim. App.
+1999). The standard of review for the sufficiency of the evidence is the same whether the
+conviction is based on direct or circumstantial evidence or a combination of the two. State
+v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011).
+
+First degree premeditated murder is defined as “[a] premeditated and intentional
+killing of another[.]” Tenn. Code Ann. § 39-13-202(a)(1). A person acts intentionally
+“when it is the person’s conscious objective or desire to engage in the conduct or cause the
+result.” Id. at § 39-11-302(a). “Premeditation” is defined as
+
+an act done after the exercise of reflection and judgment. “Premeditation”
+means that the intent to kill must have been formed prior to the act itself. It
+is not necessary that the purpose to kill preexist in the mind of the accused
+for any definite period of time. The mental state of the accused at the time
+the accused allegedly decided to kill must be carefully considered in order to
+determine whether the accused was sufficiently free from excitement and
+passion as to be capable of premeditation.
+
+Id. at § 39-13-202(d) (2018). Whether premeditation exists is a factual question for the
+jury to determine from all the evidence, including the circumstances surrounding the
+killing. State v. Davidson, 121 S.W.3d 600, 614 (Tenn. 2003).
+
+In State v. Thacker, our supreme court provided a non-exclusive list of
+circumstances from which a jury may infer premeditation: the defendant’s use of a weapon
+on an unarmed victim, the particular cruelty of the killing, the defendant’s threats or
+-9-
+
+declarations of an intent to kill, evidence of the procurement of a weapon, the defendant’s
+preparation before the killing to conceal the crime, the defendant’s destruction or secretion
+of evidence after the killing, the defendant’s calmness immediately after the killing, and
+the establishment of a motive for the killing. 164 S.W.3d 208, 222 (Tenn. 2005).
+Additional circumstances include a lack of provocation by the victim, the infliction of
+multiple wounds on the victim, and the failure to render aid to the victim. State v. Kiser,
+284 S.W.3d 227, 268 (Tenn. 2009).
+
+Taken in the light most favorable to the State, the evidence established that the
+Defendant went to the victim’s workplace on the night of March 21, 2020. The Defendant
+stayed at the Speedway about fifteen minutes, had normal conversations with the victim,
+and left at the same time as the victim. The Defendant followed the victim to Mr. Watt’s
+apartment and to the parking lot of the volunteer fire department. At that point, the
+Defendant asked the victim and Mr. Watts to come to his apartment so he could show them
+something. When the three of them arrived at the apartment, the Defendant put a gun he
+had been carrying onto a table, and they went outside to smoke on the Defendant’s patio.
+They smoked marijuana and cigarettes, and no cross words were exchanged between the
+Defendant and the victim. Nevertheless, the Defendant suddenly pulled a gun, shot the
+victim in the face, and told Mr. Watts to run. When Mr. Watts bent down to help the victim,
+the Defendant again told Mr. Watts to run. Mr. Watts fled the scene and heard the
+Defendant fire a second shot into the victim’s face.
+
+The Defendant claims that none of the premeditation circumstances set forth in
+Thacker exist in this case and that the evidence fails to prove he acted intentionally because
+Mr. Watts’ testimony that the Defendant shot the victim as Mr. Watts was lighting a
+cigarette was not credible. We strongly disagree with the Defendant. From the evidence,
+a rational jury could have found that the Defendant procured a gun, used the gun on the
+unarmed victim, shot the victim without any provocation, inflicted multiple wounds on the
+victim, tried to destroy or secret evidence by disassembling the gun after the killing, failed
+to render aid to the victim, and calmly turned himself in to law enforcement after the
+shooting. The Defendant shot the victim again after the victim already had fallen to the
+ground from the first fatal gunshot. The Defendant fired the second shot into the victim’s
+face beside the first shot, and he fired one of the shots at close range. The Defendant’s
+calmly telling Mr. Watts to run and waiting for Mr. Watts to flee prior to inflicting the
+second gunshot wound is additional evidence of the Defendant’s premeditation and intent
+in this case. Mr. Watts consistently testified at trial and at the previous hearing that he did
+not see the Defendant shoot the victim in the face but that he saw the Defendant’s arm
+swing and heard the gunshot. In any event, the jury obviously resolved any inconsistencies
+in Mr. Watts’ testimony in favor of the State. The evidence is more than sufficient to
+support the conviction.
+
+- 10 -
+
+CONCLUSION
+
+Based upon the oral arguments, the record, and the parties’ brief, we affirm the
+judgment of the trial court.
+
+_________________________________
+JOHN W. CAMPBELL, SR., JUDGE
+
+- 11 -

@@ -1,0 +1,1264 @@
+=========================================================
+Case: People v. Valdez
+Court: Colorado Court of Appeals
+Date Filed: 2017-04-06
+Citations: 2017 COA 41, 405 P.3d 413, 2017 WL 1279747, 2017 Colo. App. LEXIS 394
+URL: https://www.courtlistener.com/opinion/4382347/people-v-valdez/
+Source Query: murder conviction appeal
+=========================================================
+
+COLORADO COURT OF APPEALS 2017COA41
+
+Court of Appeals No. 14CA1030
+Adams County District Court No. 13CR27
+Honorable Thomas R. Ensor, Judge
+
+The People of the State of Colorado,
+
+Plaintiff-Appellee,
+
+v.
+
+Anton Jose Valdez,
+
+Defendant-Appellant.
+
+JUDGMENT AND SENTENCE AFFIRMED
+
+Division III
+Opinion by JUDGE WEBB
+Bernard and Dunn, JJ., concur
+
+Announced April 6, 2017
+
+Cynthia H. Coffman, Attorney General, Kevin E. McReynolds, Assistant
+Attorney General, Denver, Colorado, for Plaintiff-Appellee
+
+Douglas K. Wilson, Colorado State Public Defender, Stephen Arvin, Deputy
+State Public Defender, Denver, Colorado, for Defendant-Appellant
+
+¶1 A jury convicted Anton Jose Valdez of first degree murder after
+
+deliberation and several other charges arising from the robbery of a
+
+jewelry store during which one of the two hooded robbers shot and
+
+killed the owner. Valdez did not testify but defended based on
+
+misidentification. On the first degree murder count, the trial court
+
+sentenced him to life imprisonment without the possibility of parole.
+
+On the aggravated robbery count, the court imposed a consecutive
+
+sentence of thirty-two years in the custody of the Department of
+
+Corrections. It imposed concurrent sentences on the other counts.
+
+¶2 Valdez seeks a new trial based on rulings admitting DNA
+
+evidence from the crime scene and surveillance camera videos of
+
+the robbery in progress.
+
+ As to the DNA evidence, he asserts that the match was derived
+
+from a sample unconstitutionally collected when he was
+
+arrested on an unrelated charge.
+
+ As to one of the videos, he asserts that depiction of the owner’s
+
+dying moments was unfairly prejudicial, and as to all of the
+
+videos that the court should have restricted the jury’s
+
+replaying them during deliberations.
+
+1
+
+Alternatively, he challenges the trial court’s conclusion that the
+
+crime of violence statute required consecutive sentencing on the
+
+aggravated robbery count. The Attorney General concedes
+
+preservation of all issues.
+
+¶3 Discerning no evidentiary errors, we affirm the judgment of
+
+conviction. Then addressing a novel question in Colorado, we
+
+further conclude that because affirmance means Valdez was
+
+lawfully sentenced to a life term without parole, his challenge to the
+
+consecutive sentence is moot.
+
+I. The Trial Court Did Not Err in Allowing the Prosecution to
+Present Evidence Linking DNA From the Crime Scene to a DNA
+Sample Previously Taken from Valdez in Connection with His Arrest
+on a Felony Traffic Offense
+
+¶4 In his suppression motion, Valdez argued that taking the DNA
+
+sample during his arrest for aggravated driving under restraint –
+
+habitual offender, § 42-2-206(1)(b)(II), C.R.S. 2016, constituted an
+
+unreasonable search and seizure under both the United States and
+
+Colorado Constitutions. According to Valdez, a constitutional
+
+violation occurred because aggravated driving under restraint “is
+
+not a serious offense” under Maryland v. King, 569 U.S. ___, ___,
+
+133 S. Ct. 1958, 1980 (2013). However, the motion conceded that
+2
+
+because Valdez had entered into a plea agreement and pleaded
+
+guilty to only misdemeanors, he was eligible for — but had failed to
+
+pursue — the DNA expungement procedures under section
+
+16-23-105, C.R.S. 2016. This section is part of Katie’s Law,
+
+§§ 16-23-101 to -105, C.R.S. 2016. In response, the prosecutor
+
+primarily asserted that the DNA collection was constitutional
+
+because Valdez had been arrested for a felony, as provided in
+
+Katie’s Law.
+
+¶5 After hearing argument from counsel, the trial court denied
+
+the motion from the bench. The court found that Valdez’s motion
+
+was an improper “collateral attack on evidence obtained in another
+
+case . . . where that evidence was never sought to be suppressed”
+
+and “where [Valdez] had the opportunity to remove that DNA from
+
+the database, since he was not convicted of a felony.” Alternatively,
+
+it concluded that collection of Valdez’s DNA was constitutional
+
+because he “was, in fact, arrested for a serious matter . . . and it
+
+would, in fact, pass muster pursuant to [the] . . . King decision.”
+
+3
+
+A. Collateral Estoppel
+
+¶6 Although Valdez’s opening brief argues that the trial court
+
+erred in denying his motion as an improper “collateral attack,” the
+
+Attorney General does not defend the court’s ruling on this basis.
+
+Still, under the doctrine of constitutional avoidance, we address
+
+constitutional issues only if necessary. See Developmental
+
+Pathways v. Ritter, 178 P.3d 524, 535 (Colo. 2008) (stating that
+
+judicial restraint requires courts to avoid reaching constitutional
+
+questions in advance of the necessity of deciding them); People v.
+
+Lybarger, 700 P.2d 910, 915 (Colo. 1985) (“Axiomatic to the exercise
+
+of judicial authority is the principle that a court should not decide a
+
+constitutional issue unless and until such issue is actually raised
+
+by a party to the controversy and the necessity for such decision is
+
+clear and inescapable.”). And were we to agree with the trial court
+
+that Valdez was estopped from challenging collection of his DNA, we
+
+would never reach the constitutional question. So, we start with
+
+that aspect of the court’s ruling, but reject it as a misapplication of
+
+the law.
+
+4
+
+¶7 To begin, one may wonder if the doctrine of collateral estoppel
+
+(also called issue preclusion) applies in criminal cases. It does. See
+
+generally People v. Smith, 938 P.2d 111, 113 (Colo. 1997).
+
+¶8 Even so, the scope of this doctrine may be narrower in
+
+criminal cases. Deciding that a defendant is estopped from
+
+relitigating an issue in a second criminal proceeding depends on
+
+whether “the question was ‘distinctly put in issue and directly
+
+determined’ in the [prior] criminal prosecution.” Metros v. U.S. Dist.
+
+Court, 441 F.2d 313, 316 (10th Cir. 1970) (quoting Kauffman v.
+
+Moss, 420 F.2d 1270, 1274 (3d Cir. 1970)). Because in the traffic
+
+case Valdez failed to either move to suppress the DNA sample before
+
+pleading guilty or seek expungement based on his misdemeanor
+
+plea, the constitutional issue raised in this appeal was not
+
+determined. Compare Commonwealth v. Lunden, 35 N.E.3d 412,
+
+416 (Mass. App. Ct. 2015) (“In the [prior] case, the defendant did
+
+not move to suppress the blood evidence match, and therefore
+
+despite the defendant’s conviction the [prior] proceeding did not
+
+result in a final judgment on the merits . . . .”), with Sharp v. State,
+
+835 N.E.2d 1079, 1085 (Ind. Ct. App. 2005) (“[The defendant]
+
+5
+
+litigated the constitutionality of the taking of his DNA that was
+
+placed in the database in the prior case, and he presented that
+
+issue in the prior appeal. Hence, we can only conclude that [he]
+
+had the full and fair opportunity to litigate the issue he raises here,
+
+and the doctrine of collateral estoppel precludes him from
+
+relitigating the issue now.”).
+
+¶9 Thus, because Valdez’s constitutional challenge cannot be
+
+avoided, we turn to it.
+
+B. Constitutionality of the DNA Collection in the Traffic Case
+
+1. Standard of Review and Law
+
+¶ 10 Suppression rulings normally present a mixed question of fact
+
+and law. See People v. Cisneros, 2014 COA 49, ¶ 56. But Valdez’s
+
+contention only raises an issue of law — he challenges the
+
+constitutionality of section 16-23-103, C.R.S. 2016, as applied to
+
+him. And “[w]e review the constitutionality of a statute, both
+
+facially and as applied, de novo.” People v. Lovato, 2014 COA 113,
+
+¶ 12.
+
+¶ 11 When reviewing a statute, we presume that it satisfies
+
+constitutional standards. People v. Baer, 973 P.2d 1225, 1230
+
+6
+
+(Colo. 1999). The party challenging a statute on constitutional
+
+grounds — whether as applied or facial — bears the burden of
+
+establishing the statute’s unconstitutionality beyond a reasonable
+
+doubt. Id.1
+
+¶ 12 In King, 569 U.S. at ___, 133 S. Ct. at 1970, 1980, the
+
+Supreme Court upheld a Maryland DNA collection statute that
+
+required “all arrestees charged with serious crimes” to submit a
+
+buccal swab for DNA testing solely as a police booking procedure.
+
+The Court concluded:
+
+DNA identification of arrestees is a reasonable
+search that can be considered part of a routine
+booking procedure. When officers make an
+arrest supported by probable cause to hold for
+a serious offense and they bring the suspect to
+the station to be detained in custody, taking
+and analyzing a cheek swab of the arrestee’s
+DNA is, like fingerprinting and photographing,
+a legitimate police booking procedure that is
+reasonable under the Fourth Amendment.
+
+Id. at ___, 133 S. Ct. at 1980 (emphasis added).
+
+1In Tabor Foundation v. Regional Trans. Dist., 2016 COA 102, our
+supreme court has granted certiorari to consider this standard.
+16SC639, 2017 WL 280826 (Colo. Jan. 23, 2017).
+7
+
+¶ 13 Like the Maryland statute, section 16-23-103(1)(a) requires
+
+that for “[e]very adult arrested on or after September 30, 2010, for a
+
+felony offense or for the investigation of a felony offense . . . [t]he
+
+arresting law enforcement agency shall collect the biological
+
+substance sample from the arrested person as part of the booking
+
+process.” (Emphasis added.) These samples are tested by the
+
+Colorado Bureau of Investigation (the CBI) and are filed in the state
+
+index system. § 16-23-104(2), C.R.S. 2016.
+
+¶ 14 But unlike the Maryland statute, Katie’s Law does not impose
+
+an express seriousness requirement. The Attorney General seeks to
+
+fill this gap by arguing that every felony is serious.
+
+¶ 15 The Colorado Supreme Court has not spoken to the
+
+constitutionality of Katie’s Law. In People v. Lancaster, 2015 COA
+
+93, ¶ 23, however, the division concluded that a DNA sample taken
+
+in violation of section 16-23-103(1)(a) — because the defendant had
+
+been arrested for only misdemeanor traffic offenses — did not
+
+violate the defendant’s constitutional privacy interests.
+
+¶ 16 Of course, the division acknowledged that “[a] cheek swab to
+
+obtain a DNA sample is a search, and a search without a warrant
+
+8
+
+supported by probable cause is presumptively unreasonable unless
+
+it falls within one of the established exceptions to the warrant
+
+requirement.” Id. at ¶ 14. Then the division turned to one such
+
+exception — that for “special needs” — which “balance[s] the
+
+government’s special need against the individual’s asserted privacy
+
+interests.” Id. at ¶ 15 (quoting People v. Rossman, 140 P.3d 172,
+
+174 (Colo. App. 2006)).
+
+¶ 17 In applying this exception, the division held that “the
+
+government’s interest in the DNA sample was not outweighed by
+
+[the defendant’s] privacy interests.” Id. at ¶ 23. It explained that
+
+after an arrest, “the intrusion into [the arrestee’s] privacy resulting
+
+from the buccal swabs was minimal and akin to booking procedures
+
+like the fingerprinting and photographing of a suspect.” Id. On this
+
+basis, the division concluded that “the trial court did not err in
+
+denying [the defendant’s] motion to suppress the DNA profile that
+
+was allegedly developed as a result of the prior warrantless
+
+collections of DNA evidence from him.” Id. at ¶ 25.
+
+9
+
+¶ 18 Valdez cites no contrary Colorado authority, nor are we aware
+
+of any. We consider Lancaster well reasoned and apply it as
+
+follows.
+
+2. Application
+
+¶ 19 Valdez raises three constitutional arguments. We consider
+
+and reject each in turn.
+
+¶ 20 First, Valdez argues that although he was arrested for
+
+aggravated driving, his DNA was “not taken pursuant to a serious
+
+offense as contemplated in [King].”
+
+¶ 21 Lancaster, where the defendant was “only in custody for
+
+misdemeanor offenses,” id. at ¶ 26, rejected a similar argument. As
+
+the division explained, “[a]lthough in King, 133 S. Ct. at 1980, the
+
+Supreme Court concluded that it was constitutional to collect DNA
+
+from a suspect detained in custody for a ‘serious offense,’ the Court
+
+did not hold that it is unconstitutional to take DNA from arrestees
+
+under all other circumstances.” Id. Instead, “the magnitude of the
+
+state’s interest does not necessarily depend on the seriousness of
+
+the crime of arrest. As [King] observed, ‘people detained for minor
+
+offenses can turn out to be the most devious and dangerous
+
+10
+
+criminals.’” Id. (quoting Haskell v. Harris, 745 F.3d 1269, 1273 (9th
+
+Cir. 2014) (Smith, J., concurring in the judgment), in turn quoting
+
+King, 569 U.S. at ___, 133 S. Ct. at 1971).
+
+¶ 22 Because, under Lancaster, Valdez’s proposed “serious felony”
+
+litmus test for constitutionality falls short, we decline to decide
+
+whether aggravated driving is such an offense or whether all
+
+felonies are serious.
+
+¶ 23 Lancaster also rejected Valdez’s second argument — that
+
+unlike the Maryland statute in King, Katie’s Law “is clearly not
+
+designed to identify defendants in the manner of a booking
+
+procedure.” True enough, the legislative declaration in section
+
+16-23-102(1), C.R.S. 2016, refers to “preventing” and “solving”
+
+crimes. And these purposes are beyond the ambit of merely
+
+establishing an arrestee’s identity.
+
+¶ 24 Even so, the division held that “[t]he statute at issue in King
+
+did not expressly say that identification was its sole governmental
+
+interest.” Lancaster, ¶ 27. It added, “[n]or did the Supreme Court
+
+say that identification is the only legitimate governmental interest
+
+served by collecting DNA samples.” Id. And section 16-23-102(1)(b)
+
+11
+
+recognizes that “[t]he analysis of DNA has been used numerous
+
+times in the exoneration of innocent individuals charged with or
+
+convicted of crimes.”
+
+¶ 25 Valdez’s third argument — that collection of his DNA was
+
+unconstitutional because Katie’s Law “lacks adequate privacy
+
+provisions” — fares no better. Specifically, he asserts that under
+
+Katie’s Law, a person charged with a felony has the burden of
+
+requesting expungement of the DNA sample. In contrast, under the
+
+Maryland statute, DNA samples are destroyed if “criminal action
+
+begun against the individual . . . does not result in a conviction.”
+
+King, 569 U.S. at ___, 133 S. Ct. at 1967.
+
+¶ 26 Valdez relies solely on People v. Buza, 180 Cal. Rptr. 3d 753,
+
+789 (Cal. Ct. App. 2014). There, the court held “[t]he fact that the
+
+[California] DNA Act does not provide for automatic expungement
+
+increases the weight of the arrestee’s privacy interest.” But this
+
+decision has been depublished because review has been granted by
+
+the California Supreme Court. People v. Buza, 342 P.3d 415 (Cal.
+
+2015).
+
+12
+
+¶ 27 Further, in Haskell v. Harris, 745 F.3d at 1274, the
+
+concurrence in the judgment rejected the assertion “that
+
+California’s law is distinguishable from Maryland’s because
+
+California retains and uses DNA samples indefinitely even if a
+
+suspect is never charged or convicted.” Judge Smith explained that
+
+“the King Court did not view Maryland’s expungement procedures
+
+as important to the constitutionality of Maryland’s law.” Id. Nor
+
+did the King Court “suggest that post-collection expungement
+
+procedures would affect the constitutional inquiry.” Id. Instead,
+
+the Court framed the “Fourth Amendment search at issue” as “a
+
+buccal swab,” and explained “the ‘minor intrusion’ that this ‘brief’
+
+procedure represents is not affected at all by the availability of
+
+expungement procedures.” Id. (quoting King, 569 U.S. at ___, 133
+
+S. Ct. at 1980).
+
+¶ 28 But even if expungement procedures are relevant to the
+
+constitutional inquiry, Katie’s Law does not place an onerous
+
+burden on an arrestee. See United States v. Mitchell, 652 F.3d 387,
+
+404 (3d Cir. 2011) (An “additional factor[] that contributed to the
+
+13
+
+reasonableness of the search” was that the DNA collection statute
+
+provided for expungement.).
+
+¶ 29 For example, under section 16-23-104(2), “[i]f [the CBI] does
+
+not receive confirmation of a felony charge within a year after
+
+receiving the sample for testing, [it] shall destroy the biological
+
+sample and any results from the testing of the sample.” (Emphasis
+
+added.) Thus, the burden of ensuring that a DNA sample remains
+
+in the system after an arrest has been made falls on the district
+
+attorney.
+
+¶ 30 Another example is that if charges are filed — but the arrestee
+
+is not convicted of a felony — the expungement process requires
+
+only minimal information from the arrestee along with a
+
+“declaration that, to the best of the person’s knowledge, he or she
+
+qualifies for expungement.” § 16-23-105(2)(e). The burden then
+
+shifts back to the district attorney to notify the CBI “that the person
+
+does not qualify for expungement and [give] the reasons that the
+
+person does not qualify.” § 16-23-105(4). If such notification is not
+
+received within ninety days, the CBI “shall destroy the biological
+
+substance.” Id.
+
+14
+
+¶ 31 And once a request for expungement has been made, Katie’s
+
+Law requires that the CBI “send notification . . . to the person
+
+arrested or charged, either stating that [the CBI] has destroyed the
+
+biological substance sample and expunged the results of the testing
+
+of the sample or stating why [the CBI] has not destroyed the sample
+
+and expunged the test results.” § 16-23-105(5). Thus, the burden
+
+to follow up is not placed on the arrestee.
+
+¶ 32 Finally, even if collection of Valdez’s DNA did not violate the
+
+United States Constitution, did the collection violate the Colorado
+
+constitution? Valdez says that it did. But we agree with Lancaster,
+
+¶ 24, that the “state constitution provides the same, not greater,
+
+protection in this area than the Fourth Amendment.”
+
+¶ 33 In the end, because Katie’s Law, as applied to Valdez, is
+
+constitutional, we conclude that the trial court did not err in
+
+denying his motion to suppress.
+
+II. The Trial Court Did Not Abuse Its Discretion in Admitting a
+Surveillance Video that Depicted the Shooting
+
+¶ 34 Video from multiple cameras inside the store captured the
+
+robbery. Defense counsel moved in limine for “an order that the
+
+prosecution not be permitted to play for the jury the overhead
+15
+
+camera recording of the offense.” This recording depicted the victim
+
+lying on the floor bleeding from several bullet wounds, being shot
+
+the final time, and giving up his last breath, over a period of less
+
+than one minute. Citing CRE 403, counsel argued that the
+
+prejudicial effect of this recording exceeded any probative value
+
+because it “is extremely graphic and alarming, and will
+
+unnecessarily enflame the passions of the jury”; the victim’s death
+
+from gunshot wounds was undisputed; this video did not identify
+
+which of the robbers had been the shooter; and “[o]ther angles of
+
+video depict the entire event.”
+
+¶ 35 In denying the motion, the trial court explained:
+
+It shows the crime. This is a murder case. It
+is not pleasant. I understand that. There is
+no way I can sanitize it. So I will deny the
+request as it relates to the videotape of the
+crime itself. It can be played in its entirety to
+the jury.
+
+All of the recordings were played for the jury during trial and, as
+
+discussed in the following section, replayed during deliberations.
+
+A. Standard of Review and Law
+
+¶ 36 As with any evidence, whether to admit a video recording lies
+
+within the sound discretion of the trial court; absent an abuse of
+
+16
+
+discretion, its ruling on whether relevant video recordings were not
+
+unnecessarily gruesome must stand. CRE 403; People v. Villalobos,
+
+159 P.3d 624, 630 (Colo. App. 2006). “[A]n abuse of that discretion
+
+will be found only upon a showing that the ruling was manifestly
+
+arbitrary, unreasonable, or unfair.” People v. Rath, 44 P.3d 1033,
+
+1043 (Colo. 2002).
+
+¶ 37 “Because the balance required by CRE 403 favors admission, a
+
+reviewing court must afford the evidence the maximum probative
+
+value attributable by a reasonable fact finder and the minimum
+
+unfair prejudice to be reasonably expected.” Id. Consistent with
+
+this preference for admission, evidence is not unfairly prejudicial
+
+merely because it damages the defendant’s case. People v. Dist.
+
+Court, 785 P.2d 141, 147 (Colo. 1990). And evidence is unfairly
+
+prejudicial only if it has an “undue tendency to suggest a decision
+
+on an improper basis, commonly but not necessarily an emotional
+
+one, such as sympathy, hatred, contempt, retribution, or horror.”
+
+Id.
+
+17
+
+B. Analysis
+
+¶ 38 Valdez argues that the “challenged video added nothing
+
+meaningful to . . . documentation of the event,” but it “surely
+
+shocked [jurors], likely triggering an emotional response and thirst
+
+for retribution for such a grisly killing.” He cites no authority, nor
+
+are we aware of any in Colorado, excluding as unfairly prejudicial a
+
+video recording of the charged crime in progress. Instead, he relies
+
+on cases such as People v. Ellis, 41 Colo. App. 271, 273, 589 P.2d
+
+494, 495 (1978), where the division held that the trial court had
+
+improperly admitted graphic photographs of a victim’s injuries,
+
+which did not “shed enough light on the question of accident to
+
+counteract the passion and prejudice which they must have
+
+generated.” His reliance is misplaced.
+
+¶ 39 The recording from the overhead camera was not an ad hoc
+
+depiction of the consequences of a crime, such as autopsy
+
+photographs of a deceased victim or pictures of injuries to a victim
+
+who survived. Nor was it some sort of recreation. Rather, this
+
+recording showed the crime — as it was happening.
+
+18
+
+¶ 40 So, how could this recording be unfairly prejudicial? We agree
+
+with those courts that have held similar recordings are not. See,
+
+e.g., Ivery v. State, 686 So. 2d 495, 519 (Ala. Crim. App. 1996) (“The
+
+videotape here is without question prejudicial; however, ‘while such
+
+direct evidence of a crime is certainly prejudicial to a defendant’s
+
+case, without more, it is not unfairly so.’”) (citation omitted);
+
+Johnson v. State, No. AP-77,030, 2015 WL 7354609, at *30 (Tex.
+
+Crim. App. Nov. 18, 2015) (unpublished opinion) (“Although the
+
+events captured by the surveillance videotape are disturbing, the
+
+videotape shows no more than how the offense transpired.”); cf.
+
+Bradley v. State, 533 S.E.2d 727, 731 (Ga. 2000) (“The trial court
+
+did not err in admitting a state trooper’s videotape of the victim in
+
+life on the side of the road shortly after she had been shot. The
+
+court properly determined that the videotape . . . accurately
+
+depicted the ongoing crime shortly after the shooting occurred.”).
+
+¶ 41 In sum, we conclude that the trial court did not abuse its
+
+discretion by admitting the surveillance video from the overhead
+
+camera.
+
+19
+
+III. The Trial Court Did Not Abuse Its Discretion in Declining to
+Limit the Number of Times the Jurors Could Watch the Surveillance
+Videos or Imposing Other Restrictions on the Jury’s Consideration
+of the Videos
+
+¶ 42 During deliberations, the jurors indicated that they wanted to
+
+view the surveillance videos. Defense counsel requested that the
+
+jury “not be granted unfettered access” to the videos and should
+
+only be “allow[ed] to view each video once.” Counsel failed to ask
+
+that the jury be admonished not to favor one type of evidence over
+
+another. The court responded:
+
+I will not limit them to one time. I agree they
+are not to have unfettered access to them. We
+will have my clerk play them for them. The
+only people in the room will be the jurors and
+my clerk.
+
+The record does not indicate how much time the clerk spent with
+
+the jurors or how often they replayed the videos. Nor did Valdez
+
+ask the trial court to make such a record after the jury returned the
+
+verdict but before it was discharged.
+
+A. Standard of Review and Law
+
+¶ 43 Trial courts have broad discretion to control the use of exhibits
+
+during jury deliberations. DeBella v. People, 233 P.3d 664, 666
+
+(Colo. 2010). When exercising this discretion, “the trial court’s
+
+20
+
+ultimate objective must be to assess whether the exhibit will aid the
+
+jury in its proper consideration of the case, and even if so, whether
+
+a party will nevertheless be unfairly prejudiced by the jury’s use of
+
+it.” Frasco v. People, 165 P.3d 701, 704-05 (Colo. 2007). But the
+
+court must also ensure that “evidence is not so selected, nor used
+
+in such a manner, that there is a likelihood of it being given undue
+
+weight or emphasis by the jury.” Id. at 703 (quoting Settle v. People,
+
+180 Colo. 262, 264, 504 P.2d 680, 680-81 (1972)).
+
+B. Analysis
+
+¶ 44 Relying on DeBella, Valdez contends the court improperly gave
+
+the jurors unfettered access to the videos by not imposing any
+
+restrictions. In DeBella, the supreme court held that the trial court
+
+had abused its discretion by leaving with the jury a TV monitor and
+
+the victim’s videotaped interview, then failing to supervise or restrict
+
+playback. 233 P.3d at 667.
+
+¶ 45 To begin, unlike in DeBella, here the videos were played for the
+
+jurors only after their request. See People v. Smalley, 2015 COA
+
+140, ¶ 65 (“The court did not automatically provide the jury with
+
+access to the recordings, but waited until the jury requested
+
+21
+
+them.”). And the videos were played for the jury by a court
+
+employee. See DeBella, 233 P.3d at 669 (A court can “require that
+
+the video be viewed in open court or under the supervision of a
+
+bailiff.”). Thus, Valdez inaccurately describes the jury’s access as
+
+“unfettered.”
+
+¶ 46 Still, and also unlike in DeBella, the court did not put any
+
+additional restrictions on viewing the videos — such as limiting the
+
+number of times the jury could watch them. Nor did the court
+
+“admonish the jury not to give the exhibit undue weight or
+
+emphasis.” Id.
+
+¶ 47 But are such restrictions even necessary when video evidence
+
+is nontestimonial? See People v. Jefferson, 2014 COA 77M, ¶ 11,
+
+(“[A] trial court must ‘oversee with caution’ the jury’s use of exhibits
+
+of a testimonial character, including video recorded interviews of
+
+witnesses.”) (cert. granted Dec. 22, 2014). The Attorney General
+
+says “no,” arguing that DeBella involved only testimonial evidence
+
+and the surveillance videos were nontestimonial. See People v.
+
+Russom, 107 P.3d 986, 989 (Colo. App. 2004) (a recording is
+
+22
+
+nontestimonial if it depicts “the event itself rather than a narration
+
+thereof”).
+
+¶ 48 The Attorney General is correct that several divisions of this
+
+court — all pre-DeBella — have distinguished between testimonial
+
+and nontestimonial evidence when upholding trial court decisions
+
+that allowed juries unlimited access to nontestimonial evidence.
+
+See Russom, 107 P.3d at 989 (“Jurors may have access during
+
+deliberations to nontestimonial recordings that depict the event
+
+itself rather than a narration thereof.”); People v. Aponte, 867 P.2d
+
+183, 188-89 (Colo. App. 1993) (“The videotape and its transcription
+
+do not constitute statements of witnesses testimonial in character
+
+as a narrative of events. Rather, they are tangible exhibits with
+
+verbal content which are non-testimonial in character because they
+
+depict the actual commission of the crime itself.”); see also People v.
+
+Blecha, 940 P.2d 1070, 1078 (Colo. App. 1996) (finding no grounds
+
+for a mistrial where jury had unsupervised access to a videotape
+
+that was nontestimonial, and was not shocking or inflammatory;
+
+“the videotape was similar in character to still photographs which
+
+jurors are normally permitted to review during deliberation”), aff’d,
+
+23
+
+962 P.2d 931 (Colo. 1998); cf. People v. Gingles, 2014 COA 163,
+
+¶ 18 (allowing “unrestricted jury access during deliberations to a
+
+defendant’s voluntary and otherwise admissible confession”).2
+
+¶ 49 Since DeBella, the supreme court has not addressed whether
+
+the same reasoning applies to nontestimonial evidence.3 But the
+
+significance of this distinction need not be resolved here. Even if
+
+the trial court should have imposed greater restrictions on the
+
+jury’s consideration of this nontestimonial evidence, for two
+
+reasons, the risk of undue emphasis was not so great as to show an
+
+abuse of discretion.
+
+ First, Valdez never disputed the accuracy of what the videos
+
+portrayed. See DeBella, 233 P.3d at 668-69 (“[T]he
+
+2 These cases are consistent with the weight of authority in other
+jurisdictions. See Burkhart v. Commonwealth, 125 S.W.3d 848, 850
+(Ky. 2003) (“[N]umerous courts have allowed deliberating jurors to
+review audio and visual recordings of a non-testimonial character,
+often within the confines of the jury room.”) (collecting cases).
+3 In Rael v. People, No. 13SC903, 2014 WL 7330995, at *1 (Colo.
+
+Dec. 22, 2014) (unpublished order), the supreme court granted
+certiorari on “[w]hether the court of appeals erred in affirming the
+trial court’s decision to allow the jury unfettered and unsupervised
+access to . . . non-testimonial crime scene videos during
+deliberation.”
+24
+
+inconsistencies of the tape’s content with [the victim’s] trial
+
+testimony were central to the resolution of the case . . . .”).
+
+ Second, the prosecution presented corroborating evidence
+
+identifying the shooter through still photographs developed
+
+from the videos, to which the jury had unrestricted access
+
+without objection from Valdez. See Jefferson, ¶ 18 (“The
+
+heightened danger that undue emphasis will be placed on
+
+detailed videotaped statements of victim-witnesses is
+
+exacerbated in cases like the present one, where minimal
+
+evidence corroborates the victim’s statements and
+
+testimony.”).
+
+¶ 50 For these reasons, we conclude that the trial court did not
+
+abuse its discretion in declining to limit the number of times the
+
+jury could view the videos or in refusing to impose other restrictions
+
+on the jury’s consideration of them.
+
+IV. Because No Error Occurred, Valdez Is Not Entitled to Relief for
+Cumulative Error
+
+¶ 51 “To warrant reversal of a conviction based on cumulative error,
+
+‘numerous errors [must] be committed, not merely alleged.’” People
+
+v. Thomas, 2014 COA 64, ¶ 61 (alteration in original) (quoting
+25
+
+People v. Whitman, 205 P.3d 371, 387 (Colo. App. 2007)). Because
+
+we have not discerned any errors, this contention does not warrant
+
+relief.
+
+V. Valdez’s Challenge to His Consecutive Sentence for Aggravated
+Robbery Is Moot
+
+¶ 52 The Attorney General contends that error, if any, in running
+
+the aggravated robbery sentence consecutively to Valdez’s life
+
+without the possibility of parole sentence is moot because a ruling
+
+could not have any practical effect on the length of his
+
+incarceration. Having affirmed Valdez’s convictions on all charges,
+
+including first degree murder, we conclude that the consecutive
+
+sentence issue is moot.
+
+A. Standard of Review and Law
+
+¶ 53 “We review de novo the legal question of whether a case is
+
+moot.” People in Interest of C.G., 2015 COA 106, ¶ 11 (cert. granted
+
+May 23, 2016).
+
+¶ 54 As a “threshold jurisdictional matter,” we must determine
+
+whether the current appeal is moot “before proceeding to the merits
+
+of the case.” USAA v. Parker, 200 P.3d 350, 356 (Colo. 2009).
+
+“Mootness instructs courts not to grant relief that would have no
+26
+
+practical effect upon an actual and existing controversy.” Bd. of
+
+Dirs., Metro Wastewater Reclamation Dist. v. Nat’l Union Fire Ins. Co.
+
+of Pittsburgh, 105 P.3d 653, 656 (Colo. 2005).4
+
+B. Application
+
+¶ 55 Whether a life without the possibility of parole sentence moots
+
+an error in imposing a lesser sentence consecutively rather than
+
+concurrently has not been addressed in any Colorado appellate
+
+opinion.
+
+¶ 56 Other jurisdictions support the Attorney General’s position on
+
+mootness. See, e.g., Minshew v. State, 975 So. 2d 395, 398 (Ala.
+
+Crim. App. 2007) (“To remand this case now to determine whether
+
+Minshew’s probationary term for his theft conviction in case no. CC-
+
+86-727 was illegally run consecutively to his other probationary
+
+terms would not change the fact that Minshew is serving a sentence
+
+of life imprisonment without the possibility of parole.”); State v.
+
+4Limited exceptions to mootness exist, such as a factual situation
+capable of repetition yet avoiding review or where recurring
+constitutional violation has been alleged. See, e.g., Comcast of
+Cal./Colo., L.L.C. v. Express Concrete, Inc., 196 P.3d 269, 275 (Colo.
+App. 2007). Because Valdez fails to raise any exceptions, we
+decline to address them.
+27
+
+Macy, 886 P.2d 1010, 1012 (Or. 1994) (“Currently, defendant is
+
+serving a term of imprisonment based on the matrix for concurrent
+
+life sentences. Therefore, as things now stand, defendant will serve
+
+a term of imprisonment under the same matrix that he would if this
+
+court were to hold that the trial court erred in imposing consecutive
+
+sentences.”); State v. Mathis, No. M2011-01096-CCA-R3CD, 2013
+
+WL 4774130, at *14 (Tenn. Crim. App. Sept. 5, 2013) (unpublished
+
+opinion) (“Having upheld Defendant Evans’s convictions for
+
+especially aggravated kidnapping, any issues regarding the length of
+
+his sentences for the aggravated burglary and aggravated robbery
+
+convictions are essentially moot as they are to be served
+
+concurrently with two sentences of life without the possibility of
+
+parole.”); cf. Berger v. Norris, No. 5:07CV00298JTR, 2009 WL
+
+4067260, at *3 (E.D. Ark. Nov. 19, 2009) (unpublished opinion)
+
+(“While Petitioner’s reduction in classification does affect his future
+
+accrual of good time credit, his consecutive life sentences make that
+
+entirely ‘theoretical injury’ a moot point.”).
+
+¶ 57 Valdez cites no directly contrary authority. Instead, he points
+
+out that two divisions of this court have addressed consecutive
+
+28
+
+sentencing errors in cases where a controlling sentence of life
+
+without the possibility of parole has been imposed. But these cases
+
+are distinguishable because here, rather than conceding error, the
+
+Attorney General raises mootness. See People v. Phillips, 2012 COA
+
+176, ¶ 172 (“The People concede that when the evidence will
+
+support no reasonable inference other than that multiple
+
+convictions were based on identical evidence, the trial court is
+
+required to impose concurrent sentences for those convictions.”);
+
+People v. Holloway, 973 P.2d 721, 726 (Colo. App. 1998) (“The
+
+People concede[d]” the error.). As well, neither division addressed
+
+mootness. And in any event, “we are not obligated to follow other
+
+divisions of this court.” Sandstrom v. Solen, 2016 COA 29, ¶ 29.
+
+¶ 58 Alternatively, Valdez argues that the issue is not moot because
+
+“circumstances might arise under which [his] life sentence is
+
+reduced.” True enough, our supreme court did just this for certain
+
+juvenile offenders in People v. Tate, 2015 CO 42, ¶ 51. But Tate did
+
+not involve mootness. Valdez does not cite authority, nor have we
+
+found any in Colorado, holding that speculation about an as yet
+
+29
+
+unheralded change in the law — that would have retrospective
+
+application — should be considered as an exception to mootness.
+
+¶ 59 At least one other state has rejected this argument. In
+
+Quiroga v. Commissioner of Correction, 87 A.3d 1171 (Conn. App.
+
+Ct. 2014), the defendant argued that his deportation did not moot
+
+his criminal appeal because Congress might change the criteria for
+
+readmission. Disagreeing, the court explained, “[w]e conclude that
+
+the possibility that Congress may, at some point in the future,
+
+amend federal immigration law so as to permit the petitioner’s
+
+reentry into the country despite his narcotics convictions is pure
+
+conjecture.” Id. at 1176; see also Allende v. Shultz, 845 F.2d 1111,
+
+1121 (1st Cir. 1988) (then circuit judge Breyer, J., concurring)
+
+(“But, I do not see how this court can find (constitutionally
+
+speaking) a genuine ‘controversy’ premised on the fact that present
+
+law may change.”).
+
+¶ 60 In Colorado “[c]ourts should refuse to consider uncertain or
+
+contingent future matters that suppose speculative injury that may
+
+never occur.” Bd. of Dirs., Metro Wastewater Reclamation Dist., 105
+
+P.3d at 656; see also Air Pollution Control Comm’n of Colo. Dep’t of
+
+30
+
+Health v. Colo.-Ute Elec. Ass’n, 672 P.2d 993, 997 (Colo. 1983) (“We
+
+consider it unnecessary and inappropriate to address a question
+
+having only speculative future utility.”). And recognizing such an
+
+exception to mootness would be problematic because, despite stare
+
+decisis, the law can always change. See Creacy v. Indus. Comm’n,
+
+148 Colo. 429, 433, 366 P.2d 384, 386 (1961) (“The rule of stare
+
+decisis is not a doctrine of mortmain; it does not exclude room for
+
+growth in the law and the courts are not without power to depart
+
+from a prior ruling, or to overrule it, where sound reasons exist and
+
+where the general interests will suffer less by such departure than
+
+from a strict adherence.”). Yet, “[e]xceptions should not swallow the
+
+rule.” A.S. v. People, 2013 CO 63, ¶ 27.
+
+¶ 61 Of course, Valdez could obtain certiorari review. But if our
+
+supreme court set aside his first degree murder conviction — and
+
+along with it the life without the possibility of parole sentence — yet
+
+affirmed the remaining convictions, the aggravated robbery
+
+sentence would control. In this event, Valdez would have to serve
+
+that sentence, irrespective of whether it had originally been imposed
+
+consecutively or concurrently. The same would be true if Valdez
+
+31
+
+succeeded in collaterally attacking his first degree murder
+
+conviction.
+
+¶ 62 Given all this, we conclude that error, if any, in imposing the
+
+aggravated robbery sentence consecutively to the life without parole
+
+sentence is moot.
+
+VI. Conclusion
+
+¶ 63 The judgment and sentence are affirmed.
+
+JUDGE BERNARD and JUDGE DUNN concur.
+
+32

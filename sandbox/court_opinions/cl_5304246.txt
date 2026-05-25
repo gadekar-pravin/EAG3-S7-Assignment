@@ -1,0 +1,148 @@
+=========================================================
+Case: State v. Hobbs
+Court: Ohio Court of Appeals
+Date Filed: 2021-12-07
+Citations: 2021 Ohio 4278
+URL: https://www.courtlistener.com/opinion/5304246/state-v-hobbs/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Hobbs, 2021-Ohio-4278.]
+
+IN THE COURT OF APPEALS OF OHIO
+
+TENTH APPELLATE DISTRICT
+
+State of Ohio, :
+
+Plaintiff-Appellee, : No. 20AP-482
+(C.P.C. No. 12CR-5927)
+v. :
+(REGULAR CALENDAR)
+Brandon L. Hobbs, :
+
+Defendant-Appellant. :
+
+D E C I S I O N
+
+Rendered on December 7, 2021
+
+On brief: [Janet A. Grubb, First Assistant Prosecuting
+Attorney], and Sheryl L. Prichard for appellee.
+
+On brief: Brandon Hobbs, pro se.
+
+APPEAL from the Franklin County Court of Common Pleas
+
+JAMISON, J.
+
+{¶ 1} Defendant-appellant, Brandon L. Hobbs, appeals from the May 7, 2020
+decision and entry of the Franklin County Court of Common Pleas denying his motions to
+correct a void sentence and to correct a void judgment. Because the trial court properly
+denied the motions, we affirm.
+I. FACTS AND PROCEDURAL HISTORY
+
+{¶ 2} On January 27, 2014, a jury found appellant guilty of count one, murder, a
+violation of R.C. 2903.02, count two, carrying a concealed weapon, a violation of
+R.C. 2923.12, and count three, having a weapon under disability, a violation of
+R.C. 2923.13, with specifications as to each count. The trial court sentenced appellant
+accordingly. Appellant moved for a post-trial verdict of acquittal and the state filed a
+
+No. 20AP-482 2
+
+memorandum contra. There is no judgment entry that rules upon this motion and nothing
+in the record to indicate there was a hearing.
+{¶ 3} Appellant was sentenced in February of 2014:
+
+LIFE as to count 1, plus an additional THREE (3) consecutive
+years of actual incarceration for the firearm specification on
+count 1; with the possibility of parole after 18 years; TWELVE
+(12) months as to count 2; and TWENTY-FOUR (24) months
+as to count 3. Count 1 to be served concurrently with count 2
+and 3 but consecutive to firearm specification on count 1 at
+OHIO DEPARTMENT OF REHABILITATION AND
+CORRECTIONS.
+
+(Feb. 27, 2014 Jgmt. Entry at 2.)
+
+The trial court notified appellant of Ohio Department of Rehabilitation and Corrections
+shock incarceration programs and post-release control orally and in writing.
+{¶ 4} Appellant timely filed a notice of appeal raising two assignments of error for
+review; (1) that counsel's errors and omissions deprived appellant of effective assistance of
+counsel, and (2) the trial court erred when it did not merge for the purpose of sentencing
+the offenses of murder, carrying a concealed weapon, and having a weapon under a
+disability. This court affirmed the trial court in State v. Hobbs, 10th Dist. No. 14AP-225,
+2015-Ohio-2419. The Supreme Court of Ohio declined jurisdiction to hear the appeal.
+{¶ 5} On May 1, 2020, appellant moved the trial court to vacate his sentence
+alleging that the sentence was void and contrary to law pursuant to R.C. 2929.02(B)(1).
+Appellant argues that the language in his sentencing entry makes the sentence a definite
+sentence instead of the required indefinite sentence. The state replied to appellant's motion
+on May 5, 2020. The trial court denied appellant's motion on May 7, 2020. It is from this
+judgment that appellant now appeals.
+II. ASSIGNMENT OF ERROR
+
+{¶ 6} Appellant assigns the following error for our review:
+Sole Assignment of Error:
+The trial court committed prejudicial error and
+abused its discretion when it denied the appellant's
+motion to correct void sentence.
+
+No. 20AP-482 3
+
+III. LEGAL ANALYSIS
+{¶ 7} The court issued a decision on April 29, 2021 finding that appellant's motion
+to vacate should properly be construed as a petition for postconviction relief under
+R.C. 2953.21 and because the clerk did not properly serve the trial court's May 7, 2020
+entry, this appeal is timely and as of right, rendering appellant's motion for leave to file a
+delayed appeal moot.1
+{¶ 8} Appellant's sole assignment of error is that the trial court committed
+prejudicial error and abused its discretion when it denied the appellant's motion to vacate
+void sentence. However, there has been a substantial change in the law regarding void and
+voidable sentences since the appeal was filed. In State v. Harper, 160 Ohio St.3d 480,
+2020-Ohio-2913, ¶ 42-43, the Supreme Court of Ohio recently "realigned" its void/voidable
+jurisprudence "with the traditional understanding of void and voidable sentences" and held
+that "[a] sentence is void when a sentencing court lacks jurisdiction over the subject-matter
+of the case." "[W]hen a specific action is within a court's subject-matter jurisdiction, any
+error in the exercise of that jurisdiction renders the court's judgment voidable, not void" Id.
+at ¶ 26, citing Pratts v. Hurley, 102 Ohio St.3d 81, 2004-Ohio-1980, ¶ 12. "Generally, a
+voidable judgment may be set aside only if successfully challenged on direct appeal." Id.
+citing State v. Payne, 114 Ohio St.3d 502, 2007-Ohio-4642, ¶ 28.
+{¶ 9} "[A]ny issue that could have been raised on direct appeal and was not * * *
+res judicata and not subject to review in subsequent proceedings." State v. Saxon, 109 Ohio
+St.3d 176, 2006-Ohio-1245, ¶ 16, citing State v. Hutton, 100 Ohio St.3d 176, 2003-Ohio-
+5607, ¶ 37. The doctrine of res judicata "promotes the principles of finality and judicial
+economy by preventing endless relitigation of an issue on which a defendant has already
+received a full and fair opportunity to be heard." Id. at ¶ 18. State v. Huddleston, 10th Dist.
+No. 12AP-512, 2013-Ohio-2561, ¶ 12 (res judicata barred claims that could have been raised
+in appeal from sentencing entry but were not because defendant did not appeal.). State v.
+Jackson, 10th Dist. No. 20AP-16, 2020-Ohio-3783, ¶ 7.
+{¶ 10} Appellant avers that the trial court sentenced him to a stated sentence rather
+than an indeterminate sentence as the sentencing entry orders "with the possibility of
+
+1 On October 20, 2020, appellant filed a motion for delayed appeal.
+
+No. 20AP-482 4
+
+parole after 18 years." (Jgmt. Entry at 1.) "When a one, three or six-year mandatory prison
+term is imposed pursuant to division (B)(1)(a)(i) of section 2929.14 of the Revised Code,
+for using a firearm in the commission of an offense, such term shall be served consecutively
+with, and prior to, the stated prison term or life sentence imposed for the offense." Ohio
+Adm.Code 5120-2-03.1(I). "Except as otherwise provided in division (B)(2) or (3) of this
+section, whoever is convicted of or pleads guilty to murder in violation of section 2903.02 of
+the Revised Code shall be imprisoned for an indefinite term of fifteen years to life." R.C.
+2929.02(B)(1). It must be noted that the sentencing entry is not incongruous when
+appellant is not eligible for parole until he has served 18 years; appellant is to serve three
+consecutive years of actual incarceration for the firearm specification on count one and 15
+years of the life sentence imposed in count one before being eligible for parole.
+{¶ 11} Appellant filed a direct appeal and did not raise any sentencing issues.
+Appellant subsequently filed a motion to vacate a void sentence, which this court construed
+as a motion for postconviction relief, to challenge what he perceives to be a definite
+sentence. In the present case, res judicata bars claims that appellant failed to timely raise
+in his direct appeal of the sentencing entry of February 27, 2014.
+IV. CONCLUSION
+
+{¶ 12} Appellant was required to raise the issue he is now challenging in his direct
+appeal. Appellant's sole assignment of error is overruled.
+Judgment affirmed.
+
+DORRIAN, P.J., and BEATTY BLUNT, J., concur.

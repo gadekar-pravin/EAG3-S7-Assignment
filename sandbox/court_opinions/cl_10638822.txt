@@ -1,0 +1,408 @@
+=========================================================
+Case: State of Tennessee v. Reginald Jenkins
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-07-22
+Citations: 
+URL: https://www.courtlistener.com/opinion/10638822/state-of-tennessee-v-reginald-jenkins/
+Source Query: murder conviction appeal
+=========================================================
+
+07/22/2025
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+July 8, 2025 Session
+
+STATE OF TENNESSEE v. REGINALD JENKINS
+
+Appeal from the Criminal Court for Shelby County
+No. 21-00359 James Jones, Jr., Judge
+___________________________________
+
+No. W2024-01215-CCA-R3-CD
+___________________________________
+
+Reginal Jenkins, Defendant, appeals from his convictions for two counts of attempted first
+degree murder and two counts of employing a firearm during a dangerous felony, claiming
+there was insufficient evidence regarding identity and premeditation. We disagree with
+Defendant’s claims and affirm the judgments.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgments of the Criminal Court Affirmed
+
+ROBERT L. HOLLOWAY, JR., J., delivered the opinion of the court, in which JOHN W.
+CAMPBELL, SR., and MATTHEW J. WILSON, JJ., joined.
+
+Ashton Jones and Ruchee J. Patel (on appeal); and Eric Mogy and James Davis (at trial),
+Memphis, Tennessee, for the appellant, Reginald Jenkins.
+
+Jonathan Skrmetti, Attorney General and Reporter; Raymond J. Lepone, Assistant
+Attorney General; Steven J. Mulroy, District Attorney General; and Chris J. Lareau and
+John Scott, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+The Shelby County Grand Jury returned an indictment charging Defendant with two
+counts of attempted first degree murder, two counts of employing a firearm during a
+dangerous felony, and three counts of convicted felon in possession of a firearm. The three
+counts of convicted felon in possession of a firearm were bifurcated, and following a five-
+day trial, the jury found Defendant guilty of two counts of attempted first degree murder
+and two counts of employing a firearm during a dangerous felony. After the verdict,
+Defendant entered a guilty plea to the three counts of convicted felon in possession of a
+firearm. Following a sentencing hearing, the trial court sentenced Defendant to a total
+effective sentence of twenty-one years.
+
+Jury Trial
+
+Ricky Floyd was the pastor at Pursuit of God Transformation Center (“the church”),
+in the Frayser neighborhood of Memphis. On the morning of November 16, 2020, Pastor
+Floyd left his truck and his wife’s car at the church with Keith Thomas for cleaning. After
+Pastor Floyd returned that evening, he and Mr. Thomas left the church in Pastor Floyd’s
+truck to check on rental property owned by the church. They stopped at Watkins Express,
+a gas station located across the street from the church. While Mr. Thomas pumped gas,
+Pastor Floyd went inside. During this time, a black SUV pulled up to the gas pumps, and
+a man exited, took off his jacket, put his jacket in the backseat, reentered the SUV, and
+then drove away without buying gas or entering the store. When Pastor Floyd exited the
+gas station, he noticed the man muttering and asked Mr. Thomas if the man spoke to him.
+Mr. Thomas said the man did not say anything “negative.”
+
+As they drove away from the gas station, Pastor Floyd noticed a car following him
+very closely. Pastor Floyd commented, “Man, that car is on my behind.” Pastor Floyd
+pulled over to let the vehicle pass. Instead, the vehicle pulled beside his truck and an
+occupant opened fire, with several bullets striking his truck and one round striking Pastor
+Floyd in the leg. He drove back to his church and called 911. Pastor Floyd could not
+identify the car and did not know how many people were inside. Mr. Thomas described
+the vehicle as a black SUV, like a Chevrolet Tahoe.
+
+Memphis Police Department (“MPD”) Officer Stanley Dickerson responded to the
+911 call. Upon hearing Pastor Floyd’s and Mr. Thomas’s description of the events, Officer
+Dickerson issued a “[b]e on the lookout” (“BOLO”) for a black Tahoe occupied by an
+individual “around the 3800 block” of University Street where the shooting occurred.
+Officer William Watson, an MPD crime scene investigator, went to the church, where he
+collected a projectile from the floorboard of Pastor Floyd’s truck and photographed
+multiple “gunshot defects” on the driver’s side and near the gas tank. Officer Watson took
+Pastor Floyd’s truck into custody as evidence, and MPD Officer Jackson Ngien examined
+the truck, using a trajectory rod to determine the bullet that caused the defect in the front
+driver’s side door was fired from slightly to the rear of the driver’s side of Pastor Floyd’s
+truck.
+
+On the night of the shooting, MPD Sergeant Mario Tate was assigned to investigate
+the incident. Based on information provided by Pastor Floyd and Mr. Thomas, the
+following morning, Sergeant Tate went to the scene where the shooting occurred. He
+interviewed a witness, Johnny Tate, who told Sergeant Tate that, on the prior evening, he
+heard multiple gunshots and saw a vehicle speeding away from the area. While processing
+the scene, Sergeant Tate discovered ten 9-millimeter Blazer Luger shell casings in the
+middle of the intersection.
+-2-
+
+In an effort to identify the shooter, Sergeant Tate collected surveillance footage from
+Watkins Express. In the video footage, a black GMC Terrain SUV can be seen pulling up
+near to where Pastor Floyd’s truck was parked at the gas pumps. A man can be seen exiting
+the GMC Terrain, taking off his jacket, placing the jacket in the backseat, getting back in
+the vehicle, and then driving away without purchasing gas. Moments later, the same SUV
+can be seen parking across the street. When Pastor Floyd and Mr. Thomas left the gas
+station, the GMC Terrain pulled out behind them. From the video, Sergeant Tate was able
+to obtain the license plate number of the GMC Terrain. After a license plate search, he
+discovered that the vehicle was registered to Kamillah Baker, whom Sergeant Tate later
+learned lived with Defendant in Frayser.1 Sergeant Tate issued a BOLO and obtained a
+search warrant for the GMC Terrain.
+
+On November 19, 2020, MPD officers seized the GMC Terrain and interviewed Ms.
+Baker. After being advised of her rights, she identified her GMC Terrain from pictures on
+Sergeant Tate’s smartphone and confirmed that the man seen standing outside of the GMC
+Terrain was Defendant. A subsequent search of the GMC Terrain uncovered a spent 9-
+millimeter Blazer Luger shell casing located in the driver’s side window cowl. Forensic
+analysis confirmed that this shell casing was fired from the weapon that fired the ten shell
+casings recovered at the crime scene.
+
+After calling Ms. Baker as a witness, the State handed Ms. Baker a “still shot”
+extracted from the surveillance video recorded by “Camera 16” at Watkins Express. Pastor
+Floyd’s gray truck, a red Volkswagen, and a black SUV can be seen parked at the gas
+pumps; a person can be seen standing on the driver’s side of Pastor Floyd’s truck; and
+another person can be seen standing on the driver’s side of the black SUV. Ms. Baker
+testified that she could not identify the black SUV or the individual standing next to the
+black SUV because the photograph was “blurry.” Ms. Baker then acknowledged that she
+signed a “Waiver of Rights” form and watched “some video footage from the gas station”
+when she was questioned by Sergeant Tate on November 19, 2020. The following dialogue
+then occurred:
+
+[THE STATE:] Okay. Were you shown some video footage from a gas
+station and asked if you recognized anything in that footage?
+
+[MS. BAKER:] Mm-hmm, yes.
+
+[THE STATE:] Okay. Do you remember what your answer was?
+
+1
+Defendant and Kamillah Baker were married prior to Defendant’s trial. At times in the record,
+she is referred to as Kamilla Jenkins and Kamillah Baker-Jenkins. Defendant’s brief refers to her as
+Kamillah Baker, and we will refer to her by that name or as Ms. Baker.
+-3-
+
+[MS. BAKER:] Yes.
+
+[THE STATE:] What was your answer?
+
+[MS. BAKER:] The picture was blurry, so I was telling them that [I] wasn’t
+able to -- I’m not positive. You know, I’m not for sure. So, we just went on
+questioning, questioning. So, I did state that as my first answer.
+
+[THE STATE:] Okay. Do you remember being asked, “That’s the shirt right
+there?” Your answer, “It looked like it. Yep. Well, it’s blurry, but basically,
+that’s what I can tell. It looked just like that.”
+
+[MS. BAKER:] Yes.
+
+[THE STATE:] Do you remember that?
+
+[MS. BAKER:] Yes.
+
+[THE STATE:] Do you remember being asked, “That’s your truck, right?”
+And you answered, “Mm-hmm.” Question, “Is that Reginald?” Answer, “It
+is.” Question, “It is him?” Answer, “It is him.” Do you remember that?
+
+[MS. BAKER:] Well, I don’t exactly remember that part, but yes.
+
+[THE STATE:] Okay. Well, let me play it for you. We have it on video.
+
+[MS. BAKER:] Okay.
+
+[THE STATE:] And I’ll ask you if you remember that.
+
+[MS. BAKER:] Okay.
+
+At this point, the trial court granted a two-minute recess so that defense counsel and
+Ms. Baker could watch the ninety-second video of the November 19, 2020 interrogation in
+the hall while the jury remained in the jury box. The following dialogue then occurred:
+
+[THE STATE:] So, Ms. Baker, from having reviewed, watched the video of
+your interrogation by the two detectives, did you on three separate occasions
+say, “It is him.”
+
+-4-
+
+[MS. BAKER:] Yes, after I stated that it was blurry, but I did say that. I
+mean, I was tired, scared, confused.
+
+[THE STATE:] When you said it was blurry, that was in relationship to them
+showing you the picture of a shirt, correct?
+
+[MS. BAKER:] All of the pictures were blurry. Well, they only showed me
+the truck and pictures at the gas pump.
+
+[THE STATE:] The same pictures I just showed you?
+
+[MS. BAKER:] Yes, the pictures that you showed me when I first got here.
+
+....
+
+[THE STATE:] On November the 19th, you positively identified your
+husband three times, correct?
+
+[MS. BAKER:] It was blurry. I mean, I’ve never been to down and testifying
+and things like that. Going to jail or going to being questioned, so I’m not
+for sure what was going on or anything. I mean, all of it was just confusing.
+I’m getting off work, going down there to see what was going on. It was just
+-- I can’t even explain what it was. So, I said it was blurry. For me being
+questioned and scared, threatened, and I’m going to go to jail. So, it was
+blurry, and then I did say that was him, but it was most definitely blurry.
+
+[THE STATE:] And later on in that conversation, you said, “It is him.”
+Unprompted from the detectives, you were talking about something else, and
+you said, “Mm-hmm, I don’t know about that, but it is him,” didn’t you?
+
+[MS. BAKER:] They asked me the same questions.
+
+On cross-examination, Ms. Baker stated that she had never seen Pastor Floyd before
+trial. She said that she and Defendant lived near Watkins Express and were very familiar
+with the area. She said that she drove her SUV the day before it was confiscated and did
+not notice a cartridge casing on her windshield.
+
+The jury found Defendant guilty of two counts of attempted first degree murder and
+two counts of employing a firearm during a dangerous felony. The trial court denied
+Defendant’s motion for new trial, and Defendant timely appealed.
+
+-5-
+
+Analysis
+
+Defendant raises two issues on appeal. First, Defendant claims that there was
+insufficient evidence to identify him as the shooter, and second, Defendant claims there
+was insufficient proof to show that he acted with premeditation or the intent to kill Mr.
+Thomas and Pastor Floyd. The State argues that there was “more than sufficient evidence”
+for any rational trier of fact to find beyond a reasonable doubt that Defendant was the
+individual who fired into the truck multiple times and shot Pastor Floyd and that there was
+sufficient circumstantial evidence to show Defendant acted with premeditation. We agree
+with the State.
+
+Standard of Review
+
+Our standard of review for a sufficiency of the evidence challenge is “whether, after
+viewing the evidence in the light most favorable to the prosecution, any rational trier of
+fact could have found the essential elements of the crime beyond a reasonable doubt.”
+Jackson v. Virginia, 443 U.S. 307, 319 (1979) (emphasis in original); see also Tenn. R.
+App. P. 13(e). Questions of fact, the credibility of witnesses, and weight of the evidence
+are resolved by the fact finder. State v. Bland, 958 S.W.2d 651, 659 (Tenn. 1997). This
+court will not reweigh the evidence. Id. Our standard of review “is the same whether the
+conviction is based upon direct or circumstantial evidence.” State v. Dorantes, 331 S.W.3d
+370, 379 (Tenn. 2011) (quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009))
+(internal quotation marks omitted).
+
+A guilty verdict removes the presumption of innocence, replacing it with a
+presumption of guilt. Bland, 958 S.W.2d at 659; State v. Tuggle, 639 S.W.2d 913, 914
+(Tenn. 1982). The defendant bears the burden of proving why the evidence was
+insufficient to support the conviction. Bland, 958 S.W.2d at 659; Tuggle, 639 S.W.2d at
+914. On appeal, the “State must be afforded the strongest legitimate view of the evidence
+and all reasonable inferences that may be drawn therefrom.” State v. Vasques, 221 S.W.3d
+514, 521 (Tenn. 2007).
+
+Criminal Attempt
+
+Criminal attempt is defined as, when a person “acting with the kind of culpability
+otherwise required for the offense[,] . . . [a]cts with the intent to complete a course of action
+or cause a result that would constitute the offense, under the circumstances surrounding the
+conduct as the person believes them to be, and the conduct constitutes a substantial step
+toward the commission of the offense.” Tenn. Code Ann. § 39-12-101(a)(3) (2020).
+
+-6-
+
+Premeditated First Degree Murder
+
+Premeditated first degree murder is, as charged in this case, “[a] premeditated and
+intentional killing of another[.]” Tenn. Code Ann. § 39-13-202(a)(1) (2020). A person
+acts intentionally “when it is the person’s conscious objective or desire to engage in the
+conduct or cause the result.” Tenn. Code Ann. § 39-11-302(a) (2020). Premeditation “is
+an act done after the exercise of reflection and judgment.” Tenn. Code Ann. § 39-13-
+202(d) (2020). “‘Premeditation’ means that the intent to kill must have been formed prior
+to the act itself. It is not necessary that the purpose to kill pre-exist in the mind of the
+accused for any definite period of time.” Id. Additionally, “[t]he mental state of the
+accused at the time the accused allegedly decided to kill must be carefully considered in
+order to determine whether the accused was sufficiently free from excitement and passion
+as to be capable of premeditation.” Id.
+
+“Because premeditation involves the defendant’s state of mind, of which there is
+often no direct evidence, we have long recognized that premeditation may be proved by
+circumstantial evidence . . . and may be inferred from the manner and circumstances of the
+killing[.]” State v. Reynolds, 635 S.W.3d 893, 916 (Tenn. 2021) (internal citations and
+quotation marks omitted). Whether premeditation is present in a given case is a question
+of fact to be determined by the jury from all of the circumstances surrounding the killing.
+State v. Davidson, 121 S.W.3d 600, 615 (Tenn. 2003) (citing State v. Suttles, 30 S.W.3d
+252, 261 (Tenn. 2000); State v. Pike, 978 S.W.2d 904, 914 (Tenn. 1998)).
+
+Our supreme court has discussed that “numerous specific circumstances . . . may
+bear on the existence of premeditation,” including,
+
+(1) The use of a deadly weapon on an unarmed victim;
+
+(2) The particular cruelty of the killing;
+
+(3) Threats or declarations of intent to kill;
+
+(4) The procurement of a weapon;
+
+(5) Any preparations to conceal the crime undertaken before the crime was
+committed;
+
+(6) The destruction or secretion of evidence of the killing;
+
+(7) Calmness after the killing;
+
+-7-
+
+(8) Evidence of motive;
+
+(9) The use of multiple weapons in succession;
+
+(10) The infliction of multiple wounds or repeated blows;
+
+(11) Evidence that the victim was retreating or attempting to escape when
+killed;
+
+(12) The lack of provocation on the part of the victim; and
+
+(13) The failure to render aid to the victim.
+
+Reynolds, 635 S.W.3d at 916-17 (citations omitted). However, this “list of specific
+circumstances developed through Tennessee caselaw is not exhaustive,” and the trier of
+fact “is not limited to any specific evidence when determining whether a defendant
+intentionally killed the victim after the exercise of reflection and judgment.” Id. at 917
+(citing State v. Leach, 148 S.W.3d 42, 54 (Tenn. 2004)); see Davidson, 121 S.W.3d at 615;
+Tenn. Code Ann. § 39-13-202(e). “Ultimately, then, premeditation may be established by
+any evidence from which a rational trier of fact may infer that the killing was done after
+the exercise of reflection and judgment.” Reynolds, 635 S.W.3d at 917 (internal citations
+and quotation marks omitted).
+
+Employing a Firearm During a Dangerous Felony
+
+Employing a firearm during the commission of or attempt to commit a dangerous
+felony is a criminal offense. Tenn. Code Ann. § 39-17-1324(b)(2) (2020). A dangerous
+felony includes attempted first degree murder. Tenn. Code Ann. § 39-17-1324(i)(1)(A)
+(2020).
+
+Identity
+
+The identity of the perpetrator is “an essential element of any crime.” State v. Rice,
+184 S.W.3d 646, 662 (Tenn. 2006), abrogated on other grounds by State v. Miller, 638
+S.W.3d 136 (Tenn. 2022). Identity may be established with circumstantial evidence alone,
+and the “jury decides the weight to be given to circumstantial evidence, and [t]he inferences
+to be drawn from such evidence . . . .” Id. (internal quotation marks omitted). The question
+of identity is a question of fact left to the trier of fact to resolve. State v. Crawford, 635
+S.W.2d 704, 705 (Tenn. Crim. App. 1982).
+
+-8-
+
+Proof at Trial
+
+In the light most favorable to the State, the proof at trial established that a black
+GMC Terrain owned by Ms. Baker, Defendant’s then-girlfriend, pulled into Watkins
+Express, where Mr. Thomas was pumping gas into Pastor Floyd’s truck. Video
+surveillance also showed that, after exiting Watkins Express, the GMC Terrain pulled
+across the street, waited for Pastor Floyd’s truck to leave Watkins Express, and then pulled
+out behind Pastor Floyd’s truck. Pastor Floyd testified that, after leaving Watkins Express,
+a vehicle began following his truck very closely, so he pulled over to let it pass. Instead of
+passing, the vehicle pulled beside his truck, and an occupant opened fire, with several
+bullets striking his truck and one round striking Pastor Floyd in the leg. While processing
+the scene the morning after the shooting, Sergeant Tate discovered ten 9-millimeter Blazer
+Luger shell casings in the middle of the intersection. Mr. Tate, a witness who lived near
+the intersection where the shooting occurred, told Sergeant Tate that he heard multiple
+gunshots and saw a vehicle speeding away from the area on the night of the shooting. After
+impounding and searching Ms. Baker’s black GMC Terrain, MPD officers found one spent
+9-millimeter Blazer Luger shell casing on the driver’s side in the front windshield cowl.
+Expert testimony established that the eleven shell casings were fired from the same
+weapon.
+
+Three days after the shooting, Ms. Baker was questioned by Sergeant Tate and
+Sergeant Smith. After viewing a still shot from the Watkins Express surveillance video,
+Ms. Baker identified the vehicle at Watkins Express as her GMC Terrain and the individual
+standing beside her vehicle as Defendant. Although Ms. Baker attempted to backtrack on
+her pretrial identification by claiming at trial that the still shot was “blurry” and that she
+could not positively identify the black SUV as her GMC Terrain or the individual standing
+beside her vehicle as Defendant, the jury discredited her testimony in favor of her statement
+to police, as was its purview. The evidence was sufficient for any rational trier of fact to
+find beyond a reasonable doubt that Defendant was the individual who fired a weapon from
+the GMC Terrain. The direct and circumstantial evidence identifying Defendant as the
+shooter was overwhelming.
+
+Relative to premeditation and Defendant’s intent to kill, the circumstantial evidence,
+including video showing Defendant’s pulling the GMC Terrain into Watkins Express near
+Pastor Floyd’s truck, driving out of Watkins Express without getting gas, parking across
+the street, waiting for Pastor Floyd to leave, and then following Pastor Floyd’s vehicle for
+a short distance before pulling beside Pastor Floyd’s vehicle and firing into it ten times,
+was sufficient for any rational trier of fact to find beyond a reasonable doubt that Defendant
+acted with premeditation and the intent to kill.
+
+-9-
+
+Because the evidence was sufficient to establish that Defendant committed
+attempted first degree murder by firing a gun into Pastor Floyd’s vehicle, the evidence was
+also more than sufficient for the jury to find beyond a reasonable doubt that Defendant
+employed a firearm during the commission of a dangerous felony. Defendant is not entitled
+to relief.
+
+Conclusion
+
+Based on the foregoing and the record as a whole, we affirm the judgments of the
+trial court.
+
+s/Robert L. Holloway, Jr.
+ROBERT L. HOLLOWAY, JR., JUDGE
+
+- 10 -

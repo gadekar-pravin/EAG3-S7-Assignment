@@ -1,0 +1,635 @@
+=========================================================
+Case: State v. Robert X. Geter
+Court: Supreme Court of South Carolina
+Date Filed: 2025-01-23
+Citations: 
+URL: https://www.courtlistener.com/opinion/10319961/state-v-robert-x-geter/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Supreme Court
+
+The State, Petitioner-Respondent,
+
+v.
+
+Robert Xavier Geter, Respondent-Petitioner.
+
+Appellate Case No. 2021-001408
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS
+
+Appeal from Richland County
+DeAndrea G. Benjamin, Circuit Court Judge
+
+Opinion No. 28256
+Heard September 13, 2023 – Filed January 23, 2025
+
+AFFIRMED
+
+Chief Appellate Defender Robert Michael Dudek, of
+Columbia, for Respondent-Petitioner.
+
+Attorney General Alan McCrory Wilson, Deputy Attorney
+General Donald J. Zelenka, Senior Assistant Deputy
+Attorney General Melody Jane Brown, Assistant Attorney
+General Tommy Evans, Jr., and Solicitor Byron E. Gipson,
+all of Columbia, for Petitioner-Respondent.
+
+JUSTICE FEW: This Court has been asked several times to decide whether the
+doctrine of transferred intent applies to the crime of attempted murder. Each time
+
+we declined to answer the question. Today we hold the doctrine of transferred intent
+does not apply to attempted murder. We affirm the court of appeals' decision to
+reverse Robert Geter's conviction for attempted murder. We affirm—as the court of
+appeals did—Geter's murder conviction.
+
+I. Facts and Procedural History
+
+In the early morning hours of March 7, 2015, Robert Xavier Geter and James Lewis
+began arguing and then fighting on the dance floor at Culler's Bar on Monticello
+Road north of the City of Columbia. Who started the fight and who remained the
+aggressor as the fight moved to a deck outside the bar was hotly disputed at trial.
+The State's version of events began with the owner of the bar—Deborah Culler—
+who testified "Geter started the fight" and "just kept coming after" Lewis, and Geter
+"wouldn't leave him alone." Clarence Stone, who was acting as the unofficial
+bouncer at the bar, testified he saw the commotion on the dance floor, grabbed
+Lewis—whom Stone testified was on top of Geter by that time—and dragged him
+outside onto the back deck. While Stone and Lewis were outside, Culler told Geter
+he had to leave the bar. Instead of leaving through the front door, Geter left toward
+the back deck, following Stone and Lewis. Another State's witness heard Geter say
+on his way out, "I'm going to kill me somebody tonight."
+
+Stone testified Geter came out onto the back deck and approached Lewis appearing
+to offer a handshake and asking, "Are we good? We good?" Geter then started
+stabbing Lewis. Stone tried to intervene, and in the process Geter stabbed Stone in
+one eye causing permanent blindness.
+
+Geter testified he was never the aggressor and he acted in self-defense. He claimed
+Lewis, Stone, and another person ganged up on him while he was still on the dance
+floor, he was the first one out the back door, and the others followed him and
+continued their attack on the deck. Geter testified he "sliced" Lewis with a knife he
+kept in his pocket as Lewis and Stone were "steady" beating him.
+
+Ultimately, Geter stabbed Lewis twice in the chest and slashed him across his arms
+and face. Stone survived, but Lewis died as a result of his wounds. The State
+indicted Geter for murder and attempted murder. In the attempted murder
+indictment, the State alleged Geter "did with the intent to kill, attempt to kill
+CLARENCE STONE." At trial, however, the State's theory was that Geter was
+attempting to kill Lewis when he stabbed Stone. The State argued Geter was guilty
+of attempted murder based on the doctrine of transferred intent. In his closing
+argument, the assistant solicitor told the jury, "When [Geter] went outside with the
+
+intent to kill James Lewis, that intent is the same intent that transferred to his
+attempted murder of Clarence Stone. He is guilty of attempted murder." The trial
+court instructed the jury on transferred intent, to which Geter objected, and the jury
+convicted Geter of murder and attempted murder.
+
+Geter appealed on two grounds. He argued transferred intent can never apply to
+attempted murder and that certain testimony by Investigator Joseph Clarke of the
+Richland County Sheriff's Department constituted improper vouching and
+bolstering. A majority of the court of appeals found the trial court erred in charging
+transferred intent to the jury. State v. Geter, 434 S.C. 557, 567-68, 864 S.E.2d 569,
+574 (Ct. App. 2021). It held "the State must demonstrate Geter attempted to kill
+Stone, and that was not the State's theory of the case." 434 S.C. at 568, 864 S.E.2d
+at 574-75. On that basis, the court of appeals reversed Geter's conviction for
+attempted murder. 434 S.C. at 568, 864 S.E.2d at 575. Judge Geathers dissented on
+this point. 434 S.C. at 571-72, 864 S.E.2d at 576. The court of appeals unanimously
+found part of Clarke's testimony constituted improper bolstering but the error in
+admitting the testimony was harmless. 434 S.C. at 569-70, 864 S.E.2d at 575-76.
+The court of appeals affirmed Geter's conviction for murder. 434 S.C. at 571, 864
+S.E.2d at 576. This Court granted cross-petitions for a writ of certiorari to review
+both rulings.
+
+II. Transferred Intent
+
+South Carolina did not have the crime of attempted murder until 2010 when our
+General Assembly enacted section 16-3-29 of the South Carolina Code (2015) as
+part of the Omnibus Crime Reduction and Sentencing Reform Act of 2010. Act No.
+273, 2010 S.C. Acts 1937, 1947. Confusion immediately arose as to whether
+attempted murder required proof of a specific intent to kill or whether general
+intent—as will suffice for murder—is all the statute requires. See State v. King, 422
+S.C. 47, 71, 810 S.E.2d 18, 31 (2017) (Kittredge, J., concurring in result) ("The
+question is easily stated—whether the section 16-3-29 offense of attempted murder
+is a specific intent crime—but not easily answered."). In 2015 and 2017, the court
+of appeals and a majority of this Court resolved the confusion and held the statute
+requires the State prove a specific intent to kill. See King, 422 S.C. at 55, 810 S.E.2d
+at 22 ("We agree with the Court of Appeals that 'the Legislature intended to require
+the State to prove specific intent to commit murder as an element of attempted
+murder, and therefore the trial court erred by charging the jury that attempted murder
+is a general intent crime.'" (quoting State v. King, 412 S.C. 403, 411, 772 S.E.2d 189,
+193 (Ct. App. 2015))).
+
+This holding, in turn, created confusion over how the State may prove specific intent
+to kill when the defendant attempts to kill one person and fails but injures another
+person, and whether in that circumstance the State need resort to the doctrine of
+transferred intent. See State v. Devonta Edward Williams, 437 S.C. 100, 103, 103-
+06, 876 S.E.2d 324, 326, 326-28 (Ct. App. 2022) (stating the crime of attempted
+murder "often seems to present confusing issues" and discussing whether transferred
+intent applies); State v. James Caleb Williams, 435 S.C. 288, 299, 867 S.E.2d 430,
+436 (Ct. App. 2021) ("We find the doctrine of transferred intent inapplicable to this
+charge of attempted murder."), rev'd on other grounds, 439 S.C. 620, 889 S.E.2d
+562 (2023); State v. Michael Juan Smith, 425 S.C. 20, 34, 819 S.E.2d 187, 194 (Ct.
+App. 2018) (holding "the State properly relied on the transferred intent doctrine to
+show specific intent" for attempted murder), rev'd on other grounds, 430 S.C. 226,
+845 S.E.2d 495 (2020); Devonta Edward Williams, 437 S.C. at 104, 876 S.E.2d at
+326 ("Two of this court's decisions stand for the proposition that transferred intent
+does not apply to attempted murder." (first citing James Caleb Williams, 435 S.C. at
+299, 867 S.E.2d at 436; and then citing Geter, 434 S.C. at 568, 864 S.E.2d at 575));
+Geter, 434 S.C. at 571-72, 864 S.E.2d at 576 (Geathers, J., dissenting) ("stand[ing]
+by" the position that transferred intent applies to attempted murder (citing Smith, 425
+S.C. at 32-34, 819 S.E.2d at 193-94)).
+
+In Michael Juan Smith, for example, the defendant was convicted of attempted
+murder and other crimes in the tragic shooting of a young woman "in the Five Points
+area of Columbia." 430 S.C. at 228, 845 S.E.2d at 496. "It was undisputed Smith
+did not intend to harm her. Rather, Smith claimed he was . . . shooting at a [rival]
+group of men who had threatened him. Smith missed his intended target and hit the
+victim by accident." Id. The State attempted to convict Smith of attempted murder
+on three different theories of specific intent: "felony attempted-murder," 1 implied
+malice, and transferred intent. 430 S.C. at 229, 234 n.9, 845 S.E.2d at 496, 499 n.9.
+This Court reversed the attempted murder conviction in Smith without addressing
+the doctrine of transferred intent. See 430 S.C. at 234 n.9, 845 S.E.2d at 499 n.9.
+We stated, however, that if the State on remand—as it indicated it would—presented
+the theory that the defendant was guilty of "attempted murder for shooting at the
+rival group," then "there would be no question on remand as to the applicability of
+the doctrine of transferred intent." Id. Thus, we indicated, transferred intent would
+
+1
+The so-called "felony murder" rule is confusing enough. See William Shepard
+McAninch et al., The Criminal Law of South Carolina 103-10 (5th ed. 2007)
+(discussing the "confusing aspects of the felony murder rule"). In Smith, we held
+"felony attempted-murder is not a recognized crime." 430 S.C. at 232, 845 S.E.2d
+at 498.
+
+not apply and Smith could be guilty of attempted murder if the State proved he
+specifically intended to kill one or more of the rival gang members but
+unintentionally hit and injured the young woman. Id.; see also State v. Gerald Rudell
+Williams, 427 S.C. 148, 157 n.9, 829 S.E.2d 702, 707 n.9 (2019) (finding "the
+doctrine of transferred intent [is] unnecessary to sustain the convictions for the
+attempted murders").
+
+Today we resolve any remaining confusion on this issue by holding the doctrine of
+transferred intent is inapplicable to the crime of attempted murder. See 40 C.J.S.
+Homicide § 42 (2014) ("The doctrine of transferred intent . . . does not apply to
+inchoate homicides, e.g., attempted murder . . . ."). Attempted murder requires the
+State to prove three essential elements: (1) malice, (2) the specific intent to kill a
+person, and (3) an attempt to kill that person. § 16-3-29; King, 422 S.C. at 64, 810
+S.E.2d at 27. Because those are the only three elements, the crime is complete upon
+the defendant committing the act that constitutes the attempt, and the State need not
+concern itself regarding the result of the attempt. Because the State is not required
+to prove the result of the defendant's attempt in order to satisfy the elements of the
+crime, transferred intent is inapplicable.
+
+To be clear about "transferred intent," however, it is a perfectly valid legal theory
+that applies to murder and other crimes where the State is required to prove the result
+of the defendant's actions. See, e.g., State v. Fennell, 340 S.C. 266, 272, 531 S.E.2d
+512, 515 (2000) ("If there was malice in [defendant's] heart, he was guilty of
+[murder], it matters not whether he killed his intended victim or a third person
+through mistake." (quoting State v. Heyward, 197 S.C. 371, 377, 15 S.E.2d 669, 672
+(1941)) (first alteration in original)); see also State v. Williams, 189 S.C. 19, 22-23,
+199 S.E. 906, 907 (1938) (affirming murder conviction where defendant aimed at a
+wagon driver but hit and killed a passenger instead); Fennell, 340 S.C. at 274, 276,
+531 S.E.2d at 516, 517 (holding transferred intent applied to assault and battery with
+intent to kill because the doctrine was "necessary" in order to hold someone fully
+responsible despite injuring an unintended victim). For example, to obtain a
+conviction for the former crime of assault and battery with intent to kill, the State
+must have proven the defendant committed a battery against the person toward
+whom he had malice and whom he assaulted. 2 If the defendant has "bad or mistaken
+
+2
+Correctly defined in this context, "An 'assault' is an unlawful attempt, coupled with
+a present ability, to commit a violent injury upon the person of another. A 'battery'
+is the successful accomplishment of such attempt." State v. Jones, 133 S.C. 167,
+179, 130 S.E. 747, 751 (1925), overruled on other grounds by State v. Foust, 325
+S.C. 12, 479 S.E.2d 50 (1996). In other words, "assault" is the attempt, and "battery"
+
+aim," as we said in Fennell, 3 or for some other reason batters the wrong victim, the
+State can be left with a gap in proof that—despite the defendant's clear guilt—leaves
+it impossible to achieve a conviction. In those instances, the law steps in with the
+"legal fiction" of transferred intent to close the gap in proof so the State can convict
+a guilty defendant despite the unintended result. See Fennell, 340 S.C. at 270-77,
+531 S.E.2d at 514-18 (providing a detailed discussion of the "legal fiction" of
+transferred intent). This is the reason we have explained that the doctrine "makes a
+whole crime out of two halves by joining the intent to harm one victim with the
+actual harm caused to another." Gerald Rudell Williams, 427 S.C. at 150, 829 S.E.2d
+at 702-03.
+
+In attempted murder cases, however, there is no gap to close. Section 16-3-29 sets
+forth the three essential elements the State must prove to achieve a conviction for
+the crime. Malice—the first of the three elements—has been discussed and
+explained at length in murder and other cases for the entire history of our State. See
+generally State v. Campbell, 443 S.C. 182, 190, 904 S.E.2d 441, 445 (2024) (calling
+the definition of malice "settled law"). There is nothing in section 16-3-29 that
+changes this "settled" analysis of malice just because the State is required to prove
+it in an attempted murder case. See Campbell, 443 S.C. at 189-90, 904 S.E.2d at
+444-45 (equating "malice" in murder and attempted murder cases). The second and
+third elements, however, are new to our State with the enactment of section 16-3-29.
+In King, we explained it is the "with intent to kill" language in section 16-3-29 that
+must apply to a specific person, holding "the new offense of attempted murder . . .
+includes a 'specific intent to kill' as an element." 422 S.C. at 63-64, 810 S.E.2d at
+26-27. Similarly, the attempt to kill must be directed toward a person the defendant
+specifically intended to kill.
+
+is the "violent injury" that results. With the 2010 Act, however, the General
+Assembly repealed the common law offense of assault and battery with intent to kill.
+King, 422 S.C. at 63-4, 810 S.E.2d at 26-27 ("We find the General Assembly
+expressly repealed the offense of ABWIK and purposefully created the new offense
+of attempted murder . . . .").
+3
+See 340 S.C. at 272, 531 S.E.2d at 515 ("[A] defendant may be found guilty of
+murder or manslaughter in a case of bad or mistaken aim under the doctrine of
+transferred intent."); 21 Am. Jur. 2d Criminal Law § 115 (2016) ("The purpose of
+the transferred intent theory is to ensure that a person will be prosecuted for the crime
+that person intended to commit even when, because of bad aim or some other lucky
+mistake, the intended target was not the actual victim.").
+
+Thus, the second and third elements require the State to prove (2) the specific intent
+to kill a human being and (3) action taken for the purpose of carrying out that intent.
+But these elements do not require proof of anything—intent or otherwise—that
+occurs after the bullet leaves the gun, or in this case, after Geter initiated the swing
+of the knife. 4 Most importantly, however, neither of these elements involves the
+
+4
+Our point that the second and third elements must apply to the intended victim is
+illustrated by the Supreme Court of California's decision in People v. Perez, 234
+P.3d 557 (Cal. 2010). In that case, the defendant "fired a single bullet at a distance
+of 60 feet, from a car going 10 to 15 miles per hour, at a group of seven peace officers
+and a civilian who were standing less than 15 feet apart from one another in a dimly
+lit parking lot." 234 P.3d at 559. However, there was "no evidence he was targeting
+any particular individual when he fired at the group." Id. The bullet struck one
+person but did not kill him. Id. A jury convicted the defendant of eight counts of
+attempted murder based on the one gunshot. Id. Reversing seven of the eight
+convictions, the Court explained,
+
+The mental state required for attempted murder has long
+differed from that required for murder itself. Murder does
+not require the intent to kill. Implied malice—a conscious
+disregard for life—suffices. In contrast, attempted murder
+requires the specific intent to kill and the commission of a
+direct but ineffectual act toward accomplishing the
+intended killing.
+
+Thus, in order for defendant to be convicted of the
+attempted murder of each of the seven officers and the
+civilian in the group into which he fired the single shot, the
+prosecution had to prove he acted with the specific intent
+to kill each victim. Guilt of attempted murder must be
+judged separately as to each alleged victim. This is true
+whether the alleged victim was particularly targeted or
+randomly chosen.
+
+In [a prior decision], we considered the question whether
+a shooter who fires a single shot into a group of people,
+intending to kill one of the group, but not knowing or
+caring which one, can be convicted of a single count of
+attempted murder. We answered the inquiry affirmatively,
+
+result of the defendant's attempt. In particular, whether the intended victim—or
+some other person or no person at all—is injured is simply not relevant to the
+elements the State must prove to achieve a conviction for attempted murder. In fact,
+a defendant with malice and the specific intent to kill is guilty of attempted murder
+because of his bad or mistaken aim, not despite it. It is unnecessary, therefore, to
+employ the fiction of transferring the defendant's intent to kill one person to the
+person he actually hit on his attempt.
+
+To illustrate the point, we consider several hypothetical scenarios from which an
+attempted murder charge may arise:
+
+1. A has malice and the specific intent to kill B. Acting
+on that intent, A attempts to shoot B but the gun jams and
+does not fire.
+
+In this scenario, in which no result ensues from the attempt because the bullet never
+left the chamber of the jammed gun, A is nevertheless guilty of attempted murder.
+
+explaining that the mental state required for attempted
+murder is the intent to kill a human being, not a particular
+human being.
+
+With regard to whether the evidence in this case is
+sufficient to establish that defendant acted with specific
+intent to kill someone in the group he shot at, past
+decisions have recognized that the act of firing toward a
+victim at a close, but not point blank, range in a manner
+that could have inflicted a mortal wound had the bullet
+been on target is sufficient to support an inference of intent
+to kill. Consistent with these principles, a rational trier of
+fact could find that defendant's act of firing a single bullet
+at a group of eight persons from a distance of 60 feet
+established that he acted with intent to kill someone in the
+group he fired upon. A person who intends to kill can be
+guilty of attempted murder even if the person has no
+specific target in mind.
+
+234 P.3d at 562-63 (citations and quotation marks omitted) (cleaned up).
+
+This Court affirmed a conviction for attempted murder on precisely these facts in
+State v. Young, 429 S.C. 155, 838 S.E.2d 516 (2020). We stated,
+
+Young Jr. also appeals his conviction for the attempted
+murder of Robinson. At one point in the combat, Young
+Jr. had his gun pointed at Robinson. When Young Jr.
+pulled the trigger, the gun jammed and did not fire. This
+action resulted in a charge of attempted murder. We
+affirm the conviction for attempted murder pursuant to
+Rule 220(b), SCACR, as any argument that Young Jr. did
+not attempt to kill Robinson is manifestly without merit.
+
+429 S.C. at 158 n.2, 838 S.E.2d at 517 n.2.
+
+The following scenarios do involve a result of the defendant's attempt, but not the
+result the defendant intended. Nevertheless, these scenarios are just as clearly
+attempted murder:
+
+2. A has malice and the specific intent to kill B. Acting
+on that intent, A shoots at and hits B but only wounds and
+does not kill him.
+
+3. A has malice and the specific intent to kill B. Acting
+on that intent, A shoots at B but misses him, and the bullet
+hits a house.
+
+In both of these scenarios, A acted with the specific intent to kill B, but a different
+result ensued. However, the different result is irrelevant to an analysis of whether
+the elements of attempted murder are met because the crime is complete upon
+commission of the act constituting the attempt; the result does not matter. The third
+scenario is almost the same as Gerald Rudell Williams, in which we affirmed
+convictions for attempted murder when the defendant shot at a figure standing in a
+doorway of a mobile home—thinking the figure was a different person—but missed
+and hit the side of the house. Chief Justice Kittredge—writing for the Court—
+explained:
+
+[W]e find the doctrine of transferred intent unnecessary to
+sustain the convictions for the attempted murders of
+Young and Wrighton. Petitioner was alleged to have
+specifically intended to kill Young the night of the
+
+shooting, and to have shot at the door where Wrighton
+stood, intending to kill the figure in the doorway. It
+matters not that Petitioner may have been unaware it was
+Wrighton in the door, rather than Young. Simply put,
+Petitioner intended to shoot the person (Wrighton) who
+appeared in the doorway. As a result, we alternatively
+sustain Petitioner's convictions for the attempted murders
+of Young and Wrighton without resort to the doctrine of
+transferred intent.
+
+Gerald Rudell Williams, 427 S.C. at 157-58 n.9, 829 S.E.2d at 707 n.9.
+
+The fourth scenario is legally the same as the third:
+
+4. A has malice and the specific intent to kill B. Acting
+on that intent, A shoots at B but misses him, and the bullet
+hits but does not kill a third person, C.
+
+In this scenario, instead of hitting a house when the defendant missed his intended
+target, the defendant hit another person. This is actually the Michael Juan Smith
+scenario, in which the State indicated it intended to retry Smith on the theory he
+specifically intended to kill the rival gang members but missed and unintentionally
+hit the young woman. In our fourth hypothetical scenario or in the actual Michael
+Juan Smith scenario, if the State proves the facts necessary to support the theory, the
+jury may find the defendant guilty of attempted murder without regard for the result
+of the attempt and with no consideration of transferred intent. This is also the
+scenario the court of appeals recently addressed hypothetically in Devonta Edwards
+Williams. The court wrote,
+
+Suppose Peter fires a single shot at Paul in an attempt to
+kill him. The bullet misses Paul and hits and injures Mary
+instead. As far as attempted murder is concerned, Peter
+attempted to murder Paul, not Mary. After all, there is no
+evidence Peter intended to kill Mary. His intent was to kill
+Paul.
+
+437 S.C. at 104, 876 S.E.2d at 326.
+
+In this hypothetical, the State's proof that Peter specifically intended to kill Paul and
+acted on that intent by firing the shot at him makes Peter guilty of attempted murder
+
+despite the fact he unintentionally injured Mary instead of his intended victim Paul.5
+The hypothetical illustrates how, in contrast to murder, the transferred intent doctrine
+is not necessary to hold an accused criminally liable for his bad aim in an attempted
+murder case.
+
+This brings us to the case now before the Court. Apart from Geter's use of a knife
+instead of a gun, this case is no different from our fourth hypothetical, the Michael
+Juan Smith scenario, and the Devonta Edwards Williams hypothetical. If the State
+had tried Geter for attempted murder without confusing the issue by improperly
+injecting the theory of transferred intent, proved Geter had malice and the specific
+intent to kill Lewis, and showed that—in an act separate from the act of murdering
+Lewis—Geter attempted to stab Lewis but instead stabbed Stone, then the jury could
+have found Geter guilty of attempted murder. With the requisite specific intent to
+kill, once the defendant commits an act that constitutes an attempt to carry out that
+intent, the crime is complete, and it does not matter what result—if any—ensues.
+
+The court of appeals held, "To support that [attempted murder] charge, the State
+must demonstrate Geter attempted to kill Stone . . . ." Geter, 434 S.C. at 568, 864
+S.E.2d at 574. As we have explained, this comment viewed in the abstract is
+incorrect because—as discussed with our fourth hypothetical and the Michael Juan
+Smith scenario—if A (Geter or Smith) has the specific intent to kill B (Lewis or the
+rival gang members), and acting on that intent attempts to kill B, but hits C (Stone
+
+5
+The issue on appeal in Devonta Edwards Williams was whether the trial court erred
+in denying Williams' directed verdict motion on one of three charges Williams faced.
+437 S.C. at 103, 876 S.E.2d at 326. The facts of that charge were that Williams shot
+into a crowd of people with no apparent idea Knox was present. 437 S.C. at 102,
+876 S.E.2d at 325. The State argued "Williams' intent to injure other people"
+sufficed, id., and the trial court denied the directed verdict motion, 437 S.C. at 103,
+876 S.E.2d at 326. The court of appeals affirmed—correctly—relying on what it
+called "this 'zone of danger' theory." 437 S.C. at 105-06, 876 S.E.2d at 327-28. We
+do not disagree with the court of appeals, but the "zone of danger" theory was not
+necessary in that case. See infra note 7. Rather, applying the only three elements of
+attempted murder as set forth in section 16-3-29, Williams was guilty of attempted
+murder because the State proved malice and his specific intent to kill a person in the
+group. It did not matter what result ensued from his attempt to carry out that intent.
+Thus, the court of appeals correctly affirmed Williams' conviction for attempted
+murder "[d]espite the trial court's erroneous reliance on the doctrine of transferred
+intent." 437 S.C. at 106-07, 876 S.E.2d at 328.
+
+or the young woman), he can be guilty of attempted murder. On the particular facts
+of this case, however, the court of appeals is correct. Here, the State proved Geter
+pulled out his knife, swung it repeatedly at Lewis within a span of only a few
+seconds, and killed him. On these facts, the jury found Geter guilty of murder. In
+what was arguably the same act—a series of swings of a knife at Lewis—Geter
+inadvertently stabbed Stone. Viewed in isolation, this act constitutes attempted
+murder. However, in combination with his successful killing of Lewis, the State
+cannot convict Geter of both murder and attempted murder for the same act. Thus,
+in this unique case, the court of appeals correctly determined the attempted murder
+conviction could stand only if Geter "attempted to kill Stone." The incorrect
+transferred intent jury instruction permitted the jury to find Geter guilty of both
+murder and attempted murder on what might have been the same act. 6,7
+
+6
+The court of appeals was correct for the additional reason that the State could not
+convict Geter on the theory he attempted to murder Lewis unless it made a motion
+to amend the indictment in which it had alleged he attempted to murder Stone.
+However, footnote 4 of the court of appeals' opinion could indicate the court made
+the statement quoted above that "the State must demonstrate Geter attempted to kill
+Stone" because it believed it is simply not possible to convict A of attempted murder
+when he attempts to kill B but injures C. See 434 S.C. at 568 n.4, 864 S.E.2d at 574
+n.4. As our opinion today makes clear, if that is what the court of appeals meant, it
+was mistaken.
+7
+Had the State chosen to try this case on the theory set forth in the indictment—that
+Geter also specifically intended to kill Stone—the evidence presented would have
+given rise to a jury question as to whether Geter could be guilty of murder and
+attempted murder, with the theory supporting the attempted murder charge being
+that in addition to the intent necessary to support Geter's murder of Lewis, Geter also
+had the specific intent to kill Stone. If the State proved such intent, then the act of
+stabbing Stone would be a separate act from the act of murdering Lewis. This takes
+us back to the court of appeals' "zone of danger" theory from Devonta Edwards
+Williams. The court of appeals stated,
+
+It is, after all, only natural to infer that when someone
+shoots at another person, the shooter intends to kill. By
+the same reasoning, when someone points and fires a
+deadly weapon multiple times at a group of people he
+knows are in the line of fire, we believe a rational juror
+could infer the shooter intended to murder whoever may
+have been injured in that group.
+
+Thus, we affirm the court of appeals in reversing the attempted murder conviction.
+
+To be clear on one final point, our statements above (1) "the State need not concern
+itself regarding the result of the attempt," (2) "the result does not matter," and (3) "it
+does not matter what result—if any—ensues," should be understood to apply only
+to what the State must prove to achieve a conviction for attempted murder. Of course
+the result of the defendant's actions matters to both the intended and unintended
+victims, and it matters to the State under the Victims' Bill of Rights and the Victims'
+Rights Act. See S.C. CONST. art. I, § 24 (Victims' Bill of Rights); S.C. Code Ann.
+§§ 16-3-1505 to -1565 (2015 & Supp. 2024) (Victims' Rights Act). In this case,
+there are two victims of a properly-framed attempted murder charge. See S.C. Code
+Ann. § 16-3-1510(a) (2015) (defining "Victim" as "any individual who suffers direct
+or threatened physical, psychological, or financial harm as the result of the
+commission or attempted commission of a criminal offense" (emphasis added)).
+Under subsection 16-3-1510(a), Lewis is a victim of Geter's attempted murder
+because Geter attempted to kill him, and Stone is a victim too because Geter stabbed
+him in the eye and blinded him. Similarly, there are multiple victims in our
+hypothetical scenario 4, the Michael Juan Smith scenario, and the Devonta Edwards
+Williams hypothetical. In each such case, the intended victim and the unintended
+victim who was inadvertently injured are both victims. Thus, the crime of attempted
+murder is integrally connected to the unintended victim who was injured as a result
+of the crime.
+
+The point of this entire opinion, however, is not the identity of the victims nor to
+vindicate the harm caused to them; neither is an issue in this case. Whether the State
+may charge a defendant in this scenario with other crimes that relate only to the
+unintended victim is also not an issue in this case. Rather, the only issue we address
+in this opinion is what the State must allege and prove to get a conviction for
+attempted murder when the defendant's attempt to kill the intended victim causes
+harm to an unintended victim. On that point, the State need only allege and prove
+the three essential elements discussed in this opinion.8 The result—if any—of the
+
+437 S.C. at 105, 876 S.E.2d at 327.
+8
+The proper manner in which to frame an indictment in this scenario seems to be a
+particular point of confusion. While this Court is not in the business of drafting
+indictments, this opinion makes clear that one way to frame an indictment in this
+scenario—using the Devonta Edwards Williams hypothetical to illustrate the point—
+
+defendant's criminal acts simply does not matter to the elements of attempted
+murder, and there is no need for any further mention of transferred intent.
+
+III. Vouching or Bolstering
+
+Geter also challenges Investigator Clarke's trial testimony that a statement Stone
+made to him shortly after the crimes occurred "was consistent with [Stone's] trial
+testimony." Geter, 434 S.C. at 569, 864 S.E.2d at 575. The court of appeals held "it
+was inappropriate for Investigator Clarke to opine as to the consistency of Stone's
+testimony with his prior statement." 434 S.C. at 569-70, 864 S.E.2d at 575-76. For
+the reasons explained by the court of appeals, we agree. We also agree the error was
+harmless. 434 S.C. at 571, 864 S.E.2d at 576.
+
+IV. Conclusion
+
+For the reasons stated above, we affirm the court of appeals' decision to reverse
+Geter's attempted murder conviction because transferred intent does not apply to
+attempted murder. We uphold his murder conviction because the error in admitting
+Clarke's testimony was harmless.
+
+AFFIRMED.
+JAMES, HILL, JJ., and Acting Justice Donald W. Beatty, concur.
+KITTREDGE, C.J., concurring in result only.
+
+would be something like this: "Peter, acting with malice and the intent to kill Paul,
+attempted to carry out that intent by firing a single gunshot at Paul." The State
+would, of course, add factual allegations to establish timing, venue, and perhaps
+other matters, but this general framework suffices to allege the three essential
+elements necessary to achieve a conviction for attempted murder in a scenario such
+as the Devonta Edwards Williams hypothetical. If the State chooses to include the
+identity of the unintended victim in the indictment, it certainly may do so, but that
+fact is not necessary to allege the elements of attempted murder under section 16-3-
+29.
+
+CHIEF JUSTICE KITTREDGE: I concur in result. I do so, however,
+reluctantly and in recognition of the counterintuitive logic—flowing from this
+Court's interpretation of the attempted murder statute9—involved in State v.
+King.10 In King, we held attempted murder requires proof of a higher degree
+of intent (specific intent) than that required to prove murder (general intent).
+Necessarily, then, prosecuting attempted murder cases is more difficult than
+prosecuting murder cases. This difficulty is compounded in cases in which
+the act underlying the attempt injures an unintended victim instead of the
+intended victim. My research from around the country confirms the majority
+is correct, and transferred intent may not be used to charge a defendant with
+the attempted murder of the unintended victim. See, e.g., Cockrell v. State,
+890 So. 2d 174 (Ala. 2004); Ramsey v. State, 56 P.3d 675 (Alaska Ct. App.
+2002); People v. Bland, 48 P.3d 1107 (Cal. 2002); Harrison v. State, 855
+A.2d 1220 (Md. 2004).
+To the extent the majority opinion can be read to suggest a single attempted
+murder charge could adequately vindicate the harm to two people—one the
+intended victim, and the second an injured, unintended victim—I respectfully
+disagree. In such a situation, a single count of attempted murder cannot be
+applied to both victims. In fact, it appears this is why the State has
+continually sought to apply transferred intent to the crime of attempted
+murder since section 16-3-29 was enacted: it was attempting to bring the
+most serious charges available to vindicate the harm to both victims.
+The majority focuses its analysis on the propriety of an attempted murder
+charge as it relates to the intended victim, and I completely agree with the
+result the majority reaches. My concern is how the law currently requires the
+State (and the courts) to treat an injury to an unintended victim. When the
+intent to kill the intended victim is not fully actualized and, instead, an
+unintended victim is injured, an attempted murder charge will not lie for the
+injury to the unintended victim.
+My concern is perhaps best understood in the context of a hypothetical. Take
+for example a situation where, in the course of attempting to murder an
+
+9
+S.C. Code Ann. § 16-3-29 (2015).
+10
+422 S.C. 47, 810 S.E.2d 18 (2017).
+
+intended victim, the defendant's actions severely injure—but do not kill—an
+unintended victim. See, e.g., State v. Smith, 430 S.C. 226, 845 S.E.2d 495
+(2020). As I believe we hold today, the State cannot prosecute the defendant
+for the attempted murder of the unintended victim. Rather, the State can only
+prosecute the defendant for the attempted murder of the intended victim,
+whether that intended victim was injured or not. For the innocent bystander's
+inadvertent injury—no matter how horrific—the State may only prosecute the
+defendant for lesser degrees of assault and battery, all of which involve
+substantially shorter prison sentences. 11
+We are thus left with an unsettling and illogical result. There will be times
+when the intended victim is uninjured and the unintended victim is horribly
+maimed. The charge for the intended, uninjured victim will be attempted
+murder, and the charge for the unintended, severely injured victim will be
+some lesser assault and battery offense. That is the result required under
+section 16-3-29. Any change, if warranted, must come from the General
+Assembly. 12
+
+11
+The maximum sentence associated with attempted murder is thirty-years'
+imprisonment. See S.C. Code Ann. § 16-3-29 (2015). In contrast, the maximum
+sentence for the most serious lesser-included offense, assault and battery of a high
+and aggravated nature, is twenty-years' imprisonment. See S.C. Code Ann.
+§ 16-3-600(B)(2) (2015). The penalties for the lesser-degrees of assault and
+battery drop off sharply from there, not to mention the differing parole
+consequences for those less-serious offenses.
+12
+See King, 422 S.C. at 64 n.5, 810 S.E.2d at 27 n.5 ("While we find it
+unnecessary to address King's additional sustaining ground [regarding the propriety
+of charging the jury, in an attempted murder case, that malice may be inferred from
+the use of a deadly weapon], we would respectfully suggest to the General
+Assembly to re-evaluate the language following 'malice aforethought' as the
+inclusion of the word 'implied' in section 16-3-29 is arguably inconsistent with a
+specific-intent crime.").

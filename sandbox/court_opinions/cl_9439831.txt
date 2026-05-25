@@ -1,0 +1,390 @@
+=========================================================
+Case: State of Tennessee v. Tamarion Terrell Johnson
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2023-11-03
+Citations: 
+URL: https://www.courtlistener.com/opinion/9439831/state-of-tennessee-v-tamarion-terrell-johnson/
+Source Query: murder conviction appeal
+=========================================================
+
+11/03/2023
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+Assigned on Briefs September 26, 2023
+
+STATE OF TENNESSEE v. TAMARION TERRELL JOHNSON
+
+Appeal from the Criminal Court for Hamilton County
+No. 307589 Don W. Poole, Judge
+___________________________________
+
+No. E2022-01308-CCA-R3-CD
+___________________________________
+
+A Hamilton County jury convicted Defendant, Tamarion Terrell Johnson, of second degree
+murder and aggravated assault in the shooting death of the victim, Shawnquell Stanfield.
+The trial court merged the assault conviction into the murder conviction. Defendant argues
+on appeal that the trial court improperly instructed the jury on flight and that the evidence
+was insufficient to support his second degree murder conviction. We affirm the judgments
+of the trial court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgments of the Criminal Court Affirmed
+
+TIMOTHY L. EASTER, J., delivered the opinion of the court, in which ROBERT H.
+MONTGOMERY, JR., and JILL BARTEE AYERS, JJ., joined.
+
+Daniel J. Ripper, Chattanooga, Tennessee, for the appellant, Tamarion Terrell Johnson.
+
+Jonathan Skrmetti, Attorney General and Reporter; Caroline Weldon, Assistant Attorney
+General; Neal Pinkston, District Attorney General; and Cameron Williams and
+AnCharlene Davis, Assistant District Attorneys General, for the appellee, State of
+Tennessee.
+
+OPINION
+
+Facts and Procedural History
+
+The testimony at trial established that the victim, also known as “Phat Baby,” was
+19 years old and lived with her grandmother in east Chattanooga. On the evening of
+September 24, 2018, the victim was drinking beer and smoking marijuana in her
+grandmother’s driveway with Mista McCary, Devrin Houston, and Ladarean Lane. At one
+point that evening, the victim got in the back driver-side seat of a white Ford Fusion driven
+
+by Defendant to sell him drugs. The victim sold marijuana and Xanax in Chattanooga.
+Mr. McCary did not see anyone besides Defendant in the car. Defendant and the victim
+drove off in the Fusion. This concerned Mr. McCary, Mr. Houston, and Mr. Lane. Mr.
+McCary believed that the victim would get in the car, exchange the drugs and money, and
+get out. They decided to follow Defendant and the victim. While the three were following
+Defendant’s vehicle, Defendant stopped on North Chamberlain Avenue. The victim came
+out and admonished the three for “messing up her money.” The victim told them to meet
+her at her grandmother’s house, and she got back in Defendant’s car. Mr. McCary testified
+at trial that the victim had a backpack that she left in the car with Mr. McCary and the
+others. Neither the victim, Mr. McCary, Mr. Houston, nor Mr. Lane had a weapon that
+evening.
+
+Mr. McCary and company returned to the victim’s grandmother’s house and became
+worried because they could not get in contact with the victim. Mr. McCary called the
+victim’s cell phone several times to no avail. Mr. McCary, Mr. Houston, and Mr. Lane got
+back in their vehicle and returned to the location where the victim had admonished them.
+When they arrived, they saw only police lights. Mr. McCary tried to approach the scene
+but was blocked from doing so by police officers.
+
+Amanda King lived in a home on North Chamberlain Avenue in east Chattanooga
+with her then-boyfriend, her children (one of whom was Romonia “Jade” Sharp), and one
+of Ms. Sharp’s friends, Erica Forte. Defendant had lived with them for a short period at
+some point prior but did not live with them on September 24, 2018. Everyone in the house
+was in bed early that evening because of the heavy rain. Ms. King testified at trial that she
+heard “roughly six” gunshots “right in [her] window” “around 8[:00 or] 8:15” that evening.
+Ms. King crawled upstairs to check on her children, whom she told to “stay down” and
+tried to console—the children were understandably scared by the gunshots. Ms. King
+testified that she called 911 ten or fifteen minutes after she heard the gunshots. She did not
+go outside until the police arrived. Ms. King spoke with the police about what happened
+and gave them Ms. Sharp’s and Ms. Forte’s cell phones. Ms. King testified at trial that Ms.
+Sharp had previously been in a romantic relationship with Defendant. She identified
+Defendant in the courtroom.
+
+Ms. Sharp was friends with the victim and was one of the victim’s customers. Ms.
+Sharp had introduced the victim and Defendant. Ms. Sharp and Defendant were in a
+romantic relationship around the same time the victim was killed. Ms. Sharp was upstairs
+in the North Chamberlain Avenue home when she heard the gunshots. She was not initially
+concerned about them but noticed that they were close enough to “sh[ake] up the house.”
+Ms. Sharp did not go outside until the police arrived. When Ms. Sharp and Ms. Forte saw
+the victim lying in the road, they did not initially recognize her. However, they realized it
+was the victim when police found one of the victim’s shoes. Ms. Sharp recognized the
+-2-
+
+shoe as one the victim had worn that day. Ms. Sharp and Ms. Forte had bought marijuana
+from the victim earlier that afternoon. After Ms. Sharp realized the victim was dead, she
+made a post on Facebook that said, “Check on your people.” Mr. McCary and Mr. Houston
+called her when they saw the post. They gave Ms. Sharp information that she relayed to
+police.
+
+Chattanooga Police Department (“CPD”) Sergeant Jason Wood responded to a shots
+fired call at North Chamberlain Avenue in Chattanooga on September 24, 2018, just prior
+to 10:00 p.m. Sergeant Wood recalled at trial that it was raining “exceptionally hard” that
+evening. When Sergeant Wood arrived at the scene he began looking for evidence of a
+crime. He spoke with a woman who told him that the shots sounded like they came from
+“just outside her house.” As he continued to search in the rain, he “almost stepped on an
+individual” lying in the road. It was the victim. Sergeant Wood looked for signs of life
+and called for an ambulance. Emergency medical personnel took the victim to Erlanger
+Hospital, where she died later that evening. Sergeant Wood taped off the area to preserve
+evidence, though the area was later expanded when police found the wrecked Ford Fusion
+nearby.
+
+Crime scene investigators arrived at the scene and began to take photographs and
+collect evidence. They collected a shoe as well as swabs from suspected blood in the area
+where the victim was found. Investigators also photographed the white Ford Fusion that
+was wrecked up the hill from where the victim’s body was found. In the frame of the rear
+passenger window they found a shell casing. Investigators also recovered a bag of
+marijuana that had washed down the street due to the heavy rain. When Defendant was
+processed at the police station, investigators swabbed his hands for gunshot residue
+(“GSR”) and collected a buccal swab.
+
+CPD Sergeant Joseph Neighbors was a homicide detective in September 2018. On
+September 24, 2018, Sergeant Neighbors went to Erlanger Hospital, where the victim had
+been transported. When he arrived at the hospital, he learned that the victim had died. He
+drove to the North Chamberlain Avenue scene. Sergeant Neighbors spoke with Ms. Sharp,
+Ms. King, and Ms. Forte, and collected Ms. Sharp’s and Ms. Forte’s cell phones.
+
+CPD Officer Veronica Thomas was en route to the North Chamberlain Avenue
+location when she was rerouted to a home on Searle Street in east Chattanooga. Officer
+Thomas spoke with the residents, went into the home, and found Defendant in a bathroom.
+Officer Thomas recalled at trial that Defendant seemed “shy” and “nervous.” Officer
+Thomas took Defendant to the police station not as a suspect, but as a witness. She was
+unaware of Defendant’s involvement in the shooting and believed his hiding in the house
+was connected to a separate incident.
+
+-3-
+
+After speaking with witnesses at the North Chamberlain Avenue scene, Sergeant
+Neighbors returned to the police station to interview Defendant, who had been identified
+by that point as a person of interest in the case. Defendant’s mother was with Defendant
+at the police station and gave Sergeant Neighbors consent to interview Defendant.
+Defendant’s mother left and Defendant waived his Miranda rights. A video recording of
+Sergeant Neighbors’ interview with Defendant was admitted as an exhibit at trial.
+
+Defendant gave varying accounts of the events in his interview with Sergeant
+Neighbors. Defendant told Sergeant Neighbors first that he was going to buy Xanax and
+marijuana from the victim—he eventually said that he planned to rob the victim. Defendant
+initially said he was a passenger in the vehicle and someone else drove—he later changed
+his story and said he was alone, explaining that he was “covering for [himself]” earlier.
+Defendant also stated that the people following him brandished weapons and shot at him—
+then he said that he started shooting before he was shot at. Defendant also told Sergeant
+Neighbors that he ran through the woods to another house and told the residents that he
+was being chased and asked them to call the police.
+
+Defendant became increasingly agitated throughout the interview. He eventually
+said, “[i]t was my gun, I shot, I killed, f[***] it.” Defendant’s demeanor was much calmer
+after he said this. Defendant said several times that he “busted” the victim, which Sergeant
+Neighbors explained at trial means he “shot her.” Defendant said, “I did that s[***]. I was
+by myself. Keep it real.” Defendant told Sergeant Neighbors that he had stolen the car he
+was driving when he shot the victim.
+
+Defendant boasted to another detective during the interview about the shooting,
+asking, “S[***] was lit, wasn’t it?” Sergeant Neighbors explained at trial that “lit” means
+“awesome.” When the detective asked Defendant if he was proud of what he had done,
+Defendant said, “Straight up.”
+
+Defendant finally gave a written statement in which he wrote that “we” (“I” was
+crossed out) planned to rob the victim, became nervous when the others were following,
+and shot the victim because the individuals in the other vehicle “had guns.”
+
+When the wrecked Ford Fusion was searched the next day, investigators found
+another .45 caliber shell casing in the seat belt receiver in the back seat. In the rear
+passenger floorboard they found a white pill later determined to be Xanax. Investigators
+swabbed different parts of the vehicle’s interior for DNA and GSR. They found part of a
+fingernail in the front passenger floorboard.
+
+On October 1, 2018, Ms. King received a letter from Defendant addressed to Ms.
+Sharp. The letter was admitted as an exhibit at trial. Defendant wrote, in relevant part:
+-4-
+
+Dear [Ms. Sharp],
+
+I am sorry for killing [Ph]at baby. I really ain’t [sic] mean to. All she had to
+do was give everything up but she didn’t. She ran and tried to go get a strap
+so I laid her down. . . . I love you baby and tell yo [sic] momma and sisters
+everything on here. Especially about dem [sic] f[***] n[*****]s.
+
+From: Tamarion aka (True 7)
+
+I ain’t [sic] never fall Imma [sic] be home baby
+
+ON GOD
+
+Ms. King later received another letter from Defendant addressed to Ms. Sharp in
+which he expressed his love for Ms. Sharp and denied killing the victim, instead writing
+that he was “just around.”
+
+Ms. Sharp testified at trial that she had seen the first letter but had not seen the
+second until she was shown it at trial. She recognized the handwriting in both letters as
+Defendant’s and “True 7” as Defendant’s nickname. Ms. Sharp also testified that a “strap”
+is a gun.
+
+DNA testing of the swab taken from the Fusion’s steering wheel revealed two
+profiles: a major profile and a minor profile. When compared with Defendant’s DNA
+obtained from the buccal swab, Defendant was excluded as the major profile contributor.
+The minor profile was too small to produce any results. Special Agent Carrie Schmittgen,
+a forensic biologist for the Tennessee Bureau of Investigation (“TBI”), testified at trial that
+it was possible that the major DNA profile came from the vehicle’s owner. Police never
+obtained the owner’s DNA. DNA comparison revealed that the fingernail did not come
+from the victim.
+
+GSR testing of the swabs taken from Defendant’s hands showed no GSR on his
+hands. The swabs were taken about four hours after the homicide. Agent Russell Davis, a
+microanalyst for the TBI, noted that Defendant stated he went swimming before the swabs
+were taken. Agent Davis testified that anything that removes oil from a person’s hands,
+such as swimming, heavy rain, or strenuous activity such as running, could remove GSR
+from one’s hands. The swabs from Defendant’s hands were tested a second time, and the
+result was the same. Agent Davis also tested swabs that came from the interior of the
+Fusion, which showed GSR in the rear driver and passenger sides.
+
+-5-
+
+Agent Alex Brodhag, a firearm examiner for the TBI, examined the two spent .45
+caliber shell casings found in the Fusion. He found several similarities in the markings on
+the two shell casings, but could not conclusively state that the two shell casings were fired
+from the same weapon. Based on other markings, though, Agent Brodhag concluded that
+both bullets were loaded in the same chamber. Agent Brodhag did not test a firearm
+because no firearm was found in this case.
+
+The medical examiner determined that the victim’s cause of death was multiple
+gunshot wounds and her manner of death was homicide. The victim was shot three times:
+once in her chest, once in her pelvic area, and once in her elbow. According to the medical
+examiner, the nature of the victim’s wounds was consistent with someone running away
+from someone who was shooting at them. A toxicology report conducted using the victim’s
+blood revealed that she had used marijuana and had drunk alcohol sometime recently
+before she was killed.
+
+After proper inquiry with counsel, Defendant elected not to testify. Defendant did
+not put on proof at trial.
+
+The jury convicted Defendant of second degree murder and aggravated assault. The
+trial court merged the aggravated assault conviction into the murder conviction. After a
+sentencing hearing, the trial court imposed an effective sentence of 21 years in the
+Tennessee Department of Correction at 100% service rate. See T.C.A. § 40-35-501(i)(1),
+(2)(B). Defendant timely appeals.
+
+Analysis
+
+Flight Instruction
+
+Defendant argues that the trial court erred in instructing the jury on flight as an
+inference of guilt because the proof did not warrant the instruction. The State counters that
+the proof fairly raised the instruction, and even if the trial court erred, such error was
+harmless given the State’s formidable proof. We conclude that the proof fairly raised the
+flight instruction and the trial court properly instructed the jury.
+
+“It is well-settled that a defendant has a constitutional right to a complete and correct
+charge of the law, so that each issue of fact raised by the evidence will be submitted to the
+jury on proper instructions.” State v. Dorantes, 331 S.W.3d 370, 390 (Tenn. 2011).
+“Challenges to jury instructions present mixed questions of law and fact; therefore, we
+review challenged instructions de novo without a presumption of correctness.” State v.
+Smith, 492 S.W.3d 224, 245 (Tenn. 2016).
+
+-6-
+
+To properly charge the jury on flight as an inference of guilt, sufficient evidence
+must exist to support the instruction. State v. Berry, 141 S.W.3d 549, 588 (Tenn. 2004)
+(appendix). There is sufficient evidence to support a flight instruction where proof exists
+of “both a leaving the scene of the difficulty and a subsequent hiding out, evasion, or
+concealment in the community, or leaving the community for parts unknown.” State v.
+Burns, 979 S.W.2d 276, 289-90 (Tenn. 1998) (citation omitted). Flight or attempted flight
+may bear on the defendant’s intent, purpose, or consciousness of guilt and may connect the
+defendant with the commission of the offense. Rogers v. State, 455 S.W.2d 182, 186 (Tenn.
+Crim. App. 1970). “‘The law makes no nice or refined distinction as to the manner or
+method of flight; it may be open, or it may be a hurried or concealed departure, or it may
+be a concealment within the jurisdiction.’” Dorantes, 331 S.W.3d at 380 n.16 (quoting
+Rogers, 455 S.W.2d at 187). “Evidence of flight to avoid arrest may be rebutted by a
+credible explanation of some motive other than guilt, but the conclusion to be drawn from
+such evidence is for the jury upon proper instructions from the trial court.” Hall v. State,
+584 S.W.2d 819, 821 (Tenn. Crim. App. 1979).
+
+The trial court instructed the jury on flight as follows:
+
+The flight of a person accused of a crime is a circumstance which when
+considered with all the facts of the case may justify an inference of guilt.
+Flight is the voluntary withdrawal of oneself for the purpose of evading arrest
+or prosecution for the crime charged. Whether the evidence presented proves
+beyond a reasonable doubt the defendant fled is a question for your
+determination.
+
+The law makes no precise distinction as to the manner or method of flight; it
+may be open or it may be a hurried or concealed departure, or it may be
+concealment within the jurisdiction. However, it takes both a leaving the
+scene and a hiding out, evasion, or concealment in the community or leaving
+of the community for parts unknown to constitute flight. If flight is proved,
+the fact of flight alone does not allow you to find that the defendant is guilty
+of the crime charged, the crime alleged. However, since flight by defendant
+may be caused by consciousness of guilt, you may consider the fact of flight,
+if flight is so proven, together with all the other evidence when you decide
+the guilt or innocence of the defendant. On the other hand, an entirely
+innocent person may take flight, and such flight may be explained by proof
+offered or by the facts and circumstances of the case.
+
+Whether there was flight by the defendant, the reasons for it, and the weight
+to be given to it, are questions for you to determine.
+
+-7-
+
+We conclude that the proof fairly raised the flight issue and the trial court properly
+instructed the jury. The proof showed that Defendant left the victim for dead on North
+Chamberlain Avenue after he shot her and drove away. He did not make it far, though,
+before he wrecked his car in the woods. Defendant left the car and ran on foot to a nearby
+house where he hid in the bathroom until law enforcement found him. Moreover, the trial
+court’s instructions properly relayed the applicable law to the jury. Defendant is not
+entitled to relief on this issue.
+
+Sufficiency of the Evidence
+
+Defendant argues on appeal that the evidence was insufficient to support his second
+degree murder conviction. The State argues that the evidence was sufficient. We agree
+with the State.
+
+When examining whether the evidence presented at trial was sufficient to support a
+conviction, several well-settled principles guide our analysis. We determine “whether,
+after viewing the evidence in the light most favorable to the prosecution, any rational trier
+of fact could have found the essential elements of the crime beyond a reasonable doubt.”
+Jackson v. Virginia, 443 U.S. 307, 319 (1979) (emphasis in original); see also Tenn. R.
+App. P. 13(e). A guilty verdict removes the presumption of innocence and replaces it with
+a presumption of guilt. State v. Evans, 838 S.W.2d 185, 191 (Tenn. 1992). The defendant
+bears the burden on appeal to demonstrate that the evidence is insufficient to support his
+conviction. State v. Tuggle, 639 S.W.2d 913, 914 (Tenn. 1982). “[A] jury verdict,
+approved by the trial judge, accredits the testimony of the witnesses for the State and
+resolves all conflicts in favor of the theory of the State.” State v. Harris, 839 S.W.2d 54,
+75 (Tenn. 1992). The State is entitled on appeal to “the strongest legitimate view of the
+evidence and to all reasonable and legitimate inferences that may be drawn therefrom.”
+State v. Elkins, 102 S.W.3d 578, 581 (Tenn. 2003). As such, this Court is precluded from
+re-weighing or reconsidering the evidence when evaluating the convicting proof. State v.
+Morgan, 929 S.W.2d 380, 383 (Tenn. Crim. App. 1996); State v. Matthews, 805 S.W.2d
+776, 779 (Tenn. Crim. App. 1990). Moreover, we may not substitute our own “inferences
+for those drawn by the trier of fact from circumstantial evidence.” Matthews, 805 S.W.2d
+at 79. Questions as to the credibility of witnesses and the weight of the evidence, as well
+as factual issues raised by such evidence, are resolved by the trier of fact, not this Court.
+State v. Pruett, 788 S.W.2d 559, 561 (Tenn. 1990). These principles guide us “‘whether
+the conviction is based upon direct or circumstantial evidence.’” Dorantes, 331 S.W.3d at
+379 (quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)).
+
+Defendant was convicted of second degree murder, which as relevant here, is “[a]
+knowing killing of another.” T.C.A. § 39-13-210(a)(1). “Knowing” is defined under
+Tennessee law as:
+-8-
+
+[A] person who acts knowingly with respect to the conduct or to
+circumstances surrounding the conduct when the person is aware of the
+nature of the conduct or that the circumstances exist. A person acts
+knowingly with respect to a result of the person’s conduct when the person
+is aware that the conduct is reasonably certain to cause the result.
+
+Id. § 39-11-302(b).
+
+The evidence here, viewed in a light most favorable to the State, shows that the
+victim got into Defendant’s car to sell him drugs. Defendant planned to rob the victim of
+her drugs and brought a loaded gun to accomplish the robbery. When the victim tried to
+run away, Defendant shot her three times as she ran. Defendant left the victim for dead in
+the pouring rain and attempted to drive away in a stolen car, but crashed it in some nearby
+woods. Defendant fled the scene and hid in a nearby house, telling the residents he was
+being chased. The victim died that evening from her injuries. When questioned about the
+shooting, Defendant ultimately confessed to the shooting, going so far as to boast about
+what he had done. Defendant asked a detective if he thought what he had done was “lit,”
+or awesome. Defendant admitted as much again in his letter to Ms. Sharp, writing that
+“[s]he ran . . . so I laid her down.”
+
+Defendant complains that the inferences raised by the proof should have been
+resolved in his favor and that minor discrepancies in some of the witnesses’ testimony rise
+to the level of insufficiency. We remind Defendant that at this stage the State is entitled to
+“the strongest legitimate view of the evidence and to all reasonable and legitimate
+inferences that may be drawn therefrom,” Elkins, 102 S.W.3d at 581, and that the jury’s
+verdict resolved all conflicts in the testimony in the State’s favor. See Harris, 839 S.W.2d
+at 75.
+
+Based on the proof presented at trial, we conclude that a rational jury could find that
+Defendant knowingly killed the victim. Defendant is not entitled to relief.
+
+CONCLUSION
+
+Based on the foregoing, we affirm the judgments of the trial court.
+
+____________________________________
+TIMOTHY L. EASTER, JUDGE
+-9-

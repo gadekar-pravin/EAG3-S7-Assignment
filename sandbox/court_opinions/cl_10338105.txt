@@ -1,0 +1,237 @@
+=========================================================
+Case: In re Wrongful Conviction of Warsame
+Court: Supreme Court of Kansas
+Date Filed: 2025-02-14
+Citations: 563 P.3d 1281
+URL: https://www.courtlistener.com/opinion/10338105/in-re-wrongful-conviction-of-warsame/
+Source Query: murder conviction appeal
+=========================================================
+
+IN THE SUPREME COURT OF THE STATE OF KANSAS
+
+No. 126,950
+
+In the Matter of the Wrongful Conviction of
+SHARMARKE WARSAME.
+
+SYLLABUS BY THE COURT
+
+1.
+To receive compensation for a wrongful conviction, a claimant is required to
+prove actual innocence by a preponderance of the evidence under the statutory elements
+of the charged crime.
+
+2.
+The crime of conviction is defined by statute and is not limited to the specific facts
+of the charging document.
+
+Appeal from Johnson District Court; JAMES F. VANO, judge. Oral argument held October 30,
+2024. Opinion filed February 14, 2025. Affirmed.
+
+Michael T. Crabb, of Kuckelman Torline Kirkland, of Overland Park, argued the cause, and
+Daniel P. Meany, of the same firm, was with him on the briefs for appellant/cross-appellee.
+
+Kurtis K. Wiard, special assistant attorney general, argued the cause, and Kris W. Kobach,
+attorney general, was with him on the briefs for appellee/cross-appellant.
+
+The opinion of the court was delivered by
+
+STEGALL, J.: Sharmarke Warsame knowingly used stolen credit cards to purchase
+Target gift cards. He was charged and convicted by a jury of two felony counts of
+identity theft, two misdemeanor counts of theft, and one misdemeanor count of criminal
+
+1
+
+use of a financial card. On direct appeal, however, the parties jointly moved to have the
+convictions vacated. The Court of Appeals obliged. Then, the State dismissed the felony
+charges after remand. Warsame served 564 days in prison for the vacated and dismissed
+felony convictions.
+
+Warsame then filed this statutory action for wrongful conviction and
+imprisonment under K.S.A. 2021 Supp. 60-5004 seeking damages, attorney fees and
+costs, a certificate of innocence, and expungement of all associated convictions. The
+State moved for summary judgment arguing (1) Warsame's conviction was reversed
+because of incorrect charging, not because he did not commit the crime, (2) Warsame
+could not prove by a preponderance of the evidence that he did not commit identity theft
+because he admitted that he used someone else's credit card with the intent to defraud to
+receive a benefit, and (3) Warsame's own conduct brought about his conviction because
+he testified that using the credit cards was "all my fault."
+
+The district court denied the State's motion for summary judgment reasoning that
+it needed to hear testimony and make findings concerning the alleged facts under which
+Warsame was convicted—reasoning that "it doesn't matter what the criminal statute says.
+It's how he was charged and convicted." A bench trial followed. The assistant district
+attorney who had jointly moved to vacate the convictions on appeal testified that he did
+not believe Warsame was actually innocent of the charged crimes. Instead, he believed
+the felony charging documents and jury instructions had identified the wrong victim, and
+that this was legally fatal to the convictions. Specifically, the State was concerned that
+Warsame had been charged with intent to defraud the credit card holders rather than
+Target, and "then, in turn, Target taking money from the bank."
+
+2
+
+The district court ultimately ruled against Warsame, holding that he had failed to
+prove—by a preponderance of the evidence—his actual innocence of the crimes as
+charged and instructed to the jury. Warsame appealed directly to this court under K.S.A.
+2023 Supp. 60-5004(l). The State cross-appealed the denial of summary judgment.
+
+On appeal, Warsame argues that the district court incorrectly concluded that he
+committed felony identity theft against the alleged victims as charged and instructed to
+the jury. For its cross-appeal, the State argues that the actual innocence required under
+our wrongful conviction statute exclusively concerns the statutory elements of the
+charged crime—not the specific facts alleged in the filings or trial. We agree with the
+State. And because this is determinative of the outcome, we affirm the denial of
+Warsame's claim.
+
+DISCUSSION
+
+A claimant seeking compensation for wrongful conviction must prove:
+
+"(A) The claimant was convicted of a felony crime and subsequently imprisoned;
+
+"(B) the claimant's judgment of conviction was reversed or vacated and either the
+charges were dismissed or on retrial the claimant was found to be not guilty;
+
+"(C) the claimant did not commit the crime or crimes for which the claimant was
+convicted and was not an accessory or accomplice to the acts that were the basis of the
+conviction and resulted in a reversal or vacation of the judgment of conviction, dismissal
+of the charges or finding of not guilty on retrial; and
+
+"(D) the claimant did not commit or suborn perjury, fabricate evidence, or by the
+claimant's own conduct cause or bring about the conviction. Neither a confession nor
+
+3
+
+admission later found to be false or a guilty plea shall constitute committing or suborning
+perjury, fabricating evidence or causing or bringing about the conviction under this
+subsection." K.S.A. 2023 Supp. 60-5004(c)(1).
+
+There is no dispute in this case that Warsame can easily satisfy the first two
+elements of proof. Here, Warsame's vacated felonies were for identity theft under K.S.A.
+21-6107(a)(1), which criminalizes "obtaining, possessing, transferring, using, selling or
+purchasing any personal identifying information . . . belonging to or issued to another
+person, with the intent to: (1) Defraud that person, or anyone else, in order to receive any
+benefit." Those convictions were imposed with prison time served, and they were later
+vacated and the charges were dismissed on remand.
+
+This brings us to the third element of statutory proof in our wrongful conviction
+statute. We recently clarified that provision's meaning. In In re Wrongful Conviction of
+Doelz, 319 Kan. 259, 261, 553 P.3d 969 (2024), we held that K.S.A. 2023 Supp. 60-
+5004(c)(1)(C) requires a claimant to prove a causal connection between the ultimate
+dismissal of the charges by the State and the claimant's actual innocence.
+
+"[T]he Legislature intended to require in this subsection that a claimant for compensation
+must prove three things. First, that he or she did not commit the crime of conviction.
+Second, that he or she was not an accessory or accomplice to the crime. And third, that by
+demonstrating the first two requirements, the claimant obtained one of three possible
+outcomes: (1) the reversal of his or her conviction; or (2) dismissal of the charges; or
+(3) a finding of not guilty upon retrial. In other words, that the first two elements 'resulted
+in' one of three possible outcomes." 319 Kan. at 263-64.
+
+In addition, subsection (C) allows claimants to "present to a fact-finder the
+motivating reason and underlying facts that sit behind a prosecutor's decision not to
+continue to pursue charges after a reversal by the appellate courts." 319 Kan. at 265. This
+case presents us with an opportunity to further clarify what this means. Warsame argues
+
+4
+
+there is a clear causal connection because the State explicitly acknowledged before the
+Court of Appeals that he was not guilty of the crime as it was charged and tried because
+he did not intend to defraud the named victims (i.e., the owners of the stolen credit cards).
+The State counters that Warsame was not actually innocent of the crime of identity theft
+as defined by the statutory elements because he did intend to defraud other victims—
+albeit victims not identified or proven at trial.
+
+While the district court found that the prosecutor did not agree to vacate the
+convictions because Warsame was actually innocent, the lower court did not rely on this
+holding when making its ruling. Instead, the district court held (1) that no causal link
+between vacation of the convictions and innocence was necessary, and (2) that Warsame
+only had to show innocence of the facts alleged in the complaint—that is, innocent as to
+the specific victims alleged in the complaint. The district court, however, went on to rule
+against Warsame based on its view that despite the joint motion to vacate the convictions
+on appeal, Warsame was actually guilty of identity theft as factually charged.
+
+Thus, the dispute between the parties revolves around a legal disagreement
+between the State and Warsame on the one hand, and the lower court on the other—that
+is, under these facts, whether Warsame intended to defraud the named victims. The State
+and Warsame effectively agreed that he was actually innocent of intending to defraud the
+named victims by jointly moving to vacate the convictions, while the district court went
+the other way.
+
+We find this legal dispute irrelevant to the ultimate outcome of Warsame's claims.
+Specifically, we hold that the lower court's two predicate holdings—that no causal link
+between the dismissal of the charges on remand and actual innocence is required and that
+Warsame had only to show actual innocence of the facts alleged at trial—were error. And
+those errors funneled this case into an unnecessary and tangled argument over who,
+
+5
+
+legally, can be a victim of identity theft. We do not weigh in on that dispute because—
+as explained below—under the proper thresholds of proof demanded by our wrongful
+conviction statute, resolving that question does not matter to the outcome.
+
+We explained in Doelz why the district court's holding as to causation was error.
+In fact, claimants do have to prove a causal connection between the ultimate dismissal of
+the charges and actual innocence. But not until today have we had the opportunity to
+decide the specific question presented here—"actual innocence" of what? Must a
+claimant show the causal element related to actual innocence as charged or actual
+innocence of the statutory elements of the crime? We hold it is the latter.
+
+Like our decision in Doelz, the court is faced with unclear language in K.S.A.
+2023 Supp. 60-5004(c)(1)(C). The meaning of "crimes for which the claimant was
+convicted" is ambiguous. Is a "crime" limited to the facts of the charging document, or is
+a crime defined by the statutory elements? The plain text does not say, so the court must
+resort to tools of construction, including an examination of legislative history. 319 Kan.
+at 262.
+
+We have previously noted that the statutory scheme indicates a requirement of
+factual innocence of both the crime as charged and its lesser included offenses. In re
+Wrongful Conviction of Spangler, 318 Kan. 697, 706-07, 547 P.3d 516 (2024). We have
+also examined legislative history and found overwhelming evidence that "the Legislature
+intended to compensate only individuals who are determined to be actually or factually
+innocent. It did not intend to compensate every criminal defendant whose conviction was
+reversed on appeal." Doelz, 319 Kan. at 263. We especially noted testimony from The
+Innocence Project about those who served prison sentences "'for crimes they did not
+commit.'" 319 Kan. at 262 (citing Hearing on S.B. 336 Before the Kansas Senate
+Judiciary Committee [Feb. 14, 2018] [testimony of Michelle Feldman]). As applied here,
+it is clear that the Legislature only intended to award compensation to people who were
+
+6
+
+entirely innocent of the crime of conviction, i.e., the crime as defined in the statute. There
+is no indication that the Legislature ever conceived of, to use an extreme example,
+compensating an individual who was convicted for murdering victim A, when the
+individual was actually guilty of murdering victim B. Thus, the crime of conviction is
+defined by statute and is not limited to the specific facts of the charging document.
+
+To receive compensation, Warsame was required to prove actual innocence by a
+preponderance of the evidence under the statutory elements of the charged crime—and
+that this was the reason the charges were dismissed.
+
+The elements of identity theft found in K.S.A. 21-6107(a)(1) are: "[O]btaining,
+possessing, transferring, using, selling or purchasing any personal identifying information
+. . . belonging to or issued to another person, with the intent to: (1) Defraud that person,
+or anyone else, in order to receive any benefit." Thus, Warsame must show he did not use
+someone else's personal identifying information with the intent to defraud that person, or
+anyone else, to receive any benefit. This is what we mean by factual innocence. Warsame
+was not required to show he was innocent of all crimes. Nor was he only required to
+show mere innocence as to the specific facts alleged in the complaint to prove he was
+innocent of the "crimes for which the claimant was convicted." K.S.A. 2023 Supp. 60-
+5004(c)(1)(C).
+
+Warsame showed that his felony convictions were vacated and dismissed.
+Warsame did not show that he was actually innocent of identity theft because he admitted
+facts sufficient to prove he intended to defraud some party to receive a benefit. And the
+evidence at trial below clearly was insufficient to show that the charges were dismissed
+because of factual innocence within the meaning of the wrongful conviction statute.
+Warsame failed to meet his burden of proof under K.S.A. 2023 Supp. 60-5004(c)(1)(C).
+
+7
+
+The district court was thus ultimately correct in denying relief, albeit for the wrong
+reason. Nicholson v. Mercer, 319 Kan. 712, 717, 559 P.3d 350 (2024) (affirming Court of
+Appeals as right for the wrong reason).
+
+Affirmed.
+
+8

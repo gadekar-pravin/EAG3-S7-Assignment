@@ -1,0 +1,384 @@
+=========================================================
+Case: State v. Gardner
+Court: Ohio Court of Appeals
+Date Filed: 2024-08-08
+Citations: 2024 Ohio 3008
+URL: https://www.courtlistener.com/opinion/10034859/state-v-gardner/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Gardner, 2024-Ohio-3008.]
+
+COURT OF APPEALS OF OHIO
+
+EIGHTH APPELLATE DISTRICT
+COUNTY OF CUYAHOGA
+
+STATE OF OHIO, :
+
+Plaintiff-Appellee, :
+No. 113085
+:
+v.
+:
+TIFFANY GARDNER,
+:
+Defendant-Appellant.
+
+JOURNAL ENTRY AND OPINION
+
+JUDGMENT: AFFIRMED
+RELEASED AND JOURNALIZED: August 8, 2024
+
+Civil Appeal from the Cuyahoga County Court of Common Pleas
+Case No. CR-21-658922-A
+
+Appearances:
+
+Michael C. O’Malley, Cuyahoga County Prosecuting
+Attorney, and Rachel E. Cohen and Gregory J. Ochocki,
+Assistant Prosecuting Attorneys, for appellee.
+
+Tiffany Gardner, pro se.
+
+LISA B. FORBES, P.J.:
+
+Tiffany Gardner (“Gardner”) appeals the trial court’s denial of her
+
+petition for postconviction relief. After reviewing the facts of the case and pertinent
+
+law, we affirm the trial court’s decision.
+
+I. Facts and Procedural History
+
+On March 10, 2022, a jury found Gardner guilty of murder in
+
+violation of R.C. 2903.02(B) and felonious assault in violation of R.C. 2903.11(A)(1)
+
+in relation to the “fatal beating by two unknown male assailants of the victim, 70-
+
+year-old Leonard Craddock.” Gardner’s convictions were based on an aiding and
+
+abetting theory. The court sentenced Gardner to an indefinite term of 15-years-to-
+
+life in prison. Gardner’s convictions were affirmed on appeal. State v. Gardner,
+
+2023-Ohio-307 (8th Dist.) (“Gardner I”).
+
+On April 28, 2023, Gardner filed an application to reopen her appeal
+
+in Gardner I, arguing that her appellate counsel was ineffective for 11 reasons. State
+
+v. Gardner, 2024-Ohio-1158 (8th Dist.) (“Gardner II”). This court denied the
+
+application to reopen, reasoning that “Gardner’s micro-analysis of the evidence does
+
+not cast a doubt about the effectiveness of counsel” and concluding that Gardner
+
+“received a fair trial.” Id. at ¶ 35-36.
+
+On June 21, 2023, Gardner, acting pro se, filed in the trial court a
+
+petition to vacate or set aside judgment of conviction or sentence (“PCR Petition”),
+
+arguing seven “assignments of error,” which included the following issues: (1)
+
+ineffective assistance of trial and appellate counsel; (2) improper admission of
+
+evidence misled the jury; (3) improper evidentiary rulings and jury instructions
+
+regarding complicity; (4) cumulative error that “fatally infected the trial[’s]
+
+fundamental fairness”; (5) prosecutorial misconduct concerning “knowingly false
+
+testimony”; (6) prosecutorial misconduct concerning failure to disclose exculpatory
+
+evidence; and (7) judicial misconduct.
+
+On July 14, 2023, the court denied Gardner’s PCR Petition, and it is
+
+from this judgment that she now appeals raising the same seven assignments of
+
+error raised in her PCR Petition:
+
+I. Ineffective assistance of counsel.
+
+II. Abuse of discretion — misleading the jury.
+
+III. Abuse of discretion — evidentiary issues.
+
+IV. Cumulative error — due process.
+
+V. Prosecutorial misconduct & Napue.
+
+VI. Prosecutorial misconduct & Brady.
+
+VII. Judicial misconduct and abuse of discretion
+
+II. Law and Analysis
+
+A. Pro Se Litigants
+
+The Ohio Supreme Court has repeatedly held that “pro se litigants . . .
+
+must follow the same procedures as litigants represented by counsel.” State ex rel.
+
+Gessner v. Vore, 2009-Ohio-4150, ¶ 5. “It is well-established that pro se litigants
+
+are presumed to have knowledge of the law and legal procedures and that they are
+
+held to the same standard as litigants who are represented by counsel.” Sabouri v.
+
+Ohio Dept. of Job & Family Servs., 145 Ohio App.3d 651, 654 (10th Dist. 2001).
+
+Although pro se litigants are held to the same standards as litigants represented by
+
+counsel, “appellate courts generally prefer to review cases on their merits.
+
+Therefore, we ordinarily afford lenience to pro se litigants.” Wiltz v. Cleveland
+
+Clinic, 2021-Ohio-62, ¶ 19 (8th Dist.). But see State ex rel. Neil v. French, 2018-
+
+Ohio-2692, ¶ 11 (“that leeway manifests in limited ways: attempting to address a pro
+
+se litigant’s arguments on the merits when they are indecipherable . . . or liberally
+
+construing the allegations in a pro se [litigant’s] complaint as stating the elements
+
+of a claim”).
+
+B. Postconviction Relief and Res Judicata
+
+Although Gardner does not cite this statute in her PCR Petition or her
+
+appellate brief, R.C. 2953.21 governs postconviction-relief petitions, and subsection
+
+(A)(1)(a)(i) states:
+
+Any person who has been convicted of a criminal offense . . . and who
+claims that there was such a denial or infringement of the person’s
+rights as to render the judgment void or voidable under the Ohio
+Constitution or the Constitution of the United States . . . may file a
+petition . . . stating the grounds for relief relied upon, and asking the
+court to vacate or set aside the judgment or sentence . . . .
+
+This court has held that a “vaguely titled motion, including a motion to correct or
+
+vacate a judgment or sentence, may be construed as a petition for postconviction
+
+relief under R.C. 2953.21(A)(1).” State v. Harris, 2021-Ohio-1820, ¶ 3 (8th Dist.).
+
+We review a trial court’s ruling on a postconviction-relief petition for an abuse of
+
+discretion. State v. Gondor, 2006-Ohio-6679, ¶ 49.
+
+In State v. Curry, 2019-Ohio-5338, ¶ 12 (8th Dist.), this court held
+
+the following:
+
+The postconviction relief process is a civil collateral attack on a criminal
+judgment, in which the petitioner may present constitutional issues to
+the court that would otherwise be impossible to review because the
+evidence supporting the issues is not contained in the record of the
+petitioner’s criminal conviction. State v. Calhoun, 86 Ohio St. 3d 279,
+
+281, 1999 Ohio 102, 714 N.E.2d 905 (1999); State v. Carter, 10th Dist.
+Franklin No. 13AP-4, 2013-Ohio-4058, ¶ 15. Postconviction review is
+not a constitutional right but, rather, is a narrow remedy that affords a
+petitioner no rights beyond those granted by statute. Calhoun at 281-
+282. A postconviction relief petition does not provide a petitioner a
+second opportunity to litigate his or her conviction. State v. Hessler,
+10th Dist. Franklin No. 01AP-1011, 2002-Ohio-3321, ¶ 32.
+
+Furthermore, this court has held that “a petition for postconviction
+
+relief is not the proper vehicle to raise issues that were or could have been
+
+determined on direct appeal.” State v. Jordan, 2021-Ohio-701, ¶ 9 (8th Dist.). It is
+
+well-established Ohio law that “res judicata [is] a proper basis upon which to dismiss
+
+without hearing an R.C. 2953.21 petition.” State v. Cole, 2 Ohio St.3d 112, 113
+
+(1982).
+
+“Under the doctrine of res judicata, a final judgment of conviction
+
+bars the convicted defendant from raising and litigating in any proceeding, except
+
+an appeal from that judgment, any defense or any claimed lack of due process that
+
+was raised or could have been raised by the defendant at the trial which resulted in
+
+that judgment of conviction or on an appeal from that judgment.” (Emphasis
+
+deleted.) State v. Perry, 10 Ohio St.2d 175, 180 (1967).
+
+C. Analysis
+
+We review Gardner’s assignments of error in the order in which she
+
+argued them in her appellate brief.
+
+In Gardner’s first assignment of error, she argues that her trial
+
+counsel and her appellate counsel were ineffective. As to her trial counsel, Gardner
+
+raised an ineffective assistance of counsel claim in her direct appeal, and this court
+
+overruled the assignment of error, finding that she failed to show that her trial
+
+counsel was ineffective. Gardner I at ¶ 50. As to Gardner’s appellate counsel, this
+
+court rejected her application to reopen her appeal in Gardner I based on an
+
+ineffective-assistance-of-appellate-counsel argument. Gardner II. Accordingly,
+
+Gardner’s arguments in her first assignment of error are barred by res judicata
+
+because they were actually litigated and rejected in Gardner I and Gardner II.
+
+Gardner’s first assignment of error is overruled.
+
+In Gardner’s third assignment of error, she argues that “the trial court
+
+abused its discretion by making a series of evidentiary rulings . . . .” It is unclear
+
+from Gardner’s appellate brief what “evidence” these rulings concerned. Her entire
+
+argument under this assignment of error follows:
+
+ABUSE OF DISCRETION – EVIDENTIARY RULING & MISLEADING
+THE JURY
+
+PAUL GRAYSON (Redirect) (Transcript p. 310) —
+
+PROSECUTOR: Can you see whether the female is just off to the right?
+
+WITNESS: I didn’t see her at all.
+
+PROSECUTOR: If she had been standing off to the side, would you
+have been able to —
+
+DEFENSE: Objection.
+
+THE COURT: Overruled.
+
+Notwithstanding that Gardner failed to identify the “evidence” she
+
+challenges, this argument is also barred by res judicata. Challenges to allegedly
+
+improperly admitted evidence “are apparent from the trial transcripts, [and] they
+
+could have been raised on direct appeal.” State v. Barrow, 2016-Ohio-2839, ¶ 9
+
+(8th Dist.).
+
+Accordingly, Gardner’s third assignment of error is overruled.
+
+In Gardner’s fourth assignment of error, she argues that her
+
+constitutional rights were violated under the cumulative-error doctrine. This court
+
+has held that the cumulative-error doctrine does not apply absent a showing “that
+
+multiple errors occurred below . . . .” State v. Williams, 2023-Ohio-2296, ¶ 103 (8th
+
+Dist.). As shown in this opinion, Gardner failed to establish that the trial court erred
+
+in her case, let alone multiple times, and her cumulative-error argument is without
+
+merit.
+
+Accordingly, Gardner’s fourth assignment of error is overruled.
+
+Gardner argues her second, fifth, sixth, and seventh assignments of
+
+error together in her appellate brief. Specifically, Gardner raises several issues in
+
+these assignments of error, including the following, presented in the order in which
+
+they appear in her appellate brief: allowing “the prosecution to introduce
+
+inflammatory evidence” at trial; allowing “false testimony” at trial; prosecutorial
+
+misconduct; exculpatory evidence; and judicial misconduct. A careful review of
+
+Gardner’s appellate brief shows two things.
+
+First, Gardner fails to identify in a decipherable manner any
+
+inflammatory evidence, false testimony, prosecutorial misconduct, exculpatory
+
+evidence, or judicial misconduct. See State v. Dowell, 2006-Ohio-110, ¶ 10 (8th
+
+Dist.) (“Issues properly raised in a petition for postconviction relief are those that
+
+could not have been raised on direct appeal because the evidence supporting such
+
+issues is outside the record.”). In other words, Gardner failed to include in her PCR
+
+Petition filed in the trial court any evidence outside of the record that supported her
+
+claims.
+
+Second, Gardner’s appellate brief shows that all of the arguments in
+
+her second, fifth, sixth, and seventh assignments of error are barred by the doctrine
+
+of res judicata, because they all either were or could have been challenged in her
+
+direct appeal.
+
+For example, one of Gardner’s arguments under these assignments of
+
+error states as follows: “EXCULPATORY EVIDENCE — THE VIDEO — The
+
+evidence, the video shows the Defendant yelling on the phone while she was on the
+
+phone coming out of AutoZone. The evidence shows that Defendant was talking to
+
+her mother. Defendant walked past the 2 suspects while she was on the phone, so
+
+clearly the video shows that Defendant didn’t know the 2 guys.”
+
+Gardner I established that several videos were introduced at trial,
+
+including surveillance videos from the Dollar Store, surveillance videos from
+
+AutoZone, and a video from Gardner’s cell phone. Gardner does not establish which
+
+video or videos she takes issue within this appeal. Although it is unclear how this
+
+evidence, which was introduced at trial, was inflammatory or exculpatory, “we need
+
+not address the merits of this argument, because any issue with the evidence
+
+admitted at trial could have been raised on direct appeal.” Barrow, 2016-Ohio-
+
+2839, at ¶ 9 (8th Dist.).
+
+Accordingly, Gardner’s second, fifth, sixth, and seventh assignments
+
+of error are barred by the doctrine of res judicata and are overruled. Thus, the trial
+
+court did not abuse its discretion by denying Gardner’s PCR Petition.
+
+Judgment affirmed.
+
+It is ordered that appellee recover from appellant costs herein taxed.
+
+The court finds there were reasonable grounds for this appeal.
+
+It is ordered that a special mandate issue out of this court directing the
+
+common pleas court to carry this judgment into execution.
+
+A certified copy of this entry shall constitute the mandate pursuant to Rule 27
+
+of the Rules of Appellate Procedure.
+
+LISA B. FORBES, PRESIDING JUDGE
+
+EMANUELLA D. GROVES, J., and
+ANITA LASTER MAYS, J., CONCUR

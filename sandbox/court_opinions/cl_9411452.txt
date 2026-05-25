@@ -1,0 +1,597 @@
+=========================================================
+Case: State v. Legrand
+Court: Court of Appeals of North Carolina
+Date Filed: 2023-07-05
+Citations: 
+URL: https://www.courtlistener.com/opinion/9411452/state-v-legrand/
+Source Query: murder conviction appeal
+=========================================================
+
+IN THE COURT OF APPEALS OF NORTH CAROLINA
+
+No. COA22-586
+
+Filed 05 July 2023
+
+Randolph County, Nos. 18 CRS 055022, 18 CRS 055023, 18 CRS 055024,
+19 CRS 206, 19 CRS 207
+
+STATE OF NORTH CAROLINA
+
+v.
+
+WILLIE LEGRAND, JR. a/k/a WILLIE LEGRANDE, Defendant.
+
+Appeal by Defendant from Judgment entered 02 September 2021 by Judge
+
+James P. Hill, Jr. in Randolph County Superior Court. Heard in the Court of Appeals
+
+21 March 2023.
+
+Attorney General Joshua H. Stein, by Assistant Attorney General John H.
+Schaeffer, for the State.
+
+Appellate Defender Glenn Gerding, by Assistant Appellate Defender Nicholas
+C. Woomer-Deters, for Defendant-Appellant (allowed as substitute counsel by
+order filed 20 December 2022 and filed Defendant-Appellant’s Reply Brief on 7
+February 2023; Record on Appeal and Defendant Brief filed by-Paul F. Herzog,
+allowed to withdraw as attorney of record by order filed 21 December 2022).
+
+RIGGS, Judge.
+
+Defendant Willie Legrand, Jr., appeals from judgment following a jury verdict
+
+convicting him of possession of firearm by a felon, attempted robbery with a
+
+dangerous weapon, and attempted first-degree murder. Mr. Legrand raises three
+
+issues on appeal. In his first two issues, Mr. Legrand argues the trial court erred in
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+denying his motion to dismiss the attempted armed robbery and attempted murder
+
+charges. Additionally, he argues the trial court erred in calculating his prior record
+
+level. After careful review, we hold the trial court did not err.
+
+I. FACTUAL AND PROCEDURAL HISTORY
+
+On 19 October 2018, Defendant Willie Legrand, Jr. approached Richard
+
+Jurgensen, who was leaving a convenience store and returning to his parked car in
+
+Asheboro, North Carolina. After Mr. Jurgensen got into his car, Mr. Legrand yanked
+
+on Mr. Jurgensen’s locked driver’s side door handle. When the door did not open, Mr.
+
+Legrand told Mr. Jurgensen to, “Open the door, open the door,” and he tapped on Mr.
+
+Jurgensen’s window with a revolver while motioning for Mr. Jurgensen to exit. Mr.
+
+Jurgensen believed his only option was to open the door when Mr. Legrand stated,
+
+“What’s the matter with you? Do you want to get shot. [sic].”
+
+Upon exiting the car, Mr. Jurgensen tried to grab the gun from Mr. Legrand
+
+because he noticed the revolver was not cocked, and they began to struggle over the
+
+revolver. Mr. Jurgenson shoved Mr. Legrand, causing him to fall to the ground.
+
+When Mr. Legrand fell, his right arm hit the ground and the gun fired. Mr. Jurgensen
+
+ran for the store while shouting, “Help, robbery, call 911.” Mr. Legrand got back on
+
+his feet and raised the gun in Mr. Jurgensen’s direction. He fired a second gunshot
+
+that struck the wall of the convenience store approximately six feet away from Mr.
+
+Jurgensen. Mr. Legrand then fired a third shot which Mr. Jurgensen said was aimed
+
+-2-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+above his head. Police arrived at the store to investigate, but Mr. Legrand left the
+
+site before the police arrived.
+
+The State issued two sets of indictments. On 5 November 2018, the State
+
+charged Mr. Legrand with possession of firearm by a felon, attempted robbery with a
+
+dangerous weapon, second-degree kidnapping, and attempted first-degree murder.
+
+On 3 June 2019, the State alleged in its second set of indictments that Mr. Legrand
+
+was a habitual felon and violent habitual felon.
+
+A jury trial began 30 August 2021 in the Randolph County Superior Court.
+
+The court denied Mr. Legrand’s motion to dismiss all charges but later granted his
+
+renewed motion to dismiss the second-degree kidnapping charge. On 2 September
+
+2021, the jury returned a guilty verdict on the remaining charges. Mr. Legrand
+
+pleaded guilty to the habitual felon and violent habitual felon charges.
+
+The court proceeded with Mr. Legrand’s sentencing on 2 September 2021. The
+
+State introduced Mr. Legrand’s “criminal history record” in Exhibits 20 through 24.
+
+Mr. Legrand’s criminal history included several federal felony convictions. After
+
+reviewing the exhibits, the trial court found Mr. Legrand’s out-of-state convictions
+
+were substantially similar to state offenses, noting:
+
+THE COURT: The [c]ourt, based upon the information
+presented, finds by preponderance of the evidence that any
+non-North Carolina offenses included in the stipulation as
+to prior conviction is substantially similar to North
+Carolina offenses, and North Carolina classification
+assigned to said respective offenses is accurate. [The
+
+-3-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+c]ourt, therefore, concludes that defendant would be prior
+record level V for purposes of felony sentencing.
+
+The trial court checked a box on Mr. Legrand’s prior record level worksheet stating
+
+similar language:
+
+For each out-of-state conviction listed in Section V on the
+reverse, the [c]ourt finds by a preponderance of the
+evidence that the offense is substantially similar to a North
+Carolina offense and that the North Carolina classification
+assigned to this offense in Section V is correct.
+
+At the conclusion of the sentencing portion of the trial, the court imposed two
+
+sentences of life without the possibility of parole for the convictions of attempted
+
+murder and attempted armed robbery. Additionally, the court sentenced Mr.
+
+Legrand to 127 to 165 months imprisonment for the conviction of possession of
+
+firearm by a felon. The court entered a written judgment consistent with the sentence
+
+delivered from the bench at the conclusion of the trial. Mr. Legrand gave an oral
+
+notice of appeal on the record.
+
+II. ANALYSIS
+
+On appeal, Mr. Legrand argues the trial court improperly denied his motion to
+
+dismiss the attempted armed robbery and attempted murder charges for insufficient
+
+evidence. Additionally, Mr. Legrand argues the court improperly calculated his prior
+
+record level. After careful review, we hold the trial court did not err.
+
+A. Motion to Dismiss the Attempted Armed Robbery
+
+-4-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+Mr. Legrand argues the State’s evidence did not support the intent element of
+
+attempted armed robbery. He reasons the State’s evidence did not show he made an
+
+express demand for money or property; therefore, evidence of intent was insufficient.
+
+We disagree.
+
+1. Standard of Review
+
+This Court reviews de novo whether a trial court erred in denying a motion to
+
+dismiss for insufficient evidence on each element of a criminal offense. State v.
+
+Crockett, 368 N.C. 717, 720, 782 S.E.2d 878, 881 (2016). “In ruling upon a motion to
+
+dismiss, the trial court must examine the evidence in the light most favorable to the
+
+State, giving the State the benefit of all reasonable inferences which may be drawn
+
+from the evidence.” State v. Poole, 154 N.C. App. 419, 424, 572 S.E.2d 433, 437 (2002)
+
+(quoting State v. Hairston, 137 N.C. App. 352, 354, 528 S.E.2d 29, 30 (2000).
+
+2. Denial of motion to dismiss attempted armed robbery was proper
+
+Attempted robbery with a dangerous weapon requires “(1) the unlawful
+
+attempted taking of personal property from another, (2) the possession, use or
+
+threatened use of ‘firearms or other dangerous weapon, implement or means,’ and (3)
+
+danger or threat to the life of the victim.” State v. Wilson, 203 N.C. App. 110, 114,
+
+689 S.E.2d 917, 921 (2010) (quoting State v. Torbit, 77 N.C. App. 816, 817, 336 S.E.2d
+
+122, 123 (1985)) (citation omitted). “The gravamen of the offense is the endangering
+
+or threatening of human life by the use or threatened use of firearms or other
+
+dangerous weapons in the perpetration of or even in the attempt to perpetrate the
+
+-5-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+crime of robbery.” State v. Ballard, 280 N.C. 479, 485, 186 S.E.2d 372, 375 (1972).
+
+When reviewing a trial court’s denial of a motion to dismiss for insufficient evidence,
+
+this Court considers “whether there is substantial evidence (1) of each essential
+
+element of the offense charged, or of a lesser offense included therein, and (2) of
+
+defendant’s being the perpetrator of such offense.” State v. Lee, 218 N.C. App. 42, 56,
+
+720 S.E.2d 884, 894 (2012).
+
+Mr. Legrand argues that because there was no spoken demand for money or
+
+property, the evidence was insufficient to support a charge of attempted robbery.
+
+However, Mr. Legrand’s conduct along with Mr. Jurgensen’s testimony supports a
+
+reasonable inference of attempted armed robbery. In State v. Poole, this Court
+
+affirmed the lower court’s denial of a motion to dismiss when the State presented
+
+evidence showing the defendant pointed a gun at the victim and said “give it up” when
+
+the two were in a parking lot. 154 N.C. App. at 423-255, 572 S.E.2d at 436-38. The
+
+Court held that this evidence was sufficient to support a reasonable inference of
+
+intent for attempted robbery. Id. at 425, 572 S.E.2d at 437-38.
+
+Similarly, here, the jury heard testimony that Mr. Legrand tapped on Mr.
+
+Jurgensen’s window with a revolver and demanded Mr. Jurgensen open his car door.
+
+Although Mr. Legrand argues his conduct could indicate his intent to commit crimes
+
+other than robbery, that argument fails because on these facts, a jury could
+
+reasonably infer an intent to commit attempted armed robbery. Specifically, based
+
+on this record, a jury could make a reasonable inference that Mr. Legrand made an
+
+-6-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+overt act in furtherance of an attempted armed robbery and that he did so by way of
+
+an implied demand coupled with his use of a gun.
+
+Relying erroneously on Powell, Smith, and Davis, Mr. Legrand argues that
+
+because the encounter did not happen in a retail setting, a jury cannot reasonably
+
+infer intent for robbery from his words. State v. Smith, 300 N.C. 71, 265 S.E.2d 164
+
+(1980); State v. Powell, 299 N.C. 95, 261 S.E.2d 114 (1980); State v. Davis, 340 N.C.
+
+1, 455 S.E.2d 627 (1995). However, Mr. Legrand misconstrues the central element of
+
+these decisions: “the gravamen of the offense is the endangering or threatening of
+
+human life by the use or threatened use of firearms or other dangerous weapons in
+
+the perpetration of or even in the attempt to perpetrate the crime of robbery”—not
+
+the location of that overt act. Ballard, 280 N.C. 479, 485, 186 S.E.2d 372, 375. Cf.
+
+State v. Jacobs, 31 N.C. App. 582, 584, 230 S.E.2d 550, 551-52 (1976) (holding
+
+evidence of an overt act was insufficient where the defendant made no gesture
+
+indicating an intent to touch, no threatened use of a gun, and no express or implied
+
+demand). Here, Mr. Legrand displayed a gun, threatened its use, and made an
+
+obvious implied demand. As in Poole, we find that, on these facts, a jury could make
+
+a reasonable inference of attempted robbery.
+
+Accordingly, we affirm the ruling of the trial court denying the motion to
+
+dismiss.
+
+B. Motion to Dismiss the Attempted Murder Charge
+
+-7-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+In his second issue on appeal, Mr. Legrand argues the trial court erred in
+
+denying the motion to dismiss the attempted murder charge for insufficient evidence
+
+of intent. We disagree.
+
+1. Standard of Review
+
+This Court considers whether a trial court erred in denying a motion to dismiss
+
+de novo. State v. Crockett, 368 N.C. at 720, 782 S.E.2d at 881.
+
+2. Denial of motion to dismiss attempted murder charge was proper
+
+To survive a motion to dismiss, the State must show sufficient evidence for
+
+each element of the attempted murder offense. Lee, 218 N.C. App. at 56, 720 S.E.2d
+
+at 894. “The essential elements of attempted first-degree murder are: (1) a specific
+
+intent to kill another person unlawfully; (2) an overt act calculated to carry out that
+
+intent, going beyond mere preparation; (3) the existence of malice, premeditation and
+
+deliberation accompanying the act; and (4) a failure to complete the intended killing.”
+
+State v. Foreman, 270 N.C. App. 784, 789, 842 S.E.2d 184, 188 (2020) (quoting State
+
+v. Cozart, 131 N.C. App 199, 202-03, 505 S.E.2d 906, 909 (1998)).
+
+Mr. Legrand argues that there was insufficient evidence for the jury to make
+
+a reasonable inference of the requisite intent. This Court has held intent to commit
+
+a felony may be inferred from the defendant’s conduct during the incident in question.
+
+State v. Lucas, 234 N.C. App. 247, 254, 758 S.E.2d 672, 677 (2014) (citing State v.
+
+Allah, 231 N.C. App. 88, 92, 750 S.E.2d 903, 907 (2013)) (citation omitted). Where
+
+the State’s evidence showed the accused fired multiple gunshots, then premeditation,
+
+-8-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+deliberation, and specific intent to kill may be inferred. State v. Chapman, 359 N.C.
+
+328, 377, 611 S.E.2d 794, 829 (2005).
+
+Mr. Legrand contends the intent for attempted murder could not be inferred
+
+because the first gunshot resulted from an accidental discharge, the second gunshot
+
+landed six feet away from Mr. Jurgensen, and the third gunshot went well over Mr.
+
+Jurgensen’s head. Additionally, Mr. Legrand maintains his gunshots could be
+
+construed as his attempt to scare or warn Mr. Jurgensen after they struggled over
+
+Mr. Legrand’s gun, and Mr. Jurgensen shoved Mr. Legrand to the ground.
+
+These arguments are unavailing. The State met the intent element when it
+
+presented evidence showing Mr. Legrand fired multiple gunshots. State v. Allen, 233
+
+N.C. App. 507, 512-13, 756 S.E.2d 852, 858 (2014); see also Chapman, 359 N.C. at
+
+377, 611 S.E.2d at 829 (holding premeditation, deliberation, and intent for attempted
+
+murder may be inferred where the defendant fired six to eight shots); State v. Cain,
+
+79 N.C. App. 35, 47, 338 S.E.2d 898, 905 (1986) (“The requisite ‘intent to kill’ can be
+
+reasonably inferred by the defendant’s use of a .357 magnum revolver, fired
+
+numerous times.”); State v. Maddox, 159 N.C. App. 127, 132, 583 S.E.2d 601, 604
+
+(2003) (holding evidence of intent sufficient where the defendant fired at the victim
+
+when fleeing). Here, where the State’s evidence showed that Mr. Legrand fired three
+
+gunshots, at least one of which was aimed at Mr. Jurgenson, the State presented
+
+sufficient evidence from which a jury could infer the requisite intent.
+
+-9-
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+Mr. Legrand’s next argument, centering on his contention that none of the
+
+bullets came close to hitting Mr. Jurgensen, is equally unavailing in light of this
+
+Court’s ruling in State v. Lyons. 268 N.C. App. 603, 836 S.E.2d 917 (2019). In Lyons,
+
+this Court concluded that the jury could draw a reasonable inference of intent from
+
+the victim’s testimony that the gun was pointed at her as she ducked just seconds
+
+before the gun was fired, regardless of whether the gun was actually pointed at her
+
+when the defendant pulled the trigger. Id. at 613, 836 S.E.2d at 924. The Court
+
+reasoned that “the standard of review on a motion to dismiss compels us to adopt the
+
+reasonable inference most favorable to the State from the evidence,” which in that
+
+case was an inference that defendant aimed and fired a gun at the deputy, even
+
+though defendant argued he only fired a bullet to scare the deputy. Id. at 612-613,
+
+836 S.E.2d at 924. Therefore, the Court affirmed the lower court’s denial of the
+
+motion to dismiss.
+
+This case tracks those facts from Lyons. Mr. Jurgensen saw Mr. Legrand aim
+
+his gun in Mr. Jurgensen’s direction before firing the second gunshot. That alone
+
+establishes that the motion to dismiss was properly denied, but the jury heard further
+
+evidence from which it could have inferred that Mr. Legrand’s ineffectual aim did not
+
+negate his intent, including the low lighting at the gas station and the fact that Mr.
+
+Legrand wore a hat that hung low over his face. The State presented sufficient
+
+evidence for a jury to reasonably infer the requisite intent. Therefore, we find no
+
+error in the lower court’s ruling.
+
+- 10 -
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+C. Determination of Prior Record Level
+
+On appeal, Mr. Legrand does not challenge the validity of his conviction for
+
+possession of a firearm by a felon but takes issue with his sentencing on that
+
+conviction. Therefore, we review only the sentencing as it pertains to his conviction
+
+for possession of firearm by a felon.
+
+The trial court sentenced Mr. Legrand to a term of 127 to 165 months of active
+
+confinement for possession of a firearm by a felon based upon its findings that Mr.
+
+Legrand was a prior record level V and a habitual felon. Mr. Legrand argues the
+
+lower court erred in finding he was a prior record level V and argues he should be
+
+sentenced at a prior record level III status. Mr. Legrand argues that he is properly
+
+sentenced under prior record level III because the lower court could classify his out-
+
+of-state felony convictions as Class I felonies only, which, in turn, results in fewer
+
+points for the prior record level analysis. Mr. Legrand reasons the State failed to
+
+follow N.C. Gen. Stat. § 15A–1340.14(e), requiring the State to prove an out-of-state
+
+felony is substantially similar to a North Carolina offense before it attaches a more
+
+serious felony classification to an out-of-state offense. N.C. Gen. Stat. § 15A–
+
+1340.14(e) (2021).
+
+1. Standard of Review
+
+“The trial court’s determination of a defendant’s prior record level is a
+
+conclusion of law, which this Court reviews de novo on appeal.” State v. Threadgill,
+
+227 N.C. App. 175, 178, 741 S.E.2d 677, 679-80 (2013).
+
+- 11 -
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+2. Trial court properly considered prior offenses
+
+The transcript of Mr. Legrand’s trial indicates the court found substantial
+
+similarity between the crimes after reviewing State’s exhibits 20, 21, 22, 23, and 24.
+
+THE COURT: The [c]ourt, based upon the information
+presented, finds by preponderance of the evidence that any
+non-North Carolina offenses included in the stipulation as
+to prior conviction is substantially similar to North
+Carolina offenses, and North Carolina classification
+assigned to said respective offenses is accurate.
+
+The court confirmed this statement when it checked a box confirming it made this
+
+finding on Mr. Legrand’s prior record-level worksheet.
+
+Mr. Legrand argues the lower court did not make a proper finding because
+
+there is nothing in the transcript of the sentencing hearing where the trial court
+
+recounted or detailed the evidence from the State proving substantial similarity
+
+between Mr. Legrand’s out-of-state offenses and North Carolina offenses. Given the
+
+Court’s indication of review in open court and its full execution of the sentencing
+
+worksheet finding substantial similarity, this Court presumes the trial court reached
+
+this finding properly. State v. Harris, 27 N.C. App. 385, 386-87, 219 S.E.2d 306, 307
+
+(1975) (quoting State v. Stafford, 274 N.C. 519, 528, 164 S.E.2d 371, 377 (1968))
+
+(“Unless the contrary is made to appear, it will be presumed that judicial acts and
+
+duties have been duly and regularly performed.”) Mr. Legrand has submitted no
+
+evidence to the contrary, and thus has not carried his burden of overcoming the
+
+presumption of regularity. See State v. Johnson, 265 N.C. App. 85, 87, 827 S.E.2d
+
+- 12 -
+
+STATE V. LEGRAND
+
+Opinion of the Court
+
+139, 141 (2019) (“If the record discloses that the court considered irrelevant and
+
+improper matter in determining the severity of the sentence, the presumption of
+
+regularity is overcome, and the sentence is in violation of defendant’s rights.”).
+
+Therefore, we find no error.
+
+III. CONCLUSION
+
+After careful review of the issues, we hold that the State presented sufficient
+
+evidence of each element of the crimes such that a jury could make a reasonable
+
+inference of intent. Therefore, the trial court did not err by denying the motions to
+
+dismiss. Additionally, we hold that Mr. Legrand did not show that the trial court
+
+erred in finding his prior federal crimes were substantially similar to North Carolina
+
+crimes for purposes of sentencing.
+
+NO ERROR.
+
+Judges MURPHY and CARPENTER concur.
+
+- 13 -

@@ -1,0 +1,1100 @@
+=========================================================
+Case: State v. Forrest
+Court: Ohio Court of Appeals
+Date Filed: 2024-12-16
+Citations: 2024 Ohio 5861
+URL: https://www.courtlistener.com/opinion/10293078/state-v-forrest/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Forrest, 2024-Ohio-5861.]
+
+IN THE COURT OF APPEALS OF OHIO
+THIRD APPELLATE DISTRICT
+ALLEN COUNTY
+
+STATE OF OHIO, CASE NO. 1-23-31
+
+PLAINTIFF-APPELLEE,
+
+v.
+
+DEONTRAY Q. FORREST, OPINION
+
+DEFENDANT-APPELLANT.
+
+Appeal from Allen County Common Pleas Court
+Trial Court No. CR2020 0123
+
+Judgment Affirmed
+
+Date of Decision: December 16, 2024
+
+APPEARANCES:
+
+William T. Cramer for Appellant
+
+John R. Willamowski, Jr. for Appellee
+
+Case No. 1-23-31
+
+MILLER, J.
+
+{¶1} Defendant-appellant, Deontray Q. Forrest (“Forrest”), appeals the
+
+May 12, 2023 judgment of sentence of the Allen County Court of Common Pleas.
+
+For the reasons that follow, we affirm.
+
+{¶2} On May 14, 2020, the Allen County Grand Jury indicted Forrest on
+
+four counts: Count One of felonious assault in violation of R.C. 2903.11(A)(2),
+
+(D)(1)(A), a second-degree felony; Count Two of murder in violation of R.C.
+
+2903.02(A), (D) and R.C. 2929.02(B), an unclassified felony; Count Three of
+
+murder in violation of R.C. 2903.02(B), (D) and R.C. 2929.02(B), an unclassified
+
+felony; and Count Four of having weapons while under disability in violation of
+
+R.C. 2923.13(A)(3), (B), a third-degree felony. Counts One, Two, and Three each
+
+included a firearm specification pursuant to R.C. 2941.145(A) and a criminal-gang-
+
+activity specification pursuant to R.C. 2941.142(A).
+
+{¶3} At his arraignment on May 22, 2020, Forrest entered not guilty pleas
+
+to the counts and specifications in the indictment. Prior to trial, in accordance with
+
+Crim.R. 12.2, Forrest filed a notice of intent to offer evidence and argue in support
+
+of self-defense and defense of another.
+
+{¶4} The matter came for a jury trial on May 8-11, 2023.1 At the
+
+conclusion of the trial, the jury found Forrest guilty of each of the counts and the
+
+1
+Prior to the commencement of trial, the State moved to dismiss the criminal-gang-activity specification
+associated with Counts One, Two, and Three, which the trial court granted. (Doc. No. 314).
+
+-2-
+
+Case No. 1-23-31
+
+accompanying firearm specifications. Furthermore, with respect to Counts One,
+
+Two, and Three, the jury made specific findings that Forrest did not act in self-
+
+defense. The trial court accepted the jury’s verdicts and proceeded directly to
+
+sentencing.
+
+{¶5} The trial court found that Counts One, Two, and Three merged, and
+
+the State elected for the trial court to sentence Forrest on Count Two. The trial court
+
+then sentenced Forrest as follows: a mandatory term of 15 years to life in prison on
+
+Count Two, mandatory terms of three years in prison for each of the firearm
+
+specifications associated with Count Two and Count Three, and 36 months in prison
+
+for Count Four. The trial court ordered the prison terms to be served consecutively
+
+for an aggregate sentence of 21 years and 36 months to life in prison. The following
+
+day, the trial court filed its judgment entry of sentence.
+
+{¶6} Forrest raises a single assignment of error for our review.
+
+Assignment of Error
+
+The weight of the evidence did not support the verdict finding that
+the State disproved self-defense or defense of another beyond a
+reasonable doubt.
+
+{¶7} In his assignment of error, Forrest contends that the weight of the
+
+evidence did not support the jury’s finding that Forrest did not act in self-defense or
+
+defense of another. For the reasons that follow, we disagree.
+
+-3-
+
+Case No. 1-23-31
+
+Standard for Manifest-Weight Review
+
+{¶8} In determining whether a conviction is against the manifest weight of
+
+the evidence, a reviewing court must examine the entire record, “‘weigh[] the
+
+evidence and all reasonable inferences, consider[] the credibility of witnesses and
+
+determin[e] whether in resolving conflicts in the evidence, the [trier of fact] clearly
+
+lost its way and created such a manifest miscarriage of justice that the conviction
+
+must be reversed and a new trial ordered.’” State v. Thompkins, 78 Ohio St.3d 380,
+
+387 (1997), quoting State v. Martin, 20 Ohio App.3d 172, 175 (1st Dist. 1983). A
+
+reviewing court must, however, allow the trier of fact appropriate discretion on
+
+matters relating to the weight of the evidence and the credibility of the witnesses.
+
+State v. DeHass, 10 Ohio St.2d 230, 231 (1967). When applying the manifest-
+
+weight standard, “[o]nly in exceptional cases, where the evidence ‘weighs heavily
+
+against the conviction,’ should an appellate court overturn the trial court’s
+
+judgment.” State v. Haller, 2012-Ohio-5233, ¶ 9 (3d Dist.), quoting State v. Hunter,
+
+2011-Ohio-6524, ¶ 119.
+
+Forrest’s Convictions and Evidence Presented at Trial
+
+{¶9} The jury found Forrest guilty of felonious assault, two murder
+
+charges, and having weapons while under disability. At trial, Forrest expressly
+
+admitted to possessing a weapon while under disability (Count Four) and; further,
+
+self-defense did not apply to that conviction. However, as an initial matter, to the
+
+extent Forrest challenges the weight of the evidence supporting the jury’s findings
+
+-4-
+
+Case No. 1-23-31
+
+of guilt as to the felonious assault (Count One) and murder (Count Three), we need
+
+not address those arguments. See State v. Sheldon, 2019-Ohio-4123, ¶ 11 (3d Dist.),
+
+citing State v. Turner, 2019-Ohio-144, ¶ 22 (2d Dist.). R.C. 2941.25 provides that
+
+“[w]here the same conduct by defendant can be construed to constitute two or more
+
+allied offenses of similar import, the indictment or information may contain counts
+
+for all such offenses, but the defendant may be convicted of only one.” “Indeed, the
+
+Supreme Court of Ohio has explicitly stated that a ‘conviction’ requires both a
+
+finding of guilt and a sentence.” State v. Miller, 2019-Ohio-4121, ¶ 12 (3d Dist.).
+
+“Specifically, ‘[w]hen counts in an indictment are allied offenses, and there is
+
+sufficient evidence to support the offense on which the state elects to have the
+
+defendant sentenced, the appellate court need not consider the sufficiency [or
+
+weight] of the evidence on the count that is subject to merger because any error
+
+would be harmless’ beyond a reasonable doubt.” Sheldon at ¶ 11, quoting State v.
+
+Ramos, 2016-Ohio-7685, ¶ 14 (8th Dist.). Here, error, if any, with respect to the
+
+sufficiency or weight of the evidence as to Forrest’s charges under Counts One and
+
+Three is harmless beyond a reasonable doubt because those counts were merged
+
+with Count Two. See State v. Powell, 49 Ohio St.3d 255, 263 (1990), superseded
+
+by state constitutional amendment on other grounds, State v. Smith, 80 Ohio St.3d
+
+89, 102 (1997), fn.4. Accordingly, our analysis will focus solely on Count Two.
+
+-5-
+
+Case No. 1-23-31
+
+{¶10} Forrest was convicted of murder in violation of R.C. 2903.02(A)
+
+which provides that “[n]o person shall purposely cause the death of another[.]”
+
+Forrest attempted to assert a self-defense claim to the allegation.
+
+R.C. 2901.05(B)(1), states as follows:
+
+A person is allowed to act in self-defense, defense of another, or
+defense of that person’s residence. If, at the trial of a person who is
+accused of an offense that involved the person’s use of force against
+another, there is evidence presented that tends to support that the
+accused person used the force in self-defense, defense of another, or
+defense of that person’s residence, the prosecution must prove beyond
+a reasonable doubt that the accused person did not use the force in
+self-defense, defense of another, or defense of that person’s residence,
+as the case may be.
+
+{¶11} “Under R.C. 2901.05(A) and (B)(1), a defendant claiming self-
+
+defense has the burden of production—that is, the burden of producing evidence
+
+that ‘tends to support’ his use of force in defending himself.” State v. Estelle, 2021-
+
+Ohio-2636, ¶ 18 (3d Dist.). “Under the current version of R.C. 2901.05, if evidence
+
+is presented ‘that tends to support’ that the defendant used the force in self-defense,
+
+the prosecution must prove beyond a reasonable doubt that the accused did not act
+
+in self-defense.” (Emphasis sic.) State v. Flory, 2020-Ohio-5136, ¶ 43 (3d Dist.).
+
+Accordingly, “the burden of proof for . . . self-defense has shifted to the state,” but
+
+“the burden of production for . . . self defense[] remains with the defendant.”
+
+(Emphasis sic.) State v. Messenger, 2021-Ohio-2044, ¶ 44 (10th Dist.).
+
+{¶12} “The elements of self-defense differ depending on whether the
+
+defendant used deadly or non-deadly force to defend himself.” State v. Eddy, 2022-
+
+-6-
+
+Case No. 1-23-31
+
+Ohio-3965, ¶ 14 (3d Dist.). “The use of a gun constitutes the use of deadly force.”
+
+State v. Dale, 2013-Ohio-2229, ¶ 15 (2d Dist.).
+
+{¶13} The elements of a self-defense claim involving deadly force are:
+
+(1) That the defendant was not at fault in creating the situation giving
+rise to the affray; (2) that the defendant has a bona fide belief that he
+[or she] was in imminent danger of death or great bodily harm and
+that his [or her] only means of escape from such danger was in the use
+of such force; and (3) that the defendant did not violate any duty to
+retreat or avoid the danger.
+
+State v. Messenger, 2022-Ohio-4562, ¶ 14, quoting State v. Barnes, 94 Ohio St.3d
+
+21, 24 (2002).
+
+{¶14} “[T]he State must ‘disprove at least one of the elements of self-
+
+defense beyond a reasonable doubt.’” State v. Passmore, 2023-Ohio-3209, ¶ 29 (3d
+
+Dist.), quoting State v. Carney, 2020-Ohio-2691, ¶ 31 (10th Dist.). “The elements
+
+of self-defense are cumulative, and a defendant’s claim of self-defense fails if any
+
+one of the elements is not present.” State v. Ridley, 2022-Ohio-2561, ¶ 15 (1st
+
+Dist.).
+
+{¶15} At trial, the court gave the jury the following instructions relating to
+
+self-defense:
+
+SELF DEFENSE
+
+The defendant claims he acted in self-defense or defense of
+another person. The defendant is allowed to use deadly force in self-
+defense or defense of another person. The state must prove beyond a
+reasonable doubt that the defendant, when using deadly force, did not
+act in self-defense or defense of another person.
+
+-7-
+
+Case No. 1-23-31
+
+To prove that the defendant, when using deadly force, did not
+act in self-defense or in defense of another person, the state must
+prove beyond a reasonable doubt at least one of the following:
+
+(A) the defendant was at fault in creating the situation giving rise to
+his shooting Timothy White as alleged in Count Two (2); or
+
+(B) the defendant did not have reasonable grounds to believe that he
+or another person was in imminent or immediate danger of death or
+great bodily harm; or
+
+(C) the defendant did not have an honest belief, even if mistaken, that
+he or another was in imminent or immediate danger of death or great
+bodily harm; or
+
+(D) the defendant violated a duty to retreat to avoid the danger; or
+
+(E) the defendant used unreasonable force.
+
+There is no requirement that the jury be unanimous as to which
+of the above you believe the State disproved.
+
+(Doc. No. 308).
+
+{¶16} Here, Forrest concedes that the trial court correctly instructed the jury
+
+on self-defense, but argues that the jury lost its way by finding that Forrest did not
+
+act in self-defense. We disagree.
+
+{¶17} At trial, the State presented testimony that in the early morning hours
+
+of February 4, 2020, law enforcement was dispatched to Levels Lounge, in Lima,
+
+Ohio after receiving reports of shots being fired. When law enforcement arrived at
+
+the scene, they observed two individuals dead on the floor in the bar, Terell McGraw
+
+(“McGraw”) and Devontae Upshaw (“Upshaw”). Shortly thereafter, in a walkway
+
+located near the bar, law enforcement discovered the body of Timothy White
+
+-8-
+
+Case No. 1-23-31
+
+(“White”), the victim in the instant case. All three victims had apparent gunshot
+
+wounds.
+
+{¶18} Michael Liles (“Liles”) who co-owned Levels Lounge and was
+
+bartending in the early morning hours of February 4, 2020, testified White was
+
+present at the bar with his brother, McGraw. (May 8-11, 2023 Tr. at 196-199). Liles
+
+recalled that Forrest was also at the bar with friends, including his fiancée, Mercedes
+
+Kelly (“Kelly”). (Id. at 198-199). According to Liles, at some during the evening
+
+and early morning, he learned that there was “something going on” between White
+
+and Forrest. (Id. at 216-217). As a result, Liles asked White and McGraw to leave
+
+the bar. (Id. at 217). Liles stated that he intended to also ask Forrest to leave the
+
+bar, but planned to wait until White and McGraw left, so the trio was not in the
+
+parking lot together. (Id. at 217-218). While Liles was talking to White, Upshaw
+
+arrived at the bar. (Id. at 218-219). Then, Liles heard a scuffle. (Id. at 219).
+
+According to Liles, White pushed Liles out of the way and opened fire. (Id.).
+
+{¶19} Law enforcement officers were able to obtain video surveillance
+
+footage of the inside and outside of Levels Lounge on February 4, 2020, as well as
+
+surveillance footage from a building located nearby. Portions of the surveillance
+
+footage, introduced as State’s Exhibit 69, were played for the jury. (State’s Ex. No.
+
+69). The footage depicts White, Upshaw, and Forrest inside of Levels Lounge for
+
+a period of time before the shooting. (Id.); (May 8-11, 2023 Tr. at 535-541). For
+
+much of the footage, Upshaw and White are standing at the north side of the bar,
+
+-9-
+
+Case No. 1-23-31
+
+and Forrest is depicted in the middle and south side of the bar. (State’s Ex. No. 69);
+
+(May 8-11, 2023 Tr. at 538-541). At one point, Forrest and White speak, and
+
+following the interaction, Forrest returns to the middle of the bar area where he
+
+interacts with other bar patrons, including his fiancée, Kelly. (State’s Ex. No. 69);
+
+(May 8-11, 2023 Tr. at 541).
+
+{¶20} Shortly thereafter, Liles approaches White and the men speak in an
+
+animated manner. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at 542). As that
+
+interaction is taking place, Upshaw enters the bar. (State’s Ex. No. 69); (May 8-11,
+
+2023 Tr. at 544-545). Shortly thereafter, Upshaw and McGraw appear to exchange
+
+heated words, and Upshaw punches McGraw in the face. (State’s Ex. No. 69).
+
+Nearly simultaneously, White, who is standing against the wall near the north side
+
+of the bar, pulls out a gun and begins to shot. (Id.). McGraw and Upshaw fall to
+
+the floor of the bar. (Id.); (May 8-11, 2023 Tr. at 545-546). White continues to fire
+
+into Upshaw’s back as Upshaw unsuccessfully attempts to crawl away. (Id.); (id.).
+
+Then, White removes his stocking cap, puts his gun in his pocket, and puts the hood
+
+of his sweatshirt up over his head, and walks out the north door of Levels Lounge.
+
+(State’s Ex. No. 69); (May 8-11, 2023 Tr. at 546).
+
+{¶21} As White is opening fire inside the bar, Forrest is depicted pointing a
+
+firearm at White. (State’s Ex. No. 69). Initially, the firearm does not appear to
+
+discharge. (Id.). However, as White exits the bar, Forrest’s firearm discharges and
+
+-10-
+
+Case No. 1-23-31
+
+Forrest’s bullet shatters the window at the north side of the bar near the door White
+
+was exiting. (Id.); (May 8-11, 2023 Tr. at 546, 564).
+
+{¶22} After White exits the bar, Forrest runs to the south end of the bar,
+
+which houses a billiards room, and unsuccessfully attempts to open a side door
+
+leading to the parking lot located to the west of Levels Lounge. (State’s Ex. No.
+
+69); (May 8-11, 2023 Tr. at 564-565). When Forrest is unable to exit the bar through
+
+that door, Forrest is depicted running out the door on the north side of bar, the same
+
+door that White used shortly before. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at
+
+545, 548).
+
+{¶23} The exterior surveillance cameras depict Forrest, with his gun in his
+
+hand, peer around the corner and observe White walking away from the bar and
+
+toward a walkway located between two nearby buildings. (State’s Ex. No. 69);
+
+(May 561-562, 575-576). Forrest then follows in the direction of White, who is out
+
+of the view of the surveillance cameras, and takes a stance and fires in White’s
+
+direction. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at 575-576). Moments later,
+
+gunshots fire from the walkway where White is located. (State’s Ex. No. 69); (May
+
+8-11, 2023 Tr. at 576-577).
+
+{¶24} Forrest then runs back through the parking lot and reenters Levels
+
+Lounge through the same north door that he exited moments before. (State’s Ex.
+
+No. 69); (May 8-11, 2023 Tr. at 548, 562). He is depicted running south to the rear
+
+of the bar and into the bathroom. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at 565).
+
+-11-
+
+Case No. 1-23-31
+
+A brief time later, he exits the bathroom and reenters the main area of the bar.
+
+(State’s Ex. No. 69); (May 8-11, 2023 Tr. at 565-566).
+
+{¶25} Shortly after the shooting, multiple law enforcement officers arrived
+
+at the scene. Several law enforcement officers interacted with Forrest at the scene,
+
+but Forrest denied any knowledge of the identity of the shooter inside the bar.
+
+(State’s Ex. Nos. 72, 73, 74); (May 8-11, 2023 Tr. at 254, 285, 302-303). Soon after
+
+arriving on the scene, officers discovered White dead in the walkway with apparent
+
+gunshot wounds. Deputy Aaron Smith (“Deputy Smith”), who first located White,
+
+observed him laying facedown approximately 25 to 30 feet inside the walkway.
+
+(State’s Ex. No. 39); (May 3-11, 2023 Tr. at 315). Deputy Smith observed a Glock
+
+26 subcompact 9-millimeter pistol (“Glock”) in White’s right hand, tucked slightly
+
+underneath his body. (State’s Ex. No. 47); (May 8-11, 2023 Tr. at 316, 322-323).
+
+The firearm did not have any cartridges inside it. (May 8-11, 2023 Tr. at 323). A
+
+shell casing was located near White’s body. (Id. at 324-325). Outside the bar, near
+
+the west parking lot, officers found five spent .380 casings near a vehicle that had a
+
+bullet hole in the fuel door. (Id. at 344, 390).
+
+{¶26} Officers at the scene located bullet holes in the floor of the bar and
+
+seven 9-millimeter bullet casings located near Upshaw and McGraw’s bodies. (Id.
+
+at 332). In the men’s bathroom, officers located a Kimber Micro Carry .380 pistol
+
+-12-
+
+Case No. 1-23-31
+
+(“Kimber .380”) under the trash can liner.2 (State’s Ex. No. 58); (May 8-11, 2023
+
+Tr. at 359-361, 380, 530-531).
+
+{¶27} A DNA analyst testified that the swab of the trigger of the Kimber
+
+.380 contained a mixture of DNA with the major contributor being Marquavous
+
+Liles (“Marquavous”) on the trigger. (State’s Ex. No. 87); (May 8-11, 2023 Tr. at
+
+409-410). The Glock contained DNA consistent with White and McGraw on the
+
+grip and DNA consistent with White on the slide. (State’s Ex. No. 87); (May 8-11,
+
+2023 Tr. at 411-413). A firearm-identification expert testified that the firearms
+
+recovered from the scene were operable. (State’s Ex. No. 88); (May 8-11, 2023 Tr.
+
+at 466). Additionally, the expert testified the .380 casings recovered from the scene
+
+were fired from the Kimber .380 and the 9-millimeter casings were fired from the
+
+Glock. (State’s Ex. No. 88); (May 8-11, 2023 Tr. at 467-470). The bullets
+
+recovered from White’s autopsy were determined to have been fired by the Kimber
+
+.380 and the bullets recovered from Upshaw and McGraw were consistent with the
+
+Glock. (State’s Ex. No. 88); (May 8-11, 2023 Tr. at 467-470).
+
+{¶28} Dr. Jeffrey Hudson (“Dr. Hudson”), the deputy coroner and forensic
+
+pathologist, performed autopsies on White, McGraw, and Upshaw. (May 8-11,
+
+2023 Tr. at 420-421). According to Dr. Hudson, White died from multiple gunshot
+
+wounds. (State’s Ex. No. 77); (May 8-11, 2023 Tr. at 445). Specifically, Dr.
+
+2
+Officers also located a Sig Sauer P938 Equinox micro compact 9-millimeter handgun in a trashcan in the
+billiards room. (State’s Ex. Nos. 20, 57); (May 8-11, 2023 Tr. at 337, 357, 379-380). However, there is no
+indication that firearm was involved in the incident. (May 8-11, 2023 Tr. at 380).
+
+-13-
+
+Case No. 1-23-31
+
+Hudson described four gunshot wounds – a gunshot wound to White’s chest and
+
+three gunshot wounds to his legs, and three bullets were recovered from White’s
+
+body during the autopsy. (State’s Ex. No. 77); (May 8-11, 2023 Tr. at 427-441).
+
+{¶29} According to Dr. Hudson, Upshaw’s cause of death was multiple
+
+gunshot wounds. (State’s Ex. No. 75); (May 8-11, 2023 Tr. at 449). Dr. Hudson
+
+observed five gunshot wounds to Upshaw’s body and recovered one bullet during
+
+the autopsy and another bullet from the body bag Upshaw was transported in.
+
+(State’s Ex. No. 75); (May 8-11, 2023 Tr. at 448). Dr. Hudson testified that
+
+McGraw’s cause of death was a single gunshot wound to the head and that the bullet
+
+was recovered during the autopsy. (State’s Ex. No. 76); (May 8-11, 2023 Tr. at 450,
+
+452).
+
+{¶30} Shortly after the incident on February 4, 2020, a warrant was issued
+
+for Forrest’s arrest in connection to the death of White. (May 8-11, 2023 Tr. a 501-
+
+502, 585). Approximately two months after the shooting, Forrest was apprehended
+
+in Cleveland, and soon thereafter Detective Steven Stechschulte (“Det.
+
+Stechschulte”) and Detective Sean Neidemire (“Det. Neidemire”) had the
+
+opportunity to interview Forrest. (Id. at 502-503, 585-587). In Det. Stechschulte’s
+
+interview, portions of which were played to the jury, Forrest denied that he was
+
+involved in the February 4, 2020 incident. (State’s Ex. No. 89); (May 8-11, 2023
+
+Tr. at 503, 518). Det. Stechschulte testified that, from prior investigations, he was
+
+aware Upshaw and Forrest were friends. (May 8-11, 2023 Tr. at 499-500). Det.
+
+-14-
+
+Case No. 1-23-31
+
+Stechschulte was also aware of prior issues between Forrest and White and between
+
+Upshaw and White. (Id. at 500-501). Det. Stechschulte also opined that Upshaw
+
+was White’s intended target and that the shot which struck and killed McGraw was
+
+actually intended for Upshaw. (Id. at 507-508).
+
+{¶31} Forrest testified in his own defense. According to Forrest, he was
+
+present at Levels Lounge on February 4, 2020 with friends, including his fiancée,
+
+Kelly, to celebrate the birthday of Allesha Julien (“Julien”), who was Upshaw’s
+
+significant other and the mother of Upshaw’s child. (Id. at 619-621). He stated that
+
+he received a ride to Levels Lounge from his friend, Adriana Denson, and that Kelly
+
+and Julien were at the bar when Forrest arrived. (Id. at 632-633).
+
+{¶32} According to Forrest, he had known Upshaw since they were children
+
+and they recently became close through their partners, Julien and Kelly, who were
+
+friends. (Id. at 621). Forrest further stated that, prior to the night of February 4,
+
+2020, he did not know White well, but knew that he had a reputation for violence
+
+and was known to be dangerous. (Id. at 623-624).
+
+{¶33} Forrest stated that when he arrived at Levels Lounge on February 4,
+
+2020, he spoke to his friend, Marquavous, who is the son of Liles. (May 8-11, 2023
+
+Tr. at 630, 634). After the pair talked for approximately 10 to 20 minutes,
+
+Marquavous indicated that he had to leave the bar and asked Forrest to hold his
+
+firearm, a Kimber .380, to which Forrest agreed. (Id. at 634). Forrest testified that,
+
+prior to that interaction, he had never seen or handled the firearm before and did not
+
+-15-
+
+Case No. 1-23-31
+
+know how to operate it. (Id. at 629). According to Forrest, he knew that
+
+Marquavous was driving a white rental SUV. (Id. at 630). Although Forrest did
+
+not have confirmed plans for how he was going to get home that night, he intended
+
+to ride home with Marquavous upon his return to the bar. (Id. at 633).
+
+{¶34} Forrest contended that he did not observe White enter the bar, and for
+
+some time, he was unaware that White was present. (Id. at 636). At some point,
+
+after noticing his arrival, Forrest approached White to make sure “everything [was]
+
+cool.” (Id. at 639); (State’s Ex. No. 69). Forrest testified he wanted to make sure
+
+everything was okay and he concluded from the interaction that everything was all
+
+right and there weren’t any problems. (Id. at 642); (State’s Ex. No. 69).
+
+{¶35} According to Forrest, he observed an interaction between Liles and
+
+White which confused Forrest because he had just received assurances from White
+
+that there were no problems. (Id. at 644-645). Forrest indicated he could be
+
+observed on State’s Exhibit 69 looking at his phone because he was receiving a call
+
+and a text message. (Id. at 646-648); (State’s Ex. No. 69); (Defendant’s Ex. No. R).
+
+The text was from Upshaw, informing Forrest that he was on his way to Levels
+
+Lounge, and the phone call was from Marquavous, informing Forrest that he was
+
+about to pull up to the bar. (May 8-11, 2023 Tr. at 646, 648).
+
+{¶36} Approximately four minutes later, Upshaw entered the bar. (State’s
+
+Ex. No. 69). However, Forrest, who could be seen in the surveillance footage
+
+talking to Kelly and Julien, did not appear to observe Upshaw enter. (State’s Ex.
+
+-16-
+
+Case No. 1-23-31
+
+No. 69); (May 8-11, 2023 Tr. at 649). Forrest stated that he eventually noticed
+
+Upshaw, White, and Liles talking toward the north end of the bar, but at the time,
+
+he was not concerned that “something bad” may happen and felt that “nothing [is]
+
+going on.” (Id. at 652, 654); (State’s Ex. No. 69).
+
+{¶37} However, Forrest observed Upshaw punching McGraw in the face
+
+while White stood against the wall near the north end of the bar. (State’s Ex. No.
+
+69); (May 8-11, 2023 Tr. at 654-655). Then, Forrest saw White pulled out a gun
+
+and began to shoot. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at 655). As White
+
+was shooting, Forrest drew the Kimber .380 that he was holding for Marquavous
+
+and pointed the firearm toward White. (State’s Ex. No. 69); (May 8-11, 2023 Tr. at
+
+656-657). Forrest testified that, in that moment, he feared for the safety of everyone
+
+in the bar, especially for Upshaw, himself, Kelly, and Julien. (May 8-11, 2023 Tr.
+
+at 657-658). Forrest stated he believed it was necessary to shoot White in order to
+
+save the lives of the others present in the bar. (Id. at 658). According to Forrest,
+
+when he aimed the gun and pulled the trigger a laser sight came on, but nothing
+
+happened. (Id. at 659); (State’s Ex. No. 69). Forrest stated that he assumed that
+
+“something was wrong with the gun.” (May 8-11, 2023 Tr. at 659).
+
+{¶38} Unsure whether White noticed Forrest aiming the gun at him, Forrest
+
+turned around and ran in the opposite direction. (Id. at 664); (State’s Ex. No. 69).
+
+Forrest stated that he feared White would see Forrest with the gun and shoot him.
+
+(May 8-11, 2023 Tr. at 662, 665). However, in the chaos, Forrest tripped and fell
+
+-17-
+
+Case No. 1-23-31
+
+to the floor. (Id. at 665-666); (State’s Ex. No. 69). From the floor, Forrest continued
+
+to try to get the gun to work, and in the process, he ejected shells. (May 8-11, 2023
+
+Tr. at 668); (State’s Ex. No. 69). Nonetheless, the gun still did not fire. (May 8-11,
+
+2023 Tr. at 668); (State’s Ex. No. 69). Forrest observed White walk to the door as
+
+Forrest continued attempting to fire the gun at White. (State’s Ex. No. 69); (May 8-
+
+11, 2023 Tr. at 673). Eventually, the gun did fire, and Forrest shot out the window
+
+at the north end of the bar as White exited the establishment. (State’s Ex. No. 69);
+
+(Defendant’s Ex. No. H); (May 8-11, 2023 Tr. at 674).
+
+{¶39} Forrest then got up from the floor and attempted to exit the building
+
+from the side door leading to the west parking lot. (State’s Ex. No. 69); (May 8-11,
+
+2023 Tr. at 675). Forrest explained that his purpose in attempting to exit through
+
+the side door was that he recalled that Marquavous had told Forrest on the phone
+
+that he was about to pull up to the bar, and Forrest worried that Marquavous could
+
+be in danger. (May 8-11, 2023 Tr. at 675). After failing to exit out the side door,
+
+Forrest traveled quickly to the north exit of the bar that White had just left. (May
+
+8-11, 2023 Tr. at 675-676); (State’s Ex. No. 69). Again, Forrest stated his purpose
+
+in doing so was to check on Marquavous and make sure he was safe. (May 8-11,
+
+2023 Tr. at 676). Forrest reached the vestibule where he could be seen looking to
+
+the direction of the west parking lot while carrying the gun in his hand. (Id. at 677-
+
+678); (State’s Ex. No. 69). Forrest stated he was looking in the direction of the
+
+parking lot where he knew Marquavous to be parked. (May 8-11, 2023 Tr. at 677-
+
+-18-
+
+Case No. 1-23-31
+
+679); (State’s Ex. No. 69). Forrest testified that he observed Marquavous’s white
+
+rental vehicle in the west parking lot and feared that White was about to shoot and
+
+kill Marquavous. (May 8-11, 2023 Tr. at 711-713). Forrest described White as
+
+walking “with a purpose” and “fast paced” toward the white vehicle. (Id. at 713);
+
+(State’s Ex. No. 69).
+
+{¶40} Forrest testified that although he had a clear shot of White, he did not
+
+take the shot because White did not yet raise his gun. (May 8-11, 2023 Tr. at 714,
+
+717). Forrest stated that as he watched Marquavous pull up, he saw movement
+
+coming from the walkway between the nearby buildings. (Id. at 721). Forrest
+
+testified that a white vehicle, which Forrest identified as being driven by
+
+Marquavous, was pulling up to get Forrest and that Forrest intended to get into the
+
+vehicle and tell Marquavous what had happened inside the bar. (Id. at 721-723);
+
+(State’s Ex. No. 69). However, Forrest testified that he did not make it to the car
+
+because in his peripheral vision he saw White raise his gun. (May 8-11, 2023 Tr. at
+
+722-723). Forrest testified that, in response, he “just started shooting.” (Id. at 722-
+
+723). Forrest testified he did not even aim the firearm but “just was firing” because
+
+he “knew he had to . . . get [his] shot off before [White] did” and fired the gun until
+
+he had no more bullets. (Id. at 726). He stated, “I just started shooting because I
+
+knew if I didn’t start shooting he was going to shoot me.” (Id. at 727).
+
+{¶41} Forrest testified that when he ran back into the bar after shooting
+
+White, he believed that he was still getting shot at and he was trying to get away
+
+-19-
+
+Case No. 1-23-31
+
+“because bullets [were] still coming my way.” (Id. at 735). Forrest stated that
+
+when he reentered the bar, he did not believe any of his bullets had hit White because
+
+he had observed several of the bullets hit the ground. (Id.).
+
+{¶42} Upon reentering the bar, Forrest admitted he ran into the men’s
+
+bathroom and attempted to conceal the gun in the trashcan. (Id. at 735-736); (State’s
+
+Ex. No. 69). Forrest explained that he was aware the police were about to arrive
+
+and he did not want the firearm on his person because he distrusts the police and
+
+believed they were biased against him. (May 8-11, 2023 Tr. at 736).
+
+{¶43} Forrest admitted that after officers arrived, he interacted with them,
+
+but did not tell the officers he had shot out the window on the north end of the bar,
+
+did not tell the police about the Kimber .380 he concealed in the trashcan in the
+
+bathroom, or that he had left the bar and fired shots in the direction of White. (May
+
+8-11, 2023 Tr. at 736-737). Forrest explained there was “a lot going on” and he was
+
+trying to console Julien and Kelly who were very upset and were attempting to
+
+perform CPR on Upshaw. (Id. at 737-738).
+
+{¶44} Shortly thereafter, Forrest and Mercedes left Levels Lounge out the
+
+side door on foot and walked toward St. Rita’s Hospital to see if Upshaw had been
+
+transported there. (Id. at 738-739). Then, Forrest received a ride to a friend’s house.
+
+(Id. at 739).
+
+{¶45} Forrest explained that he did not find out that White had been shot or
+
+killed until the following morning. (May 8-11, 2023 Tr. at 739). He also learned
+
+-20-
+
+Case No. 1-23-31
+
+there was a warrant for his arrest, but did not turn himself in. (Id. at 739-740).
+
+Forrest reasoned that he needed to obtain a lawyer and wanted to get his affairs in
+
+order. (Id. at 739).
+
+{¶46} Forrest also conceded that he told detectives, “I didn’t kill nobody.”
+
+(Id. at 742). Forrest reasoned that he made that statement because he believed that
+
+by admitting he killed White, it was insinuating that he “just flat out murdered
+
+somebody” when, in his view, he protected himself and was acting in self-defense.
+
+(Id.).
+
+Analysis
+
+{¶47} At trial, Forrest argued that he acted in self-defense and defense of
+
+others when he shot and killed White. Forrest claimed that the encounter outside
+
+the bar, which resulted in Forrest killing White, was a continuation of the encounter
+
+in the bar, where White shot McGraw and Upshaw. Forrest contends he followed
+
+White out of the bar because he was concerned about the safety of his friend,
+
+Marquavous, who Forrest believed was arriving at the bar, unarmed. Forrest alleges
+
+he only opened fire after White raised his gun.
+
+{¶48} However, based on our review of the evidence presented, we find that
+
+the jury was also free to conclude Forrest’s actions were not done in self-defense.
+
+{¶49} First, Forrest’s self-defense claim is predicated on his commentary of
+
+the surveillance videos of the incident from both inside and outside of the
+
+bar. Notably, Forrest’s arguments relating to the motivation for his actions,
+
+-21-
+
+Case No. 1-23-31
+
+specifically trying to protect Marquavous, are almost entirely based on his own
+
+statements. Indeed, if the jury did not find Forrest’s testimony credible, they could
+
+have found that Forrest pursued White into the parking lot to shoot him in order to
+
+avenge the death of his friend, Upshaw. Moreover, although Forrest claimed he
+
+shot White only after White drew his firearm, this action was not depicted in the
+
+surveillance footage. (State’s Ex. No. 69).
+
+{¶50} “A verdict is not against the manifest weight of the evidence because
+
+the finder of fact chose to believe the State’s [evidence] rather than the defendant’s
+
+version of the events.” State v. Martinez, 2013-Ohio-3189, ¶ 16 (9th
+
+Dist.). “‘Although we review credibility when considering the manifest weight of
+
+the evidence, the credibility of witnesses is primarily a determination for the trier of
+
+fact.’” State v. Cox, 2022-Ohio-571, ¶ 20 (3d Dist.), quoting State v. Banks, 2011-
+
+Ohio-5671, ¶ 13 (8th Dist.), citing DeHass, 10 Ohio St.2d, at paragraph one of the
+
+syllabus. “‘The trier of fact is best able “to view the witnesses and observe their
+
+demeanor, gestures[,] and voice inflections, and use these observations in weighing
+
+the credibility of the proffered testimony.”’” State v. Brentley, 2023-Ohio-2530, ¶
+
+33 (3d Dist.), quoting Banks at ¶ 13, quoting State v. Wilson, 2007-Ohio-2202, ¶ 24,
+
+citing Seasons Coal Co., Inc. v. Cleveland, 10 Ohio St.3d 77, 80-81 (1984).
+
+{¶51} The jury had the opportunity to observe Forrest at trial. Based on our
+
+review of the record, it is clear that the jury did not find Forrest to be credible. “[I]t
+
+is within the province of the jury to parse out the credible portions of the witnesses’
+
+-22-
+
+Case No. 1-23-31
+
+testimonies.” State v. Waller, 2023-Ohio-493, ¶ 20 (3d Dist.). Indeed, the State’s
+
+evidence, most notably the video surveillance evidence, sufficiently supports the
+
+jury’s credibility assessments, and we find no basis to alter its analysis.
+
+{¶52} “A person may not provoke an assault or voluntarily enter an
+
+encounter and then claim a right of self-defense.” State v. Elam, 2022-Ohio-1895,
+
+¶ 14 (12th Dist.). “Ohio courts have long recognized that a defendant is at fault in
+
+creating the situation giving rise to the affray when the defendant chooses to
+
+confront the victim or knowingly go to a place where the victim will be, even when
+
+the defendant’s action was otherwise completely lawful.” Id. at ¶ 15.
+
+{¶53} The jury could have reasonably concluded from the State’s evidence
+
+that Forrest did not have a reasonable belief that he, or anyone else, was in imminent
+
+harm when he shot White. The video surveillance evidence clearly depicts White
+
+taking off his hat, pulling up the hood on his sweatshirt, putting the gun in his coat
+
+pocket, and walking out of the bar. (State’s Ex. No. 69). Further, the video
+
+surveillance portrays White walking through the parking lot and away from the bar.
+
+(Id.). In contrast, Forrest is depicted leaving Levels Lounge with the firearm in his
+
+hand and peering around the corner in the direction White was headed. (Id.). From
+
+this evidence, the jury could have concluded White had withdrawn from the
+
+situation and was no longer a threat when Forrest followed him into the parking lot.
+
+See State v. Greenstreet, 2023-Ohio-4224, ¶ 29 (9th Dist.).
+
+-23-
+
+Case No. 1-23-31
+
+{¶54} Furthermore, although Forrest testified he only drew his weapon after
+
+he observed White raise his gun in a shooting position, the record is clear that Forrest
+
+fired at White at least twice before White returned fire. Forrest also alleged that
+
+because White supposedly raised his firearm, he felt that he had no opportunity to
+
+assume a shooting position and simply began to fire wildly, unsure if his bullets had
+
+struck White. However, the surveillance video depicts Forrest assume a shooting
+
+position and confidently fire in White’s direction. Moreover, contrary to Forrest’s
+
+claim of just shooting wildly in White’s direction, Dr. Hudson testified White had
+
+been struck by four bullets with one hitting White in the chest. Additionally,
+
+Forrest’s credibility to the jury may have been undermined by Forrest’s actions
+
+following the encounter, including concealing the firearm in the restroom and
+
+denying knowledge of the events to law enforcement on the scene, evasion of arrest,
+
+and denial of his involvement following his eventual arrest. Moreover, although
+
+Forrest’s claim of self-defense is based largely on a claim of defense of
+
+Marquavous, little evidence, other than Forrest’s own testimony, corroborates
+
+Forrest’s claims that Marquavous was even present at Levels Lounge on February
+
+4, 2020.
+
+{¶55} Having examined the evidence in the record, we do not conclude that
+
+the jury lost its way when it returned a verdict concluding that Forrest’s actions were
+
+not in self-defense. See State v. Passmore, 2023-Ohio-3209, ¶ 39-40 (3d Dist.).
+
+Accordingly, Forrest’s assignment of error is overruled.
+
+-24-
+
+Case No. 1-23-31
+
+Conclusion
+
+{¶56} For the foregoing reasons, Forrest’s assignment of error is overruled.
+
+Having found no error prejudicial to the appellant herein in the particulars assigned
+
+and argued, we affirm the judgment of the Allen County Court of Common Pleas.
+
+Judgment Affirmed
+
+ZIMMERMAN and BALDWIN, J.J., concur.
+
+**Judge Craig R. Baldwin of the Fifth District Court of Appeals, sitting by
+Assignment of the Chief Justice of the Supreme Court of Ohio.
+
+/jlm
+
+-25-

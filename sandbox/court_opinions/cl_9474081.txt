@@ -1,0 +1,427 @@
+=========================================================
+Case: State of Tennessee v. William Flynn
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-02-09
+Citations: 
+URL: https://www.courtlistener.com/opinion/9474081/state-of-tennessee-v-william-flynn/
+Source Query: murder conviction appeal
+=========================================================
+
+02/09/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs December 5, 2023
+
+STATE OF TENNESSEE v. WILLIAM FLYNN
+
+Appeal from the Criminal Court for Shelby County
+No. 18-05196 Jennifer J. Mitchell, Judge
+___________________________________
+
+No. W2023-00184-CCA-R3-CD
+___________________________________
+
+A Shelby County jury convicted the Defendant, William Flynn, of first degree
+premeditated murder, first degree felony murder, and aggravated assault in concert. For
+these convictions, the trial court imposed an effective life sentence. On appeal, the
+Defendant challenges the sufficiency of the evidence and the jury instructions. After
+review, we affirm the judgments.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgments of the Criminal Court Affirmed
+
+ROBERT W. WEDEMEYER, J., delivered the opinion of the court, in which JAMES CURWOOD
+WITT, JR., and MATTHEW J. WILSON, JJ., joined.
+
+Harry E. Sayle, III, Assistant District Public Defender (on appeal); Lauren Pasley (at trial),
+Memphis, Tennessee, for the appellant, William Flynn.
+
+Jonathan Skrmetti, Attorney General and Reporter; Abigail H. Rinard, Assistant Attorney
+General; Steven J. Mulroy, District Attorney General; and Michael R. McCusker and Luis
+Montesi, III, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+I. Facts
+
+This case arises from the Defendant’s shooting the victim, Donnell Love (“victim”)
+and then stealing a bag from the victim’s room. For his role in these offenses, a Shelby
+County grand jury indicted the Defendant and two co-defendants, Christopher Mabry and
+Kevion Burks, for first degree premeditated murder of Donnell Love, first degree felony
+murder of Donnell Love, and aggravated assault in concert of Tiffany Loving. The
+Defendant’s case proceeded to trial, during which the parties presented the following
+evidence.
+
+Tiffany Loving had been dating the victim for about a year but had known him for
+over ten years at the time of his death. In February 2017, Ms. Loving and the victim shared
+a room (“Room 121”) at the Governor’s Inn, in Shelby County, Tennessee. The couple
+had resided there for approximately six months, and Ms. Loving had recently rented an
+additional room on the same hallway as Room 121.
+
+Ms. Loving recounted the events of February 12, 2017, leading up to the victim’s
+death. The week before his death, three men had robbed the victim in Room 121. The
+men had shot the victim in the buttocks with a shotgun and then fled from the hotel room.
+Ms. Loving urged the victim to seek treatment at the hospital, but he refused. Instead, Ms.
+Loving treated the victim’s wound. On February 11, 2017, the day before the shooting in
+this case, the victim passed out, and Ms. Loving took him to the hospital where medical
+personnel gave him antibiotics. Ms. Loving confirmed that both the Defendant, whom she
+knew as “Jap,” and his girlfriend who also resided at the Governor’s Inn, Carmen Confer,
+knew of this prior robbery and shooting.
+
+The following day, February 12, 2017, Ms. Loving was at the hotel with the victim
+and then left with a friend to get food. While she was away, the Defendant called her. The
+Defendant claimed that he had paid $10 for drugs but then never received “the product.”
+The Defendant stated that there was a white man in Room 121 who took the Defendant’s
+ten dollars. Ms. Loving told the Defendant she was not at the hotel but would return and
+speak with the victim about it.
+
+When Ms. Loving arrived at the hotel, she saw the Defendant and two other men
+standing in the “common stairwell” located directly across from Room 121. Ms. Loving
+recognized one of the two men with the Defendant as Christopher Mabry. Ms. Loving
+stated that when she saw the Defendant she thought, “Hurry up and get in the room and
+shut the door,” explaining that her reaction was based in part upon the previous robbery.
+
+Ms. Loving entered Room 121 quickly, closing the door behind her, and found the
+victim in the room, lying on the bed. She placed her phone call with the Defendant on
+speaker phone and asked the victim about the Defendant’s claim that the victim was
+“supposed to be serving . . . the white guy took the money, but [the victim] didn’t give
+them the product.” The victim seemed confused but took the phone call with the Defendant
+and stated, “I ain’t got time dealing with this sh*t, I’m fixin’ to give you the money, how
+much do you say I owe you[?]” The victim gave Ms. Loving money to give to the
+Defendant to resolve the complaint. Ms. Loving opened the door to the room to give the
+Defendant the money, and the Defendant pushed the door open and Ms. Loving to the side
+while holding a gun to her head. The victim was standing behind Ms. Loving, and the
+Defendant fired his gun at the victim multiple times. The victim fell to his knees and then
+sat up against the wall.
+-2-
+
+The Defendant immediately began demanding money, and Ms. Loving, terrified,
+began screaming, “[C]an I help him[?] [Y]’all can take whatever you want I don’t care[,]
+I just want to help him.” Another man, wearing a mask and black hoodie, stood at the end
+of the bed while Ms. Loving continued to plead with the Defendant to allow her to help the
+victim. The Defendant demanded that she “give it to them” or he would shoot her too. Ms.
+Loving grabbed a black bag that was lying beside the bed and handed it to the man standing
+at the end of the bed. Upon receipt of the bag, the Defendant and the masked man left, and
+Ms. Loving began administering CPR on the victim.
+
+That night, Ms. Loving went with police officers to the precinct where she identified
+the Defendant in a photographic lineup. In another photographic lineup, Ms. Loving
+identified Christopher Mabry, who she had seen standing in the stairwell before the
+shooting. Mr. Mabry did not enter the room during or after the shooting, but she confirmed
+that he was with the Defendant before the shooting.
+
+Ms. Loving recalled that when she had arrived at Room 121 just before the shooting,
+a “homeless guy” and “a black guy” were in the room with the victim. The homeless man,
+who was Caucasian, fled when the shooting began. She had seen these two men before,
+but she did not know their names.
+
+Ms. Loving identified the Defendant in a photograph in which he was wearing black
+pants, white gym shoes, a white t-shirt, and a light gray hoodie. This clothing was
+consistent with what he wore when he shot the victim. The photograph was taken from
+surveillance footage police obtained from Jack Pirtle’s (“Jack Pirtle’s”), a business near
+the hotel on the night of the shooting.
+
+During cross-examination, Ms. Loving stated that the Defendant paid for both hotel
+rooms, Room 121 and the additional room she had alone. Ms. Loving said that she sold
+drugs for income and used drugs recreationally; however, she did not buy drugs from the
+victim. Ms. Loving used crack cocaine, heroin, and marijuana. She confirmed that she
+had used drugs on February 12, 2017, and that she had likely used heroin and crack on that
+day. She reiterated that she did not know the two men who were in Room 121 when she
+came back from getting food, but she assumed that the Defendant was selling the men
+drugs.
+
+Memphis Police Department (“MPD”) Officer George King testified that while
+assigned to the Mt. Moriah precinct, he frequently responded to the Governor’s Inn. He
+described it as a “high crime” establishment. At a little after 10:00 p.m. on February 12,
+2017, Officer King responded to the Governor’s Inn for a report of a shooting. He
+estimated that he arrived at approximately 10:15 p.m. and found the victim lying on the
+-3-
+
+floor “at the front of the room.” Officer King escorted Ms. Loving out of the room and
+“secured” her in his squad car. He described Ms. Loving as “upset,” “excited,” and “talking
+a lot.” She immediately identified “Jap” as the shooter. Police searched the third floor of
+the hotel and were unable to locate the Defendant.
+
+On cross-examination, Officer King testified that, based on Ms. Loving’s demeanor,
+he did not believe she was under the influence. He believed she was upset by the
+circumstances.
+
+MPD Sergeant Daniel Arrington obtained surveillance video footage from Jack
+Pirtle’s located near the Governor’s Inn. The footage was recorded at 11:06 p.m. on
+February 12, 2017, shortly after the shooting. The video showed the Defendant and one of
+his co-defendants, Kevion Banks, talking on the phone and carrying a bag while walking
+through the parking lot.
+
+MPD Lieutenant Shayne Tarena received the request to respond to Governor’s Inn
+at 11:11 p.m., and he arrived at 11:34 p.m. to process the crime scene. Lieutenant Tarena
+identified in court a computer-generated sketch of the crime scene that he had created.
+Inside Room 121, Lieutenant Tarena observed a green, leafy substance that appeared to be
+marijuana on the bed. He saw a circular defect on the bathroom door that appeared to be
+an entry and exit hole caused by a projectile. Lieutenant Tarena described Room 121 as
+“[v]ery cluttered, very unkept, . . . it was nasty.” Lieutenant Tarena found a gun in the
+room, saying:
+
+The gun was tucked in between the headboard by the mattress of the
+headboard and the nightstand and it was in a [sic] orange zip-bag and then
+the gun was in a green bag inside of that. And then, inside of the green bag
+that it was in, it was inside of, like, a Kroger bag tee-shirt bag, you know
+plastic tee-shirt bag and the gun was inside of it.
+
+The State offered and the trial court entered photographs of the Cobra semi-automatic gun
+and the multiple layers of bags. Lieutenant Tarena confirmed that there were no bullets in
+the gun.
+
+Lieutenant Tarena said that there was a significant amount of coins and cash found
+in the room. Police recovered $2096.00 in paper money and $826.70 in coins. The paper
+money was in a blue sack, and the coins were in various plastic containers and Ziploc bags.
+Police identified four areas of possible blood inside Room 121 and just outside Room 121.
+
+Lieutenant Tarena was also directed to room 353, Carmen Confer’s room. In room
+353, he found a cell phone and a baggie containing white powder.
+-4-
+
+On cross-examination, Lieutenant Tarena testified that he also collected a Samsung
+cell phone found between the victim’s legs. After reviewing his report, Lieutenant Tarena
+clarified that he collected three cell phones, not one, from room 353.
+
+MPD Lieutenant Kevin Baker, the case officer assigned to this case, arrived at the
+scene at 10:50 p.m. on the night of the shooting. He learned that a witness to the shooting,
+Ms. Loving, was detained in the backseat of a squad car. The police had also detained
+another individual who had knowledge about the shooter.
+
+Lieutenant Baker first spoke with Ms. Loving. She relayed the events of the
+shooting to Lieutenant Baker consistent with her trial testimony. She told him that the
+Defendant and an unknown Black man rushed in the room as she opened the hotel room
+door, shot the victim, and then demanded money and drugs. Ms. Loving grabbed a bag
+and gave it to them, and they fled.
+
+The other individual detained at the scene was Carmen Confer. Ms. Confer resided
+in room 353 of the hotel, and the Defendant was her boyfriend. Police obtained and
+executed a search warrant for room 353. Police did not find the Defendant in the room or
+on the hotel premises that night.
+
+Police transported Ms. Confer and Ms. Loving to the police station and interviewed
+them both. Lieutenant Baker identified the photographic line-ups shown to Ms. Loving.
+She identified the Defendant from one of the lineups.
+
+During the interview with Ms. Loving, she indicated that the victim was “a hustler”
+and sold “dope” out of Room 121. Upon learning this information, Lieutenant Baker’s
+superior officer called Lieutenant Baker, who was still at the crime scene, and asked him
+to look for drugs or money in Room 121. Upon further investigation, officers found the
+money earlier testified to and the Cobra pistol. Lieutenant Baker described the location
+and storage of the pistol consistent with Lieutenant Tarena’s testimony.
+
+Lieutenant Baker testified that, due to Jack Pirtle’s proximity to the hotel, he sent
+an officer to Jack Pirtle’s to see if the establishment had surveillance cameras. The officer
+obtained surveillance footage that showed the Defendant and Kevion Burks at 11:06 p.m.,
+shortly after the shooting. Police developed three suspects for the shooting: the Defendant,
+Christopher Mabry, and Kevion Burks. In March 2017, police showed Ms. Loving two
+more photographic lineups. She identified Christopher Mabry in one of the lineups, but
+she was unable to identify Kevion Burks in the other photographic lineup.
+
+-5-
+
+The MPD fugitive team looked for the Defendant for two weeks before Lieutenant
+Baker drafted an arrest warrant. The Defendant was not located for quite some time
+following the shooting. A criminal investigator for the Shelby County District Attorney
+General’s office, David Sloan, located the Defendant in December 2019, in Austin, Texas.
+Law enforcement extradited the Defendant to Memphis on February 24, 2020. Mr. Sloan
+also sought to locate the Defendant’s girlfriend, Carmen Confer but was unable to do so.
+
+Marco Ross, the Chief Medical Examiner for the West Tennessee Regional Forensic
+Center, testified as an expert witness in the field of forensic pathology. Dr. Paul Benson
+performed an autopsy on the victim’s body in February 2017, but he had since moved to
+Alabama. Dr. Ross had thoroughly reviewed Dr. Benson’s findings and agreed with Dr.
+Benson’s conclusions that the cause of death was gunshot wounds, and the manner of death
+was homicide.
+
+The autopsy revealed both fresh gunshot wounds and healing gunshot wounds. Dr.
+Ross testified that there was a healing gunshot wound to the victim’s buttocks. The wound
+still contained some type of “pellets.” The fresh gunshot wounds were to the victim’s left
+jaw, the right side of the victim’s chest, the left upper back, the victim’s back left shoulder,
+the left side of the victim’s chest, and the victim’s right hand. On the victim’s left hand
+there was an injury described as a “gunshot graze wound.”
+
+Based upon this evidence, the jury convicted the Defendant of first degree
+premeditated murder and felony murder of Donnell Love, and aggravated assault in concert
+of Tiffany Loving. The trial court merged the murder convictions and imposed an effective
+life sentence. It is from these judgments that the Defendant appeals.
+
+II. Analysis
+
+On appeal, the Defendant attacks the sufficiency of the evidence supporting his
+convictions and the jury instructions.
+
+A. Sufficiency of the Evidence
+
+The Defendant asserts that the evidence is insufficient to support his convictions.
+He argues that Ms. Loving’s testimony was “unreliable” and uncorroborated. He also
+argues that the State failed to prove felony murder beyond a reasonable doubt because the
+Defendant’s demands for money occurred after the victim was killed. The State responds
+that there was sufficient evidence to support each of the Defendant’s convictions. We
+agree with the State.
+
+-6-
+
+When an accused challenges the sufficiency of the evidence, this Court’s standard
+of review is whether, after considering the evidence in the light most favorable to the State,
+“any rational trier of fact could have found the essential elements of the crime beyond a
+reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979); see Tenn. R. App. P.
+13(e); State v. Goodwin, 143 S.W.3d 771, 775 (Tenn. 2004) (citing State v. Reid, 91 S.W.3d
+247, 276 (Tenn. 2002)). This standard applies to findings of guilt based upon direct
+evidence, circumstantial evidence, or a combination of both direct and circumstantial
+evidence. State v. Pendergrass, 13 S.W.3d 389, 392-93 (Tenn. Crim. App. 1999) (citing
+State v. Dykes, 803 S.W.2d 250, 253 (Tenn. Crim. App. 1990)). In the absence of direct
+evidence, a criminal offense may be established exclusively by circumstantial evidence.
+Duchac v. State, 505 S.W.2d 237, 241 (Tenn. 1973). “The jury decides the weight to be
+given to circumstantial evidence, and ‘[t]he inferences to be drawn from such evidence,
+and the extent to which the circumstances are consistent with guilt and inconsistent with
+innocence, are questions primarily for the jury.’” State v. Rice, 184 S.W.3d 646, 662 (Tenn.
+2006) (quoting Marable v. State, 313 S.W.2d 451, 457 (Tenn. 1958)). “The standard of
+review [for sufficiency of the evidence] ‘is the same whether the conviction is based upon
+direct or circumstantial evidence.’” State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011)
+(quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)).
+
+In determining the sufficiency of the evidence, this Court should not re-weigh or
+reevaluate the evidence. State v. Matthews, 805 S.W.2d 776, 779 (Tenn. Crim. App. 1990).
+Nor may this Court substitute its inferences for those drawn by the trier of fact from the
+evidence. State v. Buggs, 995 S.W.2d 102, 105 (Tenn. 1999) (citing Liakas v. State, 286
+S.W.2d 856, 859 (Tenn. 1956)). “Questions concerning the credibility of witnesses, the
+weight and value to be given the evidence, as well as all factual issues raised by the
+evidence are resolved by the trier of fact.” State v. Bland, 958 S.W.2d 651, 659 (Tenn.
+1997). “A guilty verdict by the jury, approved by the trial judge, accredits the testimony
+of the witnesses for the State and resolves all conflicts in favor of the theory of the State.”
+State v. Grace, 493 S.W.2d 474, 476 (Tenn. 1973). The Tennessee Supreme Court stated
+the rationale for this rule:
+
+This well-settled rule rests on a sound foundation. The trial judge and the
+jury see the witnesses face to face, hear their testimony and observe their
+demeanor on the stand. Thus the trial judge and jury are the primary
+instrumentality of justice to determine the weight and credibility to be given
+to the testimony of witnesses. In the trial forum alone is there human
+atmosphere and the totality of the evidence cannot be reproduced with a
+written record in this Court.
+
+Bolin v. State, 405 S.W.2d 768, 771 (Tenn. 1966) (citing Carroll v. State, 370 S.W.2d 523,
+527 (Tenn. 1963)). This Court must afford the State of Tennessee the “‘strongest legitimate
+-7-
+
+view of the evidence’” contained in the record, as well as “‘all reasonable and legitimate
+inferences’” that may be drawn from the evidence. Goodwin, 143 S.W.3d at 775 (quoting
+State v. Smith, 24 S.W.3d 274, 279 (Tenn. 2000)). Because a verdict of guilt against a
+defendant removes the presumption of innocence and raises a presumption of guilt, the
+convicted criminal defendant bears the burden of showing that the evidence was legally
+insufficient to sustain a guilty verdict. State v. Carruthers, 35 S.W.3d 516, 557-58 (Tenn.
+2000) (citations omitted).
+
+First degree murder is the premeditated and intentional killing of another person.
+T.C.A. § 39-13-202(a)(1) (2018). A premeditated killing is one “done after the exercise of
+reflection and judgment.” Id. at § 39-13-202(d) (2018). The element of premeditation is
+a question of fact for the jury. State v. Davidson, 121 S.W.3d 600, 614 (Tenn. 2003).
+Although the jury may not engage in speculation, it may infer premeditation from the
+manner and circumstances surrounding the killing. Bland, 958 S.W.2d at 660.
+
+Felony murder is defined as “[a] killing of another committed in the perpetration of
+or attempt to perpetrate any first degree murder, arson, rape, robbery, burglary, theft,
+kidnapping, aggravated child abuse or aircraft piracy.” Id. § 39-13-202(a)(2) (2018). A
+theft of property occurs when someone, with the intent to deprive the owner of property,
+knowingly obtains or exercises control over the property without the owner’s effective
+consent. T.C.A. § 39-14-103(a) (2018).
+
+A person commits aggravated assault by intentionally, knowingly, or recklessly
+committing an assault that results in serious bodily injury to another or by intentionally or
+knowingly committing an assault through the use or display of a deadly weapon. T.C.A. §
+39-13-102(a)(1)(A)(i), (iii) (2018). Aggravated assault, as charged herein, is a Class C
+felony. Id. at § 39-13-102(e)(i)(A). Tennessee Code Annotated section 39-12-302
+provides that “[a] crime of force or violence committed while acting in concert with two
+or more other persons shall be classified one classification higher than if it was committed
+alone.”
+
+The question of whether one defendant is acting in concert with another is a question
+of fact for the jury. Rice v. State, 475 S.W.2d 178, 179 (Tenn. Crim. App. 1971). This
+court has likened “acting in concert” with criminal responsibility in the context of a case
+involving the commission of a robbery. State v. Spencer, Baxter, Jr., and Dean, No.
+M2016-01219-CCA-R3-CD, 2017 WL 2800147, at *6 (Tenn. Crim. App. June 28, 2017)
+(citing T.C.A. § 39-11-402(2)) (a defendant “acts in concert with another if the defendant
+acts ‘with intent to promote or assist the commission of the offense, or to benefit in the
+proceeds or results of the offense, the person solicits, directs, aids, or attempts to aid
+another person to commit the offense.’”), perm. app. denied (Tenn. Nov. 16, 2017).
+
+-8-
+
+The evidence, viewed in the light most favorable to the State, showed that the
+Defendant knew the victim, who dealt drugs out of Room 121, had recently been robbed.
+The Defendant called Ms. Loving demanding the return of money he had allegedly given
+for drugs to a “white man” in Room 121. Ms. Loving told the Defendant she would return
+to the room and speak with the victim about the Defendant’s money. Ms. Loving returned
+to the room and saw the Defendant and two other men standing across from the victim’s
+doorway. Their presence caused her concern. She quickly entered Room 121, closing the
+door behind her.
+
+Once inside, Ms. Loving gave her phone, which was still connected by phone call
+to the Defendant, to the victim so the victim could speak with the Defendant. The victim
+agreed to return the Defendant’s money to resolve the issue, and he gave Ms. Loving
+money to give to the Defendant. As Ms. Loving opened the hotel room door to give the
+Defendant the money, the Defendant pushed his way in brandishing a gun and fired at the
+victim multiple times, killing him. The Defendant then refused to allow Ms. Loving to
+render aid to the victim and demanded that she give him money. A masked man stood at
+the foot of the bed where Ms. Loving was standing and pleading with the Defendant to
+allow her to help the victim. She grabbed a black bag, gave it to the masked man, and the
+two men fled.
+
+This is sufficient evidence upon which a jury could find that the Defendant, with
+premeditation, set up circumstances to provide entry to a room where he knew there to be
+drugs and money and then, armed with a weapon, forced entry into the victim’s room and
+fired at the victim’s chest multiple times, killing him. This evidence supports a first degree
+premeditated murder and a felony murder conviction. Immediately after shooting the
+victim, the Defendant demanded money from Ms. Loving and threatened to kill her too.
+During these events, the Defendant was with two other men, waiting outside the hotel room
+when Ms. Loving arrived. One of the two men, who was masked, entered the room with
+the Defendant and took the victim’s black bag before fleeing. This evidence supports the
+jury’s finding that the Defendant acted in concert with Kevion Burks and Christopher
+Mabry in the commission of an aggravated assault.
+
+The Defendant specifically argues that the evidence is insufficient because the
+Defendant was dead before the theft occurred. The Tennessee Supreme Court, however,
+has concluded that the killing may precede the theft, “so long as there is a connection in
+time, place, and continuity of action.” Buggs, 995 S.W.2d at 107. This is because “‘[t]he
+killing must have had an intimate relation and close connection with the felony . . . and not
+be separate, distinct, and independent from it.’” State v. Thacker, 164 S.W.3d 208, 223
+(Tenn. 2005) (quoting WHARTON ON HOMICIDE, § 126 (3d ed.) (omission in original)).
+Proof that such intent to commit the underlying felony existed before, or concurrent with,
+the act of killing is a question of fact to be decided by the jury after consideration of all the
+-9-
+
+facts and circumstances. Hall v. State, 490 S.W.2d 495, 496 (Tenn. 1973); State v. Holland,
+860 S.W.2d 53, 59 (Tenn. Crim. App. 1993). In this case, there was sufficient evidence to
+conclude that the intent to commit the theft was formed before the shooting based upon the
+circumstances surrounding the offense. The Defendant waited outside the room, forced
+entry, fired on the victim, and then immediately demanded money while threatening to
+shoot Ms. Loving too. The Defendant’s actions constitute a continuity of action.
+
+As to the Defendant’s challenge to Ms. Loving’s credibility and the weight of her
+testimony, “[t]his Court does not reweigh or reevaluate the evidence.” Bland, 958 S.W.2d
+at 659. Credibility is determined by the jury and the jury was entitled to credit her
+testimony. Id.
+
+Accordingly, we conclude that there was sufficient evidence from which a rational
+jury could have concluded that the Defendant intentionally and with premeditation shot
+and killed the victim in the process of stealing money and that he acted in concert when
+committing the aggravated assault of Ms. Loving. The Defendant is not entitled to relief
+as to this issue.
+
+B. Jury Instruction
+
+In his brief, the Defendant lists as an issue for review, “Whether the trial court erred
+in instructing the jury on flight?” In the argument section of the brief, however, the
+Defendant does not address this issue at all. “Issues which are not supported by argument,
+citation to authorities, or appropriate references to the record will be treated as waived in
+this court.” Tenn. Ct. Crim. App. R. 10(b); see Tenn. R. App. P. 27(a)(7). As a result, we
+conclude that the Defendant’s challenge to the trial court’s jury instruction is waived.
+
+III. Conclusion
+
+Based upon the foregoing, we affirm the trial court’s judgments.
+
+____________________________________
+ROBERT W. WEDEMEYER, JUDGE
+
+- 10 -

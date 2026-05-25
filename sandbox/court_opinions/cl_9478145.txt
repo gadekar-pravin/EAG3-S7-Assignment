@@ -1,0 +1,408 @@
+=========================================================
+Case: State of Tennessee v. Chris M. Jones
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-02-23
+Citations: 
+URL: https://www.courtlistener.com/opinion/9478145/state-of-tennessee-v-chris-m-jones/
+Source Query: murder conviction appeal
+=========================================================
+
+02/23/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs January 3, 2024
+
+STATE OF TENNESSEE v. CHRIS M. JONES
+
+Appeal from the Criminal Court for Shelby County
+No. 08-05720 Chris Craft, Judge
+___________________________________
+
+No. W2023-00591-CCA-R3-CD
+___________________________________
+
+The petitioner, Chris M. Jones, appeals from the summary dismissal of his petition filed
+pursuant to the Post-Conviction DNA Analysis Act of 2001, wherein he sought DNA
+testing of evidence related to his convictions for second-degree murder and attempted
+second-degree murder. After reviewing the record, the parties’ briefs, and the applicable
+law, we affirm the judgment of the post-conviction court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+J. ROSS DYER, J., delivered the opinion of the court, in which MATTHEW J. WILSON, J.
+joined. JOHN W. CAMPBELL, SR., J., not participating.
+
+Chris M. Jones, Wartburg, Tennessee, Pro Se.
+
+Jonathan Skrmetti, Attorney General and Reporter; Katherine C. Redding, Senior Assistant
+Attorney General; Steven J. Mulroy, District Attorney General; and Leslie Byrd, Assistant
+District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+Procedural and Factual History
+
+The petitioner was convicted of second-degree murder, attempted second-degree
+murder, attempted voluntary manslaughter, using a firearm during the commission of a
+dangerous felony, and possession of a firearm where alcoholic beverages are served for
+which he received an effective sentence of twenty-three years in the Tennessee Department
+of Correction. See State v. Jones, No. W2009-01698-CCA-R3-CD, 2011 WL 856375, at
+*1 (Tenn. Crim. App. Mar. 9, 2011), perm. app. denied (Tenn. Aug. 25, 2011). This Court
+
+affirmed the petitioner’s convictions and sentence on direct appeal, and the Tennessee
+Supreme Court denied his application for permission to appeal. Id. The facts giving rise
+to the petitioner’s convictions were summarized by this Court on direct appeal as follows:
+
+This case arises from a parking dispute which ultimately resulted in
+the death of Donald Munsey at the Windjammer karaoke bar in the early
+morning hours of March 14, 2008.
+
+....
+
+Justin Smith testified that he was sitting in his truck when the
+[petitioner’s] truck “[j]ust came flying in around the corner . . . [and] almost
+hit [his] truck in parking.” Mr. Smith further testified that he felt he would
+not be able to get his truck out of the parking spot because of the way the
+[petitioner] had parked his truck. However, Mr. Smith waited until the
+[petitioner] had gone inside the bar to speak to him about his truck. Once
+inside, the [petitioner] sat down with Ms. Lampley and Mary at a table near
+the front door and ordered a beer. Mr. Smith then approached the [petitioner]
+to discuss how the two trucks were parked. The testimony at trial presented
+several conflicting versions of exactly what was said during this
+conversation.
+
+Kimberly Guest, the waitress working at Windjammer that night,
+testified that Mr. Smith asked the [petitioner] if it was his truck outside and
+“if he could possibly move it because . . . the trucks were close and [he] didn’t
+want to hit his truck.” Ms. Guest testified that “there was no indication that
+there was any kind of problem,” there was no physical contact between the
+two men, and she did not hear any “threatening language.” Stephanie
+Ravinuthala, a patron at the bar that night, testified that Mr. Smith asked the
+[petitioner] if he drove a gray truck and told the [petitioner] that he was
+“parked like three inches from [Mr. Smith’s] bumper and [Mr. Smith could
+not] get out.” Ms. Ravinuthala also testified that Mr. Smith did not appear
+to be belligerent and that she did not recall Mr. Smith cursing at the
+[petitioner].
+
+Mr. Smith testified that when he asked the [petitioner] to move his
+truck, the [petitioner] responded by saying “f**k you . . . I’m not moving it.”
+On cross-examination, Mr. Smith repeatedly denied threatening or being
+aggressive with the [petitioner] but admitted that after the [petitioner] told
+him “f**k you,” he was “rude” toward the [petitioner]. However, Ms.
+Lampley testified that Mr. Smith approached the [petitioner] intoxicated,
+-2-
+
+“very loud, very arrogant” before asking the [petitioner] “if that was his
+f***ing truck outside.” Ms. Lampley testified that the [petitioner] was very
+calm during this exchange and told Mr. Smith he would move his truck when
+Mr. Smith was ready to leave.
+
+At some point after their conversation, both Mr. Smith and the
+[petitioner] went outside. Gary Miller was working at the front door,
+checking IDs, that night and testified that he overheard the two men
+“discussing the way the [trucks] were parked.” Mr. Miller also testified that
+at some point two or three other men joined the conversation. According to
+Mr. Miller, the [petitioner] asked the men “did they not realize that he was a
+police officer by the tag that was on the truck.” Mr. Miller further testified
+that there was no physical contact between the [petitioner] and any of the
+three or four people with him. Mr. Smith testified that he went outside with
+the [petitioner] because the [petitioner] “wanted to show me his license
+plate.” The [petitioner] told Mr. Smith that “he was a cop and he had the tag
+on his truck.” Mr. Smith testified that after their conversation outside, he did
+not speak to the [petitioner] again that evening.
+
+Mr. Smith’s friend, William Bobbitt, testified that he was near the
+front door when Mr. Smith and the [petitioner] went to look at the trucks. On
+their way back to the front door, Mr. Bobbitt overheard the [petitioner] say
+that he was not going to move his truck and that Mr. Smith should look at his
+license plate. Someone asked the [petitioner] what he meant by this, and he
+replied that he was a police officer. Mr. Bobbitt testified that the [petitioner]
+spoke with an aggressive tone but that there was no physical contact between
+the [petitioner] and anyone outside. Mr. Bobbitt further testified that
+everyone went back inside after Mr. Munsey stepped outside and told them
+to come in.
+
+Ms. Lampley testified that before the [petitioner] and Mr. Smith went
+outside, Mr. Smith made a phone call and a short time later “[a]bout [ten]
+guys around the age of 21 to 25 showed up” and were looking at the
+[petitioner]. Ms. Lampley testified that the [petitioner] looked scared when
+he came back inside. Ms. Lampley testified that she felt threatened because
+this group of men continued to stare at the [petitioner] and her. However, on
+cross[-]examination Ms. Lampley admitted that she was “making some jump
+here . . . that Mr. Smith called people and that as a result of those calls, people
+arrived.”
+
+....
+-3-
+
+After the [petitioner] reentered the bar, David Eagan approached him
+to discuss the parking situation . . . . Mr. Eagan testified that he “asked [the
+petitioner] to move his truck and . . . just to calm down and everything was
+going to be okay . . . .”
+
+Several witnesses saw the confrontation between the [petitioner] and
+Mr. Eagan inside the bar. Ms. Ravinuthala testified that she saw Mr. Eagan
+“lean[ ] down into [the petitioner’s] face” when he spoke to him and that the
+petitioner responded by standing up and getting in Mr. Eagan’s face. Joe
+Reynolds was working at the bar that night and testified that he saw the
+[petitioner] and Mr. Eagan “talking about the parking place or something.”
+Mr. Reynolds testified that the [petitioner] had an ink pen in his hand and
+was “gripping [it] so tight that his knuckles were white.” Mr. Reynolds
+decided to get Mr. Eagan to move away from the [petitioner] . . . .
+
+....
+
+Mr. Reynolds approached the [petitioner] and had a second
+conversation with him as the [petitioner] stared at Mr. Eagan and Mr. Smith.
+Mr. Reynolds asked the [petitioner] if he was okay, and the [petitioner]
+pointed at Mr. Eagan and said, “I’m going to kill that motherf***er right
+there.” Then the [petitioner] pointed at Mr. Smith and said, “I’m fixing to
+kill his punk ass buddy and if any of his buddies over there even approach
+me, I’m going to kill all of them motherf***ers.” Mr. Reynolds told the
+[petitioner] to calm down, and the [petitioner] responded by saying, “I’ve
+lost my wife and I’ve lost my family and I’ve lost my home and I got nothing
+else to lose.” Ms. Flynn and Ms. Ravinuthala both overheard the [petitioner]
+threaten to kill Mr. Smith and Mr. Eagan. Mr. Flynn overheard the
+[petitioner] say he had nothing left to lose. Ms. Flynn testified that the
+[petitioner] was clenching and unclenching his fists as he spoke with Mr.
+Reynolds. Mr. Flynn also testified that the [petitioner] seemed very upset as
+he spoke with Mr. Reynolds. Mr. Reynolds again told the [petitioner] to calm
+down but was called away to the office to answer a telephone call.
+
+....
+
+After Mr. Reynolds left the [petitioner], Mr. Eagan paid his bar tab
+and began to walk toward the door. The [petitioner] pulled out a gun, ran
+toward Mr. Eagan, grabbed Mr. Eagan by his shirt collar, and put a gun to
+
+-4-
+
+his head. Mr. Eagan testified that the [petitioner] said, “I’m going to kill you.
+I have nothing to lose.”
+
+The testimony at trial presented conflicting accounts of what
+happened next. Mr. Flynn testified that the bar was crowded that night and
+there were lots of people standing near the [petitioner] and Mr. Eagan. Ms.
+Guest testified that she was near the [petitioner] and overheard him say,
+“who’s the tough guy now, motherf***er . . . the tough guy’s got the gun.”
+Ms. Guest further testified that she asked the [petitioner] “please don’t do
+this” when Mr. Munsey grabbed the [petitioner] from behind. According to
+Ms. Guest, Mr. Eagan then fainted, knocking down the [petitioner], Mr.
+Munsey, and Ms. Guest as he fell to the floor. Ms. Guest then heard two or
+three gunshots and saw that Mr. Munsey had been shot in the neck.
+
+Mr. Bobbitt testified that he and Mr. Munsey were in the kitchen when
+they saw the [petitioner] grab Mr. Eagan. Mr. Bobbitt also testified that he
+did not see a gun from where they were standing. Mr. Bobbitt and Mr.
+Munsey then charged toward the [petitioner] and tackled him. All four men
+fell to the ground; however, Mr. Bobbitt testified that while the men were on
+the ground, no one hit the [petitioner]. Mr. Bobbitt also testified that Ms.
+Guest was not involved at all. Mr. Bobbitt then heard two gunshots and ran
+out of the building. Mr. Smith similarly testified that Mr. Bobbitt and Mr.
+Munsey tackled the [petitioner]. After hearing the first gunshot, Mr. Smith
+ran out the front door, and out of the corner of his eye, he saw the [petitioner]
+aiming the gun at him. Mr. Smith was then shot in the buttock. Mr. Eagan
+testified that he did not remember anything after he fell to the ground.
+
+Mr. Flynn and Ms. Ravinuthala both testified that they saw Mr.
+Munsey tackle the [petitioner] and that both men and Mr. Eagan fell to the
+floor. Ms. Ravinuthala testified that she saw the [petitioner] and Mr. Munsey
+“wrestle” on the ground for a minute. The [petitioner] then pulled himself
+up, aimed his gun at Mr. Munsey’s head, and fired it. Next, the [petitioner]
+turned and aimed his gun at Mr. Smith before firing a second time. Mr.
+Miller had left the bar earlier to run an errand, and when he returned, he
+discovered Mr. Munsey’s body lying on the floor with Ms. Guest kneeling
+next to him. Mr. Miller saw the [petitioner] seated by the front door. He told
+the [petitioner] to remove the magazine from his gun and to lay them on a
+table, and the [petitioner] complied.
+
+Id. at *1-5.
+
+-5-
+
+In May 2013, the petitioner filed an untimely petition for post-conviction relief.
+After a hearing, the post-conviction court dismissed the petition, finding that the petitioner
+feigned mental illness and that the petition was, therefore, untimely. Jones v. State, No.
+W2017-00405-CCA-R3-PC, 2018 WL 3157013, at *7 (Tenn. Crim. App. June 27, 2018),
+no perm app. filed. On appeal, this Court affirmed the ruling of the post-conviction court.
+Id. at *1.
+
+In February 2017, the petitioner filed a petition for writ of error coram nobis based
+on “actual innocence” and “newly discovered evidence.” Jones v. State, No. W2017-
+00706-CCA-R3-ECN, 2018 WL 2264088 (Tenn. Crim. App. May 17, 2018), no perm. app.
+filed. The trial court dismissed the petition, finding that it had been filed outside the statute
+of limitations and that the petitioner failed to present new evidence. On appeal, this Court
+affirmed the ruling of the trial court. Id. at *6.
+
+In March 2023, the petitioner filed the instant petition requesting DNA analysis of
+the shell casings collected at the crime scene under the Post-Conviction DNA Analysis
+Act. The petitioner claimed that the casings were not originally subjected to DNA analysis
+and that touch DNA analysis, which was not available at the time of his trial, would have
+prevented his prosecution and conviction as it would have established his actual innocence.
+On April 1, 2023, the post-conviction court entered a written order summarily dismissing
+the petition. In support of its ruling, the post-conviction court held,
+
+Even if those shell casings still existed more than 14 years after his
+conviction, and DNA were found on those casings that did not belong to the
+[petitioner], that would in no way prove the [petitioner]’s innocence. It
+would at most prove that someone else may have touched those casings,
+either when loading them into a gun clip he used or in collecting or storing
+them during the years that have passed from the shooting in 2008, 15 years
+after the killing of the victim. Again, this 2007 shooting was observed by
+many persons during the struggle that occurred prior to the shooting, and at
+trial several witnesses at the bar testified that they saw the shooting, and there
+was no testimony that any other gun was fired by anyone else on the scene
+when the victim fell, shot in the neck, by the [petitioner]. This court, pursuant
+to Tenn. Code Ann. §40-30-304 (1), finds that a reasonable probability does
+not exist that the petitioner would not have been prosecuted or convicted if
+other DNA would be found on these casings through DNA analysis, because
+several eye witnesses observed the shooting committed by [the petitioner]
+and any test results would not be exculpatory. This court also finds, pursuant
+to Tenn. Code Ann. § 40-30-305(1), that a reasonable probability does not
+exist that if DNA were found that does not belong to the [petitioner] on those
+shell casings, that those results would have rendered the petitioner’s verdict
+-6-
+
+or sentence more favorable if the results had been available at his trial. This
+motion should therefore be dismissed without the appointment of an attorney.
+
+This timely appeal followed.
+
+Analysis
+
+On appeal, the petitioner contends the post-conviction court erred in summarily
+dismissing his claim and in doing so without the appointment of counsel. The State insists
+the record supports the post-conviction court’s determination that the petitioner failed to
+make a prima facie case for DNA analysis, and, therefore, the court did not err in dismissing
+the instant petition without the appointment of counsel. Upon our review of the record and
+the applicable law, we agree with the State and affirm the ruling of the post-conviction
+court.
+
+The Post-Conviction DNA Analysis Act of 2001 (“the Act”) provides that a
+petitioner convicted of specific offenses, including first-degree murder,
+
+may at any time, file a petition requesting the forensic DNA analysis of any
+evidence that is in the possession or control of the prosecution, law
+enforcement, laboratory, or court, and that is related to the investigation or
+prosecution that resulted in the judgment of conviction and that may contain
+biological evidence.
+
+Tenn. Code Ann. § 40-30-303. “[T]here is no statutory time limit on requests for testing
+and ‘the right to DNA analysis under the Act may not be waived by implication.’” Powers
+v. State, 343 S.W.3d 36, 48 (Tenn. 2011) (quoting Griffin v. State, 182 S.W.3d 795, 799
+(Tenn. 2006)); see Tenn. Code Ann. § 40-30-303 (providing that a petitioner “may at any
+time” file a petition for DNA analysis) (emphasis added).
+
+A post-conviction court is given considerable discretion in determining whether to
+grant the petitioner relief under the Act. Haddox v. State, No. M2003-00514-CCA-R3-PC,
+2004 WL 2544668, at *2 (Tenn. Crim. App. Nov. 10, 2004) (citing Shuttle v. State, No.
+E2003-00131-CCA-R3-PC, 2004 WL 199826, at *4 (Tenn. Crim. App. Feb. 3, 2004)).
+Consequently, this Court will not reverse a post-conviction court’s judgment unless it is
+not supported by substantial evidence. Id. (first citing State v. Hollingsworth, 647 S.W.2d
+937, 938 (Tenn. 1983); and then citing Ensley v. State, No. M2002-01609-CCA-R3-PC,
+2003 WL 1868647, at *4 (Tenn. Crim. App. Apr. 11, 2003)).
+
+-7-
+
+Tennessee Code Annotated section 40-30-304 is mandatory, providing that once the
+State has been notified and given the opportunity to respond, the court shall order DNA
+analysis pursuant to the Act if it finds that:
+
+(1) A reasonable probability exists that the petitioner would not have
+been prosecuted or convicted if exculpatory results had been obtained
+through DNA analysis;
+(2) The evidence is still in existence and in such a condition that DNA
+analysis may be conducted;
+(3) The evidence was never previously subjected to DNA analysis or
+was not subjected to the analysis that is now requested which could resolve
+an issue not resolved by previous analysis; and
+(4) The application for analysis is made for the purpose of
+demonstrating innocence and not to unreasonably delay the execution of
+sentence or administration of justice.
+
+Tenn. Code Ann. § 40-30-304. The Act also has a discretionary section, which states that
+after the State has been notified and given the opportunity to respond, the post-conviction
+court may order DNA analysis if it finds that “[a] reasonable probability exists that analysis
+of the evidence will produce DNA results that would have rendered the petitioner’s verdict
+or sentence more favorable if the results had been available at the proceeding leading to
+the judgment of conviction,” and the petitioner has satisfied the other three requirements.
+Id. § 40-30-305. Under either the mandatory or discretionary sections, all four
+requirements must be met before DNA analysis will be ordered by the court. Powers, 343
+S.W.3d at 48.
+
+Here, the post-conviction court based its summary dismissal on both sections 40-
+30-304 and 40-30-305. Therefore, we must determine whether the criteria of this
+mandatory section were established by the petitioner. While all four criteria must be
+satisfied before DNA testing is required under section 40-30-304, the most important
+criterion in this case is the first, namely whether “[a] reasonable probability exists that the
+petitioner would not have been prosecuted or convicted if exculpatory results had been
+obtained through DNA analysis[.]” Tenn. Code Ann. § 40-30-304(1). A reasonable
+probability is “‘a probability sufficient to undermine confidence in the outcome.’” Powers,
+343 S.W.3d at 54 (quoting Grindstaff v. State, 297 S.W.3d 208, 216 (Tenn. 2009)).
+Consequently, before a mandatory order of testing is given, the petitioner must establish
+“‘a probability sufficient to undermine confidence’ in the decision to prosecute or in the
+conviction had the State or the jury known of exculpatory DNA testing results.” Id. at 55.
+
+When considering whether section 40-30-304(1) has been established, we must
+“begin with the proposition that DNA analysis will prove to be exculpatory.” Id. (footnote
+-8-
+
+omitted) (first citing Payne v. State, W2007-01096-CCA-R3-PD, 2007 WL 4258178, at
+*10 (Tenn. Crim. App. Dec. 5, 2007); and then citing Shuttle, 2004 WL 199826, at *5).
+“While courts must also consider the evidence that was presented against the petitioner at
+trial, the evidence must be viewed in light of the effect that exculpatory DNA evidence
+would have had on the fact-finder or the State.” Id. (citing Haddox, 2004 WL 2544668, at
+*5).
+
+This Court has recognized that the facts of the offense are “paramount” to this
+Court’s review of an issue under the Act. Greenleaf, Jr. v. State, No. M2009-01975-CCA-
+R3-CD, 2010 WL 2244099, at *3 (Tenn. Crim. App. Nov. 15, 2010). However, “the post-
+conviction court is not required by the Act to hold an evidentiary hearing in order to decide
+whether testing should be granted . . . .” Powers, 343 S.W.3d at 56. When considering the
+effect that exculpatory DNA evidence would have had on the fact-finder or the State, the
+post-conviction court must consider all available evidence, including the proof presented
+at trial and any stipulations of fact made by either party. Id. at 55-56; Shuttle, 2004 WL
+199826, at *4; Mitchell v. State, No. M2002-01500-CCA-R3-PC, 2003 WL 1868649, at *4
+(Tenn. Crim. App. Apr. 11, 2003). “The recitation of the facts contained in prior appellate
+opinions may be helpful in determining what facts and evidence were presented at trial.”
+Powers, 343 S.W.3d at 56. However, “[t]he ‘reasonable probability’ inquiry under section
+40-30-304(1) of the Act requires courts to look at the effect the exculpatory DNA evidence
+would have had on the evidence at the time of trial or at the time the decision to prosecute
+was made, not on the evidence as construed by an appellate court in the light most favorable
+to the State.” Id. at 57 (footnote omitted).
+
+Here, the identity of the petitioner as the shooter was not in question. Several
+eyewitnesses testified to hearing the petitioner threaten Mr. Eagan. They then witnessed
+the petitioner grab Mr. Eagan, point his gun at Mr. Eagan, again threaten to kill Mr. Eagan,
+and then shoot Mr. Eagan. The witnesses then saw the petitioner point his gun at Mr.
+Smith, who was fleeing the bar, and shoot him. Based on the proof, even if the petitioner’s
+requested DNA testing produced the DNA of someone other than the petitioner, this
+evidence would not be exculpatory because it simply shows that someone else touched the
+shell casings at some time. As noted by the trial court, any DNA could have come from
+someone other than the petitioner loading the weapon or from someone handling the
+casings when or after they were collected at the crime scene. Accordingly, no reasonable
+probability exists that the petitioner would not have been prosecuted or convicted if this
+evidence had been obtained through DNA analysis. Therefore, the post-conviction court
+properly exercised its discretion in summarily dismissing the petition in this case.
+
+Additionally, the petitioner claims the post-conviction court erred in failing to
+appoint him counsel. The Act, however, does not entitle the petitioner to the appointment
+of counsel. Rather, the appointment of counsel is discretionary under the Act. See id. §
+-9-
+
+40-30-307 (providing that the court “may” appoint counsel for an indigent petitioner).
+Moreover, it is well established that the Act’s procedures do not violate due process. See
+Estate of Alley v. State, 648 S.W.3d 201, 228 (Tenn. Crim. App. 2021) (recognizing that
+the state-imposed requirements for obtaining DNA analysis under the Act do not create
+any unconstitutional deprivation of due process rights). Accordingly, the trial court did not
+err in summarily dismissing the petition without the appointment of counsel.
+
+Conclusion
+
+Based on the foregoing authorities and reasoning, we affirm the dismissal of the
+petition.
+
+____________________________________
+J. ROSS DYER, JUDGE
+
+- 10 -

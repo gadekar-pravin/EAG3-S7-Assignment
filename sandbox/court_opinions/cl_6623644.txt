@@ -1,0 +1,361 @@
+=========================================================
+Case: Marcus Levy v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2022-07-14
+Citations: 
+URL: https://www.courtlistener.com/opinion/6623644/marcus-levy-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+07/14/2022
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs July 12, 2022
+
+MARCUS LEVY v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Shelby County
+No. 13-04645 Paula L. Skahan, Judge
+
+No. W2021-00891-CCA-R3-PC
+
+The petitioner, Marcus Levy, appeals the denial of his petition for post-conviction relief,
+which petition challenged his conviction of first degree murder, alleging that he was
+deprived of the effective assistance of counsel. Discerning no error, we affirm the denial
+of post-conviction relief.
+
+Tenn. R. App. P. 3; Judgment of the Criminal Court Affirmed
+
+JAMES CURWOOD WITT, JR., J., delivered the opinion of the court, in which ROBERT L.
+HOLLOWAY, JR., and JOHN W. CAMPBELL, SR., JJ., joined.
+
+Joseph A. McClusky, Memphis, Tennessee, for the appellant, Marcus Levy.
+
+Herbert H. Slatery III, Attorney General and Reporter; Hannah-Catherine Lackey,
+Assistant Attorney General; Amy P. Weirich, District Attorney General; and Leslie Byrd,
+Assistant District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+A Shelby County Criminal Court jury convicted the petitioner of one count
+of first degree premeditated murder for the April 10, 2013 shooting death of the victim,
+Montrell Xavier Turner, and the trial court imposed a life sentence.1 State v. Marcus Levy,
+No. W2015-01081-CCA-R3-CD, 2016 WL 3209460, at *1 (Tenn. Crim. App., Jackson,
+June 1, 2016). This court summarized the evidence on direct appeal:
+
+In the light most favorable to the State, the evidence
+shows that the [petitioner] shot the unarmed victim in the head
+from a close distance while the victim held his hands in the
+1
+The petitioner was also charged with one count of employing a firearm during the commission of
+a dangerous felony, which charge the trial court dismissed.
+
+air. As a possible motive for the murder, the [petitioner]
+admitted that he and the victim had recently experienced
+problems with each other, in that he believed the victim had
+robbed him one month prior to the murder and conducted a
+drive-by shooting at him the night before the murder. As
+evidence of the [petitioner’s] intent to kill, according to one
+of the witnesses’ statements, the [petitioner] was heard saying
+to his mother that he was going to shoot the victim in the face.
+The [petitioner’s] calm demeanor immediately before the
+shooting further supports a finding of premeditation. The
+[petitioner] was seen opening his trunk and briefly pulling out
+an assault rifle. The victim arrived, and the defendant pointed
+a gun at him as he approached. The victim exited his car with
+his hands up in the air, and the [petitioner] shot him and then
+fled the scene.
+
+Id., at *8. This court affirmed the petitioner’s conviction on appeal, and our supreme court
+denied review on September 26, 2016. Id., at 1.
+
+The petitioner filed a timely pro se petition for post-conviction relief,
+alleging, among other things, the ineffective assistance of trial counsel. The post-
+conviction court appointed counsel.2
+
+At the bifurcated evidentiary hearing, Leroy Levy,3 the petitioner’s uncle,
+testified that he knew the victim’s “whole family.” At the time of the shooting, Leroy
+“stayed in the same house” as the petitioner. He said that when his nurse arrived, she asked
+him what was going on outside, at which point, he went outside to investigate and learned
+from family members that the victim was “down the street” “hollering and who[o]ping.”
+He went to talk to the victim, who told him, “I’m just sick of yo nephews, man” and “I’m
+gone kill ‘em.” He said that he “begged” the victim not to leave the scene, but the victim
+left anyway. The victim then “came back quick” in “[n]o more than about [10] minutes”
+and “flew down the street, flew past me and he swerved his car.” The victim then “jumped
+out the car” with his hand “[o]n the side of his pants.” Leroy said that the victim was
+“reaching for something” but that he could not see what it was “because so many people
+surrounded the car.” Leroy said that he did not see where the petitioner was when the
+victim got out of the car, but he saw “everybody else with guns.” Leroy began “hollering,
+what is y’all doing. What is ya’ll doing. Next thing I know, boom.” He said that he saw
+
+2
+Although the post-convction court’s order denying relief references an amended petition, no such
+petition is included in the record on appeal.
+3
+Because Leory Levy and Terence Levy share a last name, we will refer to them by their first names
+for clarity. We intend no disrespect.
+-2-
+
+“a whole lot of guns” but did not see who shot the victim. He also said that Terracia
+Harden, a neighbor from “down the street,” approached the fallen victim and “reached, got
+the gun, [and] ran in the house.” Leroy said that trial counsel never contacted him about
+his account of the incident.
+
+During cross-examination, Leroy testified that for seven months leading up
+to and including trial, he was in the hospital for multiple medical conditions and
+procedures. He acknowledged that during his time in the hospital, he had a procedure that
+rendered him unable to speak.
+
+Terence Levy testified that he was also the petitioner’s uncle and that he lived
+at his mother’s house with the petitioner. At the time of the shooting, Terence “was in my
+mother’s driveway,” and the petitioner’s mother, Tanjular Levy, and brother, Markavius
+Pratcher, were “standing down the street a couple of houses down.” Terence said that he
+also saw the victim “down the street” talking with Mr. Pratcher. He saw the victim “push[
+Mr.] Pratcher out of the way” and heard him say, “‘I will show you M.F. what I’m made
+of.’” The victim then “pulled off.” “Then about five minutes later [the petitioner] pulled
+up.” The victim then “pulled back up” and “jumped out the car” holding “a black firearm
+in his hand.” Terence said that he saw the petitioner “shove his mama out the way” and
+shoot the victim. At that point, others began shooting, but Terence could not see who was
+shooting “[b]ecause everybody start[ed] running. Like the whole neighborhood had came
+down the street.” Terence said that trial counsel never contacted him for his version of
+events.
+
+During cross-examination, Terence acknowledged that he had prior
+convictions, including for being a felon in possession of a handgun, possession of
+marijuana, and assault. He testified that when “everybody got to shooting,” he “[g]ot on
+out the way” but that he returned to the scene while police were present. He said that he
+and others “tried to talk to the police,” but “[t]hey were telling us to go on back up to the
+house because it was so crowded outside.” He acknowledged that he did not attempt to
+contact the police later but said, “We were waiting to talk to the lawyer.” He said that he
+“tried to reach out to [trial counsel] to get on trial so we could testify of what happened.”
+
+On redirect examination, Terence clarified that he never spoke with trial
+counsel but that he did speak with counsel’s investigator and assumed that the investigator
+would pass the information to trial counsel.
+
+Markavius Pratcher, the petitioner’s brother, testified that he was present
+during the shooting. He said that he “was talking to the victim in the middle of the street”
+and that there were other people from the neighborhood around with guns. He said that
+the victim asked why all the people were around and that he responded, “‘Man you ain’t
+-3-
+
+got nothing to do with this.’” At that point, the victim “pushed off of me and said, ‘I’m
+fixing to go show you b**** a** n****** how to turn up,’ and he jumped in the car and
+he drove off.” He said that the victim returned approximately five to 10 minutes later,
+during which time, the petitioner had arrived and “was like right up the street talking to my
+mom.” When the victim returned, “he jumped out the car with the gun” “like he was fixing
+to shoot my brother,” and the petitioner “pushed my mama back out the way and my brother
+shot [the victim].” Mr. Pratcher said that the petitioner shot the victim with a handgun.
+After the petitioner shot the victim, Mr. Pratcher “heard multiple shots” but did not see
+who was shooting because “I got down low and got out of there.” He said that he never
+spoke with trial counsel about what he had seen.
+
+During cross-examination, Mr. Pratcher said that he did not speak to anyone,
+including the petitioner, about what he witnessed during the shooting, explaining, “I was
+nervous. I didn’t really want to tell nobody.”
+
+Tanjular Levy, the petitioner’s mother, testified that at the time of the
+shooting, she was outside at her mother’s house with “my mom, my brother, and a whole
+lot more people were outside.” She said that she saw an interaction between the victim and
+Mr. Pratcher, in which Mr. Pratcher “was trying to . . . ask [the victim] what was going on
+and [the victim] didn’t want to listen. [The victim] had pushed Markavius.” After the
+victim pushed Mr. Pratcher, the victim said “he fixing to show these -- how he going to
+turn up” and left the scene. At that point, “[e]verybody just was standing around.” The
+petitioner arrived to the scene and was outside of his car talking with Ms. Levy when she
+saw “a car come around the corner coming down the street real fast.” She saw the victim,
+who had been driving the car, jump out of the car “with a pistol, and that’s when [the
+petitioner] pushed me, and that’s when the shots went out.” Upon hearing the gunshots, “I
+passed out.” Ms. Levy said that she did not see the petitioner with a gun while she was
+talking with him but said that as the victim jumped out of his car, she saw the petitioner
+with a gun. Ms. Levy said that she tried to tell the police what she had seen but that they
+“didn’t really want to talk to nobody.” “They didn’t want to listen to nobody. They just
+telling us go back in the yard.” Ms. Levy could not remember whether she had told trial
+counsel what she witnessed.
+
+During cross-examination, Ms. Levy said that she could not remember what
+specifically she had told trial counsel because “[i]t was eight years ago” and “I feared for
+my life” but said that she knew that she had told counsel that she had seen the victim jump
+out of the car with a gun. She recalled that after the victim was shot, “there was a lot of
+peoples around and they had tried to get the gun off him.” She said that she “tried to tell
+[trial counsel] that” but that counsel did not bring up the issue at trial. She said that she
+reported what she had seen to the police in the days following the shooting and that the
+
+-4-
+
+police told her to get a restraining order. She acknowledged that she had three prior
+convictions for theft of property.
+
+The petitioner testified that trial counsel met with him to review discovery
+materials and to discuss potential witnesses. He said that his “discovery pack . . . had false
+statements in it” and was missing certain evidence, such as crime scene photographs and
+“exculpatory evidence.” He also said that while incarcerated pretrial, he learned things
+about the case from other people at the jail and that he pointed out to trial counsel that that
+information was not provided in discovery. He said that he gave trial counsel “a lot of
+stuff” that he wanted him to investigate. He said, “I told him what happened. I told him
+what to do, how to do it. His performance was poor. He didn’t investigate my case.” The
+petitioner said that he told counsel that “my mom, my uncles, and my brother . . . was out
+there [and] are like a witness to certain things.” He said that he told counsel that he wanted
+his family members called as witnesses at trial and that he was expecting them to testify
+but that counsel did not call them. He asserted that had counsel called his family members
+as witnesses, he would have achieved a different outcome at trial.
+
+During cross-examination, the petitioner said that trial counsel had no
+defense strategy. He also said that counsel could have better cross-examined the State’s
+witnesses by eliciting testimony that the victim had robbed the petitioner, that the petitioner
+“squashed the beef” between them, and that the victim “came back and shot at me in front
+of my grandma house” 12 hours before the shooting at issue in this case. He asserted that
+a better cross-examination would have supported a theory of self-defense. He said that his
+family members were willing to testify on his behalf.
+
+Trial counsel testified that he gave the petitioner discovery materials and said
+that he was “certain” he reviewed them with the petitioner because “[t]hat would have been
+the normal practice.” Trial counsel employed an investigator who also met with the
+petitioner “and talked to him about his witnesses and who he felt was important and things
+of that nature.” He said that the investigator also “met with [the petitioner’s] mother and
+his brothers and all the people that were identified as potential witnesses.” He
+acknowledged that Leroy and Terence were present at trial and “willing and ready to
+testify.” He said that, at trial, the State’s “fact witnesses were very reluctant to testify” and
+“did not want to remember what they had told the police.” Because of this, the State
+“effectively use[d] their prior statements to the police to sort of cross-examine them, for
+lack of a better way of putting it, when they couldn’t remember things. So it came out and
+the story came out from these people.” Because of the witnesses’ reluctance to testify, the
+State’s case in chief took “three or four times as long as it should have taken.” The
+petitioner and Maurice Reed testified for the defense, with their testimony concluding late
+on a Friday afternoon, at which point, the trial court told counsel “that the jury was done,
+that they’d heard everything they needed to hear and they were done.”
+-5-
+
+Trial counsel said that he talked to the petitioner and told him that the jury
+had heard the petitioner’s story and “kn[e]w everything there is to know.” He explained
+to the petitioner that although “your family is out there prepared to reiterate” the
+petitioner’s story, “there was some negative things about what the family” would testify
+to. He noted that neither Leroy nor Terence “stuck around to talk to the police” after the
+shooting and that their stories “weren’t exactly the same thing that Maurice” and the
+petitioner had testified to. He was also concerned because Leroy’s medical issues, which
+rendered him unable to “say things without a really awful, guttural, almost like he was
+going to throw something up in the middle of each sentence,” caused “anything he was
+telling me” to be “painstaking.” Counsel said that he explained to the petitioner that he did
+not think that Leroy and Terence’s testimony was “going to change [the jury’s] mind about
+anything. Either they’re on our side, or they’re not.” The petitioner “was reluctant” and
+told counsel, “‘I’d like my witnesses to testify,’” but ultimately deferred to counsel’s advice
+to not call additional witnesses.
+
+Counsel reiterated that he was prepared to call Leroy and Terence as
+witnesses “because they were essentially consistent with what the other witnesses have
+said” but expressed his concern over their credibility because “neither of them stuck around
+and neither of them saw [the petitioner] when he’s shooting, even though they witnesse[d]
+a crime.” He added, “[T]hat troubled me because they didn’t want to admit what [the
+petitioner] was willing to admit: That he had shot the man in the head.” Counsel said that
+he and the petitioner decided together not to call additional witnesses. He said that he “was
+really relieved that we were going to end it” because Leroy’s direct testimony would have
+taken “at least two and a half, three hours.” Trial counsel said that he spoke with Ms. Levy
+“many times” leading up to trial and that he and the petitioner discussed calling her as a
+witness. Counsel recalled, however, that Ms. Levy “did not want to be a witness because
+of the allegation -- even though she denied it -- that she had made some comment about
+they should have killed [the victim] the first time he came over here.” Counsel said that if
+the petitioner had decided that he wanted to call the witnesses despite counsel’s advice, “I
+would have called the witnesses and probably upset all the jurors in the process.”
+
+Trial counsel said that one of the State’s witnesses testified that she saw the
+victim get out of his car with a cellular telephone in his hand but that the police found the
+victim’s telephone “charging in the console of the car” and that that inconsistency was
+“[e]xtremely” helpful for the defense. He also said that he “made a really big deal” about
+the fact that one crime scene photograph that was taken “before the victim was removed
+from the scene” showed “something near where his body [wa]s” and that in a photograph
+taken after the victim’s body was removed the item was “not there anymore.” He said that
+he also emphasized the victim’s having a “huge assault rifle” in the trunk of his car when
+he drove to the scene. Trial counsel said that his defense theory was one of self-defense.
+-6-
+
+He said that he “probably” argued for voluntary manslaughter in his closing arguments but
+that “the strategy was to show that this was self-defense.”
+
+During cross-examination, trial counsel said that his primary points of
+contact with the petitioner’s family were with Mr. Pratcher and Ms. Levy. He said that
+Ms. Levy had told him “what she had remembered” and who “we needed to have our
+investigator talk to.” Counsel explained part of what influenced his decision to not call
+Leroy and Terence as witnesses was that Mr. Reed was “a great witness for the [d]efense.
+He had stuck around [the scene], he gave a statement to the police, his statement in the
+courtroom was exactly the statement that he had given to police. It was helpful to [the
+petitioner].” He said that “Mr. Reed told the story as well as anybody could” and that he
+did not want to risk muddying the waters with more testimony, explaining, “I have had
+cases go sideways with a family member being the last witness.” “My experience is that
+they want to say all of the bad things that the victim did or all the bad things that the police
+did but they will acknowledge nothing that their brother, sister, whoever did wrong.” He
+said that the petitioner also “did a very credible job of telling his story as good as you can
+tell it under the circumstances, . . . so I was happy to end on those two witnesses.” He
+reiterated that Leroy’s testimony was “going to be painstakingly long even if the jury
+believed every word of it. And his story wasn’t as helpful as Mr. Reed’s or [the
+petitioner’s], quite frankly.”
+
+In its written order denying post-conviction relief, the post-conviction court
+found that trial counsel “discussed the benefits and detriments of calling the additional
+witnesses with the [p]etitioner” and that counsel was concerned with the potential
+witnesses’ credibility “and the ramifications for the [p]etitioner” if he called them.
+
+In this timely appeal, the petitioner argues that trial counsel performed
+deficiently by failing to discover and call as witnesses Leroy Levy, Terence Levy,
+Markavius Pratcher, and Tanjular Levy. The State argues that trial counsel’s decision not
+to call these individuals as witnesses was strategic and, alternatively, that their testimony
+would not have benefited the petitioner or changed the outcome of the trial.
+
+We view the petitioner’s claim with a few well-settled principles in mind.
+Post-conviction relief is available only “when the conviction or sentence is void or voidable
+because of the abridgment of any right guaranteed by the Constitution of Tennessee or the
+Constitution of the United States.” T.C.A. § 40-30-103. A post-conviction petitioner bears
+the burden of proving his or her factual allegations by clear and convincing evidence. Id.
+§ 40-30-110(f). On appeal, the appellate court accords to the post-conviction court’s
+findings of fact the weight of a jury verdict, and these findings are conclusive on appeal
+unless the evidence preponderates against them. Henley v. State, 960 S.W.2d 572, 578-79
+(Tenn. 1997); Bates v. State, 973 S.W.2d 615, 631 (Tenn. Crim. App. 1997). By contrast,
+-7-
+
+the post-conviction court’s conclusions of law receive no deference or presumption of
+correctness on appeal. Fields v. State, 40 S.W.3d 450, 453 (Tenn. 2001).
+
+Before a petitioner will be granted post-conviction relief based upon a claim
+of ineffective assistance of counsel, the record must affirmatively establish, via facts
+clearly and convincingly established by the petitioner, that “the advice given, or the
+services rendered by the attorney, are [not] within the range of competence demanded of
+attorneys in criminal cases,” see Baxter v. Rose, 523 S.W.2d 930, 936 (Tenn. 1975), and
+that counsel’s deficient performance “actually had an adverse effect on the defense,”
+Strickland v. Washington, 466 U.S. 668, 693 (1984). In other words, the petitioner “must
+show that there is a reasonable probability that, but for counsel’s unprofessional errors, the
+result of the proceeding would have been different. A reasonable probability is a
+probability sufficient to undermine confidence in the outcome.” Id. at 694. Should the
+petitioner fail to establish either deficient performance or prejudice, he is not entitled to
+relief. Id. at 697; Goad v. State, 938 S.W.2d 363, 370 (Tenn. 1996). Indeed, “[i]f it is
+easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice,
+. . . that course should be followed.” Strickland, 466 U.S. at 697.
+
+When considering a claim of ineffective assistance of counsel, a reviewing
+court “begins with the strong presumption that counsel provided adequate assistance and
+used reasonable professional judgment to make all significant decisions,” Kendrick v.
+State, 454 S.W.3d 450, 458 (Tenn. 2015) (citation omitted), and “[t]he petitioner bears the
+burden of overcoming this presumption,” id. (citations omitted). We will not grant the
+petitioner the benefit of hindsight, second-guess a reasonably based trial strategy, or
+provide relief on the basis of a sound, but unsuccessful, tactical decision made during the
+course of the proceedings. Adkins v. State, 911 S.W.2d 334, 347 (Tenn. Crim. App. 1994).
+Such deference to the tactical decisions of counsel, however, applies only if the choices are
+made after adequate preparation for the case. Cooper v. State, 847 S.W.2d 521, 528 (Tenn.
+Crim. App. 1992).
+
+Here, the petitioner is not entitled to post-conviction relief. First, the
+testimony of the petitioner and trial counsel established that counsel knew of all the
+potential witnesses and that he had his investigator interview each of them. The record
+does not preponderate against the post-conviction court’s finding that trial counsel was
+concerned that the jury would not find Leroy and Terence to be credible witnesses.
+Generally, “the decision of what witnesses to call . . . lies within the discretion of trial
+counsel,” see Jeremy McMillon v. State, No. E2020-01260-CCA-R3-PC, 2022 WL
+1002410, at *14 (Tenn. Crim. App., Knoxville, Apr. 4, 2022), and, here, the record
+establishes that trial counsel’s decision not to call these witnesses at trial was a strategic
+one made after adequate preparation and careful deliberation, and we will not second-guess
+that strategy.
+-8-
+
+Accordingly, the judgment of the post-conviction court is affirmed.
+
+_________________________________
+JAMES CURWOOD WITT, JR., JUDGE
+
+-9-

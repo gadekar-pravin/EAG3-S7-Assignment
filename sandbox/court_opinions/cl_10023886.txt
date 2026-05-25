@@ -1,0 +1,773 @@
+=========================================================
+Case: In the Int. of: R.H., Appeal of: J.A.H.
+Court: Superior Court of Pennsylvania
+Date Filed: 2024-07-30
+Citations: 2024 Pa. Super. 161, 320 A.3d 706
+URL: https://www.courtlistener.com/opinion/10023886/in-the-int-of-rh-appeal-of-jah/
+Source Query: murder conviction appeal
+=========================================================
+
+J-S21015-24
+
+2024 PA Super 161
+
+IN THE INTEREST OF: R.H., A : IN THE SUPERIOR COURT OF
+MINOR : PENNSYLVANIA
+:
+:
+APPEAL OF: J.A.H., FATHER :
+:
+:
+:
+: No. 624 EDA 2024
+
+Appeal from the Order Entered January 12, 2024
+In the Court of Common Pleas of Pike County Civil Division at No(s): CP-
+52-DP-0000020-2022
+
+IN THE INTEREST OF: H.H., A : IN THE SUPERIOR COURT OF
+MINOR : PENNSYLVANIA
+:
+:
+APPEAL OF: J.A.H., FATHER :
+:
+:
+:
+: No. 625 EDA 2024
+
+Appeal from the Order Entered January 12, 2024
+In the Court of Common Pleas of Pike County Civil Division at No(s): CP-
+52-DP-0000022-2021
+
+BEFORE: LAZARUS, P.J., NICHOLS, J., and MURRAY, J.
+
+OPINION BY LAZARUS, P.J.: FILED JULY 30, 2024
+
+J.A.H. (Father) appeals from the orders,1 entered in the Court of
+
+Common Pleas of Pike County, determining that visitation with Father is
+____________________________________________
+
+1 Father has filed separate notices of appeal, one for each docket, at 624 EDA
+
+2024 and 625 EDA 2024. See Commonwealth v. Walker, 185 A.3d 960,
+976 (Pa. 2018) (“Where . . . one or more orders resolves issues arising on
+more than one docket or relating to more than one judgment, separate notices
+of appeals must be filed.”); see also In re M.P., 204 A.3d 976, 981 (Pa.
+(Footnote Continued Next Page)
+
+J-S21015-24
+
+contrary to the safety or well-being of R.H. (born 10/2021) and H.H. (born
+
+11/2017) (collectively, Children), specifically given the nature of Father’s
+
+pending criminal charges, Father’s bail conditions, Father’s failure to have an
+
+established bond with Children, and Father having been indicated as a
+
+perpetrator of child abuse. After careful review, we affirm.
+
+The trial court set forth the factual and procedural history as follows:
+
+On July 30, 2021, the Pike County Children & Youth Agency ([]the
+Agency[]) filed an application for emergency protective custody of
+[Children], alleging that [Children were] without proper care or
+control, to wit, that the home was in an unsafe and deplorable
+condition. We note that [Father] was a registered sex offender
+and incarcerated at the time of this filing, charged with multiple
+crimes associated with the sexual abuse of other children residing
+in the same home. On July 30, 2021, the court granted
+emergency protective custody of [Children] to the Agency and
+ordered that a hearing be held on August 2, 2021. On August 2,
+2021, following a hearing, the court issued a shelter care order
+granting the Agency full legal and physical custody of [Children]
+and placing [Children] in foster care. Also on August 3, 2021, the
+Agency filed a dependency petition. The following day, the court
+issued an order scheduling a hearing on the dependency petition
+for August 20, 2021. On August 20, 2021, the court entered an
+order of adjudication and disposition[,] finding clear and
+convincing evidence to substantiate the allegations contained
+within the [] dependency petition and maintaining full legal and
+physical custody of [Children] with the Agency. On May 2, 2022,
+the court entered an order terminating court supervision, but on
+December 2, 2022, the Agency filed a new application for
+emergency protective custody.
+
+____________________________________________
+
+Super. 2019) (applying Walker holding to children’s fast track appeals). But
+see Commonwealth v. Young, 265 A.3d 462, 477 n.19 (Pa. 2021)
+(expressly overruling holding in Walker that failure to file separate appeals
+requires appellate court to quash appeal). Father’s appeals were consolidated
+sua sponte by our Court on March 27, 2024. See Order, 3/27/24; see also
+Pa.R.A.P. 513.
+
+-2-
+
+J-S21015-24
+
+On December 5, 2022, the court issued a shelter care order,
+granting the Agency’s petition and placing [Children] in the full
+legal and physical custody of the Agency. On December 6, 2022,
+the Agency filed a dependency petition, and a hearing was
+scheduled for December 8, 2022. On December 9, 2022, the court
+entered an order of adjudication and disposition. On December
+22, 2022, counsel for [Children’s] mother. . . filed a motion for
+expedited permanency review and a hearing was scheduled for
+January 12, 2023. On January 13, 2023, the court entered a
+permanency review order scheduling an additional permanency
+review [hearing] on April 5, 2023. On April 12, 2023, the court
+entered a permanency review order scheduling an additional
+permanency review hearing on August 9, 2023. On August 10,
+2023, the court entered a permanency review order scheduling an
+additional permanency review hearing on December 20, 2023. On
+October 5, 2023, [Father] filed a notice of appeal, request for
+transcript, and an in forma pauperis application [] to challenge the
+August 10, 2023[] order. On or about January 12, 2024, the
+Superior Court quashed the appeal. On the same date, [the court]
+entered a permanency review order maintaining the status quo,
+specifically noting that [Father] was heard on the issue of
+visitation and that visitation between [Children] and [Father] is
+contrary to [Children’s] safety and well-being due to his
+incarceration, indication as a perpetrator of child abuse, bail
+conditions precluding contact between himself and [Children], and
+his failure to have an established bond with [Children].
+
+Trial Court Opinion, 3/19/24, at 1-3 (unnecessary capitalization omitted).
+
+Father filed timely notices of appeal and Pa.R.A.P 1925(b) concise
+
+statements of errors complained of on appeal. Father raises the following
+
+questions for our review:
+
+1. Whether the trial court committed an error of law and/or an
+abuse of discretion by adjudicating [F]ather as a grave threat
+based on the face of the record[,] as [Father] is distinguishable
+from the father in Interest of C.B., [861 A.2d 287 (Pa. Super.
+2004),] such that the grave threat analysis does not preclude
+[Father’s] visitation.
+
+2. Whether the trial court committed an error of law and/or an
+abuse of discretion by not providing [Father] timely notice of
+actions in the case []or an ability to timely contest those actions[,]
+
+-3-
+
+J-S21015-24
+
+as the record does not show a determination at hearings of [the
+Agency’s] compliance with notice requirements, [and Father] was
+unable to timely contest his alleged criminal matters which[,]
+although referred to[,] do not appear in the record of these cases
+and were relied upon in the January [12], 2024 [order].
+
+Appellant’s Brief, at 7 (unnecessary capitalization omitted).
+
+Before considering Father’s claims, we must determine whether this
+
+Court has jurisdiction over the instant appeal. Generally, an appeal lies only
+
+from a final order, unless permitted by rule or statute. See In the Interest
+
+of: L.B., 229 A.3d 971, 975 (Pa. Super. 2020). “[A] final order is one that
+
+disposes of all claims and all parties.” Id.; see also Pa.R.A.P. 341(b). It is
+
+incumbent upon this Court “to determine, sua sponte when necessary,
+
+whether the appeal is taken from an appealable order.” L.B., 229 A.3d at 975
+
+(citations and quotation marks omitted). This Court has previously found
+
+orders suspending parental visitation to be final orders, see, e.g., C.B., 861
+
+A.2d at 289 n.1, or to be appealable under Pa.R.A.P. 313, the collateral order
+
+doctrine. See, e.g., L.B., 299 A.3d at 975-77.
+
+Father argues that we have jurisdiction because the instant appeal is to
+
+a final goal change order that is appealable under Rule 341. See Appellant’s
+
+Brief, at 5 (citing In re H.S.W.C.-B, 836 A.2d 908, 911 (Pa. 2003)). Upon
+
+our review, we conclude that the instant orders fail the requirements of Rule
+
+341(b), as they do not dispose of all claims and all parties. Moreover, as the
+
+trial court specifically stated, the orders maintained the status quo, did not
+
+change the permanency goals, and indicated that another permanency review
+
+hearing would be held on May 8, 2024. See Permanency Review Order,
+
+-4-
+
+J-S21015-24
+
+3/19/24, at 9. Thus, the January 12, 2024 orders were not final. See
+
+Pa.R.A.P. 341.
+
+Accordingly, to invoke our jurisdiction to review Father’s claims, the
+
+orders must satisfy the requirements of the collateral order doctrine.
+
+The “collateral order doctrine” exists as an exception to the finality
+rule and permits immediate appeal as of right from an otherwise
+interlocutory order where an appellant demonstrates that the
+order appealed from meets the following elements: (1) it is
+separable from and collateral to the main cause of action; (2) the
+right involved is too important to be denied review; and (3) the
+question presented is such that if review is postponed until final
+judgment in the case, the claimed right will be irreparably lost.
+See Pa.R.A.P. 313.
+
+Our Supreme Court has directed that Rule 313 be interpreted
+narrowly so as not to swallow the general rule that only final
+orders are appealable as of right. To invoke the collateral order
+doctrine, each of the three prongs identified in the rule’s definition
+must be clearly satisfied.
+
+In the Interest of: J.M., 219 A.3d 645, 655 (Pa. Super. 2019) (citation
+
+omitted).
+
+Here, Father asks us to make two determinations: (1) whether the court
+
+erred when it determined he posed a grave threat to Children and therefore
+
+visitation was contrary to their safety or well-being, and (2) whether the court
+
+erred by not providing Father timely notice of actions in the case. We conclude
+
+that Father has satisfied each of the prongs of the collateral order doctrine, as
+
+discussed below, and, thus, we may review the merits of his claims.
+
+Beginning with the first prong of the collateral order doctrine, we must
+
+determine whether the orders are separable from and collateral to the main
+
+cause of action. An order is separable from and collateral to the main cause
+
+-5-
+
+J-S21015-24
+
+of action if it is “entirely distinct from the underlying issue in the case and if it
+
+can be resolved without an analysis of the merits of the underlying dispute.”
+
+J.M., 219 A.3d at 655 (citations and quotation marks omitted). In
+
+dependency cases, “this Court has not been consistent with its interpretation
+
+of the main cause of action for purposes of [Rule] 313.” 2 Id. at 657.
+
+Nevertheless, we understand that “[t]he dependency adjudication and
+
+disposition certainly are the backbone of the cause of action, especially
+
+considering the [] court loses jurisdiction once the child at issue is no longer
+
+a child or no longer dependent.” Id. at 658 (citation omitted). Further,
+
+“[o]nce a child is adjudicated dependent, the [] court is tasked with addressing
+
+many issues that relate to the best interest[s] of the child but may have little
+
+to do with the original basis for adjudicating the child dependent.” Id.; see
+
+also In re R.P., 956 A.2d 449, 454 (Pa. Super. 2008) (noting dependency
+
+____________________________________________
+
+2 This Court summarized the conflicting determinations as follows:
+
+Sometimes we have placed the emphasis on the underlying
+dependency adjudication and disposition, even if the case has
+progressed into the permanency review stage, see [In re]
+Tameka M., [534 A.2d 782 (Pa. Super. 1987) (en banc); In re]
+N.E., [787 A.2d 1040 (Pa. Super. 2001); In re] J.R., [875 A.2d
+1111 (Pa. Super. 2005). O]ther times we have focused on one of
+the broad goals in the particular stage of the case, see [In re]
+J.S.[, 980 A.2d 117 (Pa. Super. 2009),] and [In re] W.H., 25
+A.3d 330 (Pa. Super. 2011); and still other times we have looked
+to the purpose of the particular hearing, see [In re] T.R.[, 665
+A.2d 1260 (Pa. Super. 1995), rev'd on other grounds, 731 A.2d
+1276 (Pa. 1999) (plurality),] and [Interest of] N.M., [186 A.3d
+998 (Pa. Super. 2018)].
+
+J.M., 219 at 657-58.
+
+-6-
+
+J-S21015-24
+
+adjudication and dispositional hearings address different issues than
+
+permanency review hearings). Accordingly, the Court in J.M. recognized the
+
+unique nature of dependency proceedings due to the court’s “ongoing plenary
+
+jurisdiction[.]” J.M., 219 A.3d at 659.
+
+We find that Father’s claims relating to the permanency review orders,
+
+specifically the court’s decision that visitation with Father is contrary to the
+
+best interests of Children, are separable from and collateral to the main causes
+
+of action—Children’s dependency adjudication and disposition. Thus, we
+
+conclude the orders satisfy the first prong of the collateral order doctrine.
+
+As to the second prong of the collateral order doctrine—whether the
+
+right involved is too important to be denied review—we have long held that a
+
+parent has a constitutionally protected liberty interest in visiting a dependent
+
+child. See In re C.J., 729 A.2d 89, 94 (Pa. Super. 1999). That right,
+
+however, is not without limits. See id. at 94-95. This prong, as with the first
+
+and third prongs, must be clearly satisfied and demonstrated by the appellant.
+
+See J.M., 219 A.3d at 655. In J.M., we found that the orders did not satisfy
+
+the second prong of the collateral order doctrine because the orders simply
+
+limited the mother’s visits with the children and did not prohibit visitation
+
+entirely. See id. at 660-61. In contrast, in L.B., the order at issue completely
+
+denied the appellant-father’s visits and made it unclear when visitation might
+
+resume. See L.B., 229 A.3d at 976.
+
+Here, the orders at issue completely prohibit Father’s visitation with
+
+Children for the reasons provided and discussed infra, and do not indicate
+
+-7-
+
+J-S21015-24
+
+how or when this prohibition might change. Father contends that these orders
+
+effectively change the permanency goals from reunification to adoption, and,
+
+thus, the orders denying visitation with Children involve a right too important
+
+to be denied review. See Appellant’s Brief, at 20. We agree and find that the
+
+trial court’s orders impact a right too important to be denied review because
+
+they result in the complete denial of visitation. See L.B., 229 A.3d at 976.
+
+Consequently, Father has met the second prong of the collateral order
+
+doctrine.
+
+As to the third prong of the collateral order doctrine—whether the
+
+question presented is such that if review is postponed until final judgment in
+
+the case, the claimed right will be irreparably lost—in J.M., this Court
+
+determined the order at issue failed on this prong because the appellant-
+
+mother could resume visits as long as she and the children were drug-free.
+
+See J.M., 219 A.3d at 661. Importantly, the Court in J.M. noted that another
+
+permanency review hearing was to be held one month after the order was
+
+docketed and this issue could again be addressed with the latest evidence.
+
+Id.
+
+In contrast, the Court in L.B. determined that, in light of the grave
+
+threat determination, combined with the lack of any clear indication as to
+
+when visits may resume, postponing review of the issue would cause the
+
+claimed right to be irreparably lost. See L.B., 229 A.3d at 976.
+
+Here, the orders at issue are more akin to the facts in L.B., rather than
+
+J.M. Though the trial court in the instant case did schedule another
+
+-8-
+
+J-S21015-24
+
+permanency review hearing approximately four months later, it was not clear,
+
+absent an extraordinary change of circumstances, whether Father could have
+
+presented any quantum of evidence to change the court’s visitation decision
+
+after the court determined Father posed a grave threat to Children.
+
+Ultimately, these orders result in complete denial of visitation, and we
+
+determine that postponing review of the issues would cause Father’s claimed
+
+rights to be irreparably lost. Therefore, we conclude that we have jurisdiction
+
+to review Father’s claims under the collateral order doctrine and will proceed
+
+to analyze the merits of those claims. See Pa.R.A.P. 313.
+
+Our standard of review for dependency cases is well-settled:
+
+In dependency proceedings[,] our scope of review is broad.
+Nevertheless, we will accept those factual findings of the trial court
+that are supported by the record because the trial judge is in the
+best position to observe the witnesses and evaluate their
+credibility. We accord great weight to the trial judge’s credibility
+determinations. Although bound by the facts, we are not bound
+by the trial court’s inferences, deductions, and conclusions
+therefrom; we must exercise our independent judgment in
+reviewing the court’s determination, as opposed to its findings of
+fact, and must order whatever right and justice dictate.
+
+In re M.W., 842 A.2d 425, 428 (Pa. Super. 2004) (citation and internal
+
+brackets omitted).
+
+In Father’s first issue on appeal, he argues that the trial court erred by
+
+determining that Father poses a grave threat to Children and that visitation
+
+with Father is contrary to the safety and well-being of Children. See
+
+Appellant’s Brief, at 20. Specifically, Father argues that the trial court’s
+
+dependance on C.B., supra, was improper, as the facts and record are
+
+-9-
+
+J-S21015-24
+
+distinguishable insofar as the facts in C.B. indicated that the father “had been
+
+heinously sexually abusing the child’s sibling in front of the child and that the
+
+Commonwealth provided evidence of the abuse through a forensic
+
+pediatrician, two psychologists, and two caseworkers.” Id. (citing C.B., 861
+
+A.2d at 297). Father argues that, here, the Agency has not presented medical
+
+or psychological evidence, and that the trial court has not heard any testimony
+
+contesting the facts as presented by the Agency. Finally, Father contends that
+
+such a decision effectively changes “the pre-hearing goal of reunification to .
+
+. . terminating [F]ather’s parental rights.” Id. We conclude that Father is not
+
+entitled to relief.
+
+In a dependency case, “[t]he standard against which visitation is
+
+measured . . . depends upon the goal mandated in the family service plan.
+
+Where . . . reunification still remains the goal of the family service plan,
+
+visitation will not be denied or reduced unless it poses a grave threat.” C.B.,
+
+861 A.2d at 293 (citation omitted). If the goal is not reunification, “visitation
+
+may be limited or denied if it is in the best interests of the [] children.” Id.
+
+“The grave threat standard is met when the evidence clearly shows that a
+
+parent is unfit to associate with his or her children[.]” Id. at 294 (citation and
+
+quotation marks omitted). This standard requires evidence that “the parent
+
+demonstrates a severe mental or moral deficiency that constitutes a grave
+
+threat to the child.” Id. (citation omitted).
+
+In the instant case, Children’s placement plan has concurrent goals of
+
+return to parent/guardian and adoption. See Permanency Review Order,
+
+- 10 -
+
+J-S21015-24
+
+1/12/24, at 2-3. As such, the trial court stated the following to support its
+
+finding that Father “represents a grave threat” to Children and, thus, visitation
+
+is contrary to the safety or well-being of Children: “[Father] has been
+
+indicated as a perpetrator of child abuse, [] the bail conditions in his [open]
+
+criminal matters preclude contact with [Children], and [Father] was
+
+incarcerated before he formed a bond with [H.H. and prior to the birth of
+
+R.H.].” Trial Court Opinion, 3/19/24, at 4. The trial court determined this
+
+finding was substantiated by testimony of an Agency caseworker at the
+
+January 11, 2024 hearing that Father “has an indicated status and that he is
+
+or should be fully aware of the conditions imposed in his criminal matters
+
+involving crimes against children and rape of a child[,]” and additional
+
+testimony by the caseworker that Father “was in the past and remains a
+
+registered sex offender.” Id.; see also N.T. Permanency Hearing, 1/11/24,
+
+at 14-17.
+
+In C.B., the appellant-father’s visits were suspended by the trial court
+
+after the trial court concluded the father posed a grave threat to the child.
+
+See C.B., 861 A.2d at 294. The trial court found by clear and convincing
+
+evidence that the father had sexually abused one child and, based on the
+
+violent nature of the conduct, that the father posed a grave threat to another
+
+child. Id. This Court agreed that the father displayed a moral deficiency such
+
+that he constituted a grave threat to the child, regardless of whether the
+
+conduct resulted in a criminal conviction. Id.
+
+- 11 -
+
+J-S21015-24
+
+In Green v. Sneeringer, 635 A.2d 1074 (Pa. Super. 1993), the
+
+appellant-father also sought visitation rights with his child. The trial court
+
+determined, and this Court agreed, that the father’s conviction for the murder
+
+of the child’s mother was sufficient to show a moral deficiency constituting a
+
+grave threat to the child. Id. at 1075, 1076-77; see also L.B., 229 A.3d at
+
+978 (holding trial court is “ultimate arbiter” of whether parent poses grave
+
+threat to child and determining visitation).
+
+Here, upon our review, we conclude that the findings of the trial court
+
+are supported by the record. The court heard from the Agency caseworker
+
+that Father had at least one indicated case of abuse against him, that Father
+
+was incarcerated at the time of the hearing on charges related to child
+
+pornography and rape of a child, and that the Agency did not believe it was in
+
+Children’s best interest to have visitation with Father. See N.T. Permanency
+
+Hearing, 1/11/24, at 14-15. Father had the opportunity to cross-examine the
+
+caseworker, and at no time did he attempt to challenge her earlier testimony.
+
+See id. at 16-17. In addition, the caseworker testified that Father is a
+
+registered sex offender, that he does not have a significant relationship with
+
+either child, that R.H. was born after Father’s incarceration, and that H.H. was
+
+an infant or toddler the last time H.H. had any contact with Father. Id. at 17.
+
+The court also had the benefit of an investigation report, initiated after a March
+
+11, 2023 referral, indicating Father as a perpetrator of sexual abuse against
+
+a step-child. See generally Exhibit B (“Investigation/Assessment Outcome
+
+Report”). Viewing these facts in their totality, we discern no error with the
+
+- 12 -
+
+J-S21015-24
+
+trial court’s determination that Father has displayed such moral depravity that
+
+he constitutes a grave threat to Children, regardless of the fact that his
+
+criminal charges are still pending. See C.B., supra.
+
+Father’s second claim on appeal is that the trial court erred by not
+
+providing him with notices of hearings and not establishing whether the
+
+Commonwealth had complied with notice requirements. See Appellant’s Brief,
+
+at 19. Father argues that various Rules of Juvenile Court Procedure require
+
+notice to parents or guardians of shelter care hearings, the right to counsel,
+
+dependency adjudication hearings, and any subsequent hearings. See
+
+Appellant’s Brief, at 24-25 (citing Pa.R.J.C.P. 1241, 1242, 1363, 1360, 1361,
+
+1406, 1331, and 1600). Father alleges that he either was not provided with
+
+notice or that the court did not comply with notice requirements with respect
+
+to Children’s shelter care hearings, dependency adjudication, and permanency
+
+review hearings. Upon our review, we find that Father’s argument fails to
+
+conform to the requirements of the Pennsylvania Rules of Appellate
+
+Procedure3 and, therefore, this claim is waived.4
+____________________________________________
+
+3 See Pa.R.A.P. 2101 (“Briefs . . . shall conform in all material aspects with
+
+the requirements of these rules”); see also Pa.R.A.P. 2119 (addressing
+specific requirements of argument section of appellate brief).
+
+4 In addition, we note that Father’s attempts to raise claims related to lack of
+
+notice for past shelter care hearings, the dependency adjudication hearing,
+and permanency review hearings held from December 2022 to August 2023
+are untimely. Father’s current appeal is timely only with respect to the orders
+entered January 12, 2024. Further, Father attended the January 11, 2024
+permanency review hearing and there was no testimony on the record as to
+(Footnote Continued Next Page)
+
+- 13 -
+
+J-S21015-24
+
+“[W]here an appellate brief fails to provide any discussion of a claim
+
+with citation to relevant authority or fails to develop the issue in any other
+
+meaningful fashion capable of review, that claim is waived.” Commonwealth
+
+v. Johnson, 985 A.2d 915, 924 (Pa. 2009). “It is not the obligation of this
+
+Court [] to formulate Appellant’s arguments for him.” Id.; see also Coulter
+
+v. Ramsden, 94 A.3d 1080, 1088 (Pa. Super. 2014) (“This Court will not act
+
+as counsel and will not develop arguments on behalf of an appellant.”)
+
+Here, Father’s brief makes only general allegations of lack of notice,
+
+stating that “[f]or the shelter care hearings, dependency
+
+adjudication/disposition[,] as well as permanency review hearings in this
+
+matter[,] the record contains no [] compliance [with the Rules of Juvenile
+
+Court Procedure].” Appellant’s Brief, at 26 (unnecessary capitalization
+
+omitted). Father does not cite to the record, specify which permanency review
+
+hearing notices were not compliant, or explain why the claim is timely/not
+
+waived. See Appellant’s Brief, at 24-28; see also supra at n.4. The Agency
+
+assumed custody of Children on December 5, 2022, and Children were
+
+____________________________________________
+
+any issues with notice of that specific hearing. See generally N.T.
+Permanency Hearing, 1/11/24, at 11-24.
+
+To be timely, a notice of appeal must be filed within thirty days after the entry
+of the order from which the appeal is taken. See Pa.R.A.P. 903(a). This Court
+is without authority to extend the thirty-day period unless there is fraud or a
+breakdown in the processes of the court. See Pa.R.A.P. 105(b). Neither of
+those exceptions applies here, thus, we decline to review Father’s claims
+related to lack of notice for past hearings as we lack jurisdiction due to
+untimeliness of those claims.
+
+- 14 -
+
+J-S21015-24
+
+adjudicated dependent on December 9, 2022. See Trial Court Opinion,
+
+3/19/24, at 2. The trial court held permanency review hearings on January
+
+12, 2023, April 5, 2023, August 9, 2023, and January 11, 2024. Father’s brief
+
+is not explicit or specific as to which hearings proceeded without proper notice
+
+or proper procedure regarding notice. 5
+
+Father has failed to provide a discussion of the claim with citation to
+
+relevant authority and fails to develop the issue with any particularity with
+
+respect to the record herein. See In re M.Z.T.M.W., 163 A.3d 462, 465-66
+
+(Pa. Super. 2017). Therefore, we conclude that Father has failed to develop
+
+the issue in a meaningful fashion such that it substantially impedes this Court’s
+
+review. See id.; see also Pa.R.A.P. 2119. Thus, Father’s claim is waived for
+
+lack of development. See Johnson, 985 A.2d at 924; see also Coulter, 94
+
+A.3d at 1088.
+
+Further, we conclude that Father improperly relies on In re K.G., 185
+
+A.3d 1080 (Pa. Super. 2018) (Table), arguing that “[t]he facts are the same
+
+in that required notices were not tendered, the court did not make record
+
+findings of compliance[,] . . . and the record does not contain any certifications
+
+of service of petitions[.]” Appellant’s Brief, at 28. Father states that a non-
+
+precedential decision may be cited for persuasive value pursuant to Pa.R.A.P.
+
+____________________________________________
+
+5 We also note that Father filed a previous appeal on October 5, 2023, at
+docket number 2820 EDA 2023, appealing from the order entered by the trial
+court on August 10, 2023. This Court quashed Father’s appeal after
+determining it was not from an appealable order. See Order, 1/12/24 (per
+curiam).
+
+- 15 -
+
+J-S21015-24
+
+126(b) and Superior Court I.O.P. 65.37. See Appellant’s Brief, at 28.
+
+However, Father fails to note that Rule 126(b) specifically refers to decisions
+
+filed after May 1, 2019, and the above case was filed February 1, 2018. See
+
+Pa.R.A.P. 126(b) (unpublished non-precedential decisions of Superior Court
+
+filed after May 1, 2019, may be cited for persuasive value). As such, we do
+
+not consider this authority. Consequently, Father is not entitled to relief.
+
+Orders affirmed.
+
+Date: 7/30/2024
+
+- 16 -

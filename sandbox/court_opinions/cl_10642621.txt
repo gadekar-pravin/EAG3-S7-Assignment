@@ -1,0 +1,654 @@
+=========================================================
+Case: Richard Crawford v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-07-28
+Citations: 
+URL: https://www.courtlistener.com/opinion/10642621/richard-crawford-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+07/28/2025
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+July 9, 2025 Session
+
+RICHARD CRAWFORD v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Shelby County
+No. 11-02621 Jennifer Johnson Mitchell, Judge
+___________________________________
+
+No. W2024-00638-CCA-R3-PC
+___________________________________
+
+Petitioner, Richard Crawford, appeals the denial of his petition for post-conviction relief,
+which challenged his Shelby County Criminal Court convictions of especially aggravated
+robbery, attempted especially aggravated kidnapping, attempted second degree murder, and
+employing a firearm during the attempt to commit a dangerous felony, claiming that he was
+deprived of the effective assistance of counsel and due process of law. Discerning no error,
+we affirm.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+MATTHEW J. WILSON, J., delivered the opinion of the court, in which ROBERT L.
+HOLLOWAY, JR., J., joined. JOHN W. CAMPBELL, SR., J., NOT PARTICIPATING.1
+
+Terrell Tooten, Memphis, Tennessee (on appeal), Richard Crawford, pro se (at hearing),
+and for the appellant, Richard Crawford.
+
+Jonathan Skrmetti, Attorney General and Reporter; Raymond J. Lepone, Assistant
+Attorney General; Steven J. Mulroy, District Attorney General; and Vicki Carriker,
+Assistant District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+The Shelby County Grand Jury charged Petitioner with especially aggravated
+robbery, attempted especially aggravated kidnapping, attempted second degree murder, and
+employing a firearm during the attempt to commit a dangerous felony, and the case
+originally went to trial in August 2013. State v. Crawford, No. W2016-01230-CCA-R3-
+1
+Out of an abundance of caution, Judge Campbell has granted Petitioner’s motion to recuse himself.
+Petitioner’s request for another hearing panel is denied.
+
+CD, 2017 WL 5466671 (Tenn. Crim. App. Nov. 13, 2017), no perm. app. filed, at *1. The
+first trial ended in a mistrial, and the second trial began on September 18, 2014. See id.
+Petitioner was represented by trial counsel at his second trial. A Shelby County Criminal
+Court jury convicted Petitioner as charged, and this court confirmed those convictions on
+direct appeal. See id.
+
+Petitioner’s convictions arose from the December 7, 2009 attack on the victim, Mike
+Murfik, by two assailants in the driveway of his home. Crawford, 2017 WL 5466671, at
+*1. During the attack, Mr. Murfik “heard gunshots and saw his wife shooting” from a
+second story window in their home. Id. One shot struck the first assailant, who ran away,
+and Mr. Murfik sustained a gunshot wound to his leg. See id., 2017 WL 5466671, at *2.
+Mr. Murfik identified Petitioner as the person who had attacked him in his driveway and
+had been shot by Mr. Murfik’s wife. See id.
+
+Mr. Murfik’s wife, Maria Lopez-Murfik, 2 testified that when she saw “two men with
+guns ordering [Mr.] Murfik to get into his car,” she fired at the men, shooting one, who
+“fell to the ground” as the other man “ran away.” Id., 2017 WL 5466671, at *2. Ms. Lopez-
+Murfik identified Petitioner as the man whom she had seen attack Mr. Murfik and whom
+she had shot.
+
+Memphis Police Department Officer Quentin Hogue responded to Delta Medical
+Center to investigate a call that Petitioner “had arrived with a gunshot wound.” Id., 2017
+WL 5466671, at*3. Petitioner claimed that he had been shot while visiting his girlfriend
+on Delta Road, but he did not identify either his girlfriend or the friend who he said had
+driven him to the hospital. See id.
+
+On direct appeal, Petitioner challenged under Tennessee Rule of Evidence 608 the
+trial court’s ruling excluding alleged prior bad acts of Mr. Murfik and Ms. Lopez-Murfik
+and the trial court’s ruling that Petitioner would not be permitted to subpoena Mr. Murfik
+to discuss alleged prior inconsistent statements after he had testified and been released. See
+id., 2017 WL 5466671, at *4. This court denied relief, finding that Petitioner had waived
+our consideration of the issue regarding the admission of the witnesses’ prior bad acts under
+Rule 608 by failing to raise that issue in his motion for new trial and by failing to prepare
+an adequate record for review. See id. We concluded that Petitioner’s claim that the trial
+court prevented him from issuing a subpoena to recall Mr. Murfik was not supported by
+the record. Instead, the record showed that even though the trial court determined that
+Petitioner could recall Mr. Murfik, Petitioner “abandoned his request” and pivoted to a
+request that he be permitted “to admit as a self-authenticating non-hearsay exhibit” Mr.
+
+2
+This court identified Mr. Murfik’s wife’s surname as Lopez. At the evidentiary hearing, she
+testified that she prefers the hyphenated surname Lopez-Murfik, and that is the one that we utilize in this
+opinion.
+2
+
+Murfik’s testimony from Petitioner’s first trial, which ended in a mistrial. Id., 2017 WL
+5466671, at *6.
+
+Petitioner filed a timely petition for post-conviction relief on October 1, 2018,
+alleging, among other things, that his counsel at trial and on appeal (“trial counsel”) was
+ineffective in representing Petitioner. Following the appointment of counsel on his post-
+conviction case, Petitioner filed in October 2019 an amended petition that refined his claim
+of ineffective assistance of counsel by listing specific instances of what he believed to be
+deficient performance. Petitioner then filed a pro se amended petition for post-conviction
+relief in April 2021. Thereafter, Petitioner expressed a desire to proceed pro se, and,
+following a hearing, the post-conviction court concluded that Petitioner had knowingly and
+voluntarily waived his right to be represented by counsel. The court ordered previously
+appointed post-conviction counsel to serve as advisory counsel.
+
+A second pro se amended petition for post-conviction relief followed in October
+2021. In that pleading, Petitioner argued that his trial counsel was ineffective for failing to
+request discovery materials, including Mr. Murfik’s criminal history, to be used to impeach
+Mr. Murfik at trial. Petitioner also claimed that the State engaged in prosecutorial
+misconduct by failing to disclose Mr. Murfik’s criminal history and by withholding “the
+true identity of” Mr. Murfik. A third amended petition for post-conviction relief contained
+facts that purportedly supported his claim that the State had knowingly failed to disclose
+Mr. Murfik’s legal first name and criminal history. A fourth amended petition for post-
+conviction relief appears to be identical to the third.
+
+The post-conviction court conducted evidentiary hearings on January 12, April 13-
+14, and 27, and June 20, 2023. Former Shelby County Assistant District Attorney General
+Pamela Fleming, the prosecutor at Petitioner’s two trials, testified that the trial court
+declared a mistrial at Petitioner’s first trial after Ms. Murfik-Lopez testified that she
+recognized Petitioner “from a previous robbery and shooting.” The shooting happened at
+Ms. Murfik’s “same residence,” and the trial court declared a mistrial without objection
+from the State.
+
+Following the mistrial, the trial court held a hearing to determine the admissibility
+of certain information concerning “two separate incidents” trial counsel wanted to
+introduce at trial to impeach the Murfiks. According to Ms. Fleming, Mr. Murfik, Ms.
+Lopez-Murfik, and Mr. Murfik’s brother were linked to the building in which “Club
+Vision” operated. The first incident was a nuisance action filed against Mr. Murfik, his
+wife, and his brother, and arose out of events that occurred in the club’s parking lot. Mr.
+Murfik was listed on the action because the real property was deeded to him. The nuisance
+action was not connected to the second incident, which arose when it was discovered that
+Mr. Murfik and his brother had paid on-duty police officers to help prevent people from
+loitering in the parking lot on weekends. Ms. Fleming testified that Mr. Murfik and his
+
+3
+
+brother did not realize that the police “weren’t able to receive funds” while they were on
+duty.
+
+As part of the second incident, investigators asked Mr. Murfik and his brother to be
+confidential informants. Mr. Murfik declined, but his brother agreed to be part of “a sting
+operation” where the officers who were suspected of malfeasance were fed “fake
+information” about an alleged raid on the club. Those officers then asked Mr. Murfik’s
+brother for bribes, and that led to the federal indictments of the officers. Mr. Murfik
+testified that he, unlike his brother, he “never bribed any officers, he never received any
+money from officers, and that he never agreed to be a confidential informant” in the matter.
+
+Ms. Fleming said that although “the nuisance action was totally separate from the
+police corruption investigation,” trial counsel “later tried to tie the two together” by
+claiming that Mr. Murfik lied when he denied an ownership interest in Club Vision. Trial
+counsel theorized that the State “was collaterally estopped from . . . allowing Mr. Murfik
+to say he wasn’t an owner” when the State had listed him as an owner in the nuisance
+action.
+
+Ms. Fleming said that neither Mr. Murfik nor Ms. Lopez-Murik were ever accused
+by investigators of “paying a bribe to police officers.” Ms. Fleming recalled that trial
+counsel attempted to present testimony from one of the officers who had participated in the
+scheme, Timothy Green, but the record is unclear as to when this occurred and Ms. Fleming
+could not recall the substance of Green’s proffered testimony. The trial court did not allow
+trial counsel to call Green as a witness.
+
+When asked by Petitioner about an alleged conversation she had with Mr. Murfik at
+the conclusion of his trial testimony, Ms. Fleming adamantly denied that Mr. Murfik told
+her that he had accidentally testified about the first time Petitioner robbed him in October
+instead of the December incident, saying, “If he had told me that, I would have told the
+Court immediately. So if I didn’t immediately tell the Court and report that to the Court, it
+didn’t happen.” She adamantly maintained that Mr. Murfik “did not ever tell me that he
+testified falsely at trial” and that “[i]f he told me that he had testified falsely at trial, I would
+have notified everybody as soon as he told me.” Similarly, Ms. Fleming testified that if
+she had discovered any prior convictions for Mr. Murfik prior to trial, she would have
+disclosed them to trial counsel.
+
+During cross-examination by the State, Ms. Fleming said that Petitioner’s shooting
+of Mr. Murfik was unrelated to any of the information about Club Vision or the police
+corruption investigation and “was simply an issue of impeachment.” She explained, “[T]he
+nuisance action was separate until [trial counsel] created the rather novel legal theory that
+collateral estoppel somehow created a perjury charge against Mr. Murfik.” When asked
+about trial counsel’s representation of Petitioner, Ms. Fleming said, “It is hard to imagine
+anybody who could have gone to greater efforts . . . than [trial counsel] did. He came up
+
+4
+
+with some of the most novel, creative theories of law I’ve ever heard and by that time I’d
+already been a prosecutor for quite a while.”
+
+The pro se Petitioner testified by having advisory counsel pose questions Petitioner
+had prepared. As is relevant to this appeal, Petitioner claimed that after Mr. Murfik testified
+at trial, Petitioner overheard Mr. Murfik tell Ms. Fleming that “he had made a mistake” and
+testified “about the October 18th case, not to the December 7th case that was in trial.” He
+claimed that Ms. Fleming admitted as much at the hearing on the motion for new trial.
+
+Petitioner claimed that trial counsel failed to exercise “due diligence” when
+“investigating” Mr. Murfik and that, had he done so, he would have discovered that “Mike
+Murfik has been deceased since 1999.” He insisted that the indictment, which named
+“Mike Murfik” as the victim, was void because the State had “no grounds for jurisdiction”
+of a “deceased person” and that he was “convicted on false identity of an individual
+portraying to be someone that he wasn’t.” Petitioner maintained that the person who
+testified in court claiming to be the victim was not Mike Murfik as named in the indictment
+and was, instead, “100% fake.”
+
+Petitioner recalled that his first attorney filed a motion to suppress the pretrial
+identifications made by the Murfiks and that the trial court held a hearing on that issue.
+Petitioner agreed that both Mr. Murfik and Ms. Lopez-Murfik testified at the hearing that
+Petitioner was the person who attacked Mr. Murfik in the driveway of their home.
+Petitioner insisted, however, that he did not know “who that guy is” that testified “as Mr.
+Murfik,” claiming that “he was a complete stranger to everybody in that courtroom, except
+the State of Tennessee.” Petitioner admitted that he did not tell his trial counsel because
+he “actually thought he was Mike Murfik” until he “got that newly discovered evidence”
+in the form of the death certificate “that told me he wasn’t Mike Murfik.”
+
+When the post-conviction court asked why Petitioner admitted at the sentencing
+hearing that he shot Mr. Murfik, Petitioner insisted, “I did not know that man.” He admitted
+that he did not tell the trial judge that the man who testified was not Mike Murfik because
+he “thought he was Mike Murfik.” Upon further questioning by the State, Petitioner
+acknowledged that he wrote several letters to the trial judge and that in one letter, he
+admitted that he was “guilty of having a weapon and shooting Mr. Murfik in the leg.”
+
+The court also held a hearing to determine whether Petitioner would be permitted to
+impeach Mr. Murfik “with all this stuff going on with his club.” The court ruled that the
+information was inadmissible. Petitioner claimed that the trial court ruled that, had Mr.
+Murfik and Ms. Lopez-Murfik testified that they owned the club and that they were aware
+of a robbery and extortion scheme, the defense would be allowed to impeach them with
+that information. Because they testified that they were not running the club, information
+about the scheme was deemed irrelevant. Petitioner admitted that trial counsel argued at
+the hearing on the motion for new trial that the trial court erred by ruling that he would not
+
+5
+
+be permitted to use information about Mr. Murfik and Ms. Lopez-Murfik to impeach them
+during trial. As stated above, Petitioner presented this issue as a ground for relief on his
+direct appeal, but this court found he had waived the issue by failing to properly raise it at
+trial. See Crawford, 2017 WL 5466671 at *4-6.
+
+Petitioner agreed that the Murfiks alleged that Petitioner had robbed them on two
+different occasions and that it was Ms. Lopez-Murfik’s testimony about the other robbery
+that caused the first trial to end in a mistrial. Petitioner claimed that he wanted the
+descriptions of the perpetrator provided by Mr. Murfik and Ms. Lopez-Murfik for both
+incidents to come in at the second trial but no details about the other robbery. Petitioner
+insisted that Mr. Murfik testified inconsistently during the two trials but did not point to
+any specific inconsistency. He agreed that Ms. Lopez-Murfik identified him as the person
+who had attacked Mr. Murfik and who she shot during the attack. He also agreed that Ms.
+Lopez-Murfik shot him during the incident.
+
+During redirect examination, Petitioner insisted, “When Mr. Murfik got off the stand
+he ended up approaching Ms. Stark and he told her that he had made a mistake and he
+testified about the incident that happened in October, at the December trial.” He also
+claimed that the State violated his right to confront the witnesses against him, saying,
+“[M]y accuser is Mike Murfik and if you bring me anyone other than Mike Murfik into
+this courtroom and he gives testimony, I have a right to face my accuser and my accuser is
+Mike Murfik.”
+
+Ms. Lopez-Murfik testified that she and Mr. Murfik, whose full name was Abdel
+Aziz-Mike Murfik, were married in Detroit more than twenty years prior to the hearing.
+Ms. Lopez-Murfik identified Petitioner as the person who attacked her husband, Abdel
+Aziz-Mike Murfik. When Petitioner asked, “who is Mike Murfik,” Ms. Lopez-Murfik
+replied, “Him. His name is also Mike. His name is Abdel Aziz-Mike Murfik.” She said
+that Mr. Murfik typically went by “Mike.” Ms. Lopez-Murfik said that her husband had
+never been to federal prison.
+
+Mr. Murfik testified that his full name was Abdel Aziz-Mike Murfik and admitted
+that he had a federal conviction under the name Abdel Mike Murfik. Mr. Murfik said that
+although he was convicted, he did not serve any time in confinement. He said that he had
+no idea how the federal government had listed his name on the docket, but he said that he
+provided his social security card bearing his full name, Abdel Aziz-Mike Murfik.
+
+When presented with a death certificate bearing the name “Mike Murfik,” Mr.
+Murfik explained that it was for his father, who was born in 1932 and died in 1999. Mr.
+Murfik said that when he was interviewed by the police following the incident that led to
+Petitioner’s convictions, he provided them with his driver’s license, which says Abdel
+Aziz-Mike Murfik. When they asked what he went by, “I told them it was Mike Murfik.”
+
+6
+
+He added, “My full name is Abdel Aziz-Mike Murfik. Nobody calls me, [h]ey, Abdel Aziz-
+Mike Murfik, they call me Mike Murfik.”
+
+During cross-examination, Mr. Murfik said that Petitioner and his friend, Jeff
+Wheeling, attacked him, held him at gunpoint, took his keys, and attempted to kill him.
+Petitioner shot him, and Ms. Lopez-Murfik shot Petitioner, who ran away.
+
+Trial counsel testified that he was aware that Mr. Murfik’s first name was Abdel,
+“but everyone called him Mike Murfik.”
+
+Trial counsel described Mr. Murfik as “a slippery individual” who had worked as a
+confidential informant “in the Tarnished Badge investigation.” He claimed that Ms.
+Fleming “was opposed at every turn to give up anything on Mr. Murfik and [the trial court]
+largely ruled in her favor.” He said that part of the State’s theory of the case was that there
+was only a single shooting in Memphis on the night of the offense, which counsel called
+“a dubious theory.” His strategy was to attack that theory and the identification on grounds
+that Mr. Murfik and his wife “were not reliable witnesses.”
+
+Trial counsel recalled that Mr. Murfik had a conversation with Ms. Fleming after
+leaving the stand and said that Petitioner told him that Mr. Murfik told Ms. Fleming that
+he had testified to facts about the October robbery. Trial counsel attempted to recall Mr.
+Murfik to discuss the conversation, but the trial court refused, saying that Mr. Murfik was
+no longer under subpoena. Trial counsel then subpoenaed Mr. Murfik, but the trial court
+still would not allow counsel to recall him to the stand. Trial counsel then attempted to
+introduce Mr. Murfik’s testimony from the first trial, but the trial court would not allow it.
+
+Trial counsel testified that he did not conduct “an NCIC investigation” for Mr.
+Murfik because “defense attorneys do not have access to NCIC.” He was aware of Mr.
+Murfik’s participation in the “Tarnished Badge Operation,” but the trial court ruled that
+that information was inadmissible because it had no impeachment value. Counsel said that
+he “litigated it ad nauseum” without any relief from the trial court.
+
+Trial counsel said that he advised Petitioner not to offer an allocution at the
+sentencing hearing, but Petitioner insisted. Counsel said, “I blocked much of it out, but it
+was a horrendous allocution.” He recalled that Petitioner “alleged, basically, he hadn’t
+been given a fair trial, that there was, you know, this conspiracy. And it . . . was like if you
+wrote a sitcom of everything not to say at an allocution, he checked all the boxes.”
+
+Shelby County Sheriff’s Office Lieutenant Jason Valentine testified and identified a
+written narrative that he created during the investigation into the Petitioner’s shooting Mr.
+Murfik in December 2009. In the narrative, Lt. Valentine stated that Mr. Murfik was a
+convicted felon. He said that he did not recall how he came to have that information. The
+narrative did not indicate that Lt. Valentine ran an NCIC check on Mr. Murfik, and he did
+
+7
+
+not recall running one. He said that officers searched the Murfiks’ residence following the
+December shooting because they learned after the October shooting that Mr. Murfik had a
+felony conviction and, as a result, “could not be around guns.” A single weapon was
+discovered during the search.
+
+Former Shelby County Sheriff’s Office Sergeant Trini Dean participated in the
+investigation. He said that it was not his practice to investigate victims, but he did
+occasionally “do some background into a victim just to get an overall feel for where a case
+may be going.” He agreed that it was not uncommon for victims of crime in Shelby County
+to also have criminal records. He said that, in fact, he had worked cases where the
+perpetrator became a victim during the same incident. Mr. Dean did recall the name Abdel
+Murfik but could not recall where he knew it from. When asked if Abdel Murfik was the
+victim in this case, he replied, “If Abdel Murfik was an . . . alias or a -- a name that he was
+associated with before, yes, he was the victim. They would be one in the same.”
+
+Petitioner attempted to call Timothy Green as a hearing witness, claiming that that
+he was “pretty sure” that Mr. Green would testify about “who made the payments to him.”
+The State objected, arguing that the testimony was irrelevant to the post-conviction
+proceeding. The post-conviction court agreed and ruled that Petitioner would not be
+allowed to call Mr. Green.
+
+In its written order denying relief, the post-conviction court concluded that although
+“it is incumbent upon [trial counsel] to request and ensure he receives all discoverable
+information,” Petitioner was aware that Mr. Murfik had a prior felony conviction but “did
+not tell [trial counsel] that there had been testimony that [Mr. Murfik] had a prior
+conviction.” The court determined that Petitioner was not prejudiced by trial counsel’s
+failure to independently discover the information about Mr. Murfik’s prior conviction
+because “[t]here was overwhelming evidence to support the Petitioner’s guilt.” The court
+noted that Petitioner arrived at a nearby hospital with a gunshot wound shortly after Ms.
+Lopez-Murfik shot one of Mr. Murfik’s assailants, that both Mr. Murfik and Ms. Lopez-
+Murfik identified Petitioner from a photographic lineup as the assailant whom Ms. Lopez-
+Murfik had shot, and that Petitioner admitted at the sentencing hearing that he shot Mr.
+Murfik. The court found that trial counsel’s trial “strategy and his actions were reasonable”
+under the circumstances. The court determined that trial counsel’s failure to re-call Mr.
+Murfik during the defense case-in-chief did not prejudice Petitioner because the evidence
+of his guilt was overwhelming. Similarly, the post-conviction court concluded that
+Petitioner failed to establish that this court would have granted relief on direct appeal had
+counsel relied on Rule 608(b) to challenge the trial court’s refusal to permit him to impeach
+Mr. Murfik with the information related to the police corruption investigation. Finally, the
+court concluded that although trial counsel performed deficiently by failing to make an
+offer of proof regarding the alleged conversation between Mr. Murfik and Ms. Fleming
+during the trial, Petitioner could not establish that he was prejudiced by the deficiency.
+
+8
+
+The post-conviction court also concluded that the State had not committed a Brady
+violation by failing to disclose Mr. Murfik’s criminal history to trial counsel before
+Petitioner’s first trial. The court found that the State had no duty to disclose the information
+and that, in any event, both “Petitioner and his counsel were present in the prior hearing
+where the information was originally disclosed.”
+
+Analysis
+
+In this appeal, Petitioner claims that the post-conviction court erred by denying him
+relief, arguing that he was deprived of the effective assistance of counsel and the due
+process of law.
+
+Post-conviction relief is available only “when the conviction or sentence is void or
+voidable because of the abridgment of any right guaranteed by the Constitution of
+Tennessee or the Constitution of the United States.” Tenn. Code Ann. § 40-30-103. A post-
+conviction petitioner bears the burden of proving his or her factual allegations by clear and
+convincing evidence. Id. § 40-30-110(f). The post-conviction court’s findings of fact are
+conclusive on appeal unless the evidence preponderates against them, see Henley v. State,
+960 S.W.2d 572, 578-79 (Tenn. 1997); Bates v. State, 973 S.W.2d 615, 631 (Tenn. Crim.
+App. 1997), but the court’s conclusions of law receive no deference or presumption of
+correctness on appeal, see Fields v. State, 40 S.W.3d 450, 453 (Tenn. 2001).
+
+I. Ineffective Assistance of Counsel
+
+Petitioner first asserts that he was deprived of the effective assistance of counsel,
+claiming that trial counsel performed deficiently by “inadvertently waiving arguments
+regarding impeachment,” by failing to discover and use Mr. Murfik’s prior federal
+conviction to impeach him at trial, and by failing to ask for a mistrial when Mr. Murfik
+“testified about another crime involving himself and” Petitioner. The State contends that
+post-conviction court correctly properly denied relief.
+
+When considering a claim of ineffective assistance of counsel, a reviewing court
+“begins with the strong presumption that counsel provided adequate assistance and used
+reasonable professional judgment to make all significant decisions,” and “[t]he petitioner
+bears the burden of overcoming this presumption.” Kendrick v. State, 454 S.W.3d 450, 458
+(Tenn. 2015) (citation omitted). To meet his burden, the petitioner must clearly and
+convincingly establish facts to support a conclusion that “the advice given, or the services
+rendered by the attorney, are [not] within the range of competence demanded of attorneys
+in criminal cases,” see Baxter v. Rose, 523 S.W.2d 930, 936 (Tenn. 1975), and that counsel’s
+deficient performance “actually had an adverse effect on the defense,” Strickland v.
+Washington, 466 U.S. 668, 693 (1984). To do so, the petitioner “must show that there is a
+reasonable probability that, but for counsel’s unprofessional errors, the result of the
+proceeding would have been different. A reasonable probability is a probability sufficient
+
+9
+
+to undermine confidence in the outcome.” Id. at 694. Should the petitioner fail to establish
+either deficient performance or prejudice, he is not entitled to relief. Id. at 697; Goad v.
+State, 938 S.W.263, 370 (Tenn. 1996). “If it is easier to dispose of an ineffectiveness claim
+on the ground of lack of sufficient prejudice, . . . that course should be followed.”
+Strickland, 466 U.S. at 697.
+
+We will not grant the petitioner the benefit of hindsight, second-guess a reasonably
+based trial strategy, or provide relief based on a sound, but unsuccessful, tactical decision
+made during the course of the proceedings. Adkins v. State, 911 S.W.2d 334, 347 (Tenn.
+Crim. App. 1994). Such deference to the tactical decisions of counsel, however, applies
+only if the choices are made after adequate preparation for the case. Cooper v. State, 847
+S.W.2d 521, 528 (Tenn. Crim. App. 1992).
+
+A. Impeachment of Mr. Murfik
+
+1. Specific Instances of Conduct
+
+Petitioner contends that trial counsel performed deficiently by failing to argue that
+Mr. Murfik’s “prior bad acts” were admissible under Tennessee Rule of Evidence 608,
+pointing to this court’s conclusion that the issue of the admissibility of this evidence was
+waived on appeal for failure to properly preserve it. On direct appeal, counsel argued that
+the trial court erred by denying his bid to “impeach Murfik and Lopez with ‘evidence of
+their involvement in bribing local police’ pursuant to Tennessee Rule of Evidence 608(b)”
+and “by failing to conduct a jury-out hearing pursuant to Rule 608(b), . . . not allowing trial
+counsel to make an offer of proof on the issue until the motion for new trial, and . . . basing
+the court’s ruling on Tennessee Rule of Evidence 404(b), not Rule 608(b).” Crawford,
+2017 WL 5466671, at *4. We noted that Petitioner’s original counsel moved for a hearing
+pursuant to Rule 608(b) prior to the first trial “to ‘determine the admissibility of prior bad
+acts’” allegedly committed by Mr. Murfik. Id. Before the retrial, trial counsel moved the
+trial court to reconsider its ruling, but he raised the issue as “relating to” evidence rules
+404(b), 608, and 613. Id. No transcript of a hearing on the motion was included in the
+record on direct appeal, but when trial counsel renewed his objection at trial, he relied only
+on Rule 404(b) “and based his objection on entirely different factual grounds.” Id. Then,
+at the hearing on the motion for new trial, trial counsel again relied solely on Rule 404(b),
+and the trial court determined that there had been no error under that rule. Thus, we
+concluded that Petitioner had waived the issue of the admissibility of the alleged prior bad
+acts under Rule 608 by failing to properly preserve it in his motion for new trial. See id.,
+2017 WL 5466671, at *5.
+
+The post-conviction court determined that Petitioner had not demonstrated
+prejudice from trial counsel’s failure to preserve the issue because he failed to establish
+that this court would have granted relief on direct appeal had counsel relied on Rule 608(b).
+We agree with this assessment.
+
+10
+
+First, contrary to Petitioner’s assertion, no evidence established that Mr. Murfik was,
+in fact, involved in the police corruption investigation, much less that he had committed
+any act related to the investigation that would have been admissible under Rule 608. Rule
+608(b) provides, in pertinent part, as follows:
+
+Specific instances of conduct of a witness for the purpose of attacking
+or supporting the witness’s character for truthfulness, other than convictions
+of crime as provided in Rule 609, may not be proved by extrinsic evidence.
+They may, however, if probative of truthfulness or untruthfulness and under
+the following conditions, be inquired into on cross-examination of the
+witness concerning the witness’s character for truthfulness or untruthfulness
+or concerning the character for truthfulness or untruthfulness of another
+witness as to which the character witness being cross-examined has testified.
+The conditions which must be satisfied before allowing inquiry on cross-
+examination about such conduct probative solely of truthfulness or
+untruthfulness are:
+
+(1) The court upon request must hold a hearing outside the jury’s
+presence and must determine that the alleged conduct has probative value
+and that a reasonable factual basis exists for the inquiry;
+
+(2) The conduct must have occurred no more than ten years before
+commencement of the action or prosecution, but evidence of a specific
+instance of conduct not qualifying under this paragraph (2) is admissible if
+the proponent gives to the adverse party sufficient advance notice of intent
+to use such evidence to provide the adverse party with a fair opportunity to
+contest the use of such evidence and the court determines in the interests of
+justice that the probative value of that evidence, supported by specific facts
+and circumstances, substantially outweighs its prejudicial effect[.]
+
+Tenn. R. Evid. 608(b)(1)-(2).
+
+Here, Petitioner has failed, as he did in the trial court, to establish that any specific
+instance of Mr. Murfik’s conduct that would have been admissible under this rule. Ms.
+Fleming confirmed that no evidence suggested the Murfiks were paying police officers and
+that neither was “ever accused by the police of paying a bribe to police officers.” She noted
+that the parties and the trial court were privy to “transcripts and information” from the
+federal investigation that, she said, “never implicated Mr. Murfik in any shape, form, or
+fashion.” She said that despite this lack of proof, trial counsel attempted to connect Mr.
+Murfik’s inclusion in the separate nuisance action to the police corruption investigation
+and to “to create an impeachable event at a hearing trying to see if he could be impeached
+on something else.”
+
+11
+
+Although he claims to have “obtained evidence that Mike Murfik engaged in the
+bribing of police officers[] and was the owner of the club which was under investigation
+for that conduct,” he did not present any such evidence at the evidentiary hearing.
+Furthermore, Rule 608(b) prohibits the use of extrinsic evidence to prove specific instances
+of conduct. See Tenn. R. Evid. 608(b) (“Specific instances of conduct of a witness for the
+purpose of attacking or supporting the witness’s character for truthfulness . . . may not be
+proved by extrinsic evidence.”). Because Rule 608(b) prohibits the use of extrinsic
+evidence, the post-conviction court did not err by ruling that Petitioner would not be
+permitted to call Mr. Green to testify about the police corruption investigation.
+
+Finally, and perhaps most importantly, any error in the omission of this evidence
+was harmless given the overwhelming proof of Petitioner’s guilt. Both Mr. Murfik and
+Ms. Lopez-Murfik identified Petitioner prior to trial and at trial as the assailant who was
+shot by Ms. Lopez-Murfik as he attacked Mr. Murfik. Petitioner arrived with a gunshot
+wound at a hospital that was near the Murfiks’ residence but not near the location where
+Petitioner claimed to have been with his girlfriend. At the sentencing hearing, Petitioner
+admitted shooting Mr. Murfik. Thus, even had trial counsel properly preserved the issue,
+this court would not have granted him relief, and, accordingly, the post-conviction court
+did not err by denying relief on this issue.
+
+2. Prior Conviction
+
+Petitioner also asserts that trial counsel was ineffective for failing to discover and
+use Mr. Murfik’s prior felony conviction to impeach Mr. Murfik at trial. 3 The post-
+conviction court concluded that Petitioner was not prejudiced by counsel’s failure to
+independently discover the information about Mr. Murfik’s prior conviction because
+“[t]here was overwhelming evidence to support the Petitioner’s guilt.” We agree with this
+assessment but also observe that although Petitioner presented evidence that Mr. Murfik
+had been convicted of a felony in federal court, Petitioner did not, at any point, present any
+proof of the precise nature or age of that conviction.
+
+Mr. Murfik candidly acknowledged that he did have a federal conviction, and Lt.
+Valentine testified that the conviction was for a felony that prevented Mr. Murfik from
+owning a firearm. However, Petitioner did not present a certified copy of the conviction
+so that the court could determine whether it would have been admissible pursuant to
+Tennessee Rule of Evidence 609. See Tenn. R. Evid. 609(a)(1)-(2) (providing that
+convictions for offenses “punishable by death or imprisonment in excess of one year” or
+involving “dishonesty or false statement” “may be established by public record”); (b)
+
+3
+Petitioner’s related claim that the State intentionally listed Mr. Murfik’s name only as “Mike
+Murfik” in the indictment to prevent discovery of the convictions and to “deceive” the jury was not borne
+out by the proof and does not warrant further discussion by this court.
+12
+
+(imposing ten-year time limit for admission of prior convictions unless certain conditions
+are met). Without specific information about Mr. Murfik’s conviction, it is impossible to
+determine whether it would have been admissible at trial. Moreover, given the
+overwhelming proof of Petitioner’s guilt, it is not reasonable to conclude that the outcome
+of the trial would have been different had trial counsel introduced evidence of Mr. Murfik’s
+prior conviction.
+
+B. Mr. Murfik’s Conversation with Ms. Fleming
+
+Petitioner claims that trial counsel was ineffective for failing to properly preserve
+the issue relating to Mr. Murfik’s alleged conversation with Ms. Fleming following his trial
+testimony. The post-conviction court determined that trial counsel’s failure to re-call Mr.
+Murfik during the defense case-in-chief did not prejudice Petitioner because the evidence
+of his guilt was overwhelming.
+
+In our view, Petitioner failed to establish that trial counsel performed deficiently in
+this regard. First, although Petitioner claimed that Mr. Murfik told Ms. Fleming that he
+had testified about the facts of the first time that Petitioner shot and attempted to rob him
+rather than the second, Ms. Fleming denied that any such conversation took place. Trial
+counsel testified that he did not hear the conversation. Petitioner did not ask Mr. Murfik
+about the alleged conversation and did not present any evidence to suggest that Mr. Murfik
+testified about the wrong incident. Given that Mr. Murfik testified at both the first and
+second trials, it should have been a simple matter of highlighting any inconsistencies by
+using transcripts of his testimony at both trials. Petitioner did not do this, and, in
+consequence, he cannot establish that trial counsel performed deficiently in his handling of
+this issue.
+
+I. Due Process
+
+Petitioner insists that he was deprived of due process by the State’s failure to provide
+trial counsel with Mr. Murfik’s criminal history as required by Brady v. Maryland, 373 U.S.
+83 (1963), by the post-conviction court’s refusal to allow him to admit certain evidence,
+and by the post-conviction court’s failure to properly exercise its role as thirteenth juror.
+The State asserts that Petitioner’s claims are waived or without merit. We agree with the
+State.
+
+A. Brady Claim
+
+Petitioner insists that the State’s failure to disclose Mr. Murfik’s criminal history
+prior to trial violated Brady, but because Petitioner could have presented this claim on
+direct appeal, it is waived. See Tenn. Code Ann. § 40-30-106(g) (“A ground for relief is
+waived if the petitioner personally or through an attorney failed to present it for
+
+13
+
+determination in any proceeding before a court of competent jurisdiction in which the
+ground could have been presented.”).
+
+B. Post-Conviction Court’s Evidentiary Rulings
+
+Petitioner claims that the post-conviction court erred by refusing to allow him to
+present evidence to support his claim that Mr. Murfik was not, in fact, the Mike Murfik
+named in the indictment or that Mr. Murfik was involved in the police corruption scheme.
+Simply stated, the court did not err.
+
+The post-conviction court granted the pro se Petitioner considerable leeway in
+pursuing his novel theory regarding Mr. Murfik’s identity. Mr. Murfik testified that his full
+name was Abdel Aziz-Mike Murfik and that he went by “Mike.” That ends the inquiry.
+Moreover, for the offenses charged in the indictment, “the identity of the victim does not
+serve to identify the crime,” and, accordingly, the name “of the victim is not an essential
+element of the crime, and the charging instrument is not defective merely for failing to
+identify the victim.” State v. Clark, 2 S.W.3d 233, 235 (Tenn. Crim. App. 1998). Thus,
+even if Mr. Murfik’s name was listed incorrectly, it would have no effect on the indictment
+or Petitioner’s convictions.
+
+C. Thirteenth Juror/Motion for New Trial
+
+Petitioner’s final claim is confusing. He claims that “the motion for new trial
+hearing is not completed” and that, as a result, “a genuine question still exists on this matter
+as to if the appellate court every properly received subject matter jurisdiction after the
+Motion for New Trial Hearing.” He says that the trial court’s failure to rule on “all the
+relevant issues” equated to a failure to exercise its role as thirteenth juror, and that, because
+the original trial judge retired, the current trial judge “is not in a position” to exercise that
+role, mandating a new trial.
+
+Any issues regarding the jurisdiction of this court on direct appeal or the trial court’s
+exercise of its role as thirteenth juror should have been raised on direct appeal but were
+not. Accordingly, they are waived. See Tenn. Code Ann. § 40-30-106(g). These issues are
+also waived for failure to raise them in the post-conviction court. An appellant cannot raise
+an issue for the first time on appeal or change his arguments on appeal. See Lawrence v.
+Stanford, 655 S.W.2d 927, 929 (Tenn. 1983); State v. Hardison, 680 S.W.3d 282, 309 (Tenn.
+Crim. App. 2023); see also Tenn. R. App. P. 36(a).
+
+II. Cumulative Error
+
+To the extent that Petitioner seeks relief based upon the cumulative effect of the
+alleged errors, he is not entitled to relief because he has failed to show any errors to
+
+14
+
+accumulate. See State v. Hester, 324 S.W.3d 1, 77 (2010) (“To warrant assessment under
+the cumulative error doctrine, there must have been more than one actual error . . . .”).
+
+Conclusion
+
+Based upon the foregoing analysis, we affirm the judgment of the post-conviction
+court.
+
+s/ Matthew J. Wilson
+MATTHEW J. WILSON, JUDGE
+
+15

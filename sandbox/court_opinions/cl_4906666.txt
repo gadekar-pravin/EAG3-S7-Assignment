@@ -1,0 +1,375 @@
+=========================================================
+Case: State v. Passio
+Court: Court of Appeals of South Carolina
+Date Filed: 2021-08-04
+Citations: 
+URL: https://www.courtlistener.com/opinion/4906666/state-v-passio/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Richard Passio, Jr., Appellant.
+
+Appellate Case No. 2018-001488
+
+Appeal From Jasper County
+Carmen T. Mullen, Circuit Court Judge
+
+Opinion No. 5841
+Heard June 17, 2021 – Filed August 4, 2021
+
+AFFIRMED
+
+Elizabeth Anne Franklin-Best, of Elizabeth
+Franklin-Best, P.C., of Columbia, for Appellant.
+
+Attorney General Alan McCrory Wilson, Senior Deputy
+Attorney General Donald J. Zelenka, Assistant Deputy
+Attorney General Melody Jane Brown, and Assistant
+Attorney General William Frederick Schumacher, IV, all
+of Columbia, for Respondent.
+
+LOCKEMY, C.J.: Richard Passio Jr. appeals his conviction for the murder of his
+wife, Michelle Passio (Victim), and sentence of thirty years' imprisonment. On
+appeal, Passio argues the trial court erred by denying his motion for a directed
+verdict and by admitting a screenshot of his Facebook page. We affirm.
+
+FACTS/PROCEDURAL HISTORY
+
+Passio and his family owned and managed a restaurant in Ridgeland. Victim
+occasionally worked as a server when she was not taking care of their eight
+children. At 5:52 a.m. on June 3, 2019, Passio called 911 to report Victim had shot
+herself in their home.
+
+Lieutenant Joey Ginn responded to Passio's home around 6:00 a.m. and met Passio
+on the porch. Passio had blood on his hands and dried blood on his clothing.
+Upon entering the home, Lieutenant Ginn found Victim deceased on the couch.
+He observed Victim had a gunshot wound under her chin and an exit wound at the
+top of her head. He saw a pool of blood on the floor and a child sleeping in a
+bassinet a few feet away. Law enforcement found a 9mm handgun, which had a
+spent shell casing in its chamber, on the floor next to Victim and an empty black
+case in the trunk of Passio's car.
+
+Corporal Chris McIntosh testified he found three bullet strikes throughout the
+home: one in the ceiling of the room where he found Victim and two in an adjacent
+room. He stated Victim's body was cold to the touch, the room smelled of the
+early stages of decomposition, and the blood on the floor had coagulated. He
+testified Passio had a gash on his hand from the slide of the firearm.
+
+Ryan Altman, a responding EMT, testified Victim's arm was cold to the touch and
+the blood on the floor had begun to coagulate. He testified the cut on Passio's hand
+was "crusty" and dry. Altman stated Victim had a workable cardiac rhythm but her
+injuries were inconsistent with life. Michael Singleton, the responding paramedic,
+testified Victim's skin was cyanotic and ashen,1 and her blood had begun to
+coagulate. He explained Victim had no blood movement and no electrical activity.
+
+Victim's hands tested positive for gunshot residue. The firearm's trigger had a
+mixture of Passio's and Victim's DNA on it. The firearm's slide and the gun case
+tested positive for Passio's DNA but not Victim's.
+
+Ivey Bryan, a neighbor, testified that between 1:00 a.m. and 3:00 a.m., he heard
+arguing in Passio's home. He recalled that shortly after the argument, he heard
+four gunshots. Juanita Patrum, Victim's friend and neighbor, stated she was awake
+between 4:30 a.m. and 5:00 a.m. but did not hear any gunshots.
+
+1
+Cyanotic and ashen skin is a bluish or purplish discoloration of the skin and
+mucous membranes caused by deficient oxygenation of the blood.
+
+Jordan Moser testified she was bartending at Schooner's bar in Ridgeland the night
+Victim died. She explained Victim came to Schooner's that night, and appeared to
+be in good spirits. Sometime after midnight, Passio called the bar asking for
+Victim because he expected her to be home by midnight. Moser explained that a
+few minutes later Passio arrived and began arguing with Victim. She stated he was
+so angry he slapped a cigarette out of Victim's hand. Angel Rose, a friend of
+Victim who was in the bar that night, testified similarly to Moser.
+
+Brandon Ashcraft, one of Passio's former employees, testified he had an affair with
+Victim. He explained Passio heard rumors of the affair and confronted him about
+them. Ashcraft stated he denied those rumors to Passio. Ashcraft stated Passio
+kept a firearm in a black case in the restaurant's office and that it was kept there
+because Passio was afraid Victim was suicidal. Ashcraft testified that on the night
+of the incident, he was in the bar with Victim, Moser, and Rose, when Passio came
+in and began to argue with Victim. He recalled Passio angrily slapped a cigarette
+out of Victim's hand, and Victim left the bar. Ashcraft testified Passio told him he
+was going to go back to his restaurant to grab alcohol. Ashcraft believed this was
+weird because there was no alcohol there after the restaurant lost its liquor license.
+Surveillance video showed Passio enter his restaurant and retrieve a black case at
+1:55 a.m. Ashcraft explained that around 2:00 a.m., Passio came to Ashcraft's
+house to borrow a baby bottle. Ashcraft testified Passio told him about how bad
+Passio's and Victim's relationship was and stated, "I hope tonight's not the night,"
+referring to Victim killing herself.
+
+Lisa and Otto Helbig, former employees at the restaurant, also testified Passio kept
+a handgun in a black case in the restaurant's office. Carla Ashcraft, Victim's
+friend, testified she referred Victim to Catherine Badgett, a divorce attorney.
+Badgett stated she referred Victim to a domestic abuse shelter and to South
+Carolina Legal Services. The State rested, and Passio moved for a directed verdict
+arguing the State failed to present substantial circumstantial evidence of his guilt.
+The trial court denied Passio's motion.
+
+Dr. Sarah Stuchell testified she was Victim's and Passio's psychologist and marital
+counselor. She stated Victim denied suicidal ideation, but explained she suffered
+from bipolar disorder and anxiety. She testified Passio suffered from anxiety,
+obsessive-compulsive disorder, and relationship distress.
+
+Passio and Victim's eleven-year-old daughter (Daughter) testified on the night of
+the incident, she heard two loud bangs and then Victim angrily say, "Do you want
+
+me to do it again?" Daughter stated she heard another shot followed by Passio
+crying. Daughter did not state what time she heard the shots.
+
+Richard Passio Sr. (Father) testified that he knew Passio "as well as any father can
+know his son." During cross-examination, the State asked Father about parts of
+Passio's life that he did not know about, such as Passio's Craigslist ad looking for
+love and Passio lying about being a police officer. The State asked if Father was
+familiar with Passio's Facebook. The State showed him a screenshot of Passio's
+Facebook profile, and Father testified he recognized the photograph but not the
+caption. Passio objected based on relevance and lack of authentication. The trial
+court admitted the screenshot of Passio's Facebook into evidence. The caption
+read, "I know who I am. I'm a dude, playing a dude, disguised as another dude."2
+At the close of Passio's case-in-chief, he renewed his directed verdict motion,
+which the trial court denied.
+
+During the State's closing argument, the State repeated Passio's Facebook caption
+and stated, "Well, he does know who he is, and he does know what he did. He
+knows the monster inside that he has tried to disguise. Don't be fooled by that
+disguise." The jury found Passio guilty of murder, and the trial court sentenced
+him to thirty years' imprisonment.
+
+ISSUES ON APPEAL
+
+1. Did the trial court err by denying Passio's motion for a directed verdict?
+
+2. Did the trial court err by admitting a screenshot from Passio's Facebook profile
+because it was irrelevant and unduly prejudicial?
+
+STANDARD OF REVIEW
+
+"When ruling on a motion for a directed verdict, the trial court is concerned with
+the existence or nonexistence of evidence, not its weight." State v. Hernandez, 382
+S.C. 620, 624, 677 S.E.2d 603, 605 (2009). "A defendant is entitled to a directed
+verdict when the state fails to produce evidence of the offense charged." Id. "If
+
+2
+This was a quote from the 2008 comedy, Tropic Thunder. See Tropic Thunder
+(DreamWorks 2008). In the film, Robert Downey Jr. plays Kirk Lazarus, an
+Australian method actor playing an African-American sergeant during the Vietnam
+War. Id. In one scene, he is asked, "Who are you," to which Downey Jr. responds,
+"Me? I know who I am. I'm a dude, playing a dude, disguised as another dude."
+
+there is any direct evidence or substantial circumstantial evidence reasonably
+tending to prove the guilt of the accused, the Court must find the case was properly
+submitted to the jury." State v. Frazier, 386 S.C. 526, 531, 689 S.E.2d 610, 613
+(2010). "When reviewing a denial of a directed verdict, an appellate court views
+the evidence and all reasonable inferences in the light most favorable to the State."
+Id.
+
+"The relevancy of evidence is an issue within the trial [court's] discretion." State v.
+Gillian, 373 S.C. 601, 612, 646 S.E.2d 872, 878 (2007). "The admission or
+exclusion of evidence is a matter addressed to the sound discretion of the trial court
+and its ruling will not be disturbed in the absence of a manifest abuse of discretion
+accompanied by probable prejudice." State v. Collins, 409 S.C. 524, 530, 763
+S.E.2d 22, 25 (2014) (quoting State v. Wise, 359 S.C. 14, 21, 596 S.E.2d 475, 478
+(2004)). "An abuse of discretion occurs when the conclusions of the trial court
+either lack evidentiary support or are controlled by an error of law." Id. (quoting
+Wise, 359 S.C. at 21, 596 S.E.2d at 478).
+
+LAW/ANALYSIS
+
+I. DIRECTED VERDICT
+
+Passio argues the trial court erred by denying his motion for a directed verdict
+because the State did not offer substantial circumstantial evidence of his guilt.
+Passio argues witnesses' testimony that Victim was cold to the touch, had
+coagulated blood, and had ashen skin was pseudo-scientific evidence that should
+have been discredited. Passio asserts no testimony proved the black case he
+retrieved from his restaurant contained the firearm used to kill Victim.
+
+"A case should be submitted to the jury when the evidence is circumstantial 'if
+there is any substantial evidence which reasonably tends to prove the guilt of the
+accused or from which his guilt may be fairly and logically deduced.'" State v.
+Bostick, 392 S.C. 134, 139, 708 S.E.2d 774, 776 (2011) (quoting State v.
+Mitchell, 341 S.C. 406, 409, 535 S.E.2d 126, 127 (2000)). However, "[t]he trial
+[court] should grant a directed verdict when the evidence merely raises a suspicion
+that the accused is guilty." Frazier, 386 S.C. at 531, 689 S.E.2d at 613.
+"'Suspicion' implies a belief or opinion as to guilt based upon facts or
+circumstances which do not amount to proof." State v. Pearson, 415 S.C. 463,
+469-70, 783 S.E.2d 802, 805 (2016) (quoting State v. Cherry, 361 S.C. 588, 594,
+606 S.E.2d 475, 478 (2004)). "[A] trial [court] is not required to find that the
+evidence infers guilt to the exclusion of any other reasonable hypothesis." Id. at
+
+470, 783 S.E.2d at 805 (2016) (quoting State v. Ballenger, 322 S.C. 196, 199, 470
+S.E.2d 851, 853 (1996)).
+
+[A]lthough the jury must consider alternative hypotheses,
+the court must concern itself solely with the existence or
+non-existence of evidence from which a jury could
+reasonably infer guilt. This objective test is founded
+upon reasonableness. Accordingly, in ruling on a
+directed verdict motion where the State relies on
+circumstantial evidence, the court must determine
+whether the evidence presented is sufficient to allow a
+reasonable juror to find the defendant guilty beyond a
+reasonable doubt.
+
+State v. Bennett, 415 S.C. 232, 237, 781 S.E.2d 352, 354 (2016).
+
+An examination of the following directed verdict cases is illustrative. In Bostick,
+the victim was knocked out inside her home and the home was then set on fire.
+392 S.C. at 136-37, 708 S.E.2d at 775. After interviewing appellant, investigators
+charged him with her murder. Id. at 137, 708 S.E.2d at 775. Investigators found
+blood on his jeans and gasoline on his shoes, and gasoline was the accelerant used
+to light the house on fire. Id. at 142, 708 S.E.2d at 778. The DNA test from the
+blood on his jeans was inconclusive but did not rule out the victim's DNA. Id. at
+137, 708 S.E.2d at 775-76. Investigators also found some of the victim's personal
+items in a burn pile behind appellant's mother's home. Id. at 137, 708 S.E.2d at
+775. On appeal, our supreme court reversed the trial court's denial of appellant's
+directed verdict motion. Id. at 141, 708 S.E.2d at 778. It held the evidence
+presented at trial merely raised a suspicion appellant committed the crime. Id. at
+141-42, 708 S.E.2d at 778.
+
+In State v. Arnold, the victim was shot and left off a dirt road in Colleton County.
+361 S.C. 386, 388, 605 S.E.2d 529, 530 (2004). Victim drove a friend's car to go
+to a dentist's appointment on the last day he was seen alive. Id. Evidence showed
+he withdrew money from an ATM that day, but he was not seen again until his
+body was discovered. Id. The car was found in a parking lot in Johnson City,
+Tennessee, and one of the State's witnesses testified that appellant called him from
+a phone ten miles from where the car was found. Id. at 389, 605 S.E.2d at 530. In
+the center console of the car, investigators found a coffee cup lid containing
+appellant's fingerprint. Id. Our supreme court affirmed this court and held
+appellant's fingerprint on the lid only established he was in the borrowed car on the
+
+last day the victim was seen alive, there was no evidence that appellant was at the
+scene of the crime, and while both appellant and the car were found in Tennessee,
+this only raised a suspicion of guilt and was not sufficient circumstantial evidence
+to show that appellant killed the victim. Id. at 390, 605 S.E.2d at 531.
+
+In Bennett, a community center was burglarized. 415 S.C. at 234, 781 S.E.2d at
+353. Evidence showed that a window had been shattered to facilitate entry; a
+television in the community room was tampered with, as if someone attempted to
+remove it; and a television and computer were stolen from the computer room. Id.
+Bennett was a frequent lawful visitor of the center, but testimony indicated he did
+not frequent the community room. Id. at 234-35, 781 S.E.2d at 353. Following the
+burglary, law enforcement lifted Bennett's fingerprint from the television in the
+community room. Id. at 234, 781 S.E.2d at 353. Additionally, law enforcement
+found two drops of blood matching Bennett's DNA where another television had
+been stolen. Id. The trial court denied Bennett's motion for a directed verdict, and
+the jury convicted him. Id. at 235, 781 S.E.2d at 353. Bennett appealed, and this
+court reversed his conviction, finding the evidence created only a suspicion of
+guilt. Id. Our supreme court reversed, holding this court had weighed the
+evidence and found a plausible alternate theory inconsistent with Bennett's guilt
+instead of determining whether any circumstantial evidence supported his guilt. Id.
+at 236-37, 781 S.E.2d at 354. It held forensic evidence placed Bennett inside of
+the community center, "and, more specifically, at the two places where the crimes
+had occurred," and that "[T]estimony suggested Bennett would have no reason to
+be in the community room." Id. at 237, 781 S.E.2d at 354.
+
+Given these cases and the standard this court applies when reviewing a motion for
+a directed verdict, we find the trial court did not err in denying Passio's directed
+verdict motion. See Frazier, 386 S.C. at 531, 689 S.E.2d at 613 ("When reviewing
+a denial of a directed verdict, an appellate court views the evidence and all
+reasonable inferences in the light most favorable to the State.").
+
+Viewing the evidence in the light most favorable to the State, evidence showed
+Victim was in good spirits and spending time with friends at a bar on the night of
+the incident. Later that evening, Passio went to the bar and fought with Victim and
+was angered enough to slap a cigarette out of Victim's hand. Passio left the bar and
+went to his restaurant, where he retrieved a black case, which was where he kept
+his handgun. Passio argues the State presented no evidence that the case from the
+surveillance video and his trunk held the gun used to kill Victim. However,
+witnesses testified Passio kept a firearm in the restaurant's office in a case similar
+to the one he carried out of the restaurant. In the light most favorable to the State,
+
+the jury could use this evidence to find Passio carried his firearm out of his
+restaurant on the night Victim died. The jury could also infer this was strong
+evidence of Passio's guilt because the firearm was involved in Victim's death on
+the first night it came back to the house.
+
+Moreover, the firearm had Passio's DNA on the trigger and slide and he admitted
+he was present when the fatal shot was fired. The jury could also reasonably infer
+Passio waited between two and four hours before calling 911 after Victim was
+shot. This timeline was evidenced by the dried blood on his pants, the blood
+coagulated on the floor, Bryan's testimony he heard four gunshots between the
+hours of 1:00 a.m. and 3:00 a.m., and Patrum's testimony she did not hear any
+gunshots between 4:30 a.m. and 5:00 a.m.3 Furthermore, Dr. Stuchell testified
+Victim denied suicidal ideation. The foregoing represents evidence from which a
+reasonable juror could find Passio guilty beyond a reasonable doubt. See State v.
+Bennett, 415 S.C. 232, 237, 781 S.E.2d 352, 354 (2016) ("[T]he court must
+determine whether the evidence presented is sufficient to allow a reasonable juror
+to find the defendant guilty beyond a reasonable doubt.").
+
+Finally, Passio asserts the State failed to supply evidence of motive because it
+failed to show that he knew Victim had an affair. However, evidence was
+presented that Passio knew of the rumors of the affair and found both Victim and
+Ashcraft at the same bar that night. Thus, the State presented evidence of motive
+regardless of whether he knew if those rumors were true. Moreover, motive is not
+an element of murder. See State v. Smith, 307 S.C. 376, 385, 415 S.E.2d 409, 414
+(Ct. App. 1992) ("[I]t is well settled that motive is not an element of murder and,
+therefore, the State need not prove motive."). We find all of this evidence
+establishes substantial circumstantial evidence that supported the trial court's denial
+of Passio's directed verdict motion.
+
+II. FACEBOOK SCREENSHOT
+
+Passio argues the trial court erred by admitting a screenshot of his Facebook profile
+because it was irrelevant. He asserts the movie quote was used to raise suspicion
+that Passio was lying about murdering Victim. We disagree.
+
+3
+Passio argues this court should discredit the blood evidence because it is
+pseudo-scientific testimony. However, the witnesses testified to the condition of
+Victim's blood and body as lay witnesses, not as expert witnesses. Moreover, the
+evidentiary value was cumulative to the direct testimony the State elicited from
+Bryan that he heard shots were fired between 1:00 a.m. and 3:00 a.m.
+
+For evidence to be admissible, it must be relevant. Rule 402, SCRE. "'Relevant
+evidence' means evidence having any tendency to make the existence of any fact
+that is of consequence to the determination of the action more probable or less
+probable than it would be without the evidence." Rule 401, SCRE. "Evidence is
+relevant if it tends to establish or make more or less probable some matter in issue
+upon which it directly or indirectly bears, and it is not required that the inference
+sought should necessarily follow from the fact proved." State v. Sweat, 362 S.C.
+117, 126-27, 606 S.E.2d 508, 513 (Ct. App. 2004). Evidence showing a witness's
+bias is relevant impeachment evidence. See Rule 608(c), SCRE ("Bias, prejudice
+or any motive to misrepresent may be shown to impeach the witness either by
+examination of the witness or by evidence otherwise adduced.").
+
+"I know who I am. I'm a dude, playing a dude, disguised as another dude." In its
+closing, the State used this quote to paint Passio as a man disguising the truth. In
+our view, the State is donning the disguise. The State argues its purpose for
+admitting this quote was to impeach Father's testimony and show bias; specifically,
+that he did not know Passio as well as he testified. Although the State used the
+vehicle of impeachment to admit this evidence, it seems its true guise was to show
+Passio was "disguised as another dude." Regardless, we affirm the trial court's
+ruling because this evidence was relevant to the State's asserted purpose.
+
+We find the trial court did not abuse its discretion because this evidence could be
+used to impeach Father's testimony and show his bias. When the State
+cross-examined Father, it asked questions that sought to elicit evidence Father was
+not as well acquainted with Passio's life as he testified he was. The State asked
+Father if he knew about Passio's Craigslist ad looking for love and if Father knew
+Passio had lied about being a police officer. Following those questions, the State
+asked Father if he was familiar with Passio's Facebook page. Father said he was
+familiar with it, and the trial court admitted the screenshot over Passio's objection.
+This screenshot was relevant to show Father did not know Passio as well as he
+testified. This evidence impeached Father's testimony by showing Father's
+potential bias and motive to misrepresent. Thus, we find the trial court did not
+abuse its discretion in admitting the screenshot because it had some probative
+value as to Father's bias.
+
+CONCLUSION
+
+Based on the foregoing, we find the trial court did not err in denying Passio's
+motion for a directed verdict and by admitting a screenshot of Passio's Facebook
+profile. According, Passio's conviction is
+
+AFFIRMED.
+
+HUFF and HEWITT, JJ., concur.

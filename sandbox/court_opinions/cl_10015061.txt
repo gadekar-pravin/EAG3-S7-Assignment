@@ -1,0 +1,355 @@
+=========================================================
+Case: State v. Stewart
+Court: Ohio Court of Appeals
+Date Filed: 2024-07-26
+Citations: 2024 Ohio 2831
+URL: https://www.courtlistener.com/opinion/10015061/state-v-stewart/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Stewart, 2024-Ohio-2831.]
+
+IN THE COURT OF APPEALS OF OHIO
+SECOND APPELLATE DISTRICT
+GREENE COUNTY
+
+STATE OF OHIO :
+:
+Appellant : C.A. No. 2023-CA-59
+:
+v. : Trial Court Case No. 2022 CR 0027
+:
+BRAD A. STEWART : (Criminal Appeal from Common Pleas
+: Court)
+Appellee :
+:
+
+...........
+
+OPINION
+
+Rendered on July 26, 2024
+
+...........
+
+MEGAN A. HAMMOND, Attorney for Appellant
+
+LUCAS W. WILDER, Attorney for Appellee
+
+.............
+
+HUFFMAN, J.
+
+{¶ 1} Plaintiff-Appellant State of Ohio appeals from the trial court’s decision
+
+granting Defendant-Appellee Brad A. Stewart’s motion to return seized money. Stewart’s
+
+motion requested the return of $1,779.17 in cash seized by the Xenia Police Division
+
+incident to Stewart’s drug offense arrest in August 2021. The State filed a response in
+
+-2-
+
+opposition, arguing that, given the existing and enforceable execution of judgment against
+
+Stewart in the amount of $3,145.45 related to his 2022 murder case, any property located
+
+within the territorial jurisdiction of Greene County, including the $1,779.17 in cash seized
+
+in a different case, was subject to execution to satisfy the judgment. For the reasons
+
+outlined below, we reverse the judgment of the trial court.
+
+I. Background Facts and Procedural History
+
+{¶ 2} In August 2021, Stewart was arrested on an active warrant issued by the
+
+Xenia Municipal Court; he was searched incident to his arrest at the scene and again at
+
+the jail. The searches yielded suspected cocaine and cash in the amount of $1,779.17.
+
+Stewart did not identify the source of the cash but indicated that he was unemployed. On
+
+January 20, 2022, he was indicted for one count of possession of cocaine in Greene C.P.
+
+No. 2022 CR 27 (the drug offense case).
+
+{¶ 3} On May 26, 2022, Stewart killed Jacob Scoby at the Roundtable Bar in Xenia.
+
+On June 3, 2022, he was indicted on 12 felony counts, which included one count of
+
+aggravated murder, in Greene C.P. No. 2022 CR 240 (the murder case). He was later
+
+convicted by a jury on all counts in the indictment.
+
+{¶ 4} On July 27, 2023, Stewart was sentenced to life in prison without the
+
+possibility of parole for aggravated murder, in addition to several shorter prison terms for
+
+the other 11 counts. The trial court also imposed financial sanctions against Stewart,
+
+including restitution to Scoby’s mother in the amount of $1,600, plus a 5% surcharge
+
+payable to the Clerk of Courts for the collection and processing of restitution payments
+
+and court costs. The trial court ordered that “[c]osts of proceedings are assessed against
+
+-3-
+
+the Defendant for which execution is hereby awarded.” The clerk of courts then issued a
+
+writ of execution in the amount of $3,145.45 against Stewart in Greene County Case No.
+
+2023 CE 119, by which any property located within the territorial jurisdiction of Greene
+
+County was subject to execution, including Stewart’s “goods and chattels.”
+
+{¶ 5} Also on July 27, 2023, the State moved to dismiss the indictment against
+
+Stewart in the drug offense case, and the trial court sustained this motion. On September
+
+1, 2023, Stewart filed a motion to return the seized money, requesting that the $1,779.17
+
+previously confiscated in the drug offense case be returned to his attorney and placed
+
+into his IOLTA trust account because there was no forfeiture in the drug offense
+
+indictment with respect to the cash. In response, the State argued that Stewart was not
+
+entitled to return of the seized funds, because judgment had been entered against
+
+Stewart for financial sanctions in the murder case and a writ of execution had been issued.
+
+{¶ 6} The trial court granted Stewart’s motion to return the seized money and
+
+denied the State’s request to apply the money to Stewart’s financial sanctions in the
+
+murder case, pointing out that the State did not seek forfeiture of the cash in the drug
+
+offense case. The trial court reasoned that it did not have the authority to apply seized
+
+funds to financial sanctions in the absence of properly initiated forfeiture or collection
+
+proceedings.
+
+{¶ 7} The State appeals.
+
+II. Assignment of Error
+
+{¶ 8} The State asserts the following assignment of error:
+
+The trial court erred in granting Appellee’s Motion to Return Seized Money.
+
+-4-
+
+{¶ 9} In its sole assignment of error, the State contends that, because an
+
+outstanding and enforceable execution of judgment had been entered against Stewart in
+
+the murder case in the amount of $3,145.45, Stewart’s property located within Greene
+
+County, including the $1,779.17 in cash, was subject to execution. The State asserts that
+
+the Greene County Clerk of Courts properly issued a writ of execution against Stewart for
+
+the amount due to satisfy all financial sanctions against him in the murder case. The writ
+
+instructed the Greene County Sheriff to levy Stewart’s “good and chattels,” which the
+
+State asserts included the $1,779.17 in cash seized from Stewart incident to his arrest in
+
+the drug offense case. In response, Stewart argues that the cash was never forfeited, as
+
+the State never took the statutory steps necessary to obtain an order of forfeiture, and
+
+thus the money could not be confiscated and applied to his financial sanctions in the
+
+murder case. We recently affirmed Stewart’s conviction in the murder case in State v.
+
+Stewart, 2024-Ohio-2735 (2d Dist.). Stewart did not challenge the order requiring him
+
+to pay costs or restitution in his appeal of the murder case.
+
+{¶ 10} We agree with the State.
+
+{¶ 11} R.C. 309.08(A) imposes a general duty upon prosecuting attorneys to
+
+attempt collection of costs. State v. Muff, 2006-Ohio-1516, ¶ 21 (5th Dist.). R.C. 2981.02
+
+allows forfeiture of property to the State pursuant to either the criminal or delinquency
+
+process in R.C. 2981.04 or the civil process in R.C. 2981.05. State v. Jamison, 2010-
+
+Ohio-965, ¶ 9 (2d Dist.). Pursuant to these statutes, the following property is subject to
+
+forfeiture to the state or a political subdivision:
+
+(a) Contraband involved in an offense;
+
+-5-
+
+(b) Proceeds derived from or acquired through the commission of an
+
+offense;
+
+(c) An instrumentality that is used in or intended to be used in the
+
+commission or facilitation of any of the following offenses when the use or
+
+intended use, consistent with division (B) of this section, is sufficient to
+
+warrant forfeiture under this chapter:
+
+(i) A felony;
+
+(ii) A misdemeanor, when forfeiture is specifically authorized by a
+
+section of the Revised Code or by a municipal ordinance that creates
+
+the offense or sets forth its penalties;
+
+(iii) An attempt to commit, complicity in committing, or a conspiracy
+
+to commit an offense of the type described in divisions (A)(3)(a) and
+
+(b) of this section.
+
+R.C. 2981.02(A)(1).
+
+{¶ 12} We agree that Stewart’s cash in the amount of $1,779.17 was not forfeited.
+
+However, the State did not contend that Stewart’s money was forfeited, nor was the State
+
+required to pursue forfeiture of Stewart’s money where, as in this case, the State merely
+
+attempted to execute a judgment against Stewart’s assets. Stewart’s assets included
+
+his “goods and chattels,” and thus the $1,779.17 in cash.
+
+{¶ 13} A writ of execution is a court order to aid a judgment creditor with collecting
+
+monies owed from a judgment debtor. “An execution is a process of a court, issued by its
+
+clerk, the court itself, or the county board of revision with jurisdiction pursuant to section
+
+-6-
+
+323.66 of the Revised Code, and directed to the sheriff of the county.” R.C. 2327.01(B)(1).
+
+There are three kinds of executions:
+
+(1) Against the property of the judgment debtor, including orders of sale or
+
+orders to transfer property pursuant to sections 323.28, 323.65 to 323.78,
+
+and 5721.19 of the Revised Code;
+
+(2) Against the person of the judgment debtor;
+
+(3) For the delivery of the possession of real property, including real
+
+property sold under orders of sale or transferred under orders to transfer
+
+property pursuant to sections 323.28, 323.65 to 323.78, and 5721.19 of the
+
+Revised Code.
+
+R.C. 2327.02(A).
+
+{¶ 14} R.C. 2949.15 governs writs of execution to pay the costs of prosecution and
+
+sets forth the procedure for the clerk of courts to execute a forfeiture of an offender’s
+
+property to pay such costs. R.C. 2949.15 states:
+
+If a nonindigent person convicted of a felony fails to pay the costs of
+
+prosecution pursuant to section 2949.14 of the Revised Code, the clerk of
+
+the court of common pleas shall forthwith issue to the sheriff of the county
+
+in which the indictment was found, and to the sheriff of any other county in
+
+which the person has property, executions against his property for fines and
+
+the costs of prosecution, which shall be served and returned within ten days,
+
+with the proceedings of such sheriff or the certification that there is no
+
+property upon which to levy, indorsed thereon.
+
+-7-
+
+When a levy is made upon property under such execution, a writ shall
+
+forthwith be issued by the clerk for the sale thereof, and such sheriff shall
+
+sell the property and make return thereof, and after paying the costs of
+
+conviction, execution, and sale, pay the balance to the person authorized
+
+to receive it.
+
+{¶ 15} A criminal defendant is not entitled to notice and an opportunity to be heard
+
+before a clerk may issue an execution against property under R.C. 2949.15. State v.
+
+Lykins, 2017-Ohio-9390, ¶ 32 (4th Dist.); see also State v. Williams, 2006-Ohio-5660,
+
+¶ 10 (12th Dist.) (“R.C. 2949.15 does not require a hearing prior to the seizure of a
+
+defendant’s property for purposes of collecting court-ordered costs of prosecution.”);
+
+State v. McDowell, 2003-Ohio-5352, ¶ 56 (11th Dist.) (“language of R.C. 2949.15 does
+
+not require the trial court to hold a hearing or special proceeding prior to the forfeiture of
+
+property”); see also Witherspoon v. Belt, 177 Ohio St. 1, 3 (1964) (holding that money
+
+that an accused has in his possession at the time he is taken into custody and which
+
+remains in the possession of law enforcement officers is ‘property’ within the meaning
+
+of R.C. 2949.15 and is subject to execution for the payment of the costs of prosecution).
+
+{¶ 16} Stewart was ordered to pay restitution in the amount of $1,600 in the murder
+
+case, a 5% surcharge payable to the clerk for the collection and processing of restitution
+
+payments, and court costs. The writ of execution against Stewart in the amount of
+
+$3,145.45 represented the total amount due to satisfy all financial sanctions against
+
+Stewart in the murder case. The writ specifically instructed the Greene County Sheriff to
+
+levy Stewart’s “good and chattels,” which, as asserted by the State, included the cash
+
+-8-
+
+seized from Stewart incident to his arrest in the drug offense case. As in Williams and
+
+McDowell, it was the legal duty of the clerk to issue the writ of execution against Stewart.
+
+Additionally, Stewart did not request a stay of execution or request that the trial court set
+
+aside, quash, or recall the execution. See Lykins at ¶ 30, citing 40 Ohio Jur.3d,
+
+Enforcement of Judgments, § 306 (“Returns of execution may be set aside if made
+
+through a mistake.”); 40 Ohio Jur.3d, Enforcement of Judgments, § 340 (“Since every
+
+court has control and supervision over its own process, it has the power to quash, set
+
+aside, or recall an execution.”). Under these circumstances, we agree that the trial court
+
+erred in ordering the return of the $1,779.17 in cash to Stewart. Therefore, we sustain
+
+the State assignment of error.
+
+III. Conclusion
+
+{¶ 17} The judgment of the trial court is reversed.
+
+.............
+
+WELBAUM, J. and LEWIS, J., concur.

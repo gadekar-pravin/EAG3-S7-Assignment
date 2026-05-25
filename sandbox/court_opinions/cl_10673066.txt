@@ -1,0 +1,243 @@
+=========================================================
+Case: State v. Arkevus J. Cauthen
+Court: Court of Appeals of South Carolina
+Date Filed: 2025-09-17
+Citations: 
+URL: https://www.courtlistener.com/opinion/10673066/state-v-arkevus-j-cauthen/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Arkevus Jimon Cauthen, Appellant.
+
+Appellate Case No. 2022-001268
+
+Appeal From Lancaster County
+Brian M. Gibbons, Circuit Court Judge
+
+Opinion No. 6122
+Heard June 11, 2025 – Filed September 17, 2025
+
+AFFIRMED
+
+Deputy Chief Attorney for Capital Appeals, David
+Alexander, of Columbia, for Appellant.
+
+Attorney General Alan McCrory Wilson, Deputy
+Attorney General Donald J. Zelenka, Senior Assistant
+Deputy Attorney General Melody Jane Brown, and
+Assistant Attorney General Joshua Abraham Edwards, all
+of Columbia; and Solicitor Randy E. Newman, Jr., of
+Lancaster, all for Respondent.
+
+PER CURIAM: Arkevus Jimon Cauthen appeals his convictions for murder, armed
+robbery, and two counts of possession of a weapon during the commission of a
+violent crime. On appeal, he argues the trial court erred in (1) failing to suppress
+evidence officers dug up from a filled hole in his backyard while they were executing
+
+a search warrant on his home, and (2) allowing witnesses to testify that bruising they
+observed on Cauthen's arm resembled a bite mark. We affirm.
+
+FACTS
+
+On May 24, 2016, Sandra Johnson was found dead in her home by her daughter.
+Johnson had been stabbed dozens of times. Officers quickly developed Cauthen as
+a suspect and obtained a warrant to search his home for "[a]ny kind of sharp object
+that may have been used to cause the stab wounds" along with other evidence
+connecting him to the crime. The search warrant described Cauthen's home as the
+premises to be searched and specified "[t]he search [wa]s to include all attics,
+basements, locked or unlocked containers, outbuildings, storage sheds, trash areas
+and trash containers, attached or unattached."
+
+Officers executed the warrant on Cauthen's home the next day, which was the day
+after Johnson's body was discovered. While walking around the curtilage behind the
+residence, they found a recently-filled hole in the ground and a shovel leaning up
+against the wall of the home several feet away. Believing the hole could contain the
+murder weapon, officers moved some of the dirt to find a plastic bag containing a
+gun with an apparent blood stain on it. Later that night, John Duncan (Victim) was
+found murdered in his home. Officers discovered the gun found in Cauthen's yard
+had a serial number matching that of a gun missing from Victim's home.
+Additionally, DNA testing revealed the blood found on the gun belonged to Cauthen.
+Ultimately, the State indicted Petitioner for Victim's murder, and additionally
+charged him with armed robbery and two counts of possession of a weapon during
+the commission of a violent crime. 1 Prior to his trial on these charges, Cauthen
+moved to suppress the evidence recovered from the hole in his yard and argued the
+State exceeded the scope of its search warrant when officers dug into the ground.
+He averred the warrant did not contain any language indicating officers could dig
+into his yard and that officers should have obtained a second warrant with such
+language before penetrating the ground. The State disagreed, arguing the hole was
+similar to an average "container" officers would have been permitted to search inside
+the home. The trial court denied the motion to suppress, finding the officers' search
+did not exceed the scope of the search warrant.
+Cauthen also moved to suppress testimony about a "bite mark" officers observed on
+his arm at the time of his arrest. He explained the State had sought an odontologist
+to compare Victim's "bite" with the bruising observed on Cauthen's arm, and averred
+
+1
+The State tried Petitioner separately for his charges related to Johnson's murder.
+
+the potential prejudice from admitting the bite mark evidence exceeded its probative
+value. The State countered, noting it was not utilizing an expert to demonstrate the
+bruising was in fact a bite mark, but was instead asking the witnesses whether the
+bruising appeared to be a bite mark to them based on their lay opinions. The trial
+court reviewed photographs of the bruising and averred it had seen "many bite
+marks," and that the State's witnesses could testify that the bruising "appears to be a
+bite mark." However, the court indicated the defense could cross-examine the
+witnesses to have them clarify their observations were not "expert" opinions and also
+attack the weight and credibility of the evidence.
+
+The gun that police found in the hole behind Cauthen's house was admitted as
+evidence during the trial. Additionally, several officers testified they observed
+bruising on Cauthen's arm which resembled a bite mark. The jury convicted Cauthen
+as indicted, and the trial court sentenced him to consecutive sentences of life
+imprisonment for murder, thirty years' imprisonment for armed robbery, and five
+years' imprisonment for each weapons charge. This appeal followed.
+
+STANDARD OF REVIEW
+
+"The admission of evidence is within the discretion of the trial court and will not be
+reversed absent an abuse of discretion." State v. Pagan, 369 S.C. 201, 208, 631
+S.E.2d 262, 265 (2006). "An abuse of discretion occurs when the conclusions of the
+trial court either lack evidentiary support or are controlled by an error of law." Id.
+LAW/ANALYSIS
+A. Scope of Search Warrant
+
+Cauthen argues the trial court abused its discretion in denying his motion to suppress
+the evidence recovered from the filled hole in the curtilage of his home because
+officers exceeded the scope of the search warrant by digging into the ground without
+explicit language in the warrant allowing them to do so. We respectfully disagree.
+"Generally, the Fourth Amendment requires the police to have a warrant in order to
+conduct a search." Robinson v. State, 407 S.C. 169, 185, 754 S.E.2d 862, 870 (2014).
+"The general touchstone of reasonableness which governs Fourth Amendment
+analysis, . . . governs the method of execution of the warrant." United States v.
+Ramirez, 523 U.S. 65, 71 (1998). "Excessive or unnecessary destruction of property
+in the course of a search may violate the Fourth Amendment, even though the entry
+itself is lawful and the fruits of the search are not subject to suppression." Id.
+(emphasis added). The area "immediately surrounding and associated with the
+home"—the curtilage—is "part of [the] home itself for Fourth Amendment
+
+purposes." Oliver v. United States, 466 U.S. 170, 180 (1984). The curtilage of a
+home includes "outbuildings, [the] yard around [the] dwelling, [and the] garden."
+State v. Wiggins, 330 S.C. 538, 548 n.15, 500 S.E.2d 489, 494 n.15 (1998) (citing 40
+Am. Jur. 2d Homicide § 168 (1968)). "A lawful search of fixed premises generally
+extends to the entire area in which the object of the search may be found and is not
+limited by the possibility that separate acts of entry or opening may be required to
+complete the search." United States v. Ross, 456 U.S. 798, 820-21 (1982). "When
+a legitimate search is under way, and when its purpose and its limits have been
+precisely defined, nice distinctions between closets, drawers, and containers, in the
+case of a home, or between glove compartments, upholstered seats, trunks, and
+wrapped packages, in the case of a vehicle, must give way to the interest in the
+prompt and efficient completion of the task at hand." Id. at 821.
+While the question of whether a search warrant authorizes officers to perform
+below-ground searches has never been explicitly addressed in South Carolina, other
+jurisdictions have found these areas are included within the scope of a search
+warrant. In United States v. Griffin, the Seventh Circuit found officers did not
+exceed the scope of a search warrant for a home when they also seized items "from
+soil and rock in the back yard." 827 F.2d 1108, 1113 (7th Cir. 1987). The court
+explained the reasonableness of such a search depended on whether the sought
+evidence could be found in relevant areas, such as "in the yard generally, both above
+and below the ground." Id. at 1114-15. Similarly, in United States v. Gorman, the
+Ninth Circuit found a search warrant for a residence also applied to its curtilage,
+noting that "a warrant authorizing a search of an area generally authorizes the search
+of all of that area's subareas even though they are not mentioned in the warrant
+itself." 104 F.3d 272, 275 (9th Cir. 1996). The court found officers did not exceed
+the scope of their search warrant when they searched "a large plastic translucent jar
+partly buried" in the curtilage of the home. Id. at 273-75.
+In Gebhardt v. State, the Georgia Supreme Court found a warrant authorizing the
+search of the curtilage of the defendant's property also authorized a search of a sealed
+well within that area. 837 S.E.2d 318, 327-28 (Ga. 2019). It observed that although
+the warrant did not include the word "well," further specifying the area which
+officers were meant to search, the well in question "was contained on the land at the
+specified address." Id. 327-28. It added the warrant also allowed the officers to dig
+into the earth in that area, because "searching the well required a process of sifting
+through the ground on the property." Id. at 328.
+
+We hold the trial court did not abuse its discretion in denying Cauthen's motion to
+suppress the recovered gun and DNA evidence because the search warrant in this
+case is best read as authorizing officers to search the home and its curtilage. See
+
+Pagan, 369 S.C. at 208, 631 S.E.2d at 265 ("The admission of evidence is within the
+discretion of the trial court and will not be reversed absent an abuse of discretion.");
+id. ("An abuse of discretion occurs when the conclusions of the trial court either lack
+evidentiary support or are controlled by an error of law."); Robinson, 407 S.C. at
+185, 754 S.E.2d at 870 ("Generally, the Fourth Amendment requires the police to
+have a warrant in order to conduct a search."); Oliver, 466 U.S. at 180 (stating the
+area "immediately surrounding and associated with the home"—the curtilage—is
+"part of [the] home itself for Fourth Amendment purposes"); Wiggins, 330 S.C. at
+548 n.15, 500 S.E.2d at 494 n.15 (explaining the curtilage of a home includes
+"outbuildings, yard around [the] dwelling, [and] garden" (citing 40 Am. Jur.
+2d Homicide § 168 (1968))); Ross, 456 U.S. at 820-21 ("A lawful search of fixed
+premises generally extends to the entire area in which the object of the search may
+be found and is not limited by the possibility that separate acts of entry or opening
+may be required to complete the search."); id. at 821 ("When a legitimate search is
+under way, and when its purpose and its limits have been precisely defined, nice
+distinctions between closets, drawers, and containers, in the case of a home, . . . must
+give way to the interest in the prompt and efficient completion of the task at hand.").
+The language of this warrant was not restricted to any particular structure on the
+premises, and officers executed the warrant in a reasonable manner: they did not dig
+up the entirety of Cauthen's yard but instead limited their search to a seemingly
+recently-filled hole which appeared large enough to hold the murder weapon for
+which they were searching. See Ramirez, 523 U.S. at 71 ("The general touchstone
+of reasonableness which governs Fourth Amendment analysis, . . . governs the
+method of execution of the warrant."); id. ("Excessive or unnecessary destruction of
+property in the course of a search may violate the Fourth Amendment, even though
+the entry itself is lawful and the fruits of the search are not subject to suppression."
+(emphasis added)).
+
+Cauthen additionally argues that the gun's admission as evidence violates the South
+Carolina Constitution's prohibition against unreasonable invasions of privacy. See
+S.C. Const. Art. I, Sec. 10. We believe this argument is foreclosed by State v.
+Weaver's holding that a finding of probable cause (such as the one supporting the
+warrant in this case) satisfies the constitution's requirement that any invasion of
+privacy be "reasonable." 374 S.C. 313, 322, 649 S.E.2d 479, 483 (2007).
+B. Bite Mark Evidence
+
+Cauthen argues the trial judge erred in denying his motion to suppress the bite mark
+testimonies because their assertions constituted improper expert opinions. We
+disagree.
+
+"If [a] witness is not testifying as an expert, the witness' testimony in the form of
+opinions or inferences is limited to those opinions or inferences which (a) are
+rationally based on the perception of the witness, (b) are helpful to a clear
+understanding of the witness' testimony or the determination of a fact in issue, and
+(c) do not require special knowledge, skill experience, or training." Rule 701, SCRE.
+In State v. McClinton, our supreme court found a trial court did not err in admitting
+officers' testimonies indicating an injury on the defendant's hand appeared to be a
+bite mark. 265 S.C. 171, 176-77, 217 S.E.2d 584, 586 (1975). The court asserted
+the officers' statements were the "opinions of laymen" based on their personal
+observations which helped jurors understand the nature of the defendant's injury. Id.
+at 176-77, 217 S.E.2d at 586.
+
+We hold the trial court did not abuse its discretion in allowing witnesses to testify
+they believed a bruise on Cauthen's arm resembled a bite mark. Here, like in
+McClinton, the officers presented lay opinions that the bruise on Cauthen appeared
+to be a bite mark. The officers' testimonies that the injury resembled a bite mark did
+not require any specialized knowledge or training and were based on their personal
+observations. Accordingly, we believe the trial court's decision to deny Cauthen's
+motion to suppress is consistent with established South Carolina jurisprudence. See
+Pagan, 369 S.C. at 208, 631 S.E.2d at 265 ("The admission of evidence is within the
+discretion of the trial court and will not be reversed absent an abuse of discretion.");
+id. ("An abuse of discretion occurs when the conclusions of the trial court either lack
+evidentiary support or are controlled by an error of law."); Rule 701, SCRE ("If the
+witness is not testifying as an expert, the witness' testimony in the form of opinions
+or inferences is limited to those opinions or inferences which (a) are rationally based
+on the perception of the witness, (b) are helpful to a clear understanding of the
+witness' testimony or the determination of a fact in issue, and (c) do not require
+special knowledge, skill experience, or training."); McClinton, 265 S.C. at 176-77,
+217 S.E.2d at 586 (finding the trial court did not err in admitting officers' testimonies
+that an injury on the defendant's hand appeared to be a bite injury because the
+testimonies were the "opinions of laymen" based on their personal observations
+which helped jurors understand the nature of the defendant's injury).
+
+CONCLUSION
+Based on the foregoing, Cauthen's convictions and sentences are
+
+AFFIRMED.
+
+THOMAS, HEWITT, and CURTIS, JJ., concur.

@@ -1,0 +1,669 @@
+=========================================================
+Case: State v. Devin J. Johnson
+Court: Court of Appeals of South Carolina
+Date Filed: 2022-11-02
+Citations: 
+URL: https://www.courtlistener.com/opinion/8510087/state-v-devin-j-johnson/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Devin Jamel Johnson, Appellant.
+
+Appellate Case No. 2019-000938
+
+Appeal From Charleston County
+R. Markley Dennis, Jr., Circuit Court Judge
+
+Opinion No. 5950
+Heard April 7, 2022 – Filed November 9, 2022
+
+REVERSED
+
+Appellate Defender Susan Barber Hackett, of Columbia,
+for Appellant.
+
+Attorney General Alan McCrory Wilson, Deputy
+Attorney General Donald J. Zelenka, Senior Assistant
+Deputy Attorney General Melody Jane Brown, and
+Senior Assistant Attorney General W. Edgar Salter, III,
+of Columbia; and Solicitor Scarlett Anne Wilson, of
+Charleston, all for Respondent.
+
+KONDUROS, J.: Devin Jamel Johnson appeals his conviction of murder. He
+contends the trial court erred in admitting into evidence his statement to law
+enforcement, removing a juror midtrial, and instructing the jury on accomplice
+liability. We reverse.
+
+FACTS/PROCEDURAL HISTORY
+
+On June 8, 2011, at 10:18 p.m., Akeem Smalls (Victim) was shot while in the
+courtyard breezeway of Building C at Georgetown Apartments in Charleston
+County, South Carolina. He died a short time later as a result of being shot. When
+Victim was shot, he was just outside of an apartment where Sharmaine Johnson
+lived at the time. Sharmaine1 was Johnson's sister and Victim's girlfriend. At the
+time of the shooting, Victim owed Johnson $420.
+
+All four of the fired shell casings discovered at the crime scene were identified as
+9mm FC Luger casings. Officers discovered an unfired FC 9mm bullet with
+Johnson's fingerprint on it in a drawer of a nightstand in Sharmaine's apartment.
+
+Officers interrogated Johnson regarding Victim's shooting. During the
+interrogation, Johnson initially denied being in Charleston at the time of the
+shooting. After a few hours of interrogation, Johnson admitted he had been at
+Georgetown Apartments at the time Victim was shot. Johnson also indicated
+someone named Creep 2 was with him at the time of the shooting. Johnson stated
+he saw the shooting, claiming a person named Dee shot Victim and that Johnson
+and Creep fled the scene out of fear.
+
+Subsequently, officers obtained a search warrant for Johnson's cell phone records,
+including his historical cell site location information. Verizon provided Johnson's
+cell phone records, which included call history logs and text messages. The
+company also supplied cell site location data for outgoing and incoming calls. A
+grand jury subsequently indicted Johnson for murder and possession of a weapon
+during the commission of a violent crime.
+
+At trial, the State requested the trial court charge the jury "'the hand of one is the
+hand of all' . . . because it 'ha[d not] been able to identify a co-defendant.'" State v.
+Johnson, 418 S.C. 587, 591, 795 S.E.2d 171, 173 (Ct. App. 2016) (alteration in
+original). "The court denied the request, stating it did not 'buy' the State's rationale
+that the evidence showed two individuals were involved in the crime." Id. The
+
+1
+Sharmaine is also referred to as Shay in the record.
+2
+Johnson told the officers he did not know Creep's last name or contact
+information but described a tattoo he had. He gave the officers the name of
+another person who knew Creep and through that person officers located a person
+known as Creep. However, officers did not believe this was the person Johnson
+claimed was with him when Victim was shot.
+
+court explained that all of the testimony presented indicated Johnson was the
+shooter. Id. After deliberations began, "the jury asked, '[I]f the other individual
+pulled the trigger, can the defendant still be guilty?'" Id. at 592, 795 S.E.2d at 173
+(alteration in original). The trial court determined its prior decision not to charge
+"the hand of one is the hand of all" was incorrect; Johnson disagreed. Id. at 592,
+795 S.E.2d at 173-74. "[T]he trial court offered [Johnson] the opportunity to
+reargue his closing argument before [it] recharged the jury," but Johnson declined
+and moved for a mistrial. Id. at 592-93, 795 S.E.2d at 174. The trial court charged
+the jury on "hand of one, hand of all" and mere presence. Id. at 593, 795 S.E.2d at
+174. After the recharge, Johnson asserted the evidence did not support the new
+charge. Id. The jury convicted Johnson of both offenses—murder and the
+possession of a weapon during the commission of a violent crime. Id. at 590, 795
+S.E.2d at 172.
+
+Johnson appealed, arguing the trial court erred in "instructing the jury concerning
+'the hand of one is the hand of all' because the evidence did not support the
+instruction" and the timing of the instruction prevented Johnson from addressing
+the theory in his closing argument, "rendering the trial fundamentally unfair." 3 Id.
+at 588, 795 S.E.2d at 171-72. This court reversed his convictions, finding the trial
+court's decision to later give the charge fundamentally prejudiced Johnson because
+he "crafted his closing argument in reliance on the trial court's adamancy" during
+the charge conference that it would not give the charge. Id. at 598, 795 S.E.2d at
+177. The court addressed only that issue because it was dispositive. Id. at 590,
+795 S.E.2d at 172.
+
+The State retried Johnson beginning on April 1, 2019. 4 At the outset of the trial,
+the court held a Jackson v. Denno 5 hearing on the admissibility of Johnson's
+
+3
+Johnson also argued "the trial court erred in (1) admitting text messages and
+historical cell service location information obtained from his cellular service
+provider by a search warrant" and (2) admitting his statement to investigators.
+Johnson, 418 S.C. at 588, 795 S.E.2d at 171.
+4
+In between the time this court issued the remittitur following the first appeal and
+beginning of this trial in April 2019, a second trial began. At oral argument, both
+parties were unclear as to what transpired at the second trial other than the State
+believed it ended in a mistrial.
+5
+378 U.S. 368 (1964).
+
+statement to David Osborne.6 Johnson argued the statement was not admissible
+because it was involuntary due to a combination of factors: the length of time of
+the interview, his repeated requests for cigarettes, and references investigators
+made about his daughter. Following testimony from Osborne, the trial court found
+the statement admissible.
+
+At trial, Tenika Elmore testified that at the time of Victim's death, she and Johnson
+lived together in Orangeburg. Elmore provided that at that time, she worked in
+North Charleston and Johnson would occasionally drive her or ride with her to
+work in her car, a blue 2008 Toyota Camry. The Camry was missing both
+passenger-side hubcaps. On the day of the shooting, Elmore, Johnson, and
+Johnson's six-year-old daughter traveled in Elmore's car to Charleston for Elmore
+to work. Johnson and his daughter dropped Elmore off, and she worked all day.
+Johnson was alone when he picked her up after work. Elmore believed he was
+supposed to pick her up at 11 p.m., but she said he was late, which was normal.
+After Johnson and Elmore picked up Johnson's daughter from his mother's house,
+they stopped at a gas station on the way back to Orangeburg. Elmore identified
+Johnson in photos shown to her during her testimony and confirmed that on that
+night, he was wearing the clothing shown in the photos. The video surveillance
+from the gas station showed Johnson wearing a white tank top 7 and dark pants on
+the evening of the crime.
+
+Osborne testified that during law enforcement's investigation of Victim's killing,
+officers were interested in one portion of video surveillance from Georgetown
+Apartments showing a car backing into a parking spot and two men exiting the
+vehicle and walking toward Building C. Osborne indicated that about a minute
+before the shooting occurred, the two individuals walked towards the breezeway,
+which was the location of the shooting. The shooting occurred outside of the
+camera's view. Osborne provided that seconds after the shooting, the two
+individuals ran back to the car and fled the complex in it. He testified the pair was
+in a hurry when they came back to the car. He explained the vehicle depicted in
+the surveillance video was a blue Toyota Camry consistent with the color, make,
+and model of Elmore's car and both cars were missing the passenger side hubcaps.
+He provided he could tell the vehicle in the video was missing hubcaps because of
+
+6
+Osborne was a detective for the Charleston Police Department at the time of
+Victim's killing and investigated the case, which included interrogating Johnson.
+At the time of trial, he was no longer a detective; he was an assistant solicitor.
+7
+The officers referred to the shirt shown in the video as a white tank top or "wife
+beater."
+
+the difference in shininess around the wheel area on the two sides of the car.
+According to Osborne, the driver of the car wore a white tank top and black pants.
+Osborne testified the only people that could be seen on the videos entering the
+breezeway area was a man with a dog and the two individuals from the car. He
+believed the breezeway was the only way to get to the interior of the apartment
+building without going through an apartment. Osborne was unsure if someone
+could come in from the pool area. On cross-examination, Osborne acknowledged
+many cars shown on the security video of the parking lot of the apartment complex
+had backed into parking spaces. He also agreed the apartment complex security
+cameras had several blind spots.
+
+Osborne testified about the statement Johnson gave to him. Osborne indicated that
+for the first four hours of the interview, Johnson claimed he was in Orangeburg at
+the time Victim was shot. Osborne provided that during the interview, he left the
+room and allowed Johnson to use Osborne's cell phone. Osborne stated that after
+Johnson talked on the phone with his mother and Elmore, his story began to
+change—he admitted being at Georgetown Apartments and indicated he saw the
+shooting. Based on Johnson's statements, Osborne opined Johnson admitted to
+being the driver of the vehicle seen in the video.
+
+Robert Holmes testified that he and Victim sold marijuana provided to them by
+Johnson. Holmes stated Victim stole marijuana valued at about $1,000 from
+Johnson. Holmes testified that about a week before the shooting, Johnson was
+looking for Victim and was unhappy with him. On cross-examination, Holmes
+acknowledged he had told Osborne that Victim had taken $500 worth of marijuana
+but later gave Johnson money for the marijuana. Holmes also admitted he told
+Osborne that Victim thought everything was fine between Johnson and himself
+after that.
+
+Vanessa Morton testified that while watching the news on television, she learned
+law enforcement was looking for her son Diangelo Bumcum. She indicated she
+immediately called the police, who then came to her house. She provided
+Bumcum did not try to run, despite knowing the police were coming and he
+willingly went with them. Morton told police she would help them search her
+house and gave the police the clothing her son had been wearing. Police arrested
+Bumcum for Victim's murder. Morton testified police arrested her son because he
+was the last person seen with Victim. The charges against Bumcum were later
+dismissed, and he was released several months after his arrest. Morton identified
+her son in a photo from about ten minutes before the shooting and indicated he was
+wearing a white tank top.
+
+Bumcum testified that on the night of Victim's killing, he saw Victim on the porch
+outside an apartment in Building C of Georgetown Apartments. Bumcum
+provided he stopped to talk with Victim and their conversation was friendly. On
+cross-examination, he testified he went inside the apartment to use the restroom.
+He then left to go to another apartment building in the complex and about thirty to
+forty-five minutes later, learned Victim had been killed. Bumcum testified he
+worked at Jiffy Lube performing car services around the time period Victim was
+killed.
+
+Detective Craig Kosarko testified that at the same time Osborne was questioning
+Johnson, he was questioning Bumcum. Detective Kosarko stated that at the end of
+the interview, he collected the shirt Bumcum was wearing during the interview
+because Bumcum stated he wore it on the day of the shooting. Osborne also
+participated in Bumcum's interrogation at times. Osborne testified that after
+talking to Bumcum, he looked at the video from the apartments again and observed
+someone walking from Building C to Building D about ten minutes before the
+shooting. He testified that due to the video quality, he had difficulty identifying
+details of the person's face but the body type of the person shown on the video was
+consistent with Bumcum's. He indicated the person did not appear to be walking in
+a hurry. Osborne testified that Bumcum's shirt tested positive for particles of lead,
+which Osborne attributed to Bumcum's job. Osborne testified that lead is one of
+three types of particles that need to be detected to identify gunshot reside; the other
+two being antimony and barium. Osborne provided that all three substances must
+be present to have a positive test result for gunshot reside. Osborne provided that
+lead is prevalent in brake pads and Bumcum worked at Jiffy Lube. However,
+Osborne indicated he never asked Bumcum about it.
+
+Osborne also testified that during the interrogation of Johnson, Detective Kosarko
+showed Johnson a picture of Bumcum. Osborne indicated that Johnson first stated
+he did not know the person in the photo. However, Osborne provided that later in
+the interview, once Johnson admitted being at the apartment complex, he identified
+Bumcum as the shooter.
+
+Detective Kosarko testified that a series of text messages from Johnson to Terry
+Stevens from the day Victim was killed showed Johnson was attempting to get
+Stevens to help him with something. At 4:37 p.m., Johnson texted "i go wet dude
+ass up da nite." The final message to Stevens, at 9:34 p.m. stated, "i cnt wait on u i
+gotta handle my bizz."
+
+Detective Kosarko also testified the phone records showed that on the night Victim
+was killed, ten phone calls were placed to and from Johnson's phone number
+between 9:01 p.m. and 10:02 p.m. and no phone calls were placed between 10:03
+p.m. and 10:34 p.m. Additionally, twelve phone calls were placed between 10:35
+p.m. and 11:40 p.m. Detective Kosarko indicated that the phone records also
+showed Johnson called his sister, Victim's girlfriend, twice at 9:30 p.m. on the
+evening of the crime. The phone records show the person placing those two calls
+dialed *67 before dialing the number, which Detective Kosarko explained would
+prevent the phone number from displaying on the phone of the person receiving the
+call. The two phone calls lasted twelve seconds and twenty-eight seconds.
+
+Detective Kosarko further testified about a series of text messages between
+Johnson and his mother the day following the shooting. Johnson's mother texted
+him asking if he was alright and he responded: " I want to b[e] alrite sha[y] got it
+all twist up rite now but i kno[w] [yo]u prayin[g]." Later that same day Johnson's
+mother texted him, "How you mean you want to alright[]. Deal with [yo]urself,
+maintain your cool let them figure it out you had[ ]nothing to do with it." One
+minute later, Johnson's mother sent him another text that stated: "Clear all [yo]ur
+texts."
+
+Elmore testified that "to wet somebody up" means "[t]o shoot them." On cross-
+examination, when asked if she had stated that "wet or to get wet" also "means to
+get drunk or intoxicated," she responded, "That's an interpretation, yes."
+Additionally, she confirmed she had not "heard [Johnson] say get wet meaning to
+stab or shoot somebody." She agreed Johnson used that term to mean intoxicated.
+Holmes testified that "to wet somebody up" means to shoot the person. On cross-,
+redirect, and recross-examination, he explained the terms wet and "wet up" are two
+different things; that getting wet means to get drunk or intoxicated, whereas
+wetting someone up means to shoot that person. Additionally, Osborne testified
+that based on his experience, to wet somebody up means "you're going to shoot
+somebody," explaining "when you shoot somebody multiple times, they bleed and
+then they get wet." Osborne also clarified, "Wet somebody up is different than get
+wet. Get wet is getting high. Wet somebody up or wet them up is shoot
+somebody." Detective Kosarko also stated that to wet somebody up meant to shoot
+or kill someone, describing "when you shoot somebody, their clothes get wet from
+the blood."
+
+During the State's case, an issue arose with a juror; initially, the trial court was
+concerned the juror possibly had fallen asleep and later, the juror informed the
+
+court he knew one of the witnesses who had testified. 8 After the court spoke to the
+juror and the parties argued about whether the juror should be excused, the trial
+court stated it was excusing the juror because the State provided it would have
+exercised a preemptory challenge if the juror had indicated during voir dire he
+knew one of the witnesses.
+
+Prior to the trial court charging the jury, Johnson asked the trial court if it planned
+to charge the jury on accomplice liability. The trial court stated it was going to
+charge the jury on "what is the hand of one." Johnson replied he was objecting to
+that language being included in the charge.
+
+Following closing arguments, the trial court charged the jury. The charge included
+the following language:
+
+Now, in conjunction with the crime of murder, I would
+charge you of this principle of law. It's called the hand of
+one is the hand of all.
+
+If a crime is committed by two or more people who are
+acting together in committing a crime, the act of one is
+the act of all. A person who joins with another to
+accomplish an illegal purpose is criminally responsible
+for everything done by the other person which occurs as
+a natural consequence of the acts or act done in carrying
+out the common plan or purpose. If two or more people
+are together, acting together, assisting each other in
+committing the offense, the act of one is the act of all.
+
+Now, prior knowledge that a crime is going to be
+committed without more is not sufficient to make a
+person guilty of the crime. Mere knowledge or merely
+being present by another person and the crime is
+committed, that's not sufficient to convict a person of the
+crime.
+
+In order to convict the defendant -- even if the defendant
+was present when it is committed, is not sufficient to
+
+8
+The juror knew the witness by a different last name than the one the trial court
+listed during voir dire.
+
+convict. You must -- guilt is -- to convict the defendant
+as a principal, a principal is proven by showing an actual
+or constructive presence at the scene as a result of a prior
+arrangement. Therefore, finding a prior arrangement,
+plan or common scheme is necessary for a finding of
+guilt as a principal.
+
+The State must prove beyond a reasonable doubt by
+competent evidence that the theory of the hand of one is
+the hand of all. A principal in a crime is one who either
+actually commits the crime or who is present aiding,
+abetting or assisting in committing the crime.
+
+When a person does an act in the presence of and with
+the assistance of another, the act is done by both. Where
+two or more are acting with a common plan or scheme or
+intent are present at the commission of the crime, it does
+not matter who actually commits the crime. All are
+guilty.
+
+And of course, as with any other aspect, the State has to
+prove each of those facts that we just discussed beyond a
+reasonable doubt. That means you are firmly convinced.
+
+After the trial court charged the jury, Johnson objected:
+
+I just wanted to note on the record that we are objecting
+to the hand of one/hand of all charge.
+
+We don't believe that the State has presented any
+evidence that the person that . . . Johnson was with that
+night was the shooter. I think the evidence that they
+presented exclusively in this case was the fact that . . .
+Johnson was the shooter, and I will say that I believe I
+gave a softball to . . . Osborne when I asked him whether
+or not he would serve a murder warrant on the person
+once he found out who he was and he did say no, that is
+tricky because he's a passenger and I would want to find
+out his involvement in this case before I did that.
+
+So I think even their own State's witness said we don't
+have enough to say he's involved or not, and that's why I
+think the [c]ourt should have declined to read that hand
+of one/hand of all charge.
+
+The trial court responded:
+
+And while I agree with you that certainly there was a lot
+of indication of that in this particular case, I truly believe
+the hand of one/hand of all is most appropriate,
+especially with the fact that we have -- well, the
+evidence.
+
+Of course, we have the evidence, if the jury believes it, of
+course, that . . . Johnson -- in taking instruction that the
+State has presented that he was intending to go kill him,
+go shoot him. Whether he died or not, I don't know if
+that was necessarily it. Probably making him bleed I
+think was what the typical literal statement of the
+vernacular, but that part of it and then getting somebody
+to assist him, that seems to imply I want to get somebody
+and maybe he didn't want to do it himself. Maybe he
+wanted somebody else to be the shooter, but he was
+going to assist. So I believe all of that really falls into
+that accomplice part of being participating and so I
+respect your position, but I think it's appropriate under
+the evidence of this case.
+
+During deliberations, the jury sent a note that asked: "Does the 'hand of one' apply
+to the possession of a weapon during the commission of a violent crime?" In
+response, the trial court provided the jury with the following additional instruction:
+
+If the State has proved beyond a reasonable doubt that
+the murder has been committed, then in order to have a
+conviction for the hand of one/hand of all, the State
+would also have to prove beyond a reasonable doubt that
+. . . Johnson had possession of a firearm at the time that
+that murder was committed.
+
+In other words, hand of -- you can't -- assuming just for
+the sake that there were two people and three people,
+whatever, the person -- in order to be convicted, the hand
+of one doesn't apply to anything but the murder. It does
+not apply to the -- to the firearm possession. You have to
+prove actual possession of that in order to return a verdict
+of guilty.
+
+After returning to deliberations, the jury convicted Johnson of murder but acquitted
+him of the weapons charge. The trial court sentenced him to thirty-six years'
+imprisonment, with credit for time served of 2,604 days. Johnson filed a motion
+for a new trial, arguing the trial court erred in charging the jury on accomplice
+liability. Following a hearing, the trial court denied the motion. This appeal
+followed.
+
+STANDARD OF REVIEW
+
+"In criminal cases, the appellate court sits to review errors of law only." State v.
+Baccus, 367 S.C. 41, 48, 625 S.E.2d 216, 220 (2006). Thus, an appellate court "is
+bound by the trial court's factual findings unless they are clearly erroneous." Id.
+"An appellate court will not reverse the trial [court's] decision regarding a jury
+charge absent an abuse of discretion." State v. Commander, 396 S.C. 254, 270,
+721 S.E.2d 413, 421-22 (2011) (quoting State v. Mattison, 388 S.C. 469, 479, 697
+S.E.2d 578, 584 (2010)). "An abuse of discretion occurs when the conclusions of
+the trial court either lack evidentiary support or are controlled by an error of law."
+State v. Scott, 414 S.C. 482, 486, 779 S.E.2d 529, 531 (2015) (quoting State v.
+Laney, 367 S.C. 639, 643-44, 627 S.E.2d 726, 729 (2006)).
+
+LAW/ANALYSIS
+
+Johnson argues the trial court violated his due process rights by instructing the jury
+on the theory of accomplice liability, specifically the hand of one is the hand of all
+because the State presented no evidence Johnson acted in concert with another.9
+We agree.
+
+9
+As a threshold matter, the State submits that Johnson's assertion of a due process
+violation misunderstands the function of the Due Process Clause because the
+appropriate inquiry is whether the trial court abused its discretion in giving an
+accomplice liability instruction because this instruction is not required by the Due
+Process Clause. The fact that Johnson mentioned that his due process rights were
+
+"Generally, the trial [court] is required to charge only the current and correct law of
+South Carolina." State v. Brown, 362 S.C. 258, 261, 607 S.E.2d 93, 95 (Ct. App.
+2004). "The law to be charged must be determined from the evidence presented at
+trial." Barber v. State, 393 S.C. 232, 236, 712 S.E.2d 436, 438 (2011) (quoting
+State v. Knoten, 347 S.C. 296, 302, 555 S.E.2d 391, 394 (2001)). If any evidence
+supports a jury charge, the trial court should grant the request. Brown, 362 S.C. at
+262, 607 S.E.2d at 95. A charge is correct if it adequately explains the law and
+contains the correct definition when read as a whole. State v. Brandt, 393 S.C.
+526, 549, 713 S.E.2d 591, 603 (2011). "In reviewing jury charges for error, we
+must consider the court's jury charge as a whole in light of the evidence and issues
+presented at trial." Id. (quoting State v. Adkins, 353 S.C. 312, 318, 577 S.E.2d 460,
+463 (Ct. App. 2003)). If jury instructions as a whole "are free from error, any
+isolated portions [that] may be misleading do not constitute reversible error." State
+v. Aleksey, 343 S.C. 20, 27, 538 S.E.2d 248, 251 (2000). "A jury charge [that] is
+substantially correct and covers the law does not require reversal." Brandt, 393
+S.C. at 549, 713 S.E.2d at 603.
+
+"To reverse a criminal conviction on the basis of an erroneous jury instruction, we
+must find the error was a prejudicial error." State v. Bowers, 436 S.C. 640, 646,
+875 S.E.2d 608, 611 (2022). "Prejudicial error in a jury instruction is an error that
+contributed to the jury verdict." Id. Should an appellate court find a jury charge
+erroneous, the court must then decide if the charge affected the jury's deliberations,
+contributing to the verdict. See id. If the appellate court has "any reasonable doubt
+as to whether the erroneous charge contributed to the verdict," it must reverse the
+conviction. Id. at 647, 875 S.E.2d at 611.
+
+"[S]ome principles of law should not always be charged to the jury." State v.
+Perry, 410 S.C. 191, 202, 763 S.E.2d 603, 608 (Ct. App. 2014); see also State v.
+Burdette, 427 S.C. 490, 503, 832 S.E.2d 575, 583 (2019) (stating some matters
+allowed during jury argument should not be included in the jury charge).
+"Instructions that do not fit the facts of the case may serve only to confuse the
+jury." State v. Blurton, 352 S.C. 203, 208, 573 S.E.2d 802, 804 (2002); see also id.
+at 205, 208 n.1, 573 S.E.2d at 803, 804 n.1 (reversing a conviction even though a
+jury charge was a correct principle of law because it "was not warranted by the
+facts adduced at trial").
+
+violated by the jury charge is of no matter. Johnson provides that the standard of
+review applicable here is that of reviewing a jury charge and is for the abuse of
+discretion. He does not mention due process again.
+
+"The doctrine of accomplice liability arises from the theory that 'the hand of one is
+the hand of all.'" State v. Reid, 408 S.C. 461, 472, 758 S.E.2d 904, 910 (2014)
+(quoting 23 S.C. Jur. Homicide § 22.1 (2014)). "Under this theory, one who joins
+with another to accomplish an illegal purpose is liable criminally for everything
+done by his confederate incidental to the execution of the common design and
+purpose." Id. "A person must personally commit the crime or be present at the
+scene of the crime and intentionally, or through a common design, aid, abet, or
+assist in the commission of that crime through some overt act to be guilty under a
+theory of accomplice liability." Id. at 472-73, 758 S.E.2d at 910. "Accordingly,
+proof of mere presence is insufficient, and the State must present evidence the
+participant knew of the principal's criminal conduct." Id. at 473, 758 S.E.2d at
+910. "If 'a person was "present abetting while any act necessary to constitute the
+offense [was] being performed through another," he could be charged as a
+principal—even "though [that act was] not the whole thing necessary."'" Id.
+(alterations in original) (emphases omitted) (quoting Rosemond v. United States,
+572 U.S. 65, 72 (2014)).
+
+In State v. Washington, 10 our supreme court determined the trial court erred by
+instructing the jury on accomplice liability. 431 S.C. 394, 397, 848 S.E.2d 779,
+781 (2020). The supreme court provided "an alternate theory of liability may not
+be charged to a jury 'merely on the theory the jury may believe some of the
+evidence and disbelieve other evidence.'" Id. at 409, 848 S.E.2d at 787 (quoting
+Barber, 393 S.C. at 236, 712 S.E.2d at 438). The supreme court explained that
+"[f]or an accomplice liability instruction to be warranted, the evidence must be
+'equivocal on some integral fact and the jury [must have] been presented with
+evidence upon which it could rely to find the existence or nonexistence of that
+fact.'" Id. at 407, 848 S.E.2d at 786 (second alteration by court) (quoting Barber,
+393 S.C. at 236, 712 S.E.2d at 439). The supreme court noted the record in that
+case contained evidence the defendant was the shooter but also contained evidence
+he was not the shooter. Id. Accordingly, the supreme court held that "[t]he
+question becomes whether there was equivocal evidence the shooter, if not [the
+defendant], was an accomplice of [the defendant]." Id.
+
+10
+Johnson's brief mentions this court's Washington opinion and noted that the
+supreme court had granted the petition for certiorari and heard arguments. No
+opinion had been issued at the time of the filing of the briefs. Johnson provided
+the supreme court's opinion to this court as a supplemental authority.
+
+The supreme court examined the case of Wilds v. State, 11 in which this court
+affirmed the finding that the trial court erred by giving an accomplice liability jury
+charge. Washington, 431 S.C. at 409-10, 848 S.E.2d at 787. The supreme court
+observed that this court in Wilds noted no evidence was presented that anyone
+other than the defendant was the shooter. Washington, 431 S.C. at 409, 848 S.E.2d
+at 787 (citing Wilds, 407 S.C. at 439-40, 756 S.E.2d at 390-91). The supreme court
+in Washington posited that the jury, like the jury in Wilds, may have doubted the
+testimony from the only possible accomplice that he did not shoot the victim. Id.
+at 410, 848 S.E.2d at 787. However, the supreme court found to warrant an
+accomplice liability jury instruction, some evidence must have been presented that
+the possible accomplice shot the victim. Id. The supreme court held because
+neither party presented such evidence, the trial court erred by giving the
+accomplice liability jury instruction. Id. at 403, 410-11, 848 S.E.2d at 784, 787-88.
+
+Recently, in State v. Campbell, this court decided whether an accomplice liability
+instruction was improperly given. 12 435 S.C. 528, 868 S.E.2d 414 (Ct. App. 2021),
+cert. granted, S.C. Sup. Ct. Order dated Sept. 8, 2022. In that case, this court
+found the trial court had erred in giving the instruction and reversed the conviction.
+Id. at 541, 868 S.E.2d at 421. This court provided:
+
+Based on the evidence presented at trial, only Richardson
+could have been [the defendant's] accomplice. On the
+day of the shooting, Richardson rode with [the defendant]
+from North Charleston to [the location of the shooting],
+parked the car for [the defendant], and drove [the
+defendant] back to North Charleston. Like in Wilds and
+Washington, the jury could have doubted Richardson's
+testimony that he was not involved in a common plan or
+scheme with [the defendant] to carry out the shooting.
+Nevertheless, neither party presented evidence that
+Richardson and [the defendant] had joined together in a
+common plan or scheme to carry out the shooting.
+Indeed, Richardson testified he did not know [the
+defendant] was going to drive to [the shooting location]
+or why [the defendant] asked him to park the car on [a
+particular s]treet.
+
+11
+407 S.C. 432, 756 S.E.2d 387 (Ct. App. 2014).
+12
+Johnson has provided this opinion as a supplemental authority.
+
+Campbell, 435 S.C. at 540, 868 S.E.2d at 421.
+
+This court further explained:
+
+Even if Richardson's involvement was equivocal
+evidence he and [the defendant] worked together to carry
+out the shooting, the Record must have also contained
+some evidence Richardson was the shooter for the
+accomplice liability instruction to be proper; it did not.
+Again, the jury could have doubted Richardson's
+testimony that he was not the shooter. Still, while
+security footage showed Richardson walking in [the
+shooting location] around the time of the shooting, it also
+showed him walking without a rifle, wearing a white T-
+shirt and ball cap rather than a hoodie, and getting into
+the gold Buick rather than a lime green car.
+Consequently, Richardson does not meet the description
+of the man seen by [a witness].
+
+Id. at 541, 868 S.E.2d at 421.
+
+This court determined because "neither party presented evidence that either [the
+defendant] was working with the man seen by [the witness] or that Richardson was
+the shooter," the trial court erred by giving an accomplice liability jury instruction.
+Id.
+
+"Generally, motive is not an element of a crime that the prosecution must prove to
+establish the crime charged, but frequently motive is circumstantial evidence . . . of
+the intent to commit the crime when intent or state of mind is in issue." State v.
+Sweat, 362 S.C. 117, 124, 606 S.E.2d 508, 512 (Ct. App. 2004) (omission by
+court) (quoting Danny R. Collins, South Carolina Evidence 319 (2d ed. 2000)).
+
+The trial court here erred in giving the accomplice liability jury charge. The State's
+theory of the case was that Johnson and the passenger in his car killed the Victim.
+No eyewitness testified that he or she saw the Victim being shot. Johnson
+provided in his statement to the police that he saw one person shoot Victim, and he
+identified Bumcum as that shooter when law enforcement showed him a photo of
+Bumcum. The record shows a car with two men in it backed into a parking space,
+which Osborne suggested the individuals were "trying to get out in a hurry." The
+two individuals walked together toward the crime scene, remained for a few
+
+seconds, and quickly ran back to the car together and fled the complex. Osborne
+opined Johnson and another male were the individuals in the vehicle seen in the
+video. The car seen in the video is consistent with the car Johnson was known to
+be driving that night. From the video, the clothing of the driver of the car matched
+the clothing Johnson was wearing that night. Johnson admitted in his statement
+that he was at the apartment complex and present at the shooting. Cell phone data
+also placed Johnson at the complex. Further, Johnson admitted Creep was with
+him at the time of the crime. The State's entire theory of the case was that Johnson
+was the shooter.
+
+The State presented evidence Victim owed Johnson a debt. The State also
+introduced text messages that Johnson was going to wet someone up, which meant
+to shoot or kill a person. The Record contains no evidence that Johnson recruited
+anyone to actually shoot Victim; any evidence of recruiting as shown in the text
+messages is to assist or accompany Johnson.
+
+An accomplice liability charge was not proper because the evidence is not
+equivocal as to whether Johnson or Creep was the shooter—all the evidence
+presented only went to Johnson being the shooter; no evidence was presented of
+Creep being the shooter. See Barber, 393 S.C. at 236, 712 S.E.2d at 439 ("Like a
+lesser-included offense, an alternate theory of liability may only be charged when
+the evidence is equivocal on some integral fact and the jury has been presented
+with evidence upon which it could rely to find the existence or nonexistence of that
+fact. We find the sum of the evidence presented at trial, both by the State and
+defense, was equivocal as to who was the shooter. Thus, the charge on accomplice
+liability was warranted."). Additionally, although the record contains little
+evidence Bumcum was the shooter, to the extent that Bumcum could have been the
+principal, the State presented no evidence Johnson was working with him.
+
+The weapons charge of which the jury acquitted Johnson states it applies when "a
+person is in possession of a firearm or visibly displays what appears to be a firearm
+. . . during the commission of a violent crime and is convicted of committing or
+attempting to commit a violent crime." S.C. Code Ann. § 16-23-490(A) (2015).
+The record establishes Victim died from being shot with a firearm. For the jury to
+acquit Johnson of the weapons charge, it must have found the State did not meet its
+burden of proving Johnson actually shot Victim and therefore, only found him
+guilty of murder due to the theory of accomplice liability. Therefore, the charge
+prejudiced Johnson.
+
+CONCLUSION
+
+The trial court erred by charging the jury on accomplice liability and that error
+prejudiced Johnson.13 Accordingly, Johnson's conviction of murder is
+
+REVERSED.
+
+WILLIAMS, C.J., and VINSON, J., concur.
+
+13
+Because this issue is dispositive, we need not reach Johnson's issues regarding
+the voluntariness of his statement and the juror disqualification. Futch v.
+McAllister Towing of Georgetown, Inc., 335 S.C. 598, 613, 518 S.E.2d 591, 598
+(1999) (noting an appellate court need not review remaining issues when its
+determination of a prior issue is dispositive of the appeal).

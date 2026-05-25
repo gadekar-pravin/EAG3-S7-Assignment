@@ -1,0 +1,150 @@
+=========================================================
+Case: State v. Isaiah Gadson, Jr.
+Court: Court of Appeals of South Carolina
+Date Filed: 2023-04-05
+Citations: 
+URL: https://www.courtlistener.com/opinion/9392505/state-v-isaiah-gadson-jr/
+Source Query: murder conviction appeal
+=========================================================
+
+THE STATE OF SOUTH CAROLINA
+In The Court of Appeals
+
+The State, Respondent,
+
+v.
+
+Isaiah Gadson, Jr., Appellant.
+
+Appellate Case No. 2018-001041
+
+Appeal From Beaufort County
+Brooks P. Goldsmith, Circuit Court Judge
+
+Opinion No. 5979
+Heard November 10, 2021 – Filed April 19, 2023
+
+AFFIRMED
+
+Chief Appellate Defender Robert Michael Dudek and
+Appellate Defender Taylor Davis Gilliam, both of
+Columbia, for Appellant.
+
+Attorney General Alan McCrory Wilson, Chief Deputy
+Attorney General W. Jeffrey Young, Deputy Attorney
+General Donald J. Zelenka, Senior Assistant Deputy
+Attorney General Melody Jane Brown, Assistant
+Attorney General Mark Reynolds Farthing, and Assistant
+Attorney General William Joseph Maye, all of Columbia,
+and Solicitor Isaac McDuffie Stone, III, of Bluffton, all
+for Respondent.
+
+MCDONALD, J.: Isaiah Gadson, Jr. appeals his 2018 convictions for murder,
+first degree criminal sexual conduct (CSC), kidnapping, and armed robbery arising
+
+from a 1980 incident, arguing the circuit court erred in admitting evidence of his
+1983 rape of a different victim (Victim 2). We affirm the convictions.
+
+Gadson's 2018 convictions arose from a cold case investigation of the 1980 rape of
+Victim and the murder of her boyfriend. In 1999, the Beaufort County Sheriff's
+Office (BCSO) reopened the investigation as part of a newly created cold case task
+force. Captain Bob Bromage conducted the investigation; he reviewed the
+evidence, re-interviewed witnesses, and returned items to the South Carolina Law
+Enforcement Division (SLED) for retesting. SLED was unable to establish a DNA
+profile in 1999 due to the limited DNA technology available at the time.
+
+In 2002, Captain Bromage sent the evidence back to SLED for additional testing.
+Due to improvements in technology, a SLED examiner was able to develop a DNA
+profile from semen found on Victim's underwear. As a result of the DNA profile,
+Captain Bromage eliminated a person of interest who was not a match. It was
+further determined that Victim's deceased boyfriend was not a match.
+In 2016, SLED notified Captain Bromage that it had received notification of a
+match to the DNA profile in Victim's case from CODIS, the national DNA
+indexing system. The BCSO then returned the evidence to SLED for testing along
+with buccal swabs taken from Gadson. DNA technical leader Laura Hash
+examined Gadson's buccal swabs and compared them to the DNA profile from the
+semen previously found on Victim's underwear and pants. Gadson was a match to
+the DNA profile of the semen.
+
+Prior to Gadson's 2018 trial, the State filed a motion under Rule 404(b), SCRE,
+seeking to introduce evidence of a 1983 sexual assault Gadson committed against
+Victim 2. The State argued Gadson's conduct in the 1983 attack satisfied Rule
+404(b)'s exception permitting introduction of "other crimes, wrongs, or acts" when
+such evidence is offered to "show motive, identity, the existence of a common
+scheme or plan, the absence of mistake or accident, or intent."1 During pretrial
+proceedings, the circuit court heard arguments on the State's 404(b) motion, and
+the State proffered testimony from both Victim 2 and Captain Bromage. The
+circuit court found evidence of the 1983 assault was admissible because the
+similarities of the sexual assaults and Gadson's behavior toward each victim
+
+1
+Gadson was indicted for first degree CSC following the 1983 attack on Victim 2
+and pled nolo contendere to assault and battery of a high and aggravated nature
+(ABHAN). The State sought only to introduce the underlying conduct from the
+1983 assault that gave rise to Gadson's plea.
+
+outweighed the dissimilarities and the probative value of the evidence outweighed
+its prejudicial effect.
+
+At trial, Gadson did not contemporaneously object to Victim 2's testimony about
+the 1983 assault, and the testimony did not occur immediately following the circuit
+court's ruling on the pretrial motion. Therefore, we find the question of whether
+evidence of the 1983 assault of Victim 2 was properly admitted in the current case
+is not preserved for our review. See State v. Atieh, 397 S.C. 641, 646, 725 S.E.2d
+730, 733 (Ct. App. 2012) ("A ruling in limine is not final; unless an objection is
+made at the time the evidence is offered and a final ruling procured, the issue is not
+preserved for review."); State v. Smith, 337 S.C. 27, 32, 522 S.E.2d 598, 600
+(1999) ("A pretrial ruling on the admissibility of evidence is preliminary and is
+subject to change based on developments at trial."); id. (holding the issue of the
+admissibility of the defendant's prior conviction was not preserved when the circuit
+court ruled it was admissible during pretrial proceedings and the defendant failed
+to object to the State's questions about the conviction at trial).
+
+However, if this question were preserved, we would find the circuit court acted
+within its discretion in admitting evidence of the 1983 sexual assault under Rule
+404(b), SCRE because Victim 2's testimony was relevant to establish Gadson's
+identity as the perpetrator of Victim's attack as well as his modus operandi. See
+State v. Clasby, 385 S.C. 148, 154, 682 S.E.2d 892, 895 (2009) ("The trial judge
+has considerable latitude in ruling on the admissibility of evidence and his decision
+should not be disturbed absent prejudicial abuse of discretion."). Both victims
+were young, white, tall, and slender females. Both victims were sexually assaulted
+on dark dirt roads in the same Lowcountry community. In both sexual assaults,
+Gadson performed oral sex on the victims before vaginally raping them. Victim
+was raped at gunpoint after her boyfriend was shot, and in perpetrating Victim 2's
+sexual assault, Gadson twice threatened to "blow her brains out."
+Other—more unique—characteristics of the separate sexual assaults support
+admissibility: (1) Gadson apologized to Victim 2 after he raped her; Victim
+testified her assailant also apologized to her and (2) after raping Victim 2, Gadson
+asked her if she enjoyed it; similarly, someone, whom Victim believed to be
+Gadson, called Victim a few months after her sexual assault and asked her if she
+was the girl who was raped and whether she enjoyed it. Finally, in his statement to
+law enforcement in the 1983 case, Gadson told officers he grew up on Glaze Drive
+in the Burton area of northern Beaufort County; Glaze Drive is less than two miles
+from the isolated location of Victim's 1980 attack.
+
+We find these facts establish the necessary "logical connection" between the two
+sexual assaults for admissibility purposes. See e.g., State v. Perry, 430 S.C. 24, 41,
+842 S.E.2d 654, 663 (2020) (holding that to meet the "logical connection" standard
+for admission of other crimes under Rule 404(b), "[t]here must be something in the
+defendant's criminal process that logically connects the 'other crimes' to the crime
+charged"); see also State v. Cotton, 430 S.C. 112, 113, 844 S.E.2d 56, 57 (2020)
+(reconfirming "the continued viability of the common scheme or plan exception");
+Perry, 430 S.C. at 72, 842 S.E.2d at 679–80 (2020) (Kittredge, J., dissenting)
+(noting "the hallmark of the common scheme or plan exception is that the charged
+and uncharged crimes are connected in the mind of the actor by some common
+purpose or motive" and recognizing that with the modus operandi exception,
+"identity is interwoven with common scheme or plan").
+Additionally, we find the circuit court acted within its discretion in balancing the
+probative value of the evidence of the 1983 attack with its prejudicial effect for
+Rule 403 purposes. See State v. Brooks, 428 S.C. 618, 635, 837 S.E.2d 236, 245
+(Ct. App. 2019) (reiterating that an "appellate court reviews the circuit court's Rule
+403 ruling 'pursuant to the abuse of discretion standard'" and a "decision regarding
+the comparative probative value and prejudicial effect of evidence should be
+reversed only in exceptional circumstances" (quoting State v. Collins, 409 S.C.
+524, 534, 763 S.E.2d 22, 28 (2014))).
+
+Accordingly, Gadson's convictions are
+
+AFFIRMED.
+
+WILLIAMS, C.J., and LOCKEMY, A.J., concur.

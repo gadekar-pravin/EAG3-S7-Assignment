@@ -1,0 +1,375 @@
+=========================================================
+Case: Corry Merriweather v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2022-08-03
+Citations: 
+URL: https://www.courtlistener.com/opinion/7853753/corry-merriweather-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+08/03/2022
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs May 3, 2022
+
+CORRY MERRIWEATHER v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Shelby County
+No. 18-03466 John Wheeler Campbell, Judge
+___________________________________
+
+No. W2021-01002-CCA-R3-PC
+___________________________________
+
+Pro se Petitioner, Corry Merriweather, appeals the summary dismissal of his second
+petition seeking post-conviction relief from his conviction of second-degree murder. On
+appeal, the Petitioner argues the post-conviction court erred by dismissing his petition
+without conducting an evidentiary hearing. Upon review, we affirm.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+CAMILLE R. MCMULLEN, J., delivered the opinion of the court, in which JAMES CURWOOD
+WITT, JR., and TIMOTHY L. EASTER, JJ., joined.
+
+Corry Merriweather, Hartsville, Tennessee, Pro Se.
+
+Herbert H. Slatery III, Attorney General and Reporter; Ronald L. Coleman, Assistant
+Attorney General; Amy P. Weirich, District Attorney General; and Leslie Byrd, Assistant
+District Attorney General, for the Appellee, State of Tennessee.
+
+OPINION
+
+The record on appeal is scant, and we glean the facts giving rise to the Petitioner’s
+second-degree murder conviction from this Court’s opinion on direct appeal of the
+summary denial of the Petitioner’s motion for reduction of sentence pursuant to Tennessee
+Rule of Criminal Procedure 35. See State v. Corry Merriweather, No. W2020-00313-
+CCA-R3-CD (Tenn. Crim. App. Dec. 11, 2020).1
+
+1
+This matter was disposed of pursuant to Rule 20 of the Tennessee Court of Criminal Appeals,
+and, for reasons unknown, it was not included for citation in the Westlaw database at the time this opinion
+was written.
+
+On June 21, 2018, the [Petitioner] was indicted by a Shelby County
+grand jury for one count of first[-]degree premeditated murder for the death
+of Candra Mays. On September 11, 2019, the [Petitioner] pled guilty to the
+lesser-included offense of second[-]degree murder with a Range II sentence
+of 35 years. Pursuant to Tennessee Code Annotated section 40-35-501(i),
+the [Petitioner] is required to serve 100% of his sentence. The judgment of
+conviction was filed by the trial court clerk on September 11, 2019.
+
+On January 22, 2020, the [Petitioner] filed a Motion for Correction or
+Reduction of Sentence, citing Tennessee Rule of Criminal Procedure 35. In
+his motion, [the Petitioner] asserted that he believes that he is deserving of a
+modification or suspension of his sentence because he “does not have any
+felonies other than a Domestic Violence[,] which was dismissed. The
+[Petitioner] asserted that on the day of the incident, he called 911 and was
+found performing CPR on the gun-shot victim, who was his girlfriend.
+Although the [Petitioner] characterizes the shooting of the victim as a
+“horrible accident from a domestic dispute,” he acknowledged that her death
+was his fault and expressed remorse that he caused the death of “his only
+love.” The [Petitioner] asserted that he wanted to “serve the community”
+and that he was willing to make “a considerable amount of restitution” to the
+victim’s family. The [Petitioner] requested that his sentence either be
+reduced or partially suspended.
+
+On January 27, 2020, the trial court entered an order denying the
+[Petitioner’s] motion without a hearing. The trial court found that the
+[Petitioner’s] sentence was the result of plea negotiations between his
+counsel and the State. The State had agreed to reduce the offense from first
+degree murder to second degree murder in exchange for the [Petitioner], who
+was a Range I offender, pleading to a Range II sentence of 35 years. The
+trial court stated that it was “not going to violate the agreement and reduce
+the agreed to[] sentence.”
+
+Id. at 1-2.
+
+The Petitioner filed an untimely notice of appeal of the summary denial arguing,
+inter alia, that his due process rights were violated by the trial court’s failure to conduct an
+evidentiary hearing, that his guilty plea was involuntary, and that he received ineffective
+assistance of counsel because his trial counsel “coerced” him into taking the plea. Id. at 2.
+The State moved to dismiss the Petitioner’s appeal as untimely and without merit, and said
+motion was granted by this Court in accordance with Rule 20 of the Tennessee Court of
+Criminal Appeals. Id. at 3-4.
+-2-
+
+On May 18, 2021, the Petitioner, acting pro se, filed a document entitled “Petition
+for Post-Conviction Relief, and Motion to Withdraw Involuntary Guilty Plea[,] And
+Motion Vacating and Set Aside Sentence.” The Petitioner alleged that he received
+ineffective assistance of counsel on various grounds which resulted in the entry of an
+involuntary guilty plea. By written order on May 21, 2021, the post-conviction court noted
+the Petitioner filed “a Petition for Delayed Appeal in this Court,” but interpreted the filing
+to be a petition seeking post-conviction relief. The post-conviction court dismissed the
+petition reasoning (1) the petition was filed more than one year after the final judgment,
+and (2) the Petitioner failed to state any grounds which would warrant the tolling of the
+statute of limitations. See Tenn. Code Ann. § 40-30-102(a)-(b). The Petitioner did not
+appeal.
+
+Instead, almost two months later, on July 8, 2021,2 the Petitioner filed another pro
+se petition, self-entitled “Successive Petition [For] Post-Conviction Relief,” seeking the
+appointment of counsel and an evidentiary hearing to obtain “an Order tolling the timer so
+as to permit the ‘re-filing’ of his original petition for post-conviction relief.” In support of
+his petition, the Petitioner claimed he submitted his original petition for post-conviction
+relief to the prison mail room staff at Trousdale-Turner Correctional Center on September
+9, 2020, which should “excuse the [trial] court’s claim that his original petition was filed
+untimely.” The Petitioner attached a signed affidavit from Wilma Johnson, the mail room
+custodian at Trousdale-Turner Correctional Center. The affidavit stated, in relevant part,
+as follows:
+
+3. That the “Out-going Legal Mail Log” maintained by my department
+indicates that [the Petitioner] mailed a hand-written legal document styled
+“Petition For Post-Conviction Relief and Motion To Withdraw Involuntary
+Guilty Plea and Motion Vacating and Set Aside Sentence,” on September 11,
+2020, addressed to 201 Poplar Avenue, Memphis, Tennessee 38103.
+
+4. That on April 2, 2020, Bill Lee, Governor of the State of Tennessee,
+“declared a state of emergency” for the state of Tennessee.
+
+5. That normal day-to-day operations of the prison, including the prison mail
+room, was sharply curtailed in the name of employee health and safety.
+
+6. That on September 14, 2020, Correctional Officer Brian Monroe, an
+officer assigned to the mail room at Trousdale-Tuner Correctional Center,
+
+2
+The file-stamp date is illegible on the motion, and we deduce this date from the notary signature
+on the filing.
+-3-
+
+was relieved of his duty assignment after testing positive for Covid-19
+(Corona Virus).
+
+7. That on September 15, 2020, then Warden, Russell Washburn, issued an
+emergency memo calling for the decontamination of the mail room and the
+quarantine of the mail room contents and remaining mail room staff.
+
+8. That on September 16, 2020, technicians from Trousdale County
+Department of Health tested the mail room and declared the area a “hot zone”
+for Covid-19.
+
+9. That on September 16, 2020, per Warden Washburn’s direction, all mail
+and parcels were ordered to be placed in bio-hazard containers to be turned
+over to the department of health for destruction.
+
+Attached to the custodian’s affidavit is a copy of a computer-generated document
+entitled “Mail Log History,” confirming that the Petitioner had two outgoing legal
+documents sent to the Criminal Justice Complex at 201 Poplar, one to the criminal court
+clerk and the other to the district attorney general. Both outgoing legal documents were
+delivered to the jail mail room on September 11, 2020. On July 21, 2021, the post-
+conviction court summarily dismissed the second petition. The post-conviction court
+acknowledged the dismissal of the Petitioner’s first petition as untimely and further
+determined that “the petitioner filed [the instant petition] claiming that he did not receive
+the earlier Order denying his petition until after 30 days had elapsed.” The post-conviction
+court then denied relief reasoning that “the [P]etitioner has filed his original Petition for
+Post-Conviction Relief outside the statute of limitations and the Motion for Successive
+Petition for Post-Conviction Relief is without merit.”
+
+The Petitioner filed a notice of appeal with the appellate court clerk on August 27,
+2021. A notice of appeal must be filed within thirty days of the judgment from which the
+appeal is taken. Tenn. R. App. P. 4(a) (Rule 4(a) states that the notice of appeal “shall be
+filed with and received by the clerk of the trial court within 30 days after the date of entry
+of the judgment appealed from[.]”). Because the Petitioner’s second petition was
+dismissed on July 21, 2021, he had until August 20, 2021, to file his notice of appeal. The
+notice of appeal was stamped as filed on August 27, 2021, thirty-seven days after the trial
+court dismissed the post-conviction petition. The certificate of service accompanying the
+notice of appeal shows the notice was mailed to the Shelby County clerk on August 10,
+2021. See Tenn. R. Crim. P. 49 (d)(1) (Under the “mailbox rule,” a motion filed by an
+incarcerated pro se litigant is deemed timely filed “if the paper was delivered to the
+appropriate individual at the correctional facility within the time set for filing.”).
+Accordingly, we will waive the timely filing of the notice of appeal in the interest of justice,
+-4-
+
+give the Petitioner the benefit of the August 10, 2021 filing date, and consider this appeal
+properly before us for review.
+
+ANALYSIS
+
+On appeal, the Petitioner acknowledges generally the governing post-conviction law
+framework which contemplates the filing of only one petition for post-conviction relief
+from a single judgment, and that if a petition has been resolved on its merits, any
+subsequent petition must be summarily dismissed. However, based on his understanding
+of the law, the Petitioner claims his original petition was not resolved on the merits;
+therefore, his second petition was not subject to summary dismissal. The Petitioner
+additionally reasons that he is entitled to due process tolling of the statute of limitations
+given the fact that his original petition seeking post-conviction relief was received by the
+jail mail room within the one-year limitation period and destroyed due to conditions beyond
+his control. Under these circumstances, the Petitioner argues the post-conviction court
+erred in summarily dismissing the second petition and denying his motion for a delayed
+appeal. Finally, in this posture, the Petitioner argues he has “lost his right to meaningful
+review of his conviction” and moves this Court to grant a delayed appeal. In response, the
+State contends that the instant appeal should be dismissed as untimely and that the trial
+court’s dismissal was proper.3 We agree with the State.
+
+Tennessee Code Annotated section 40-30-102(a) mandates that a person in custody
+must petition for post-conviction relief “within one (1) year of the date of the final action
+of the highest state appellate court to which an appeal is taken or, if no appeal is taken,
+within one (1) year of the date on which the judgment became final, or consideration of the
+petition shall be barred.” Tenn. Code Ann. § 40-30-102(a). The statute explicitly states,
+“The statute of limitations shall not be tolled for any reason, including any tolling or saving
+provision otherwise available at law or equity.” Id. It further stresses that “[t]ime is of the
+essence of the right to file a petition for post-conviction relief or motion to reopen
+established by this chapter, and the one-year limitations period is an element of the right to
+file the action and is a condition upon its exercise.” Id. In the event that a petitioner files
+a petition for post-conviction relief outside the one-year statute of limitations, the trial court
+is required to summarily dismiss the petition. See id. § 40-30-106(b). However, Tennessee
+Code Annotated section 40-30-102(b) provides that a trial court may consider an untimely
+petition if: (1) the highest state appellate court or the United States Supreme Court
+established a new constitutional right with retrospective application; (2) new scientific
+evidence has established the petitioner’s innocence, or (3) a court has ruled that a previous
+3
+The State also argued that the appeal should be dismissed because the Petitioner failed to include
+the order at issue in the record on appeal. See Tenn. R. App. P. 24(b). However, the order was provided
+to this Court by the Appellate Court Clerk’s Office for our review.
+
+-5-
+
+conviction that enhanced the petitioner’s sentence was invalid. None of these exceptions
+apply in this case.
+
+Due process concerns may also, in very limited circumstances, require the tolling of
+the statute of limitations. Burford v. State, 845 S.W.2d 204, 209-10 (Tenn. 1992).
+“[B]efore a state may terminate a claim for failure to comply with procedural requirements
+such as statutes of limitations, due process requires that potential litigants be provided an
+opportunity for the presentation of claims at a meaningful time and in a meaningful
+manner.” Burford, 845 S.W.2d at 208 (citing Logan v. Zimmerman Brush Co., 455 U.S.
+422, 437 (1982)). In determining whether principles of due process should toll the statute
+of limitations, courts should utilize the following three-step process:
+
+(1) determine when the limitations period would normally have begun to run;
+
+(2) determine whether the grounds for relief actually arose after the
+limitations period would normally have commenced; and
+
+(3) if the grounds are “later-arising,” determine if, under the facts of the case,
+a strict application of the limitations period would effectively deny the
+petitioner a reasonable opportunity to present the claim.
+
+Sands v. State, 903 S.W.2d 297, 301 (Tenn. 1995), overruled on other grounds by Nunley
+v. State, 552 S.W.3d 800 (Tenn. 2018). In making this final determination, courts should
+carefully weigh the petitioner’s liberty interest in “collaterally attacking constitutional
+violations occurring during the conviction process,” Burford, 845 S.W.2d at 207, against
+the State’s interest in preventing the litigation of “stale and fraudulent claims.” Sands, 903
+S.W.2d at 301.
+
+In addition, “[a] petitioner is entitled to due process tolling upon a showing (1) that
+he or she has been pursuing his or her rights diligently and (2) that some extraordinary
+circumstance stood in his or her way and prevented timely filing.” Whitehead v. State, 402
+S.W.3d 615, 631 (Tenn. 2013) (citing Holland v. Florida, 560 U.S. 631, 649 (2010)).
+Under the first prong of the analysis, “pursuing one’s rights diligently ‘does not require a
+prisoner to undertake repeated exercises in futility or to exhaust every imaginable option,
+but rather to make reasonable efforts [to pursue his or her claim].’” Bush v. State, 428
+S.W.3d 1, 22 (Tenn. 2014) (quoting Whitehead, 402 S.W.3d at 631). Regarding the second
+prong, our supreme court has recognized three extraordinary circumstances warranting due
+process tolling: (1) if petitioner is mentally incompetent, (2) if attorney misconduct
+prevented timely filing, or (3) when the grounds for relief arise after the point at which the
+limitations period would normally have begun to run.” Whitehead, 402 S.W.3d at 623.
+The court emphasized that “‘[i]n every case in which we have held the statute of limitations
+-6-
+
+is tolled, the pervasive theme is that circumstances beyond a petitioner’s control prevented
+the petitioner from filing a petition for post-conviction relief within the statute of
+limitations.’” Whitehead, 402 S.W.3d at 634 (quoting Smith v. State, 357 S.W.3d 322,
+358 (Tenn. 2011)). Whether the statute of limitations should be tolled by principles of due
+process is a mixed question of law and fact reviewed de novo on appeal. Id. at 621.
+
+Finally, the Post-Conviction Procedure Act “contemplates the filing of only one (1)
+petition for post-conviction relief,” and states that “[i]f a prior petition has been filed which
+was resolved on the merits by a court of competent jurisdiction, any second or subsequent
+petition shall be summarily dismissed.” Tenn. Code Ann. § 40-30-102(c). While the Act
+provides that a petitioner may file a successive petition if the first petition has not been
+resolved on the merits, the Act contemplates that the original petition was timely filed.
+Shelley Denise Blair v. State, No. M2014-02506-CCA-R3-PC, 2015 WL 9257167, at *4
+(Tenn. Crim. App. Dec. 17, 2015) (noting that dismissal of pro se post-conviction petition
+under statute of limitations grounds was dismissal on the merits) no perm. app. filed.
+Accordingly, “it is incumbent upon a petitioner to include allegations of fact in the petition
+establishing either timely filing or tolling of the statutory period.” State v. Nix, 40 S.W.3d
+459, 464 (citing Tenn. Code Ann. § 40-30-204(e) (“The petitioner shall include allegations
+of fact supporting each claim for relief set forth in the petition....”)). “Failure to include
+sufficient factual allegations of either compliance with the statute or incompetence
+requiring tolling will result in dismissal.” Id. (citing Tenn. Code Ann. § 40-30-206(b) (“If
+it plainly appears from the face of the petition, any annexed exhibits or prior proceedings
+in the case that the petition was not filed ... within the time set forth in the statute of
+limitations, ... the trial judge shall enter an order dismissing the petition.”)).
+
+In the instant case, the Petitioner entered a guilty plea to second-degree murder, and
+a judgment of conviction was entered on September 11, 2019. As such, the Petitioner had
+until September 11, 2020, to file a petition for post-conviction relief. The Petitioner’s first
+petition was not filed until May 18, 2021, some eight months after the statute of limitations
+had expired. Although the Petitioner delivered a legal document, purportedly his original
+post-conviction petition, to the prison mail room on September 11, 2020, which was
+attested to with the prison mail room custodian’s affidavit, the first petition filed in May
+was devoid of any information upon which the post-conviction court could toll the statute
+of limitations based on due process considerations. In other words, the Petitioner failed to
+include the pertinent facts concerning his original petition from September and its alleged
+destruction in the May petition. While we empathize with the Petitioner’s predicament,
+the post-conviction court as well as this Court are bound by the above law requiring
+dismissal.
+
+In addition, the Petitioner had the opportunity to appeal the dismissal of the first
+petition for post-conviction relief from May and failed to do so. See, e.g., Smith v. State,
+-7-
+
+873 S.W.2d 5, 6 (Tenn. Crim. App. 1993) (remanding to the post-conviction court to
+determine whether the defendant filed his petition within the statute of limitations);
+Marquette Houston v. State, No. W2011-01073-CCA-R3-PC, 2012 WL 1478760, at *2-3
+(Tenn. Crim. App. April 25, 2012) (reversing the lower court’s summary dismissal of the
+petitioner’s petition as time-barred after finding that the petitioner timely filed his post-
+conviction petition by delivering it to the appropriate prison authorities for mailing); State
+v. Phillips, 904 S.W.2d 123, 124 (Tenn. Crim. App. 1995) (noting that “a petitioner’s
+personal ignorance of post-conviction procedures … does not toll the running of the
+statute[] of limitations”). Almost two months after entry of the order of the post-conviction
+court, the Petitioner filed his second petition from July, self-entitled “successive petition
+for post-conviction relief,” and argued within it, for the first time, that due process requires
+the tolling of the limitations period because he was never given an opportunity to address
+the timeliness of his first petition. In our view, the Petitioner had the opportunity to include
+within his first petition from May an explanation as to why the petition from September
+was untimely and failed to do so. As explained above, the Petitioner’s first petition from
+May was considered by the post-conviction court and properly dismissed as time-barred
+rendering his second petition a nullity.
+
+The Petitioner argues he is entitled to due process tolling of the statute of limitations
+given the fact that his original petition from September seeking post-conviction relief was
+received by the prison mail room within the one-year limitation period and destroyed due
+to conditions beyond his control. Based on these facts, we cannot conclude that the
+Petitioner was denied a reasonable opportunity to assert a post-conviction claim in a
+reasonable time or manner. See Burford, 845 S.W.2d at 208; see also Antonio Bonds v.
+State, No. W2010-01515-CCA-R3-PC, 2011 WL 914981, at *1 (Tenn. Crim. App. Mar.
+16, 2011), perm. app. denied (July 15, 2011) (concluding the petitioner was not denied a
+reasonable opportunity to assert his post-conviction claim in a meaningful manner when
+he failed to raise his due process concern in either his first petition for post-conviction relief
+or on appeal from the dismissal of the first petition). Moreover, the post-conviction court
+was not required to conduct an evidentiary hearing before summarily dismissing the second
+petition when it was clear on the face of the petition for post-conviction relief that it was
+untimely. See Craig Robert Nunn, No. M2005-01404-CCA-R3-PC, 2006 WL 680900, at
+*5 (Tenn. Crim. App. Mar. 17, 2006). The Petitioner is not entitled to relief.
+
+Finally, the Petitioner requests this Court to treat his second post-conviction petition
+as a delayed appeal from the dismissal of his first petition. However, Tennessee Code
+Annotated section 40-30-113, which outlines the procedure governing delayed appeals,
+“clearly contemplates that any grant of a delayed appeal will commence by the filing of a
+timely petition for post-conviction relief.” State v. James Tremelle Hunt, No. M2013-
+01649-CCA-R3CD, 2014 WL 6682465, at *2 (Tenn. Crim. App. Nov. 26, 2014) perm.
+app. denied (March 12, 2015). Additionally, “the statute of limitations for post-conviction
+-8-
+
+relief applies to delayed appeals as well, because the petitioner must comply with the post-
+conviction procedure act to obtain a delayed appeal.” Handley v. State, 889 S.W.2d 223,
+224-25 (Tenn. Crim. App. 1994). Because the Petitioner did not comply with the
+provisions of the Post-Conviction Procedure Act in failing to timely file his petition for
+post-conviction relief, we are unable to conclude that he is entitled to a delayed appeal.
+See Stokes v. State, 146 S.W.3d 56, 59 (Tenn. 2004) (declining to “extend the right to a
+delayed appeal” to second-tier review of a denial of post-conviction relief); Timothy A.
+Baxter v. State, No. W2006-01667-CCA-R3-PC, 2007 WL 2822905, at *2 (Tenn. Crim.
+App. Sept 26, 2007) (dismissing the appeal on the ground that “there is no entitlement to a
+delayed appeal from the trial court’s denial of the Petitioner’s petition for post-conviction
+relief”). Accordingly, the Petitioner is not entitled to relief.
+
+CONCLUSION
+
+Based on the foregoing authorities and reasoning, we affirm the summary dismissal
+of the petition for post-conviction relief.
+
+_________________________________
+CAMILLE R. MCMULLEN, JUDGE
+
+-9-

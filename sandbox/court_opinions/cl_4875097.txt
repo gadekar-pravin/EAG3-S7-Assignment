@@ -1,0 +1,111 @@
+=========================================================
+Case: Alexander R. Carino v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2021-04-20
+Citations: 
+URL: https://www.courtlistener.com/opinion/4875097/alexander-r-carino-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+04/20/2021
+
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+Assigned on Briefs March 31, 2021
+
+ALEXANDER R. CARINO v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Cumberland County
+No. 09-0016A Wesley Thomas Bray, Judge
+___________________________________
+
+No. E2020-01435-CCA-R3-PC
+___________________________________
+
+Alexander R. Carino, Petitioner, appeals the summary dismissal of his 2020 Petition for
+Post-Conviction Relief which challenged his 2010 convictions for two counts of second
+degree murder. We affirm.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+Pursuant to Court of Criminal Appeals Rule 20
+
+ROBERT L. HOLLOWAY, JR., J., delivered the opinion of the court, in which JOHN EVERETT
+WILLIAMS, P.J., and ROBERT H. MONTGOMERY, Jr., J., joined.
+
+Alexander R. Carino, Hartsville, Tennessee, Pro Se.
+
+Herbert H. Slatery III, Attorney General and Reporter; T. Austin Watkins, Assistant
+Attorney General; Bryant C. Dunaway, District Attorney General; Phillip A. Hatch,
+Assistant District Attorney General, for the appellee, State of Tennessee.
+
+MEMORANDUM OPINION
+
+In 2010, Petitioner pleaded guilty to two counts of second degree murder and was
+sentenced pursuant to a plea agreement to a total effective sentence of forty-three years at
+100% service. The judgments of conviction were filed on July 19, 2010. Petitioner did
+not pursue a direct appeal.
+
+On March 2, 2018, Petitioner filed a petition for post-conviction relief (“the first
+petition”), which the post-conviction court summarily dismissed, finding that “Petitioner
+ha[s] not proven that he was pursuing his rights diligently during the seven-year delay.”
+
+Alexander R. Carino v. State, No. E2018-00775-CCA-R3-PC, 2018 WL 5780231, at *5
+(Tenn. Crim. App. Nov. 2, 2018), perm. app. denied (Tenn. Feb. 20, 2019). This court
+affirmed the post-conviction court’s summary dismissal of the first petition. Id.
+
+On September 21, 2020, Petitioner filed another petition for post-conviction relief
+(“the second petition”). Petitioner claimed that he breached the terms of his plea
+agreement by refusing to testify in the trial of his co-defendant and that in response, on
+November 12, 2010, the State filed a motion to set aside Petitioner’s guilty plea. Petitioner
+explained that the trial court later allowed the State to withdraw its motion. Petitioner
+claimed that trial counsel “at no time had ever informed” him that the State filed a motion
+to withdraw its previous motion and “misled [Petitioner] to believe that his case would be
+heading to trial.” The second petition stated:
+
+Petitioner [] had newly discovered this information through obtaining
+a docket report on January 12, 2017, that the State on October 25[,] 2011[,]
+filed a motion to withdraw its previous motion to “set aside [P]etitioner’s
+plea of guilty” after the post-conviction statute of limitations had expired.
+[Petitioner], on this foundation, contends that he was deceived by counsel []
+to “be patient . . . we are going to trial”, during the period of November 12,
+2010[,] through when the post-conviction statute of limitations had expired.
+
+Petitioner filed the second petition more than three years and eight months after he
+claimed he obtained the docket report showing that the State had been allowed to withdraw
+its motion. He offers no explanation or reasons for the delay.
+
+Whether a petitioner is entitled to due process tolling of the post-conviction statute
+of limitations involves mixed questions of law and fact which we review de novo without
+a presumption of correctness. Whitehead v. State, 402 S.W.3d 615, 621 (Tenn. 2013).
+
+Generally, a court loses jurisdiction to consider a petition at the expiration of the
+statute of limitations. Tenn. Code Ann. § 40-30-102(b) (2020). There are three statutory
+exceptions to the loss of jurisdiction provided in Tennessee Code Annotated section 40-
+30-102(b), but Petitioner does not claim that any of the three statutory exceptions apply to
+his case. In addition to three statutory exceptions, Tennessee courts “have previously
+recognized that in certain circumstances, strict application of the statute of limitations
+would deny a defendant a reasonable opportunity to bring a post-conviction claim and thus,
+would violate due process.” Williams v. State, 44 S.W.3d 464, 468 (Tenn. 2001). Our
+supreme court identified three circumstances that Tennessee courts have determined could
+justify due process tolling, including the circumstance alleged by Petitioner in the second
+petition—attorney misconduct. Whitehead, 402 S.W.3d at 624. However, in Whitehead,
+the court warned that due process tolling “‘must be reserved for those rare instances
+-2-
+
+where—due to circumstances external to the party’s own conduct—it would be
+unconscionable to enforce the limitation period against the party and gross injustice would
+result.’” Id. at 631-32 (quoting Harris v. Hutchinson, 209 F.3d 325, 330 (4th Cir. 2000)).
+This is not an instance where the delay in filing the second petition was due to
+circumstances external to Petitioner’s own conduct. Accordingly, Petitioner is not entitled
+to due process tolling of the statute of limitations, and we affirm the post-conviction court’s
+summary dismissal of the second petition.
+
+Because this opinion would have no precedential value and because no error of law
+requiring a reversal of the judgment of the post-conviction court is apparent in the record,
+we affirm the summary dismissal of the second petition pursuant to Rule 20 of the
+Tennessee Court of Criminal Appeals.
+
+____________________________________
+ROBERT L. HOLLOWAY, JR., JUDGE
+
+-3-

@@ -1,0 +1,998 @@
+=========================================================
+Case: State v. Novoa
+Court: Ohio Court of Appeals
+Date Filed: 2023-09-29
+Citations: 2023 Ohio 3595
+URL: https://www.courtlistener.com/opinion/9430804/state-v-novoa/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Novoa, 2023-Ohio-3595.]
+
+IN THE COURT OF APPEALS OF OHIO
+SEVENTH APPELLATE DISTRICT
+MAHONING COUNTY
+
+STATE OF OHIO,
+
+Plaintiff-Appellee,
+
+v.
+
+ARTURO NOVOA,
+
+Defendant-Appellant.
+
+OPINION AND JUDGMENT ENTRY
+Case No. 22 MA 0020
+
+Criminal Appeal from the
+Court of Common Pleas of Mahoning County, Ohio
+Case No. 18 CR 850
+
+BEFORE:
+Cheryl L. Waite, Carol Ann Robb, David A. D’Apolito, Judges.
+
+JUDGMENT:
+Affirmed.
+
+Atty. Dave Yost, Ohio Attorney General and Atty. Andrea K. Boyd, Special Prosecuting
+Attorney, Asst. Attorney General, 30 East Broad Street, 23rd Floor, Columbus, Ohio
+43215, for Plaintiff-Appellee
+
+Atty. Brian A. Smith, Brian A. Smith Law Firm, LLC, 123 South Miller Road, Suite 250,
+Fairlawn, Ohio 44333, for Defendant-Appellant
+
+Dated: September 29, 2023
+
+–2–
+
+WAITE, J.
+
+{¶1} On February 24, 2017, Appellant Arturo Novoa murdered and then
+
+dismembered his girlfriend Shannon Graves. He attempted to dissolve some of the body
+
+parts with sulfuric acid; others were hidden and moved to various locations over the
+
+course of the next months. He pleaded guilty to 43 criminal charges related to the murder
+
+and subsequent cover up, and he was sentenced to 48 years and one month to life in
+
+prison. When sentencing, some counts merged but the trial court pronounced sentence
+
+on each merged count despite the merger. The case was appealed to this Court. State
+
+v. Novoa, 7th Dist. Mahoning No. 19 MA 0073, 2021-Ohio-3585. Appellant’s convictions
+
+were affirmed, but the matter was remanded for the limited purposes of resentencing due
+
+to the errors related to sentencing on the merged counts. On remand, Appellant made
+
+an oral motion to withdraw his plea at resentencing, which was denied. The trial court
+
+addressed the merger error and Appellant was once again sentenced to 48 years and
+
+one month to life in prison.
+
+{¶2} Appellant argues that the trial court should have granted the motion to
+
+withdraw his plea made at the beginning of his resentencing hearing. Appellant also
+
+alleges error in imposing consecutive sentences, denial of his right of allocution, and
+
+failure to sentence him on certain counts. Finally, Appellant alleges error in the trial
+
+court's jail-time credit calculation. A review of this record reveals none of Appellant's six
+
+assignments of error have merit and the judgment of the trial court after the limited
+
+resentencing is affirmed.
+
+Case No. 22 MA 0020
+
+–3–
+
+Case History and Facts
+
+{¶3} The history of this case is well documented in our prior opinion, State v.
+
+Novoa, 7th Dist. Mahoning No. 19 MA 0073, 2021-Ohio-3585. Appellant and the victim,
+
+Shannon Graves, were in a violent and tumultuous relationship during portions of 2016
+
+and 2017. Appellant bludgeoned Graves to death in her home on Mahoning Avenue in
+
+Youngstown, Ohio, on February 24, 2017. At the time, Appellant was also involved with
+
+another woman, Katrina Layton, who became his accomplice in the crimes against
+
+Graves. After murdering Graves, Appellant and Layton attempted in various ways to
+
+cover up the crime. Appellant shaved the victim's head, wrapped the body in garbage
+
+bags, and he and Layton put the body in the trunk of Graves' car. They took the body to
+
+Layton's home and together with another accomplice, Andrew Herrmann, dismembered
+
+the body. They placed Graves’ arms and legs in one storage bin and her head and torso
+
+in another, took the bins back to the Mahoning Avenue home, and placed the body parts
+
+in a freezer. They used sulfuric acid to try to dissolve the head and body. They also
+
+burned Graves’ personal belongings and her hair in a bonfire at a friend's house on
+
+Sherwood Avenue in Youngstown.
+
+{¶4} During this time period Appellant and Layton used Graves' car, and also
+
+used her WIC food stamp card to purchase groceries. They told Graves' family and
+
+friends that she had moved to Cleveland with one man, and then later said she moved to
+
+Columbus with another.
+
+{¶5} On June 22, 2017, Graves' sister, Debbie DePaul, filed a missing person's
+
+report. DePaul and Graves' former fiancé began looking for her. At this point, Appellant
+
+and Layton became concerned that the police would search the Mahoning Avenue home.
+
+Case No. 22 MA 0020
+
+–4–
+
+They purchased a second freezer and took it to an apartment on Ravenwood Avenue in
+
+Youngstown. They moved Graves' body parts to the second freezer, but again became
+
+concerned about detection and moved the freezer containing Graves’ body to a third
+
+location on Devitt Avenue in Campbell, Ohio. A friend of Appellant opened the freezer
+
+thinking it contained frozen food. Instead, he found a bag containing what was left of
+
+Graves' remains.
+
+{¶6} On September 21, 2017, Appellant and his co-defendants were indicted in
+
+Mahoning County on five felonies in Case No. 17 CR 856. This case was eventually
+
+dismissed because Appellant and his co-defendants were reindicted in Case No. 18 CR
+
+850 on August 29, 2018. The second indictment contained 48 counts, including
+
+aggravated murder, murder, tampering with evidence, abuse of a corpse, possession of
+
+criminal tools, theft of food stamp benefits, grand theft of a motor vehicle, drug trafficking,
+
+and engaging in a pattern of corrupt activity. Appellant was implicated in 44 of these
+
+counts.
+
+{¶7} On May 31, 2019, Appellant entered into a Crim.R. 11 plea agreement. He
+
+pleaded guilty to all charges except aggravated murder, which was dismissed as part of
+
+the plea agreement. On June 24, 2019, he was sentenced to fifteen years to life in prison
+
+for murder, 36 months for each count of tampering with evidence, 11 months for each
+
+count of abuse of a corpse, 11 months on each count of possession of criminal tools, 11
+
+months on each count of theft of benefits, 17 months for grand theft of an automobile, 11
+
+months on each count of drug trafficking, and 10 years for engaging in a pattern of corrupt
+
+activity.
+
+{¶8} The court merged various counts as follows:
+
+Case No. 22 MA 0020
+
+–5–
+
+Count 3 (tampering with evidence) and 32 (abuse of a corpse)
+
+Counts 4, 5, 6, 7 (tampering with evidence)
+
+Count 5 (tampering with evidence) and 30 (abuse of a corpse)
+
+Counts 8, 9, 10, 11, 12, 13, 14, and 15 (tampering with evidence)
+
+Count 9 (tampering with evidence) and 27 (abuse of a corpse)
+
+Count 10 (tampering with evidence) and 28 (abuse of a corpse)
+
+Count 16 (tampering with evidence) and 29 (abuse of a corpse)
+
+Counts 21, 22, 23, 24, 25, and 26 (tampering with evidence)
+
+{¶9} The court ordered some counts to be served concurrently and some
+
+consecutively, for a total of 48 years to life in prison. By actual count of the individual
+
+sentences, the sentence amounted to 48 years and one month to life in prison.
+
+{¶10} Appellant appealed his conviction and sentence to this Court. This Court
+
+held that Appellant’s guilty plea was made knowingly, voluntarily, and intelligently; that
+
+the trial court was not required to notify Appellant during the plea process of the aggregate
+
+maximum sentence he faced; and that his conviction and sentence did not violate double
+
+jeopardy. This Court did find the trial court erred when it merged certain counts at
+
+sentencing but also entered specific prison terms for each sentence, rather than
+
+sentencing once on each group of merged counts. Id. at ¶ 48. The case was remanded
+
+to the trial court for the limited purposes of resentencing on only the merged counts by
+
+Case No. 22 MA 0020
+
+–6–
+
+allowing the state to elect the charge in each set of merged counts on which the court
+
+should sentence, and then for the court to issue a sentence only on those specifically
+
+elected counts.
+
+{¶11} The resentencing hearing took place on February 9, 2022. At the beginning
+
+of this resentencing hearing, Appellant made an oral motion to withdraw his guilty plea,
+
+which was denied. The resentencing entry was issued on February 17, 2022. The court
+
+recited which counts had been merged at the previous sentencing, and then stated which
+
+merged counts the state had elected for conviction and sentencing purposes: counts 3,
+
+4, 8, 16, and 21. The court resentenced accordingly and sentenced Appellant to 48 years
+
+and one month to life in prison as follows:
+
+Count 2, murder (R.C. 2929.13(F), 2929.14(D)(3)), 15 years to life;
+
+Count 3, tampering with evidence (R.C. 2921.12(A)(1), third degree felony),
+
+36 months;
+
+Count 4, tampering with evidence (R.C. 2921.12(A)(1), third degree felony),
+
+36 months;
+
+Count 16, tampering with evidence (R.C. 2921.12(A)(1), third degree
+
+felony), 36 months;
+
+Count 17, tampering with evidence (R.C. 2921.12(A)(1), third degree
+
+felony), which is not an allied offense, 36 months;
+
+Case No. 22 MA 0020
+
+–7–
+
+Counts 18, 19, and 20, tampering with evidence (R.C. 2921.12(A)(1), third
+
+degree felony), which are not allied offenses, 36 months for each count;
+
+Count 21, tampering with evidence (R.C. 2921.12(A)(1), third degree
+
+felony), 36 months;
+
+Count 31, abuse of a corpse (R.C. 2927.01(B), fifth degree felony), 11
+
+months;
+
+Counts 33, 34, and 35, possession of criminal tools (R.C. 2923.24, fifth
+
+degree felony), which are not allied offenses, 11 months for each count;
+
+Counts 36, 37, and 38 (R.C. 2913.46, fifth degree felony), theft of WIC
+
+benefits, which are not allied offenses, 11 months for each count;
+
+Count 42, grand theft of a motor vehicle (R.C. 2913.02, fourth degree
+
+felony), 17 months;
+
+Count 43, 44, 45, and 46, trafficking drugs (R.C. 2925.03(A)(1), fifth degree
+
+felony), which are not allied offenses, 11 months for each count.
+
+{¶12} Appellant filed a timely appeal of his resentencing on March 9, 2022, and
+
+raises six assignments of error.
+
+ASSIGNMENT OF ERROR NO. 1
+
+THE TRIAL COURT ABUSED ITS DISCRETION IN DENYING
+
+APPELLANT'S MOTION TO WITHDRAW GUILTY PLEA.
+
+Case No. 22 MA 0020
+
+–8–
+
+{¶13} Appellant contends that he made a valid oral presentence motion to
+
+withdraw his guilty plea at the beginning of his resentencing hearing on June 14, 2019.
+
+Appellant cites nine factors a trial court is to use in evaluating a presentence motion to
+
+withdraw a plea. State v. Jones, 7th Dist. Columbiana No. 18 CO 0023, 2020-Ohio-3578,
+
+¶ 12. He argues that a presentence motion to withdraw a plea should be freely and
+
+liberally granted and a trial court is reviewed on appeal for abuse of discretion. Id. at ¶ 11.
+
+Based on this, Appellant contends that his motion to withdraw should have been granted,
+
+or at least the trial court should have held a hearing on the matter.
+
+{¶14} Appellee responds that since Appellant's conviction had already been
+
+affirmed on appeal, the oral motion to withdraw Appellant’s plea made at the beginning
+
+of the limited resentencing hearing could not be granted. Appellee is correct. “A motion
+
+to withdraw a plea cannot be sustained by the trial court after the case has been appealed
+
+and the conviction affirmed.” State v. Smith, 7th Dist. Mahoning No. 14 MA 65, 2015-
+
+Ohio-4809, ¶ 5, citing State v. Ketterer, 126 Ohio St.3d 448, 2010-Ohio-3831, ¶ 61. “If
+
+the case is reviewed and partially remanded for some aspect of resentencing, the
+
+appellate court has nevertheless affirmed the underlying conviction and the lower court
+
+no longer has jurisdiction to reconsider matters dealing with that conviction, such as
+
+whether the plea should be vacated.” Id. “Crim.R. 32.1 does not vest jurisdiction in the
+
+trial court to maintain and determine a motion to withdraw the guilty plea subsequent to
+
+an appeal and an affirmance by the appellate court.” State ex rel. Special Prosecutors v.
+
+Judges, Court of Common Pleas, 55 Ohio St.2d 94, 97, 378 N.E.2d 162 (1978).
+
+"According to the Supreme Court, it is inappropriate for a trial court to consider a motion
+
+to withdraw a guilty plea after a defendant's conviction has been affirmed because
+
+Case No. 22 MA 0020
+
+–9–
+
+permitting the withdrawal would be inconsistent with the judgment of the appellate court."
+
+State v. Gibson, 9th Dist. Summit No. 25085, 2011-Ohio-566, ¶ 5. Once a conviction
+
+based on a guilty plea is affirmed on appeal, all matters regarding the guilty plea are res
+
+judicata and the trial court has no jurisdiction to revisit or vacate the plea as part of a
+
+limited remand for resentencing. Ketterer at ¶ 61.
+
+{¶15} Based on the established law, Appellant's first assignment of error is without
+
+merit and is overruled.
+
+ASSIGNMENT OF ERROR NO. 2
+
+THE TRIAL COURT'S IMPOSITION OF CONSECUTIVE SENTENCES
+
+WAS NOT SUPPORTED BY THE RECORD.
+
+ASSIGNMENT OF ERROR NO. 3
+
+THE TRIAL COURT'S IMPOSITION OF CONSECUTIVE SENTENCES
+
+WAS CONTRARY TO LAW.
+
+{¶16} Appellant argues that the consecutive sentences imposed with respect to
+
+counts 2, 3, 4, 8, 16, 17, 18, 21, 31, 33, 36, 42, 43, and 48 are not supported by the record
+
+and are contrary to law. We note the law regarding appellate review of consecutive
+
+sentences has recently changed. When a person is sentenced after committing multiple
+
+offenses, the presumption is that those sentences will be imposed concurrently, not
+
+consecutively. R.C. 2929.41(A). However, a court may impose consecutive sentences
+
+by following the requirements of R.C. 2929.41(C)(4). The court must find that “the
+
+consecutive service is necessary to protect the public from future crime or to punish the
+
+Case No. 22 MA 0020
+
+– 10 –
+
+offender.” Id. It must further find that “consecutive sentences are not disproportionate to
+
+the seriousness of the offender's conduct and to the danger the offender poses to the
+
+public.” Id. The court must also find at least one of the following:
+
+(a) The offender committed one or more of the multiple offenses while the
+
+offender was awaiting trial or sentencing, was under a sanction imposed
+
+pursuant to section 2929.16, 2929.17, or 2929.18 of the Revised Code, or
+
+was under post-release control for a prior offense.
+
+(b) At least two of the multiple offenses were committed as part of one or
+
+more courses of conduct, and the harm caused by two or more of the
+
+multiple offenses so committed was so great or unusual that no single
+
+prison term for any of the offenses committed as part of any of the courses
+
+of conduct adequately reflects the seriousness of the offender's conduct.
+
+(c) The offender's history of criminal conduct demonstrates that
+
+consecutive sentences are necessary to protect the public from future crime
+
+by the offender.
+
+{¶17} The appellate standard of review is found in R.C. 2953.08(G)(2), which
+
+states:
+
+(2) The court hearing an appeal under division (A), (B), or (C) of this section
+
+shall review the record, including the findings underlying the sentence or
+
+modification given by the sentencing court.
+
+Case No. 22 MA 0020
+
+– 11 –
+
+The appellate court may increase, reduce, or otherwise modify a sentence
+
+that is appealed under this section or may vacate the sentence and remand
+
+the matter to the sentencing court for resentencing. The appellate court's
+
+standard for review is not whether the sentencing court abused its
+
+discretion. The appellate court may take any action authorized by this
+
+division if it clearly and convincingly finds either of the following:
+
+(a) That the record does not support the sentencing court's findings under
+
+division (B) or (D) of section 2929.13, division (B)(2)(e) or (C)(4) of section
+
+2929.14, or division (I) of section 2929.20 of the Revised Code, whichever,
+
+if any, is relevant;
+
+(b) That the sentence is otherwise contrary to law.
+
+{¶18} The Ohio Supreme Court has recently addressed the standard of review
+
+when consecutive sentences are being reviewed in State v. Gwynne, -- Ohio St. 3d --,
+
+2022-Ohio-4607, -- N.E.3d --, which held:
+
+The evidentiary standard for changing the trial court's order of consecutive
+
+sentences is not deference to the trial court; the evidentiary standard is that
+
+the appellate court, upon a de novo review of the record and the findings,
+
+has a 'firm belief' or 'conviction' that the findings—the criteria mandated by
+
+the legislature to be met before the exception to concurrent sentences can
+
+apply—are not supported by the evidence in the record.
+
+Case No. 22 MA 0020
+
+– 12 –
+
+Id. at ¶ 23, citing State v. Marcum, 146 Ohio St.3d 516, 2016-Ohio-1002, 59 N.E.3d 1231,
+
+¶ 22.
+
+{¶19} “[T]he plain language of the statute requires appellate courts to review the
+
+record de novo and decide whether the record clearly and convincingly does not support
+
+the consecutive-sentence findings.” Gwynne at ¶ 1.
+
+{¶20} Two steps are necessary in reviewing consecutive sentence findings. The
+
+first is whether the appropriate findings have been made. The second is whether the
+
+record clearly and convincingly supports those findings. Id. at ¶ 26. An appellate court
+
+may modify or vacate the consecutive sentences if it has “a firm conviction or belief, after
+
+reviewing the entire record, that the evidence does not support the specific findings made
+
+by the trial court to impose consecutive sentences, which includes the number of
+
+consecutive terms and the aggregate sentence that results.” Id. at ¶ 29.
+
+{¶21} Turning to this record, the trial court made the required R.C. 2929.14(C)
+
+findings. The court found that consecutive sentences were necessary to protect the
+
+public from future crime and to punish the offender, that they were not disproportionate
+
+to the seriousness of Appellant's conduct and the danger he posed, and that at least two
+
+of the multiple offenses were committed as part of one or more courses of conduct with
+
+a harm so great or unusual that a single term would not adequately reflect the seriousness
+
+of the conduct. (2/9/22 Tr., pp. 22-23.) The findings were incorporated into its sentencing
+
+entry.
+
+{¶22} Appellant contends that the court failed to accurately make a finding at the
+
+sentencing hearing which is required by R.C. 2929.14(C)(4), and states: “that the
+
+consecutive * * * sentences are not disproportionate to the seriousness of the offender's
+
+Case No. 22 MA 0020
+
+– 13 –
+
+conduct and to the danger the offender poses to the public * * *.” Appellant complains
+
+the court actually said: “consecutive sentences are not disproportionate to the
+
+seriousness of the offender's conduct, the callous disregard for human life and danger
+
+imposed by the defendant * * *.” (2/9/22 Tr., p. 23.) Thus, he argues that as the trial court
+
+was required to make the exact finding set out in R.C. 2929.14(C)(4), the way the court
+
+phrased the finding at resentencing did not conform to the statute and was ineffective to
+
+support consecutive sentencing.
+
+{¶23} As this Court and many others have repeatedly held: “The court is not
+
+required to state reasons in support nor is it required to use any 'magic' or 'talismanic'
+
+words, so long as it is apparent that the court conducted the proper analysis.” State v.
+
+Williams, 2015-Ohio-4100, 43 N.E.3d 797, 806, ¶ 34 (7th Dist.), citing State v. Bonnell,
+
+140 Ohio St.3d 209, 2014-Ohio-3177, 16 N.E.3d 659, ¶ 37. It is clear the trial court
+
+conducted the appropriate consecutive sentence analysis and clearly followed the
+
+statutory language. The slight variation cited by Appellant is a distinction without a
+
+difference.
+
+{¶24} Apart from the murder conviction, and taking into account the merged
+
+counts, Appellant could have received over 66 years to life in prison if all the convictions
+
+were ordered to run consecutively. The murder conviction alone warranted a sentence
+
+of 15 years to life in prison. Thus, an aggregate sentence of 48 years to life is below the
+
+maximum sentence Appellant could have received. Further, the aggravated murder
+
+charge dismissed as a result of his Crim.R. 11 plea agreement was punishable by life in
+
+prison. Charges that have been dismissed through a plea agreement may be considered
+
+at sentencing. State v. Wilson, 7th Dist. Mahoning No. 14 MA 43, 2015-Ohio-838, ¶ 13.
+
+Case No. 22 MA 0020
+
+– 14 –
+
+{¶25} Appellant contends the record does not contain facts that could possibly
+
+justify a sentence of 48 years to life. Appellant concedes that he has several prior
+
+convictions. He concedes that the acts forming the basis of his tampering with evidence
+
+charges are violent and gruesome, and are completely unlike most tampering charges.
+
+Appellant argues, though, that his abuse of a corpse charges are not based on any
+
+unusual behavior requiring consecutive sentences because the abuse of any corpse is
+
+by its very nature abhorrent. He also argues that his theft of food stamp benefits is no
+
+different than any other similar theft and could not possibly warrant consecutive
+
+sentences.
+
+{¶26} The record reveals that Appellant committed one of the most horrendous
+
+crimes committed in Ohio in recent memory. The facts of the case are well-established
+
+in the record and in our prior opinion. He bludgeoned the victim to death, dismembered
+
+her body, and then he and his new girlfriend went on a months-long spree trying to
+
+conceal or destroy the victim's body while telling others that she had simply moved away.
+
+They used sulfuric acid to try to dissolve some of the body. They gathered up and moved
+
+the body parts from place to place as they began to worry that their crimes would be
+
+discovered. All the while they used the victim's own vehicle during the commission of
+
+these crimes, and even used the victim's WIC food stamp card. These facts alone provide
+
+overwhelming support of the trial court's decision to impose consecutive sentences on
+
+some of Appellant’s convictions.
+
+{¶27} In addition, Appellant's prior record contains convictions for arson,
+
+vandalism, and escape. The trial court also noted that Appellant had been released on
+
+bond in another criminal case when some of the offenses were committed. Appellant was
+
+Case No. 22 MA 0020
+
+– 15 –
+
+arrested on April 29, 2017, after committing a traffic offense in Youngstown. He fled in
+
+his vehicle and then on foot, and was eventually tased and caught. He had been released
+
+on bond in that case while many of the crimes under review in this appeal occurred. In
+
+light of the potential sentence that could have been imposed, Appellant's prior criminal
+
+history, the fact that he was on bond when some of the crimes occurred, and in light of
+
+the facts surrounding the crimes that were committed, this record fully supports the
+
+sentence imposed. Appellant's second and third assignments of error are overruled.
+
+ASSIGNMENT OF ERROR NO. 4
+
+THE TRIAL COURT'S SENTENCE OF APPELLANT WAS CONTRARY TO
+
+LAW FOR FAILING TO AFFORD APPELLANT HIS RIGHT OF
+
+ALLOCUTION.
+
+{¶28} Appellant argues that the trial court denied him his right of allocution found
+
+in Crim.R. 32(A)(1), which requires the sentencing judge to ask the defendant personally
+
+if he or she wishes to make a statement or present information in mitigation of
+
+punishment. The right of allocution applies, in part, to a resentencing hearing: “[The]
+
+right of allocution is confined to the matters remanded to the court for resentencing.” State
+
+v. King, 8th Dist. Cuyahoga No. 95972, 2011-Ohio-3985, ¶ 9, citing State v. Saxon, 109
+
+Ohio St .3d 176, 2006-Ohio-1245, 846 N.E.2d 824. However, a violation of the right of
+
+allocution is subject to a harmless error analysis. State v. Turjoniz, 7th Dist. Mahoning
+
+No. 11 MA 28, 2012-Ohio-4215, ¶ 10. For example, in State v. Arroyo, Cuyahoga App.
+
+No. 90369, 2008-Ohio-3808, the Eighth District held that the trial court's failure to provide
+
+opportunity for allocution at resentencing was harmless error where imposition of
+
+Case No. 22 MA 0020
+
+– 16 –
+
+postrelease control was statutorily mandated, the defendant had addressed the court on
+
+previous occasions, and nothing defendant said would have affected the sentence.
+
+{¶29} We have held that failure to directly address the defendant to give a final
+
+statement at sentencing is harmless where “defense counsel is given the opportunity to
+
+make a statement on behalf of the defendant.” Turjoniz, supra, at ¶ 10. In the instant
+
+appeal, the trial court asked Appellant's counsel immediately before pronouncing
+
+sentence: “Does your client have anything to say prior to the imposition of sentence?”
+
+(2/9/22 Tr., p. 13.) Counsel replied: “No, Your Honor.” (2/9/22 Tr., p. 13.) Because no
+
+error was raised regarding Appellant's right to allocution in the prior appeal of this case,
+
+and because the trial court asked Appellant's counsel if Appellant wished to make a final
+
+statement on resentencing, the record here reveals no prejudicial error. Appellant’s fourth
+
+assignment of error is overruled.
+
+ASSIGNMENT OF ERROR NO. 5
+
+THE TRIAL COURT'S SENTENCE OF APPELLANT WAS CONTRARY TO
+
+LAW BECAUSE THE TRIAL COURT DID NOT IMPOSE APPELLANT'S
+
+SENTENCE ON COUNTS NINETEEN AND TWENTY OF THE
+
+INDICTMENT AT THE SENTENCING HEARING.
+
+{¶30} Appellant argues that his resentencing was contrary to law under R.C.
+
+2953.08(G)(2) because the trial court failed to pronounce sentence on counts 19 and 20
+
+at the sentencing hearing. Appellant acknowledges that counts 19 and 20 are mentioned
+
+in the sentencing judgment entry. He contends that they should have been discussed at
+
+the resentencing hearing. Appellant cites only Crim.R. 32(A)(4) in support, which
+
+Case No. 22 MA 0020
+
+– 17 –
+
+provides: “At the time of imposing sentence, the court shall do all of the following: * * *
+
+(4) In serious offenses, state its statutory findings and give reasons supporting those
+
+findings, if appropriate.”
+
+{¶31} The Ohio Supreme Court has held that Crim.R. 32(A)(4) “requires only that
+
+courts state findings and give reasons as mandated by the sentencing statutes; the rule
+
+does not create any new or additional duties for judges at the time of sentencing * * *.”
+
+State v. Bonnell, 140 Ohio St.3d 209, 2014-Ohio-3177, 16 N.E.3d 659, ¶ 25. Appellant
+
+has not cited any statute that requires the trial court to make any findings or give reasons
+
+for findings regarding counts 19 and 20, and therefore, his argument is unpersuasive.
+
+{¶32} More to the point, Appellee correctly reiterates that the February 9, 2022
+
+hearing was a limited one, restricted to resentencing only on the counts that were merged
+
+at the original sentencing hearing of June 24, 2019. The case was remanded pursuant
+
+to the order set forth in our prior opinion: “We remand this matter in order to allow the
+
+state to determine on which of the merged offenses it wishes the court to enter a
+
+conviction and sentence. All other aspects of the trial court's judgment is affirmed.”
+
+Novoa, 7th Dist. Mahoning No. 19 MA 0073, 2021-Ohio-3585, at ¶ 50. Neither counts 19
+
+nor 20 were merged with any other counts in the previous sentence. Counts 19 and 20
+
+were affirmed in the prior appeal and were not subject to the resentencing order. “[O]nly
+
+the sentences for the offenses that were affected by the appealed error are reviewed de
+
+novo; the sentences for any offenses that were not affected by the appealed error are not
+
+vacated and are not subject to review.” State v. Wilson, 129 Ohio St.3d 214, 2011-Ohio-
+
+2669, 951 N.E.2d 381, ¶ 15. Appellant’s fifth assignment of error is overruled.
+
+Case No. 22 MA 0020
+
+– 18 –
+
+ASSIGNMENT OF ERROR NO. 6
+
+THE TRIAL COURT ERRED WHEN IT FAILED TO PROPERLY AWARD
+
+APPELLANT JAIL TIME CREDIT, IN VIOLATION OF APPELLANT'S
+
+RIGHT TO EQUAL PROTECTION UNDER THE FOURTEENTH
+
+AMENDMENT TO THE UNITED STATES CONSTITUTION AND ARTICLE
+
+I, SECTION 2 OF THE OHIO CONSTITUTION.
+
+{¶33} Appellant argues that the trial court forgot to include jail-time credit for the
+
+amount of time he spent in prison from his initial sentencing in June of 2019 until his
+
+resentencing on February 9, 2022. He argues that jail-time credit is a constitutional right
+
+and that “[a] defendant who is unable to afford bail must be credited for the time they are
+
+confined while awaiting trial in order to avoid unequal treatment based on economic
+
+position.” State v. Dyer, 7th Dist. Mahoning No. 21 MA 0072, 2022-Ohio-1519, ¶ 7. He
+
+complains that the trial court stated at the resentencing hearing that he was due to receive
+
+1,656 days of jail-time credit, but that the February 17, 2022 sentencing entry only gives
+
+him credit for 686 days. He believes he should receive the full 1,656 days.
+
+{¶34} Appellee replies that the trial court correctly recited the same jail-time credit
+
+in the February 17, 2022 sentencing entry that was pronounced in the original sentencing
+
+entry of June 24, 2019, which was 686 days. This amount was not challenged in
+
+Appellant’s first appeal. Appellee contends that what Appellant is asking is that the time
+
+he has spent in prison under the auspices of the Ohio Department of Rehabilitation and
+
+Corrections (ODRC) since June 24, 2019, be treated as jail-time credit, but points out
+
+there is a “distinction between jail-time credit and time served in prison[.]” State v.
+
+Case No. 22 MA 0020
+
+– 19 –
+
+Simpson, 10th Dist. Franklin No. 21AP-52, 2021-Ohio-4066, ¶ 17. A trial court is
+
+precluded from including prison time served as part of a sentence in its pretrial jail-time
+
+credit calculation. R.C. 2929.19(B)(2)(g)(i) states: “the [sentencing] court shall do all of
+
+the following: * * * Determine, notify the offender of, and include in the sentencing entry
+
+the total number of days, including the sentencing date but excluding conveyance time,
+
+that the offender has been confined for any reason arising out of the offense for which
+
+the offender is being sentenced[.] * * * The court's calculation shall not include the number
+
+of days, if any, that the offender served in the custody of the department of rehabilitation
+
+and correction arising out of any prior offense for which the prisoner was convicted and
+
+sentenced.”
+
+{¶35} R.C. 2967.191 requires the ODRC to deduct from a prisoner's sentence any
+
+jail-time credit determined by the trial court, and any additional time served while under
+
+the jurisdiction of the ODRC: "The department of rehabilitation and correction also shall
+
+reduce the stated prison term of a prisoner * * * that the prisoner previously served in the
+
+custody of the department of rehabilitation and correction arising out of the offense for
+
+which the prisoner was convicted and sentenced."
+
+{¶36} The Fourth District Court of Appeals was confronted with an argument
+
+similar to Appellant’s, and held: "[T]he plain language of the applicable versions of R.C.
+
+2929.19(B)(2)(g)(i) and R.C. 2967.191 suggests that trial courts must calculate the days
+
+a prisoner actually spends in jail, while ODRC must reduce the prisoner's prison term by
+
+those days, plus any additional days of confinement pending transport, as well as any
+
+related time the prisoner has spent in the custody of ODRC." State v. Price, 4th Dist.
+
+Athens No. 19CA14, 2020-Ohio-6702, ¶ 24. The court also stated: “[W]e find that here,
+
+Case No. 22 MA 0020
+
+– 20 –
+
+the trial court did not err or abuse its discretion in failing to specifically include Price's days
+
+served in the custody of ODRC in its jail-time credit calculation. Rather, it is the duty of
+
+ODRC to determine that figure and reduce Price's prison sentence in accordance with
+
+R.C. 2967.191.” Id. at ¶ 33.
+
+{¶37} The trial court in this matter mentioned at his resentencing hearing that
+
+Appellant would be given credit for 1,656 days of time served. (2/9/22 Tr., p. 25.) The
+
+trial court did not specify that this was jail-time credit, but simply said “credit.” The trial
+
+court was correct. Appellant will be given credit for 686 days of jail-time credit, as stated
+
+in both sentencing entries. The rest will be credited as prison time by the Ohio
+
+Department of Rehabilitation and Correction. Perhaps the trial court could more clearly
+
+have explained this at the sentencing hearing, but by law the trial court could not give
+
+Appellant any more jail-time credit than 686 days, and that was the amount provided in
+
+the resentencing entry. Appellant is aware that jail-time credit is credit given while
+
+awaiting trial, as is shown by the Dyer case cited in Appellant's brief. Once Appellant was
+
+sentenced on June 24, 2019, he was no longer awaiting trial. Any time spent in prison
+
+after that was prison time, not pretrial jail-time. Appellant has not provided any evidence
+
+that ODRC is refusing to accurately credit him with prison time served based on his
+
+conviction. Assuming there was error made by the trial court, any error made at
+
+resentencing is harmless at best and it would be unlawful to grant Appellant the relief he
+
+requests. Appellant's sixth assignment of error is overruled.
+
+Conclusion
+
+{¶38} Appellant was convicted of murder and 42 other counts, including the
+
+attempted cover up of the murder, mutilating and hiding the corpse, theft of the victim's
+
+Case No. 22 MA 0020
+
+– 21 –
+
+car, drug trafficking, and engaging in a pattern of corrupt activity. His convictions were
+
+affirmed on appeal, but the case was remanded for limited resentencing solely due to
+
+sentencing errors regarding merged counts. Any appeal is likewise limited. Appellant
+
+argues that the trial court should have granted the motion to withdraw his plea made prior
+
+to resentencing. His guilty plea and conviction had been affirmed in his prior appeal.
+
+Therefore, the trial court did not have jurisdiction to grant a motion to withdraw his plea.
+
+Appellant challenges his consecutive sentences; an alleged denial of his right of
+
+allocution; and an alleged failure of the trial court to resentence him on counts 19 and 20.
+
+None of these arguments are supported by the record. Finally, Appellant argues that the
+
+trial court should have given him jail-time credit at resentencing for the time spent during
+
+this appeal, but any credit for time spent incarcerated in prison is calculated by the ODRC
+
+and is not appropriately part of the trial judge's jail-time credit calculation. None of
+
+Appellant's six assignments of error have merit, and the resentencing judgment entry of
+
+the trial court is affirmed.
+
+Robb, J. concurs.
+
+D’Apolito, P.J. concurs.
+
+Case No. 22 MA 0020
+
+[Cite as State v. Novoa, 2023-Ohio-3595.]
+
+For the reasons stated in the Opinion rendered herein, Appellant’s assignments of
+
+error are overruled and it is the final judgment and order of this Court that the judgment
+
+of the Court of Common Pleas of Mahoning County, Ohio, is affirmed. Costs waived.
+
+A certified copy of this opinion and judgment entry shall constitute the mandate in
+
+this case pursuant to Rule 27 of the Rules of Appellate Procedure. It is ordered that a
+
+certified copy be sent by the clerk to the trial court to carry this judgment into execution.
+
+NOTICE TO COUNSEL
+
+This document constitutes a final judgment entry.

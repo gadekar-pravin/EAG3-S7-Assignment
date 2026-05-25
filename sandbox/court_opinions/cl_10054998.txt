@@ -1,0 +1,277 @@
+=========================================================
+Case: Christopher Matthew Henderson v. State of Alabama. (Appeal from Madison Circuit Court: CC-17-3064).
+Court: Court of Criminal Appeals of Alabama
+Date Filed: 2024-08-23
+Citations: 
+URL: https://www.courtlistener.com/opinion/10054998/christopher-matthew-henderson-v-state-of-alabama-appeal-from-madison/
+Source Query: murder conviction appeal
+=========================================================
+
+Rel: August 23, 2024
+
+Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter.
+Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue,
+Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections
+may be made before the opinion is published in Southern Reporter.
+
+Alabama Court of Criminal Appeals
+OCTOBER TERM, 2023-2024
+_________________________
+
+CR-21-0044
+_________________________
+
+Christopher Matthew Henderson
+
+v.
+
+State of Alabama
+
+Appeal from Madison Circuit Court
+(CC-17-3064)
+
+On Application for Rehearing
+
+McCOOL, Judge.
+
+APPLICATION OVERRULED.
+
+Windom, P.J., and Cole and Minor, JJ., concur. McCool, J., concurs
+
+specially, with opinion. Kellum, J., dissents.
+
+CR-21-0044
+
+McCOOL, Judge, concurring specially.
+
+Christopher Matthew Henderson was convicted of 15 counts of
+
+capital murder and was sentenced to death. On May 3, 2024, this Court
+
+affirmed Henderson's convictions and sentence, and Henderson timely
+
+filed an application for rehearing, which the Court now overrules. I
+
+concur in the Court's decision to overrule Henderson's application for
+
+rehearing because he has not identified any points of law or fact that the
+
+Court overlooked or misapprehended. See Rule 40(b), Ala. R. App. P. I
+
+write specially to address one of the arguments Henderson has raised in
+
+his application for rehearing.
+
+As the Court explained in its opinion, Rule 45A, Ala. R. App. P., was
+
+amended on January 12, 2023, to provide that this Court may conduct
+
+plain-error review in death-penalty cases but is no longer obligated to do
+
+so, as it was under the prior version of the rule. The Court also explained,
+
+though, that it had already held in a previous case that it would continue
+
+to conduct plain-error review in death-penalty cases, and, consistent with
+
+that holding, the Court thoroughly searched the record for plain error
+
+and reviewed every claim that Henderson raised on appeal -- with one
+
+exception. The Court did not conduct a plain-error review of Henderson's
+
+2
+
+CR-21-0044
+
+claim that the State had violated Batson v. Kentucky, 476 U.S. 79 (1986),
+
+by using its peremptory strikes in a racially discriminatory manner
+
+because Henderson did not raise that claim at trial. Rather, after noting
+
+that this Court and several Justices on the Alabama Supreme Court have
+
+long questioned the propriety of allowing a defendant to raise a Batson
+
+claim for the first time on appeal, the Court held that, in an exercise of
+
+its newly provided discretion, it will no longer review Batson claims that
+
+were not raised at trial.
+
+In his application for rehearing, Henderson points out that his
+
+notice of appeal and the parties' briefs were filed before Rule 45A was
+
+amended. Thus, according to Henderson, "mandatory plain-error review
+
+should still have applied in [his] case." (Brief in support of application
+
+for rehearing, p. 46.) Of course, whether plain-error review is mandatory
+
+or discretionary in Henderson's appeal is largely irrelevant because,
+
+except for his Batson claim, the Court did conduct plain-error review
+
+before affirming his convictions and sentence. However, Henderson now
+
+argues in his application for rehearing that this Court must also review
+
+his Batson claim for plain error because, he says, plain-error review is
+
+still mandatory in his appeal. I disagree.
+
+3
+
+CR-21-0044
+
+The Alabama Rules of Appellate Procedure (hereinafter "the Rules"
+
+or "our Rules") do not address whether amended rules apply
+
+retroactively, i.e., whether they apply to appeals that are pending at the
+
+time the amendment takes effect. The only rules that appear to speak to
+
+application of the Rules are Rule 1, which states that "[a]ll cases
+
+appealable to the Court of Criminal Appeals shall be governed by those
+
+rules contained herein which are applicable to appeals to that court," and
+
+Rule 49(1), which states that the Rules "shall apply to all appellate
+
+proceedings taken from decisions, judgments and orders entered on or
+
+after December 1, 1975." Thus, I find nothing in the Rules themselves to
+
+support the conclusion that an amended rule does not apply to appeals
+
+that are pending at the time the amendment takes effect. See also Lopez
+
+v. State, 114 S.W.3d 711, 713 (Tex. App. 2003) (applying "the current
+
+rules of appellate procedure," even though the appellant had filed his
+
+notice of appeal approximately 11 months before the rules were
+
+amended); and Hernandez v. State, 969 S.W.2d 440, 448 n.1 (Tex. App.
+
+1998) ("The amended Texas Rules of Appellate Procedure are applicable
+
+to this proceeding, as this appeal was pending at the time the amended
+
+rules became effective.").
+
+4
+
+CR-21-0044
+
+I also note that the United States Court of Appeals for the Fifth
+
+Circuit has held that amendments to the Federal Rules of Appellate
+
+Procedure, upon which our Rules are based, Ex parte Andrews, 520 So.
+
+2d 507, 509 (Ala. 1987), are to "be given retroactive application to the
+
+maximum extent possible," i.e., they are to apply to pending appeals,
+
+"unless their application [in the case at hand] would work injustice."
+
+Freudensprung v. Offshore Tech. Servs., Inc., 379 F.3d 327, 334 n.2 (5th
+
+Cir. 2004) (citations omitted). That holding is persuasive authority when
+
+interpreting our Rules, Ex parte Byner, 270 So. 3d 1162, 1168 (Ala. 2018),
+
+and thus strengthens the conclusion that amendments to our Rules apply
+
+to appeals that are pending at the time the amendment takes effect. I
+
+recognize that the Fifth Circuit's holding comes with the caveat that
+
+retroactive application of an amended rule is appropriate only when it
+
+will not "work injustice," but that caveat is based on a federal statute, see
+
+Burt v. Ware, 14 F.3d 256, 259 (5th Cir. 1994), and I am not aware of any
+
+similar Alabama statute. In my opinion, the absence of a similar
+
+Alabama statute only further strengthens the conclusion that the current
+
+version of Rule 45A applies to Henderson's appeal.
+
+5
+
+CR-21-0044
+
+I am not persuaded by the cases Henderson cites in his application
+
+for rehearing because those cases speak to the retroactive application of
+
+statutes. Furthermore, to the extent those cases are applicable, they
+
+support the Court's decision to apply the current version of Rule 45A to
+
+Henderson's appeal, as they provide that "those [statutes] which do not
+
+create, enlarge, diminish, or destroy vested rights … 'may be applied on
+
+appeal, even if the effective date of the statute occurred while the appeal
+
+was pending.' " Ex parte Bonner, 676 So. 2d 925, 926, 927 (Ala. 1995)
+
+(quoting Kittrell v. Benjamin, 396 So. 2d 93, 95 (Ala. 1981)). Contrary to
+
+Henderson's belief, applying the current version of Rule 45A to his appeal
+
+does not diminish or destroy his vested rights because, although
+
+Henderson and other defendants sentenced to death have a right to an
+
+appeal, Petersen v. State, 326 So. 3d 535, 547 (Ala. Crim. App. 2019), I
+
+am not aware of any constitutional, statutory, or rule-based "right" to
+
+plain-error review in that appeal. Even when Rule 45A made plain-error
+
+review mandatory, it did not, in my opinion, vest appellants with a "right"
+
+to that review. I also am not persuaded by Henderson's argument that
+
+he was entitled to the due-process requirements of notice and an
+
+opportunity to be heard before this Court could apply the current version
+
+6
+
+CR-21-0044
+
+of Rule 45A to his appeal. Generally, those due-process requirements
+
+apply when a defendant's rights are at stake, but, as I just explained,
+
+Henderson and other defendants sentenced to death have never, as far
+
+as I know, had a "right" to plain-error review.
+
+For the foregoing reasons, I see no basis for concluding that this
+
+Court erred by applying the current version of Rule 45A to Henderson's
+
+appeal. Thus, I do not believe the Court was under any obligation to
+
+review Henderson's Batson claim for plain error, and I firmly stand by
+
+the Court's conclusion that a defendant, even one sentenced to death,
+
+should not be able to raise such a claim for the first time on appeal.
+
+Accordingly, I concur in the Court's decision to deny Henderson's
+
+application for rehearing.
+
+7

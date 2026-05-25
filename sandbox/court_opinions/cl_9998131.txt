@@ -1,0 +1,298 @@
+=========================================================
+Case: Tyrone E. Murphy v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-07-08
+Citations: 
+URL: https://www.courtlistener.com/opinion/9998131/tyrone-e-murphy-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+07/08/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+Assigned on Briefs May 21, 2024
+
+TYRONE E. MURPHY v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Hamilton County
+No. 313133 Barry A. Steelman, Judge
+___________________________________
+
+No. E2023-01243-CCA-R3-PC
+___________________________________
+
+Tyrone E. Murphy, Petitioner, appeals from the Hamilton County Circuit Court’s denial of
+his petition for post-conviction relief from his convictions for first degree premeditated
+murder and tampering with evidence. Petitioner contends that the post-conviction court
+erred in denying relief based upon his claims of ineffective assistance of trial counsel.
+Based on our review, we affirm the judgment of the post-conviction court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+TIMOTHY L. EASTER, J., delivered the opinion of the court, in which JAMES CURWOOD
+WITT, JR., and ROBERT L. HOLLOWAY, JR., JJ., joined.
+
+John G. McDougal (on appeal), Christopher H. Jones (at post-conviction hearing),
+Chattanooga, Tennessee, for the appellant, Tyrone E. Murphy.
+
+Jonathan Skrmetti, Attorney General and Reporter; William C. Lundy, Assistant Attorney
+General; Coty Wamp, District Attorney General; and Miriam S. Johnson, Assistant District
+Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+Factual and Procedural Background
+
+Petitioner’s convictions relate to the June 4, 2017 stabbing death of Ashley Cates.
+State v. Murphy, No. E2020-00658-CCA-R3-CD, 2021 WL 2206538, at *1 (Tenn. Crim.
+App. June 1, 2021), perm. app. denied (Tenn. Sept. 22, 2021). The victim’s mother and
+stepfather discovered her lying dead on the floor of her apartment in a pool of blood. Id.
+
+at *2. When officers arrived, they observed dried blood on the ground and on the doorknob
+of a nearby apartment on the same floor as the victim’s apartment. Id. at *3. Inside the
+apartment, they found Petitioner “acting like he was asleep.” Id. Petitioner had a “huge,
+freshly-stitched laceration on his hand.” Id.
+
+The victim’s autopsy revealed that she had been stabbed 22 times and that three of
+the wounds would have been fatal by themselves. Id. at *6. The victim was stabbed “with
+enough force to nearly sever her trachea, to penetrate her spine, to pierce all the way
+through her wrist, and to break off the tip of the knife into her temporal bone.” Id. at *14.
+The medical examiner found no evidence of sexual assault, but he testified that “based on
+the way the blood was smeared on the victim’s legs, that ‘a person was trying to pull her
+legs apart[.]’” Id. The victim also had several defensive wounds. Id. Petitioner’s DNA
+was discovered inside the victim’s apartment, on her body, and on her driver’s license. Id.
+at *5.
+
+Petitioner testified at trial that he acted in self-defense after the victim attacked him
+with two knives in the hallway outside his apartment. Id. at *7. He said his hand was cut
+in the struggle. He said the victim was not “stuck until [they] got over [ ] to her door.” Id.
+He said the struggle continued into the victim’s bedroom and that was where most of the
+victim’s injuries occurred because he was “trying to shake [the knives] off of her[.]” Id.
+Afterwards, Petitioner “tried to clean” the hallway because “blood was everywhere and [ ]
+the floor was ‘unpassable.’” Id. Petitioner did not present expert DNA testimony.
+
+The jury convicted Petitioner of first degree premeditated murder, and the trial court
+sentenced Petitioner to life in prison. Id. at *9. On appeal, a panel of this Court affirmed
+the conviction. Id. at *1. The panel concluded that the evidence that Petitioner acted with
+premeditation was “overwhelming.” Id. at *14.
+
+Petitioner filed a timely pro se petition for post-conviction relief. The post-
+conviction court appointed counsel, and appointed counsel filed an amended petition
+alleging that Petitioner’s trial counsel were ineffective for (1) failing to consult with an
+expert about the victim’s history of mental health problems, substance abuse, and violent
+behavior; and (2) failing to challenge the State’s use of peremptory strikes against four
+black jurors.
+
+At the post-conviction hearing, both of Petitioner’s trial counsel (“counsel” and “co-
+counsel”) testified that they worked for the Hamilton County Public Defender’s Office at
+the time of Petitioner’s trial, and both testified that they had each handled thousands of
+cases and several jury trials. Counsel met with Petitioner “several times” before trial, and
+a defense investigator also “spent a substantial amount of time” with Petitioner.
+
+-2-
+
+Counsel recalled that of the four black jurors in the venire, the trial court dismissed
+all four for cause. One of the potential jurors said she could not view graphic photos; two
+expressed “religious objections to judging people”; and one said she knew the victim.
+Counsel testified that the jury was “all white” and that he “remember[ed] being upset
+because . . . it’s important to have diverse points of view on a jury, particularly when you
+have a black defendant like [Petitioner] was.”
+
+Counsel and co-counsel reviewed the State’s proof with Petitioner. They considered
+requesting an expert to testify at trial but did not because, counsel said, “there wasn’t really
+a factual dispute as to whether [Petitioner] had been there, whether his DNA was there or
+whether there was blood where they said there was blood.” Co-counsel explained, “any
+challenge [to] the DNA evidence would’ve only served to muddy the waters and more than
+likely weaken any self-defense claim that we made.”
+
+Counsel believed “the only possible defense was to attack premeditation” and that
+there was “very little [he] could’ve done to advance the self-defense argument if
+[Petitioner] didn’t testify,” so he and co-counsel “extensively prepared” Petitioner to
+testify. Counsel explained, “in a case where our theory was built around self-defense . . .
+[Petitioner’s] credibility [wa]s incredibly important.” Counsel said Petitioner’s testimony
+“did not go well” because Petitioner did not heed their advice.
+
+Counsel testified that Petitioner’s case was “very difficult” due to the “sheer amount
+of evidence involved in it.” Counsel testified, “I don’t know what I could have done
+differently to have affected the outcome of [Petitioner]’s trial, if anything.” Counsel did
+not recall any plea offers in Petitioner’s case. He testified that Petitioner’s age at the time
+of trial “was such that it would have been very difficult to settle this case on anything that
+wasn’t a de facto life sentence for [Petitioner].”
+
+Counsel agreed that he did not have a subpoena issued for the victim’s psychiatric
+or mental health records and said his reasoning was, “number one, we didn’t want to tip
+off the State that that was going to be our theory[,]” and secondly, he did not want to create
+sympathy for the victim by “attacking her[.]” Co-counsel recalled that a preliminary
+investigation into the victim’s mental health history did not reveal anything. He testified
+they did not want “to paint a victim who ha[d] been stabbed to death as an aggressor and a
+drug user and trying to paint her family, who’s obviously grieving through that process and
+still is, with mental health problems and drug abuse problems.”
+
+Petitioner testified that he had “four visits in 18 months” with counsel and co-
+counsel. He testified, “they were so pro-DA.” He asked co-counsel to hire a DNA expert
+to challenge the State’s DNA expert, and co-counsel “looked at [Petitioner] . . . like [he]
+was crazy.” Petitioner said his attorneys did not prepare him to testify at trial. When asked
+-3-
+
+by the post-conviction court what would be different if Petitioner was granted a new trial,
+Petitioner said that “questions [would] g[e]t answered[,]” that “some motions [would be]
+filed[,]” and that his attorney “would just focus on what we got to work with.” Petitioner
+did not deny that he was present in the victim’s apartment. He testified, “We could base
+[a new] trial on self-defense.” Petitioner recounted his version of the incident and testified,
+“I almost lost my life.” He recalled that he “was slipping around in the blood . . . and was
+just smearing it.”
+
+The post-conviction court addressed Petitioner’s claims in a written order denying
+relief. Regarding Petitioner’s claims of ineffective assistance of counsel, the post-
+conviction court determined that any deficiency by counsel in not investigating the victim’s
+history of mental illness, substance abuse, and violence was not prejudicial because
+Petitioner presented no such evidence at the post-conviction hearing. The post-conviction
+court found that all four prospective black jurors were excused for cause unrelated to the
+jurors’ race; therefore, Petitioner’s counsel were not deficient for not raising a Batson
+challenge.1 The post-conviction court made no explicit finding as to whether trial counsel
+were deficient for failing to adequately meet with Petitioner, nor did the court consider
+whether counsel were deficient for failing to call an expert witness to challenge the State’s
+DNA expert.
+
+Petitioner appeals the post-conviction court’s order.
+
+Analysis
+
+On appeal, Petitioner asserts that the post-conviction court erred in dismissing his
+petition and that trial counsel was ineffective for (1) “[n]ot having experts to testify on
+blood, DNA or mental health of victim”; (2) “[n]ot challenging the strikes of the State of
+African American Jurors”; and (3) failing to meet with Petitioner adequately.2 The State
+contends that Petitioner has waived the issues and that the post-conviction court
+nevertheless properly dismissed the petition.
+
+To prevail on a petition for post-conviction relief, a petitioner must prove all factual
+allegations by clear and convincing evidence. Jaco v. State, 120 S.W.3d 828, 830 (Tenn.
+
+1
+Batson v. Kentucky, 476 U.S. 78, 89 (1986) (“[T]he Equal Protection Clause forbids the prosecutor
+to challenge potential jurors solely on account of their race of on the assumption that black jurors as a group
+will be unable impartially to consider the State’s case against a black defendant.”).
+2
+Petitioner identified other errors by the trial court and claims of ineffective assistance of counsel
+in his petition and amended petition for post-conviction relief that he does not pursue in this appeal; thus,
+Petitioner has abandoned those issues. See Jackson v. State, No. W2008-02280-CCA-R3-PC, 2009 WL
+3430151, at *6 n.2 (Tenn. Crim. App. Oct. 26, 2009) (“While the Petitioner raised additional issues in his
+petition for post-conviction relief, he has abandoned those issues on appeal.”).
+-4-
+
+2003). Post-conviction relief cases often present mixed questions of law and fact. See
+Fields v. State, 40 S.W.3d 450, 458 (Tenn. 2001). Appellate courts are bound by the post-
+conviction court’s factual findings unless the evidence preponderates against such findings.
+Kendrick v. State, 454 S.W.3d 450, 457 (Tenn. 2015). When reviewing the post-conviction
+court’s factual findings, this Court does not reweigh the evidence or substitute its own
+inferences for those drawn by the post-conviction court. Id.; Fields, 40 S.W.3d at 456
+(citing Henley v. State, 960 S.W.2d 572, 578 (Tenn. 1997)). Additionally, “questions
+concerning the credibility of the witnesses, the weight and value to be given their
+testimony, and the factual issues raised by the evidence are to be resolved by the [post-
+conviction court].” Fields, 40 S.W.3d at 456 (citing Henley, 960 S.W.2d at 579); see also
+Kendrick, 454 S.W.3d at 457. The post-conviction court’s conclusions of law and
+application of the law to factual findings are reviewed de novo with no presumption of
+correctness. Kendrick, 454 S.W.3d at 457.
+
+The right to effective assistance of counsel is safeguarded by the Constitutions of
+both the United States and the State of Tennessee. U.S. Const. amend. VI; Tenn. Const.
+art. I, § 9. In order to receive post-conviction relief for ineffective assistance of counsel, a
+petitioner must prove: (1) that counsel’s performance was deficient; and (2) that the
+deficiency prejudiced the defense. Strickland v. Washington, 466 U.S. 668, 687 (1984);
+see State v. Taylor, 968 S.W.2d 900, 905 (Tenn. Crim. App. 1997) (stating that the same
+standard for ineffective assistance of counsel applies in both federal and Tennessee cases).
+Both factors must be proven for the court to grant post-conviction relief. Strickland, 466
+U.S. at 687; Henley, 960 S.W.2d at 580; Goad v. State, 938 S.W.2d 363, 370 (Tenn. 1996).
+Accordingly, this Court “need not address both elements if the petitioner fails to
+demonstrate either one of them.” Kendrick, 454 S.W.3d at 457. Additionally, review of
+counsel’s performance “requires that every effort be made to eliminate the distorting
+effects of hindsight, to reconstruct the circumstances of counsel’s challenged conduct, and
+to evaluate the conduct from counsel’s perspective at the time.” Strickland, 466 U.S. at
+689; see also Henley, 960 S.W.2d at 579. We will not second-guess a reasonable trial
+strategy, and we will not grant relief based on a sound, yet ultimately unsuccessful, tactical
+decision. Granderson v. State, 197 S.W.3d 782, 790 (Tenn. Crim. App. 2006).
+
+As to the first prong of the Strickland analysis, “counsel’s performance is effective
+if the advice given or the services rendered are within the range of competence demanded
+of attorneys in criminal cases.” Henley, 960 S.W.2d at 579 (citing Baxter v. Rose, 523
+S.W.2d 930, 936 (Tenn. 1975)); see also Goad, 938 S.W.2d at 369. In order to prove that
+counsel was deficient, the petitioner must demonstrate “that counsel’s acts or omissions
+were so serious as to fall below an objective standard of reasonableness under prevailing
+professional norms.” Goad, 938 S.W.2d at 369 (citing Strickland, 466 U.S. at 688); see
+also Baxter, 523 S.W.2d at 936.
+
+-5-
+
+Even if counsel’s performance is deficient, the deficiency must have resulted in
+prejudice to the defense. Goad, 938 S.W.2d at 370. Therefore, under the second prong of
+the Strickland analysis, the petitioner “must show that there is a reasonable probability that,
+but for counsel’s unprofessional errors, the result of the proceeding would have been
+different. A reasonable probability is a probability sufficient to undermine confidence in
+the outcome.” Id. (quoting Strickland, 466 U.S. at 694) (internal quotation marks omitted).
+
+Petitioner first argues that his attorneys met with him only four times before trial.
+Aside from his bare allegation that he was “prejudice[d] since [he] was found guilty[,]”
+Petitioner fails to state how trial counsels’ performance was deficient or how they failed to
+adequately communicate with him about his case. Moreover, Petitioner did not present
+this issue in his pro se or amended petitions, and the post-conviction court, therefore, did
+not make any findings as to the issue in its order denying relief. Generally, appellate review
+is not afforded to issues not addressed by a post-conviction court, and plain error review is
+not available in post-conviction proceedings. Holland v. State, 610 S.W.3d 450, 458
+(Tenn. 2020); Lane v. State, 316 S.W.3d 555, 561-62 (Tenn. 2010); Walsh v. State, 166
+S.W.3d 641, 645-46 (Tenn. 2005); Grindstaff v. State, 297 S.W.3d 208, 219 (Tenn. 2009).
+An appellate court “may only consider issues that were not formally raised in the post-
+conviction petition if the issue was argued at the post-conviction hearing and decided
+without objection.” Holland, 610 S.W.3d at 548.
+
+Counsel testified at the post-conviction hearing that he met with Petitioner “several
+times” before trial and that a defense investigator “spent a substantial amount of time” with
+Petitioner. Counsel and co-counsel reviewed discovery with Petitioner, and they
+“extensively prepared” him to testify at trial. Notwithstanding his waiver of the issue,
+Petitioner has not shown that trial counsel were deficient.
+
+Next, Petitioner asserts that trial counsel were ineffective for failing to call expert
+witnesses to testify about the blood and DNA evidence or the victim’s mental health. As
+the post-conviction court recognized, Petitioner presented no evidence at the post-
+conviction hearing as to the victim’s history of mental illness. Neither the post-conviction
+court nor this Court will speculate what a witness would have said. See Black v. State, 794
+S.W.2d 752, 757 (Tenn. Crim. App. 1990) (“When a petitioner contends that trial counsel
+failed to discover, interview, or present witnesses in support of his defense, these witnesses
+should be presented by the petitioner at the evidentiary hearing.”). Moreover, counsel
+testified as to his strategy for not having a subpoena issued for the victim’s psychiatric or
+mental health records, and co-counsel testified that a preliminary investigation into the
+victim’s mental health history did not reveal anything. The record does not preponderate
+against the post-conviction court’s conclusion that Petitioner failed to show prejudice.
+
+-6-
+
+As to Petitioner’s assertion that trial counsel were ineffective for failing to call a
+DNA expert at trial, Petitioner did not present such a witness at the post-conviction hearing.
+See Plyant v. State, 263 S.W.3d 854, 869 (Tenn. 2008) (citing Black, 794 S.W.2d at 757).
+Moreover, Petitioner has not alleged how a DNA expert would have advanced his defense.
+Counsel and co-counsel testified that there was no factual dispute as to whether Petitioner
+was present in the victim’s apartment or that the stabbing occurred. Co-counsel believed
+that a challenge to the State’s DNA evidence “would’ve only served to muddy the waters
+and more than likely weaken any self-defense claim that we made.” Petitioner has not
+established that trial counsel were deficient or that he was prejudiced by any alleged
+deficiency.
+
+Finally, Petitioner asserts that trial counsel were ineffective for failing to challenge
+the State’s use of peremptory strikes against potential African-American jurors. However,
+Petitioner has failed to make any argument or cite any authority as to this issue in his brief
+to this Court. See Tenn. R. Ct. Crim. App. 10(b) (“Issues which are not supported by
+argument, citation to authorities, or appropriate references to the record will be treated as
+waived in this court.”). Despite Petitioner’s inadequate brief, we conclude on the merits
+that the record supports the post-conviction court’s finding that all four prospective black
+jurors were excused for cause unrelated to the jurors’ race and its conclusion that trial
+counsel were not deficient for not raising a Batson challenge. Petitioner is not entitled to
+relief.
+
+CONCLUSION
+
+Based on the foregoing authorities and reasoning, the judgment of the post-
+conviction court is affirmed.
+
+____________________________________
+TIMOTHY L. EASTER, JUDGE
+
+-7-

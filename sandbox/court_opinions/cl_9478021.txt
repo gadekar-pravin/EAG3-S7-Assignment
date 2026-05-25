@@ -1,0 +1,533 @@
+=========================================================
+Case: State of Tennessee v. Ralph Lee Atkins, Jr.
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-02-23
+Citations: 
+URL: https://www.courtlistener.com/opinion/9478021/state-of-tennessee-v-ralph-lee-atkins-jr/
+Source Query: murder conviction appeal
+=========================================================
+
+02/23/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+January 23, 2024 Session
+
+STATE OF TENNESSEE v. RALPH LEE ATKINS, JR.
+
+Appeal from the Criminal Court for Knox County
+No. 118075 G. Scott Green, Judge
+
+No. E2023-00368-CCA-R3-CD
+
+The Defendant, Ralph Lee Atkins, Jr., was convicted by a Knox County Criminal Court
+jury of second degree murder, a Class A felony. See T.C.A. § 39-13-210 (2018). The
+Defendant was sentenced to twenty-two years’ incarceration. On appeal, he contends that
+the evidence is insufficient to support his conviction. We affirm the judgment of the trial
+court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+ROBERT H. MONTGOMERY, JR., J., delivered the opinion of the court, in which TOM
+GREENHOLTZ and KYLE A. HIXSON, JJ., joined.
+
+Joshua Hedrick, Knoxville, Tennessee, for the appellant, Ralph Lee Atkins, Jr.
+
+Jonathan Skrmetti, Attorney General and Reporter; Garrett D. Ward, Assistant Attorney
+General; Charme P. Allen, District Attorney General; and Nate Ogle and Sean Bright,
+Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+This case arises from the May 15, 2020 stabbing death of Eric Yorker at a Safe
+Spaces facility1 for homeless persons. The Defendant did not deny stabbing and killing the
+victim. Rather, he asserted that he acted in self-defense during an altercation with the
+victim.
+
+At the trial, the recordings of two 9-1-1 calls were received as an exhibit and played
+for the jury. In the first recording, a woman, identified as Wanda, reported that the forty-
+
+1
+This area is referred to Safe Space, Safe Spaces, Safe Place, and Safe Spot throughout the record. We use
+Safe Spaces for consistency.
+
+eight-year-old victim had been stabbed in the chest outside the mission, which was near
+Safe Spaces, and that the man had uncontrolled bleeding. In the second recording, the
+victim requested medical assistance and reported having heavy bleeding. The victim
+repeatedly mentioned a “car,” and an unidentified person in the background told the victim
+to lie on the sidewalk.
+
+Gordon Miller testified that he, the victim, and the Defendant, who was known as
+“Pop,” were homeless at the time of the victim’s death but that they stayed at the mission.
+Mr. Miller said he arrived at the mission around 3:00 p.m. on the day of the stabbing.
+Photographs of the area were received as exhibits and reflect a gated area under a bridge
+and tables inside the gated area. Mr. Miller said that the victim and the Defendant were
+inside the gated area, that the Defendant spoke to the victim, and that the victim sat at a
+table with his back to the table while facing toward the Defendant. Mr. Miller said that the
+Defendant brandished a “big hunting knife” and that the victim sat in such a way to ensure
+his back was not toward the Defendant. Mr. Miller said that the Defendant waved the knife
+and was “mad at somebody obviously.” Mr. Miller said that the Defendant spoke in a
+“kind of threatening” manner but that the victim was not “really saying anything.” Mr.
+Miller said he “heard” the dispute was “about a woman or something like that.”
+
+Mr. Miller testified that he attempted to intervene by asking the Defendant to put
+away the knife before the Defendant hurt himself or caused “trouble” for himself. Mr.
+Miller said that initially, the Defendant did not listen to him but that Mr. Miller asked the
+Defendant about a crucifix the Defendant possessed in an effort to redirect the Defendant.
+Mr. Miller said the Defendant put away the knife “for a second.” Mr. Miller recalled that
+the victim stood “out of the blue,” that the Defendant retrieved the knife and brandished it
+again, and that the Defendant spoke angrily and indiscernibly to the victim. Mr. Miller
+said that the victim did not appear to understand the Defendant, that the victim did not
+respond to the Defendant, and that the victim did not threaten the Defendant. Mr. Miller
+said the victim did not possess a weapon when he stood. Mr. Miller said that events
+transpired quickly after the Defendant brandished the knife for the second time but that the
+Defendant approached the victim, that the victim stood, and that “the knife went in” the
+victim’s chest. Mr. Miller said that initially, twenty to twenty-five feet separated the
+Defendant and the victim and that just before the stabbing, the Defendant and the victim
+“were almost face-to-face.” Mr. Miller recalled that the victim stood when the Defendant
+was about six feet from the victim. Mr. Miller said that the victim did not strike or push
+the Defendant. Mr. Miller stated that after the stabbing, the Defendant looked at him
+“funny” and “took off and went around the corner.” Mr. Miller said the victim attempted
+to call 9-1-1 as he walked toward the exit of the gated area but that the victim collapsed
+onto the sidewalk.
+
+On cross-examination, Mr. Miller testified that he had been homeless periodically
+for fifteen years and that at the time of the incident, he had been homeless for six years.
+He described some of his daily struggles associated with homelessness and stated that it
+
+-2-
+
+was difficult to stay safe. He said that the difficulties of homelessness were compounded
+by age, that younger homeless persons “don’t care” and did not respect older homeless
+persons, and that younger homeless persons stole from the older persons.
+
+Mr. Miller testified that he did not know what the Defendant and the victim
+discussed or what transpired before he arrived. Mr. Miller described the victim as
+approximately five feet, nine inches tall, between the age of late thirties to early forties,
+and “pretty fit.” Mr. Miller considered the victim to have been a friend and said he would
+have trusted the victim with his belongings.
+
+Brent Ogle, a security officer for Safe Spaces where the incident occurred, testified
+that at the time of the stabbing, he heard screams and responded to the victim’s location.
+Mr. Ogle said the victim had been stabbed in the chest and bled profusely. Mr. Ogle said
+that he began asking those around the victim who was responsible and that he saw a person,
+later identified as the Defendant, holding a knife and running from the area. Mr. Ogle said
+that he chased the Defendant, who stopped voluntarily and who had a hunting knife in his
+hand. Mr. Ogle said that he told the Defendant to hold onto the knife until the police arrived
+and that he asked the Defendant why he stabbed the victim. Mr. Ogle said the Defendant
+stated that “it was an argument, a confrontation, argument, disagreement type situation.”
+Mr. Ogle noted that the Defendant was upset, angry, and shaken.
+
+On cross-examination, Mr. Ogle agreed that he previously testified at the
+preliminary hearing that the Defendant did not run from the scene but, rather, “briskly”
+walked up the street. Mr. Ogle stated that his previous testimony was true but clarified that
+the Defendant was “getting away from the scene.”
+
+Knoxville Police Department (KPD) Investigator Preston Willock testified that he
+responded to the scene and apprehended the Defendant. Investigator Willock stated that
+he retrieved the knife, which had been sheathed, from the Defendant’s waist and that the
+Defendant asked him not to take the knife. Investigator Willock said that the Defendant
+responded with “rambling utterances about I did it, I was tired of . . . him f------ with me, I
+was tired of it.”
+
+On cross-examination, Investigator Willock did not recall if the Defendant’s hands
+were bloody but testified that he would have noticed if the Defendant’s hands were
+“covered in blood.”
+
+KPD Crime Scene Investigator Bethany Simmons took photographs, which were
+received as exhibits, during her investigation. The photographs reflect, in relevant part,
+blood on the sidewalk and the victim’s and the Defendant’s belongings at the crime scene.
+Photographs of the victim showed blood on his leg. Photographs of the Defendant showed
+blood on his hands, shirt, and shorts. Ms. Simmons did not note any injuries to the
+Defendant. Ms. Simmons stated that the knife used during the stabbing and a wallet
+
+-3-
+
+belonging to another person were taken from the Defendant. Ms. Simmons stated that she
+did not find a weapon in the victim’s belongings.
+
+KPD Investigator Clayton Madison testified that he responded to the scene and
+attempted to find witnesses to the stabbing. He said that Michael Stacey provided a
+statement at the scene but that Mr. Stacey had since died. Investigator Madison
+interviewed the Defendant about one and one-half hours after the stabbing. A portion of
+the video-recorded interview was received as an exhibit and played for the jury.
+
+In the recording, Ms. Simmons took photographs of the Defendant, and the
+investigator offered the Defendant a drink. The then-sixty-seven-year-old Defendant stated
+that he wanted a drink and that he was “beat half to f------ death and nobody cares if I fight
+back, nobody cares. They’ll put me in jail.” The Defendant said, “I fought back, and I’m
+going to jail. There is something not right about that.” The Defendant was provided a
+drink, and he complained about the lack of police presence where homeless persons
+congregated. He said homeless persons were “treated like s---,” even by each other, and
+that “I just stand up to them . . . . Ain’t nobody want to f--- with me cause they know one
+thing. I’m gonna kill their . . . a--. They ought to leave me alone. Too old for this bulls--
+-. I don’t need no help.”
+
+The Defendant stated that he went to the gated area regularly but that “no good[]”
+people who were there “dictate[d]” to others. The Defendant said that he did not adhere to
+“their rules,” that he was not going to sell drugs, and that he did not want to “f--- with
+them.” The Defendant said that “they think” they can “f---” him over because he is “white
+and old.” He said that the victim “started running his mouth” and told him to “get out of
+[the victim’s] face.” The Defendant said that the victim pushed him twice and that he
+“stabbed the motherf-----.” The Defendant said the victim was “trying to be Mr. Macho,”
+“jumped” in the Defendant’s face, and pushed the Defendant backward with both hands.
+The Defendant said the argument spanned approximately ten minutes, during which time
+the victim was “talking crazy and s---.”
+
+The Defendant stated that initially, the victim argued from a seated position at a
+table but that the victim stood, which “was when the s--- come on.” The Defendant
+continued that he did not “say a d--- word” and that he did not do anything to the victim
+before the victim stood. The Defendant agreed, though, that he and the victim argued
+before the victim stood. The Defendant said that they argued because the victim cursed
+him and told him “what to do.” The Defendant recalled that he told the victim that although
+the Defendant might be old, the Defendant was “nobody’s b----.” The Defendant said that
+he did not “f--- with these people” and that nobody was going to bother him. He said the
+that victim attempted to “get in [the Defendant’s] face,” stood, and “pushed [the Defendant]
+away.”
+
+-4-
+
+The Defendant recalled that a man standing nearby asked the Defendant about his
+necklace, that the man wanted it, and that the Defendant declined to give it to the man.
+When asked if the man stood nearby at the time of the stabbing, the Defendant said that he
+did not know who was nearby. He said that during the incident, he thought about all the
+people in the area and about the people simultaneously surrounding him. He said that he
+went “into defense mode” and attempted to protect himself. When the investigator asked
+for the Defendant’s version of events, the Defendant implored the investigator to spend
+time in the area where the stabbing occurred. The Defendant referred to a previous incident
+in which he was struck on the head with channel locks and said the responding officer knew
+the environment at the mission and the gated area under the bridge. The investigator asked
+about the “dynamic” between the Defendant and the victim, and the Defendant said that he
+and the victim had never met before the day of the stabbing and that he first saw the victim
+a couple of hours before the stabbing.
+
+The Defendant said that sometimes people wanted “to showboat” and “run their
+mouths” and that the victim “run his mouth to me” for about thirty minutes without the
+Defendant’s responding. He said that the victim wanted to be part of the culture involving
+prostitution and drugs and that the victim was attempting to build a reputation by
+approaching the Defendant.
+
+The Defendant stated that he had been staying at a city park where the police did
+not “bother” him because the police liked him. He said he did not bother anyone. He said
+that he returned to the gated area under the bridge after not having been there for some time
+in order to recoup a debt from another person. He said that he recouped the debt and that
+the victim did not like the Defendant’s being there around “Hank,” who the Defendant
+considered a friend and “checked” on periodically. The Defendant said that Hank and the
+victim were “hanging,” that the victim thought the Defendant was going to attempt to “get
+something” from Hank, and that the victim told the Defendant “more or less to get the f---
+out of dodge.” The Defendant said that nobody was going to tell him where he could and
+could not go. He stated that the victim “jumped in my face” and said, “You ain’t gonna do
+nothing.” The Defendant said he told the victim that he was old, did not feel liking fighting,
+and to “leave [him] alone.” The Defendant said the victim “moved his hands, and that was
+it.” The Defendant said his hand was injured. He said that the victim told him to leave and
+to get out of the victim’s face, that the victim pushed him, and that he told the victim that
+Hank was his friend, as well.
+
+The Defendant said that he did not kill the victim, that he stabbed the victim in the
+muscle, and that he knew “where the death places . . . are.” The Defendant denied
+attempting to kill the victim, whom he referred to as a “punk,” and said he was not going
+to “take his s---” anymore. The Defendant said that he carried his knife on his belt in order
+for everyone to see it and that he removed it from the sheath when the victim “popped up”
+on him. He said that he held the knife with the blade pointed downward and that he had to
+raise his arm to “do it.” He said that about three feet separated him and the victim when
+
+-5-
+
+he removed the knife from the sheath, that the victim told the Defendant to get out of the
+victim’s face, and that the victim said, “You ain’t gonna do nothing, punk.” The Defendant
+said that the victim moved as though he were going to “make a move around Hank toward
+[him]” and that he “tagged” the victim once with the knife when the victim moved. The
+Defendant said that he could have easily killed the victim but had not. The Defendant said
+that the victim walked away and that the victim realized he was not going to bother the
+Defendant anymore. When asked if the victim struck him, the Defendant said the victim
+did not have the opportunity to strike him.
+
+The Defendant stated that he did not feel as though he could walk away from the
+victim and that he thought the victim would have “grabbed” him. The Defendant said that
+he did not want to kill the victim and that he would have needed to stab the victim in the
+carotid artery to kill the victim. The Defendant admitted drinking rum earlier in the day
+and estimated his intoxication level was five or six out of ten.
+
+The Defendant stated that he had previous “troubles with fighting and scraping” in
+the area where the stabbing occurred and that the police did not do anything about it. He
+said that he had been hit on the head and “jumped on” many times and that his belongings
+had been stolen. He said that he “finally said, . . . enough is enough.” He said that he was
+“tired of it” and that he only tried to protect himself. The Defendant said that Mr. Ogle,
+who told the Defendant to give the officer the knife, said he would tell the police “how
+they mess with [the Defendant] all the time.” The Defendant said that he did as Mr. Ogle
+instructed and that he sat on the sidewalk curb waiting for the police.
+
+The Defendant stated that he did not fall during the incident and that the victim was
+standing at the time of the stabbing. The Defendant explained that after the victim stood,
+the victim pushed him and “started like he’s gonna . . . hit me or something.” The
+Defendant stated that he responded, “No, you ain’t,” and that he stabbed the victim. The
+Defendant said that he hated the situation “had to come to that consequence” and that he
+did not want to hurt anyone. He said that he could not walk away because if he had walked
+away, he would have had to “deal with three or four more motherf------ that think you’re a
+b----.” He said that he stabbed the victim because he was finished being assaulted and
+because “they’ve assaulted me enough.”
+
+On cross-examination, Investigator Madison testified that the Defendant was
+cooperative. After reviewing the recording of the interview, Investigator Madison agreed
+that the Defendant signed the waiver of rights form with his right hand. Investigator
+Madison agreed that the victim was much younger and weighed more than the Defendant.
+Investigator Madison agreed that the Defendant had been assaulted and had been the victim
+of theft and that the Defendant explained he was not going to be “hit, jumped, stole from,
+[and] beat on” again.
+
+-6-
+
+On redirect examination, Investigator Madison testified that the Defendant did not
+identify the victim as having played a role in the previous assaults against and thefts from
+the Defendant. Investigator Madison stated that the Defendant did not accuse the victim
+of striking the Defendant before the stabbing but conceded that the Defendant said the
+victim pushed the Defendant. Investigator Madison said that the only person with a
+weapon was the Defendant.
+
+Other evidence showed that the cause of death was a single knife wound to the
+victim’s left lung and heart and that the manner of death was homicide.
+
+The Defendant testified that he obtained his GED after leaving school in the tenth
+grade. He served time in the Marine Corps and had not always been homeless. He said
+that he lived with his wife of nearly thirty years until her death in April 2017 and that
+afterward, he had a nervous breakdown and lost his home. He stayed with family members,
+but in 2019, he ultimately became homeless at age sixty-six. He said his belongings
+included a couple sets of clothes, photographs of his wife, and a few mementos. The
+Defendant said that he suffered from a deteriorating back disk and scoliosis, that he did not
+have full use of his left arm, that he was handicapped and disabled, and that he suffered
+from chronic insomnia, excessive anxiety disorder, and post-traumatic stress disorder. The
+Defendant identified his treating physicians.
+
+The Defendant testified that homeless persons came to the gated area under the
+bridge because they had nowhere else to go. He said that housing and employment were
+difficult to find. He said he did not look like the man he was before he became homeless.
+He said that his age and physical ailments made him a “target” on the streets but that he
+did not have “much of a choice” to go to the gated area under the bridge and to the mission
+because it was an area where homeless persons could obtain food and clothes. He said he
+was robbed several times. He recalled an incident in which he was approached by two
+men, who asked for cigarettes. The Defendant said that as he reached for his cigarettes, he
+was struck on the head and that the men took his phone and wallet. He said that he had,
+likewise, been assaulted and noted that security officers did not “break up” fights, drug use,
+and alcohol use in the area. The Defendant said the security officers were “not involved in
+anybody’s security.” The Defendant recalled another incident in which he was assaulted
+and his wallet was taken when he was brushing his teeth and shaving at the mission. He
+said that the man headbutted him, that he did not understand why the man attacked him,
+and that he would have been severely injured if two people had not intervened. The
+Defendant said that he endured incidents such as these all of the time. He said his knife
+was an all-purpose tool and worked as a deterrence to others.
+
+The Defendant testified that on the morning of the incident, he went to the mission
+at 5:30 a.m. to eat breakfast and that he left and visited a friend, who shared a drink with
+the Defendant. The Defendant said that afterward, he and another man drank rum. The
+Defendant said that he returned to the mission and walked to the gated area under the
+
+-7-
+
+bridge. He said that the victim sat at a table with two men whom he identified as “Will,”
+who was in a wheelchair, and Mr. Stacey, who had since died. The Defendant said Will
+and the victim were smoking “a bowl” and methamphetamine. The Defendant said he
+carried his backpack on his shoulder and his knife sheathed on his belt. The Defendant
+said that when he saw the men, the victim said to the Defendant, “What are you looking
+at?” The Defendant recalled that ten feet separated him and the victim when the victim
+spoke, that the Defendant continued walking, and that the victim repeated his question “real
+smart like.” The Defendant said that the victim “kind of scared” him because the victim
+rose from the table quickly and stated, “[P]unk, you ain’t going to stab nobody, I stick that
+knife up your a--.” The Defendant said he had removed the knife from the sheath because
+he was scared and because he could not fight anymore.
+
+The Defendant testified that he “backed off” but that the victim “come up anyway
+toward” him and pushed him backward twice. The Defendant stated
+
+I just struck out, I mean just one time, I wasn’t trying . . . to hurt him. If I
+wanted to kill him or something I would have stabbed him a lot more than
+one time. That’s absurd. I mean, stabbed him one time and die, it’s almost
+unheard of. I wasn’t trying to kill that man. I just wanted him to get off of
+me. I am tired of getting beat on.
+
+The Defendant stated that after the stabbing, he walked across the street. He denied that
+he ran from the scene or hid from the police and said that he did not think he did anything
+wrong. He said he did not realize he had hurt the victim because the victim “backed away”
+and was not bleeding. The Defendant said the victim began to bleed after walking to the
+sidewalk because there was not any blood inside the gated area.
+
+The Defendant testified that he sat on the corner of the sidewalk for a moment to
+collect his thoughts and that Mr. Ogle “jumped on” him and told him to return to the scene.
+The Defendant said that he declined to “approach that police officer with a knife in [his]
+hand, no telling what [the officer] might think.” The Defendant said that Mr. Ogle told
+him to return to the scene with the knife and that Mr. Ogle said he would tell the police
+“that they jumped on [the Defendant] all the time.” The Defendant said that he and Mr.
+Ogle walked toward a police officer and that he handed the knife to the officer.
+
+The Defendant testified that he was mad and upset at the police station because the
+police took all of his belonging, including his clothes, and that he did not know the victim
+had died. The Defendant said that he did not want to hurt anyone, that he did not intend to
+kill the victim, and that he only wanted the victim “to get off [him] and leave [him] alone.
+The Defendant said that he was tired of being “beat upon” and “picked on all the time.”
+He said he could not use his left arm, could not fight, and had limited movements because
+he carried a backpack. He said that he “struck out the one time and that’s when [the victim]
+started coming to me and pushed me, I just wanted [the victim] to get away, wanted [the
+
+-8-
+
+victim] to back off and leave me alone and [the victim] did. [The victim] did and . . .
+walked away.” The Defendant said that he did not know the victim had been hurt “that
+bad, not to die.” He said that during his police interview, he was angry, upset, and tired
+and that he was venting his frustrations. He said he did not “mean it that way” when he
+said he was going to kill anyone who messed with him.
+
+The Defendant testified that the gated area under the bridge would be safer with a
+consistent police presence. He said that he became scared when the victim threated to stick
+the knife up his “a--.” He said that ten days before the stabbing, he was struck on the head
+with pliers requiring medical staples. He said that he felt he could not turn his back toward
+the victim, that he carried his backpack, and that “all [the victim] had to do was hit [the]
+backpack and [the Defendant] would have been on the ground.” The Defendant said that
+when the victim came toward him, he only wanted the victim to leave him alone. The
+Defendant said that he stabbed the victim once, that the victim “backed off,” and that the
+victim walked away. The Defendant said the victim did not talk or bleed profusely.
+
+The Defendant testified that he did not feel as though he could have turned and
+walked away because he feared being “choked, jerked around” and because he feared the
+victim would have “grabbed” him. The Defendant said he would have walked past the
+victim if the victim had continued talking to the victim’s friends and left him alone. The
+Defendant said that he did not have any reason to interact with the victim until the victim
+“come up from the table,” which scared him.
+
+On cross-examination, the Defendant testified that around 9:00 a.m. on the day of
+the stabbing, he went to the gated area. He said that he carried his knife at this time but
+that he did not brandish it. He said that he showed the knife to a man known as “Frank,”
+that he bought the knife from Frank two weeks before the stabbing, and that he wanted
+Frank to know he still had the knife because he promised he would not trade or sell it.
+
+The Defendant testified that that when the victim stood from the table, he was about
+four feet from the victim. The Defendant said that the verbal argument lasted no more than
+ten minutes and that Mr. Miller was not present during the verbal argument. The Defendant
+did not recall waving his knife around, screaming at the victim, or Mr. Miller’s asking
+about the Defendant’s necklace. The Defendant said that Mr. Miller might have asked
+about the necklace but that Mr. Miller did not “stay there.” The Defendant said that during
+the “heat of conflict,” he did not remember “everything going on around” him and everyone
+who was present. He said that although Mr. Miller might have been present and asked
+about the necklace, Mr. Miller was not present for the stabbing.
+
+The Defendant testified that he thought the victim “had something” in his hands
+when the victim stood. The Defendant said that the incident occurred quickly, that the
+victim stood, that the victim moved toward him, that the victim pushed him, and that the
+victim “backed up.” The Defendant said that he began to “walk off” but that the victim
+
+-9-
+
+stood again. The Defendant said that he retrieved the knife after the victim pushed him,
+that he backed up against a table, and that about four feet separated them. The Defendant
+agreed that he did not walk toward the exit of the gated area.
+
+The Defendant testified that the victim’s wound did not “gush[] blood” at the time
+of the stabbing and that he saw no blood inside the gated area. The Defendant said that
+after the stabbing, the victim talked to Mr. Stacey and walked away and that the Defendant
+walked away, too. The Defendant said that he did not have blood on him and that the knife
+was not covered in blood. The Defendant said that when he stated in his police interview
+that the victim did not have the opportunity to strike him, he was referring to the victim’s
+striking him with a fist. The Defendant said that the victim “runs like a lunge . . . coming
+at him” after the victim stood. The Defendant did not know whether the victim had a
+weapon but said the victim did not display a weapon at the time of the stabbing.
+
+On redirect examination, the Defendant testified that at the time of his police
+interview, he was tired, thirsty, hungry, upset, and intoxicated. He said that just before the
+stabbing, he was walking toward the exit and that the victim was between him and the exit
+when the victim stood from the table.
+
+Upon this evidence, the jury found the Defendant guilty of second degree murder.
+The trial court imposed a twenty-two-year sentence. This appeal followed.
+
+I. Sufficiency of the Evidence
+
+The Defendant contends that the evidence is insufficient to support his second
+degree murder conviction. He argues that the evidence supports his claim of self-defense
+and, alternatively, that the evidence is sufficient to support voluntary manslaughter. The
+State responds that the evidence is sufficient and that the evidence adequately rebutted the
+Defendant’s claim of self-defense.
+
+In determining the sufficiency of the evidence, the standard of review is “whether,
+after viewing the evidence in the light most favorable to the prosecution, any rational trier
+of fact could have found the essential elements of the crime beyond a reasonable doubt.”
+Jackson v. Virginia, 443 U.S. 307, 319 (1979); see State v. Vasques, 221 S.W.3d 514, 521
+(Tenn. 2007). The State is “afforded the strongest legitimate view of the evidence and all
+reasonable inferences” from that evidence. Vasques, 221 S.W.3d at 521. The appellate
+courts do not “reweigh or reevaluate the evidence,” and questions regarding “the credibility
+of witnesses [and] the weight and value to be given the evidence . . . are resolved by the
+trier of fact.” State v. Bland, 958 S.W.2d 651, 659 (Tenn. 1997); see State v. Sheffield, 676
+S.W.2d 542, 547 (Tenn. 1984).
+
+-10-
+
+“A crime may be established by direct evidence, circumstantial evidence, or a
+combination of the two.” State v. Hall, 976 S.W.2d 121, 140 (Tenn. 1998); see State v.
+Sutton, 166 S.W.3d 686, 691 (Tenn. 2005). “The standard of review ‘is the same whether
+the conviction is based upon direct or circumstantial evidence.’” State v. Dorantes, 331
+S.W.3d 370, 379 (Tenn. 2011) (quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn.
+2009)). A conviction may be based upon circumstantial evidence alone. See Dorantes,
+331 S.W.3d at 380-381.
+
+Second degree murder is a knowing killing of another. T.C.A. § 39-13-210(a)(1);
+see id. § 39-11-106(a)(20) (2018). With regard to second degree murder, a person acts
+knowingly “when the person is aware that the conduct is reasonably certain to cause the
+result.” Id. § 39-11-302(b) (2018); see State v. Page, 81 S.W.3d 781 at 787. “[T]he ‘nature
+of the conduct’ that causes death is inconsequential.” Page 81 S.W.3d at 787. A knowing
+intent is shown if the defendant acts with an awareness that his conduct is reasonably
+certain to cause the victim’s death. See id. at 790-93.
+
+In Tennessee a person acts in self-defense when he or she
+
+is not engaged in unlawful activity and is in a place where the person has a
+right to be has no duty to retreat before threatening or using force intended
+or likely to cause death or serious bodily injury, if: (A) The person has a
+reasonable belief that there is an imminent danger of death or serious bodily
+injury; (B) The danger creating the belief of imminent death or serious bodily
+injury is real, or honestly believed to be real at the time; and (C) The belief
+of danger is founded upon reasonable grounds.
+
+T.C.A. § 39-11-611(b)(2)(A)-(C) (2018) (subsequently amended). Once a defendant has
+raised sufficient facts to support a finding he acted in defense of self or another, “The
+[S]tate has the burden of proof to negate the defense; the burden is not upon the defendant
+to prove the defense exists.” State v. Belser, 945 S.W.2d 776, 782 (Tenn. Crim. App. 1996)
+(citing T.C.A. § 39-11-201(a)(3)).
+
+In the light most favorable to the State, the evidence reflects that the Defendant and
+the victim argued while inside the gated area under the bridge. Mr. Miller testified that the
+Defendant stood near the table at which the victim was seated. The Defendant was “mad
+at somebody obviously” and brandished a large knife while arguing with the victim. Mr.
+Miller recalled that the victim sat with his back toward the table, not the Defendant. The
+Defendant spoke in a threatening manner, although the victim did not “really say anything”
+to the Defendant. Mr. Miller intervened and attempted to redirect the Defendant by
+inquiring about the Defendant’s necklace. Although the Defendant returned the knife to
+the sheath “for a second,” the Defendant retrieved the knife from the sheath when the victim
+stood from the table, at which he had been seated, as the Defendant approached the victim.
+The Defendant was angry and spoke indiscernibly to the unarmed victim. The victim did
+
+-11-
+
+not appear to understand the Defendant and did not threaten or strike the Defendant. As
+the victim and the Defendant stood “almost face-to-face,” the Defendant stabbed the victim
+in the chest, perforating the victim’s heart and left lung. As a result, the jury could have
+concluded beyond a reasonable doubt that the Defendant’s stabbing the victim in the chest
+was reasonably certain to cause the victim’s death.
+
+In reaching this conclusion, we have not overlooked the Defendant’s claim of self-
+defense. The Defendant testified that he felt threatened by the victim and that he stabbed
+the victim because he was unable to defend himself against others due to his age and
+physical impairments. The Defendant testified that the victim was the first aggressor and
+that the Defendant removed the knife from the sheath because he was scared and because
+the victim rose quickly from the table. Although the Defendant’s testimony conflicted with
+Mr. Miller’s testimony regarding the incident, the trial court instructed the jury on self-
+defense because the defense was fairly raised by the proof. We note that the court also
+instructed the jury on voluntary manslaughter. The jury heard the testimony, and the
+verdict reflects that it credited the testimony of Mr. Miller over that of the Defendant and
+discredited the Defendant’s claim of self-defense. Questions regarding witness credibility
+and the weight of the evidence were resolved by the jury. See Bland, 958 S.W.2d at 659;
+see also Sheffield, 676 S.W.2d at 547. The evidence is sufficient to support the Defendant’s
+second degree murder conviction. He is not entitled to relief on this basis.
+
+In consideration of the foregoing and the record as a whole, we affirm the judgment
+of the trial court.
+
+____________________________________
+ROBERT H. MONTGOMERY, JR., JUDGE
+
+-12-

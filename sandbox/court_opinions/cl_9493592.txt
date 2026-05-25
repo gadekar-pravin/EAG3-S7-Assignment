@@ -1,0 +1,329 @@
+=========================================================
+Case: State v. Cepec
+Court: Ohio Court of Appeals
+Date Filed: 2024-04-15
+Citations: 2024 Ohio 1412
+URL: https://www.courtlistener.com/opinion/9493592/state-v-cepec/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Cepec, 2024-Ohio-1412.]
+
+STATE OF OHIO ) IN THE COURT OF APPEALS
+)ss: NINTH JUDICIAL DISTRICT
+COUNTY OF MEDINA )
+
+STATE OF OHIO C.A. No. 23CA0008-M
+
+Appellant/Cross-Appellee
+
+v. APPEAL FROM JUDGMENT
+ENTERED IN THE
+STEVEN E. CEPEC COURT OF COMMON PLEAS
+COUNTY OF MEDINA, OHIO
+Appellee/Cross-Appellant CASE No. 10CR0588
+
+DECISION AND JOURNAL ENTRY
+
+Dated: April 15, 2024
+
+STEVENSON, Presiding Judge.
+
+{¶1} Appellant/Cross-Appellee, the State of Ohio, appeals from the judgment of the
+
+Medina County Court of Common Pleas, granting post-conviction relief to Appellee/Cross-
+
+Appellant, Steven Cepec, on three of the grounds he raised in his petition. Appellee/Cross-
+
+Appellant, Mr. Cepec, also appeals from the portion of the judgment denying him relief on 16 of
+
+the grounds he raised in his petition. This Court reverses.
+
+I.
+
+{¶2} A jury found Mr. Cepec guilty of capital murder, murder, felony murder,
+
+aggravated robbery, and aggravated burglary. The trial court also found him to be a repeat violent
+
+offender. Following the penalty phase of his trial, the jury recommended a sentence of death. The
+
+trial court ultimately agreed with that recommendation and imposed the death penalty. The Ohio
+
+Supreme Court affirmed Mr. Cepec’s convictions and sentence on direct appeal. State v. Cepec,
+
+149 Ohio St.3d 438, 2016-Ohio-8076.
+
+2
+
+{¶3} Mr. Cepec filed a petition for post-conviction relief and later amended his petition.
+
+He asserted 21 grounds for relief. Upon motion of the State, the trial court dismissed his petition
+
+without holding a hearing. Mr. Cepec immediately appealed the trial court’s decision. This Court
+
+dismissed the appeal because the trial court failed to include sufficient findings of fact and
+
+conclusions of law on each of Mr. Cepec’s grounds for relief. State v. Cepec, 9th Dist. Medina
+
+No. 19CA0035-M (Aug. 19, 2019).
+
+{¶4} Following our dismissal, the trial court ordered the parties to submit proposed
+
+findings of fact and conclusions of law. The parties complied with that order. The trial court
+
+reviewed their filings and issued a decision on February 23, 2021. In its February 23rd decision,
+
+the trial court found that four of Mr. Cepec’s grounds for relief warranted an evidentiary hearing
+
+(i.e., grounds for relief 5, 6, 7, and 18). It dismissed grounds for relief 1-4, 8-15, 17, 19, and 21
+
+without a hearing. As to grounds for relief 16 and 20, the trial court reserved ruling on those
+
+grounds until the evidentiary hearing could take place. It is undisputed that both of those grounds
+
+for relief alleged cumulative error.
+
+{¶5} The trial court held a two-day evidentiary hearing. Thereafter, both parties filed
+
+proposed findings of fact and conclusions of law. The trial court reviewed their filings and issued
+
+two judgment entries. In its December 17, 2022 entry, the court dismissed Mr. Cepec’s 18th
+
+ground for relief and granted his petition on grounds for relief 5, 6, and 7. In its supplemental
+
+January 13, 2023 entry, the court awarded Mr. Cepec a new trial with respect to the penalty phase
+
+of his case.
+
+{¶6} The State now appeals from the trial court’s judgment to the extent it granted Mr.
+
+Cepec’s petition on grounds for relief 5, 6, and 7. Mr. Cepec cross-appeals from the judgment to
+
+the extent it either failed to address or rejected his remaining grounds for relief. The State raises
+
+3
+
+one assignment of error for review. Mr. Cepec raises seven assignments of error for review. To
+
+facilitate our analysis, we reorder and consolidate several of the assignments of error.
+
+II.
+
+{¶7} Initially, we pause to address our jurisdiction in this matter. This Court’s
+
+jurisdiction is limited to appeals taken from judgments and final, appealable orders. Ohio
+
+Constitution, Article IV, Section 3(B)(2); R.C. 2505.02. In State v. Mapson, 1 Ohio St.3d 217
+
+(1982), the Supreme Court held that, to trigger the filing deadline for an appeal, a judgment entry
+
+denying post-conviction relief must comply with R.C. 2953.21 by including findings of fact and
+
+conclusions of law. This Court relied on Mapson when it dismissed Mr. Cepec’s first appeal in
+
+this matter. See State v. Cepec, 9th Dist. Medina No. 19CA0035-M (Aug. 19, 2019).
+
+{¶8} Following our dismissal, the Supreme Court revisited its Mapson decision in State
+
+ex rel. Penland v. Dinkelacker, 162 Ohio St.3d 59, 2020-Ohio-3774. The State ex rel. Penland
+
+Court rejected the notion that a trial court’s failure to comply with R.C. 2953.21 results in a
+
+jurisdictional defect. State ex rel. Penland at ¶ 3. The Supreme Court held that “a trial court’s
+
+failure to issue findings of fact and conclusions of law does not affect a petitioner’s ability to
+
+appeal a judgment dismissing or denying postconviction relief but is instead an error that may be
+
+remedied through an appeal.” Id. at ¶ 17.
+
+{¶9} It is undisputed that the trial court did not enter judgment on two of Mr. Cepec’s
+
+grounds for relief (i.e., grounds for relief 16 and 20). Mr. Cepec has challenged the trial court’s
+
+failure to rule on those grounds for relief as error. See Mr. Cepec’s Assignment of Error One,
+
+infra. Pursuant to State ex rel. Penland, the trial court’s failure to address those grounds for relief
+
+is not a jurisdictional defect. See State ex rel. Penland at ¶ 17. Accordingly, we will proceed to a
+
+merits review.
+
+4
+
+MR. CEPEC’S ASSIGNMENT OF ERROR ONE
+
+THE TRIAL COURT ERRED WHEN IT DID NOT MAKE FINDINGS AND
+CONCLUSIONS OF LAW ON THE SIXTEENTH AND TWENTIETH
+GROUNDS FOR RELIEF.
+
+{¶10} In his first assignment of error, Mr. Cepec argues the trial court erred when it failed
+
+to make findings of fact and conclusions of law with respect to grounds for relief 16 and 20. We
+
+agree.
+
+{¶11} When a post-conviction relief petitioner has been sentenced to death, R.C. 2953.21
+
+requires trial courts to make and file findings of fact and conclusions of law in ruling on the
+
+individual’s petition. If the court intends to dismiss the petition, “the findings of fact and
+
+conclusions of law shall state specifically the reasons for the dismissal of the petition and of each
+
+claim it contains.” R.C. 2953.21(D). If the court intends to deny the petition, “the findings of fact
+
+and conclusions of law shall state specifically the reasons for the denial of relief on the petition
+
+and of each claim it contains.” R.C. 2953.21(H). Finally, if the court intends to grant the petition,
+
+“the findings of fact and conclusions of law shall state specifically the reasons for the finding of
+
+grounds for granting the relief, with respect to each claim contained in the petition.” Id.
+
+{¶12} The record reflects and the State concedes that the trial court never entered
+
+judgment on grounds for relief 16 and 20. In his 16th ground for relief, Mr. Cepec alleged that the
+
+cumulative effect of his trial counsel’s errors and omissions deprived him of a fair trial with respect
+
+to both the guilt and sentencing phases of his trial. In his 20th ground for relief, Mr. Cepec alleged
+
+that the cumulative effect of all the errors and omissions he raised in his petition warranted the
+
+granting of a new trial or sentencing hearing. The trial court reserved ruling on both grounds for
+
+relief in its February 23, 2021, but never ultimately ruled on either ground.
+
+5
+
+{¶13} Upon review, we conclude the trial court erred when it failed to make and file
+
+findings of fact and conclusions of law on Mr. Cepec’s 16th and 20th grounds for relief. See R.C.
+
+2953.21(H). Accordingly, we reverse the judgment of the trial court and remand this matter for
+
+the court to issue findings of fact and conclusions of law in compliance with R.C. 2953.21(H). See
+
+State v. Williams, 1st Dist. Hamilton No. C-210326, 2022-Ohio-1572, ¶ 8; State v. Porter, 7th Dist.
+
+Belmont No. 20 BE 0033, 2021-Ohio-4630, ¶ 27. Mr. Cepec’s first assignment of error is
+
+sustained.
+
+THE STATE’S ASSIGNMENT OF ERROR
+
+THE TRIAL COURT ERRED IN SUSTAINING GROUNDS FOR RELIEF
+5, 6, AND 7 OF CEPEC’S POST-CONVICTION PETITION.
+
+MR. CEPEC’S ASSIGNMENT OF ERROR TWO
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+STEVEN CEPEC RELIEF AND/OR AN EVIDENTIARY HEARING ON
+THE FIRST TO FOURTH AND EIGHT TO NINTH TO TENTH AND
+TWELFTH TO SIXTEENTH GROUNDS FOR RELIEF.
+
+MR. CEPEC’S ASSIGNMENT OF ERROR THREE
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+CROSS-APPELLANT STEVEN CEPEC RELIEF AND/OR EVIDENTIARY
+HEARING ON THE EIGHTH GROUND FOR RELIEF.
+
+MR. CEPEC’S ASSIGNMENT OF ERROR FOUR
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+CROSS-APPELLANT STEVEN CEPEC RELIEF AND/OR AN
+EVIDENTIARY HEARING ON THE ELEVENTH GROUND FOR RELIEF.
+
+MR. CEPEC’S ASSIGNMENT OF ERROR FIVE
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+STEVEN CEPEC RELIEF AND/OR AN EVIDENTIARY HEARING ON
+THE SEVENTEENTH GROUND FOR RELIEF.
+
+6
+
+MR. CEPEC’S ASSIGNMENT OF ERROR SIX
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+STEVEN CEPEC RELIEF ON THE NINETEENTH GROUND FOR
+RELIEF.
+
+MR. CEPEC’S ASSIGNMENT OF ERROR SEVEN
+
+THE TRIAL COURT ABUSED ITS DISCRETION WHEN IT DENIED
+CROSS-APPELLANT STEVEN CEPEC RELIEF AND/OR AN
+EVIDENTIARY HEARING RELIEF ON THE TWENTIETH GROUND
+FOR RELIEF.
+
+{¶14} The State’s sole assignment of error and Mr. Cepec’s remaining assignments of
+
+error address other aspects of the trial court’s judgment. The State challenges the judgment to the
+
+extent it granted Mr. Cepec’s petition on three grounds for relief and found he was entitled to a
+
+new penalty phase. Mr. Cepec challenges the judgment to the extent it denied him relief on 16 of
+
+his grounds for relief.
+
+{¶15} Given our resolution of Mr. Cepec’s first assignment of error, we must conclude
+
+that any resolution of the remaining assignments of error in this appeal would be premature. We
+
+decline the invitation of the parties to address the remaining assignments of error despite our
+
+remand. We note that, in grounds for relief 16 and 20, Mr. Cepec included a request for a new
+
+trial, not merely a new penalty phase. Were the trial court to afford him that relief on remand, the
+
+remaining assignments of error would be rendered moot. Accordingly, we decline to address them
+
+at this juncture.
+
+III.
+
+{¶16} Mr. Cepec’s first assignment of error is sustained. The remaining assignments of
+
+error are premature. The judgment of the Medina County Court of Common Pleas is reversed, and
+
+the cause is remanded for further proceedings consistent with this opinion.
+
+7
+
+Judgment reversed,
+and cause remanded.
+
+There were reasonable grounds for this appeal.
+
+We order that a special mandate issue out of this Court, directing the Court of Common
+
+Pleas, County of Medina, State of Ohio, to carry this judgment into execution. A certified copy of
+
+this journal entry shall constitute the mandate, pursuant to App.R. 27.
+
+Immediately upon the filing hereof, this document shall constitute the journal entry of
+
+judgment, and it shall be file stamped by the Clerk of the Court of Appeals at which time the period
+
+for review shall begin to run. App.R. 22(C). The Clerk of the Court of Appeals is instructed to
+
+mail a notice of entry of this judgment to the parties and to make a notation of the mailing in the
+
+docket, pursuant to App.R. 30.
+
+Costs taxed to Appellant/Cross-Appellee.
+
+SCOT STEVENSON
+FOR THE COURT
+
+HENSAL, J.
+FLAGG LANZINGER, J.
+CONCUR.
+
+APPEARANCES:
+
+S. FORREST THOMPSON, Prosecuting Attorney, and STEFANIE ZARANEC, Assistant
+Prosecuting Attorney, for Appellant/Cross-Appellee.
+
+KATHRYN L. SANDFORD and RANDALL L. PORTER, Assistant Public Defenders, for
+Appellee/Cross-Appellant.

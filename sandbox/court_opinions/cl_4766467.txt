@@ -1,0 +1,882 @@
+=========================================================
+Case: Com. v. Held, J., Appeal of: TribTotal Media
+Court: Superior Court of Pennsylvania
+Date Filed: 2020-07-08
+Citations: 2020 Pa. Super. 161
+URL: https://www.courtlistener.com/opinion/4766467/com-v-held-j-appeal-of-tribtotal-media/
+Source Query: murder conviction appeal
+=========================================================
+
+J-A05003-20
+
+2020 PA Super 161
+
+COMMONWEALTH OF PENNSYLVANIA : IN THE SUPERIOR COURT OF
+: PENNSYLVANIA
+:
+v. :
+:
+:
+JONATHAN C. HELD :
+:
+: No. 81 WDA 2019
+APPEAL OF: TRIB TOTAL MEDIA, LLC :
+AND RICH CHOLODOFSKY :
+
+Appeal from the Order Entered December 28, 2018
+In the Court of Common Pleas of Westmoreland County Criminal Division
+at No(s): CP-65-CR-0001218-2018
+
+BEFORE: BENDER, P.J.E., BOWES, J., and PELLEGRINI, J.*
+
+OPINION BY BENDER, P.J.E.: FILED JULY 08, 2020
+
+After the public corruption trial of former Westmoreland County Sheriff
+
+Jonathan C. Held (“Held”) ended in a mistrial due to a hung jury, Trib Total
+
+Media, LLC and Rich Cholodofsky1 (“TTM” or “Appellants”), intervened, seeking
+
+public disclosure of the jurors’ names. The trial court entered an order
+
+granting the release of the names, but only after Held’s still-pending criminal
+
+charges were resolved. Appellants filed this interlocutory appeal challenging
+
+the court’s decision to delay the disclosure of the jurors’ names as a violation
+
+of the First Amendment. After careful review, we affirm.
+
+____________________________________________
+
+* Retired Senior Judge assigned to the Superior Court.
+
+1 Mr. Cholodofsky is a reporter employed by Trib Total Media, LLC.
+
+J-A05003-20
+
+At CP-65-CR-0001218-2018, the Office of the Attorney General (“OAG”)
+
+charged Held with conflict of interest, 65 P.S. §1103; theft, 18 P.S. § 3921(a);
+
+and diversion of services, 18 P.S. § 3926(b); based on accusations that Held
+
+used public employees and resources of the Westmoreland County Sherriff’s
+
+Office to aid in his re-election campaign. Naturally, the case attracted
+
+significant attention from the media in Westmoreland County, including TTM.
+
+On December 5, 2018, TTM filed a motion to intervene in Held’s ongoing trial
+
+“for the limited purpose of filing a motion for public access to trial evidence….”
+
+See TTM’s Motion to Intervene, 12/5/18, at 2 ¶ 4. Two day later, the trial
+
+court declared a mistrial “following a poll of the jury and the refusal of one
+
+juror to affirm a guilty verdict.” Trial Court Opinion (“TCO”), 3/27/19, at 2.
+
+On December 13, 2018, the trial court issued an order 1) scheduling a status
+
+conference for December 28, 2018, and 2) directing the Clerk of Courts to
+
+“not release the names of the jurors … absent further [o]rder” from the court.
+
+Order, 12/13/18, at 1 (single page).
+
+TTM then filed a motion specifically seeking the release of the jurors’
+
+names, arguing, inter alia, that the First Amendment compelled the court to
+
+release them pursuant to our Supreme Court’s decision in Commonwealth
+
+v. Long, 922 A.2d 892 (Pa. 2007). Motion for Access to Juror Names,
+
+12/17/18, at 3-4 ¶¶ 12-14. The trial court held a hearing on that motion and
+
+other matters on December 28, 2018. After hearing argument, the court
+
+entered the at-issue order, granting, inter alia, the motion to disclose the
+
+jurors’ names with the caveat that “the names may not be revealed until the
+
+-2-
+
+J-A05003-20
+
+charges against [Held] have been finally resolved.” Order, 12/28/2018, at 1
+
+¶ 5 (hereinafter “temporary closure order”).
+
+TTM filed a timely notice of appeal from that order, and also filed a
+
+timely, court-ordered Pa.R.A.P. 1925(b) statement. The trial court issued its
+
+Rule 1925(a) opinion on March 27, 2019. Appellants now present the
+
+following questions for our review:
+
+1 Did the trial court violate the First Amendment rights of [TTM]
+by refusing to release the names of the jurors after they were
+discharged?
+
+2. In light of the holding in … Long, … did the trial court err in
+withholding [the] jurors’ names for the duration of the prosecution
+of [Held] without issuing contemporaneous, appropriate findings
+that closure is essential to preserve higher values and is narrowly
+tailored to serve that interest?
+
+3. Did the trial court err in concluding that releasing the names of
+discharged jurors while charges remained pending against [Held]
+would violate the [Held]’s right to a fair retrial?
+
+4. Did the trial court err in refusing to release the names of
+discharged jurors where the prosecution and [Held] did not object
+to their release?
+
+TTM’s Brief at 4. Appellants’ claims are interrelated and, thus, we address
+
+them together.
+
+We begin by noting that the jurisdiction of this Court is not in question,
+
+as it “is well settled that an order that denies a request for public access to a
+
+criminal proceeding or judicial documents constitutes a collateral order from
+
+which an immediate appeal may be taken.” Commonwealth v. Selenski,
+
+996 A.2d 494, 495 n.2 (Pa. Super. 2010). Moreover, a claim that concerns
+
+the “constitutional right of public access to a judicial proceeding raises a pure
+
+-3-
+
+J-A05003-20
+
+question of law. Our standard of review, therefore, is de novo, and our scope
+
+of review is plenary.” Id. at 496.
+
+The Supreme Court of the United States has “firmly established … that
+
+the press and general public have a constitutional right of access to criminal
+
+trials” pursuant to the First Amendment. Globe Newsp. Co. v. Super. Ct.
+
+for Norfolk County, 457 U.S. 596, 603 (1982). In Globe, the Supreme
+
+Court considered a challenge to a state statute that required judges
+
+overseeing criminal “trials for specified sexual offenses involving a victim
+
+under the age of 18, to exclude the press and general public from the
+
+courtroom during the testimony of that victim.” Id. at 598. The Globe Court
+
+determined that the First Amendment’s right of public/media access to
+
+criminal trials was implicated by the statute, and applied the following
+
+framework for analyzing its constitutionality:
+
+Although the right of access to criminal trials is of constitutional
+stature, it is not absolute. But the circumstances under which the
+press and public can be barred from a criminal trial are limited;
+the State’s justification in denying access must be a weighty one.
+Where, as in the present case, the State attempts to deny the
+right of access in order to inhibit the disclosure of sensitive
+information, it must be shown that the denial is necessitated by a
+compelling governmental interest, and is narrowly tailored to
+serve that interest.
+
+Id. at 606–07 (citations omitted).
+
+The Globe Court recognized that “safeguarding the physical and
+
+psychological well-being of a minor” was a compelling government interest.
+
+Id. at 607. However, the Court determined that the remedy, “a mandatory
+
+closure rule,” was not narrowly tailored to that interest, because “the
+
+-4-
+
+J-A05003-20
+
+circumstances of the particular case may affect the significance of the interest.
+
+A trial court can determine on a case-by-case basis whether closure is
+
+necessary to protect the welfare of a minor victim.” Id. at 607–08.
+
+In Long, the Supreme Court of Pennsylvania considered the First
+
+Amendment’s public-access-to-criminal-trials doctrine, as articulated in
+
+Globe, in the narrower context of media access to the identities of jurors from
+
+a criminal trial. During the jury’s deliberations in Long, a television station
+
+intervened, seeking access to the jurors’ names and addresses. The trial court
+
+denied their request, prompting the station to appeal (an identical procedural
+
+posture to the instant matter). This Court initially affirmed after determining
+
+“that the First Amendment right of access was a right to attend court
+
+proceedings; it did not compel the trial court to reveal the jurors’ names and
+
+addresses.” Long, 922 A.2d at 896 (summarizing this Court’s reasoning for
+
+affirming the trial court’s order). However, the Pennsylvania Supreme Court
+
+reversed that decision.
+
+Our Supreme Court first determined that access to the identities of
+
+jurors was, in fact, a right subsumed within the First Amendment’s public-
+
+access-to-criminal-trials doctrine, but that the right applied only to their
+
+names, not their addresses. Id. at 904 (“Taking in mind the tradition of
+
+accessibility, as well as the competing values of openness versus the
+
+promotion of jury service, the conclusion is inescapable. We believe the First
+
+Amendment provides a qualified right of access to jurors’ names, but not
+
+addresses.”). The Court went on to note that:
+
+-5-
+
+J-A05003-20
+
+In this way, the public will be provided with enough information
+to confirm the identity of jurors when necessary. Disclosing
+jurors’ names furthers the objective of a fair trial to the defendant
+and gives assurances of fairness to society as a whole. But the
+average citizens’ concern that the media will be camped out on
+their front lawn and fear of physical harm can be alleviated.
+
+Id. at 904–05.
+
+The Long Court then considered whether the trial court’s refusal to
+
+disclose the jurors’ names was narrowly tailored to serve a compelling
+
+government interest.2 See id. at 905. The Court first noted that a trial court
+
+may find that disclosing the jurors’ names in a particular
+circumstance raise concerns for juror safety, jury tampering, or
+juror harassment. Similarly, a court may be justified in
+withholding jurors’ names for the duration of the case until the
+case is decided and judgment is rendered. Such closures,
+however, must be supported by appropriate findings.
+
+Id. After considering the justification provided by the trial court, the Long
+
+Court determined that the trial court’s reasons for closure were not
+
+substantiated by appropriate findings beyond “general concerns for
+
+harassment or invasion of privacy [that] would exist in almost any criminal
+
+trial.” Id. at 906. The Long Court concluded by holding that a court’s decision
+
+to withhold jurors’ names based on their privacy concerns “must be supported
+
+by specific findings demonstrating that there is a substantial probability that
+
+____________________________________________
+
+2 This constitutes a ‘strict-scrutiny’ standard. “Under the strict-scrutiny test,”
+the government has “the burden to prove” that the restriction on a First
+Amendment right is (1) narrowly tailored, to serve (2) a compelling state
+interest. Republican Party of Minnesota v. White, 536 U.S. 765, 774–75
+(2002).
+
+-6-
+
+J-A05003-20
+
+an important right will be prejudiced by publicity and that reasonable
+
+alternatives to closure cannot adequately protect the right.” Id.
+
+***
+
+In its Rule 1925(a) opinion, the trial court recognized the authority of
+
+Long and ostensibly applied the strict-scrutiny standard set forth therein.
+
+See TCO at 3. The court justified the temporary closure order as follows:
+
+[A]s repeatedly stated on record at the December 28, 2018
+hearing, we believe that [Held]’s right to a fair trial is paramount,
+and the premature disclosure of juror names could have a chilling
+effect on the potential juror panel which was to be summoned for
+voir dire on April 1, 2019. Additionally, because of this relatively
+short timeframe between the December mistrial and the retrial,
+which was originally scheduled for April, we feel that any potential
+negative implications precipitated by the censorship are minimal,
+and most certainly outweighed by [Held]’s right to a fair trial.
+Further, during argument, counsel for Intervenors could not
+articulate a precise reason for pre-retrial disclosure, apart from
+general, broad notions of public accessibility to criminal
+proceedings. N.T.[,] 12/28/18[,] at 40.
+
+Most importantly, because … Held[’s] case has not yet reached
+final disposition, we find it distinguishable from Long, supra,
+wherein a verdict was rendered in the underlying criminal case
+months prior to the trial court’s disposition of the media’s motion.
+In fact, the matter sub judice is vastly different, in light of the
+mistrial, the media’s quest for the name of a juror who prevented
+unanimity of decision, and the need to select another jury from
+the same pool of citizens. Above all, our ruling grants Intervenors
+access to juror names; however, … Held must first be re-tried prior
+to disclosure.
+
+Id. at 4.
+
+TTM claims the trial court’s temporary closure order violated the First
+
+Amendment. More specifically, TTM asserts that the temporary closure order
+
+does not satisfy the Long standard, arguing that the court’s findings were not
+
+-7-
+
+J-A05003-20
+
+adequate under the demanding strict scrutiny standard. TTM takes specific
+
+issue with the court’s insistence that it was acting in consideration of
+
+protecting the fairness of Held’s trial, as neither Held nor the prosecution
+
+objected to the release of the jurors’ names. TTM also asserts that the
+
+temporary closure order is not narrowly tailored to serve that interest in any
+
+event.
+
+The Commonwealth largely agrees with TTM’s analysis:
+
+The trial court’s well-intentioned desire to protect … Held’s
+constitutional right to a fair retrial on his criminal charges is
+laudable. However, its conclusion that this can only be achieved
+by temporarily withholding from the public the names of the jurors
+who participated in Held’s first trial which resulted in a mistrial is
+not supported by the record, misapplies the governing law, and is
+unreasonable. More specifically, the voir dire process for selecting
+the jury for the retrial as well as the procedural rules governing
+change of venue are reasonable alternatives to secreting the
+names of the jurors of the first trial that will adequately and fully
+protect Held’s right to a fair retrial. Because of this, and in light
+of the Pennsylvania Supreme Court’s controlling decision in …
+Long, … the Order under review constitutes an abuse of discretion
+and should be reversed on that basis.
+
+Commonwealth’s Brief at 6.
+
+***
+
+We begin our analysis by addressing the apparent agreement among
+
+the parties and the trial court that the temporary closure order is governed by
+
+Long. While we agree that Long clearly establishes a right to access the
+
+jurors’ names under the First Amendment, we disagree with the parties and
+
+the lower court that the order here is subject to the strict-scrutiny standard
+
+-8-
+
+J-A05003-20
+
+applied in that case. Here, the public-access-to-criminal-trials right has not
+
+been denied, it has been delayed.
+
+“The denial of the right of access must be necessitated by a compelling
+
+governmental interest and narrowly tailored to serve that interest. However,
+
+limitations on the right of access that resemble time, place, and manner
+
+restrictions on protected speech are not subjected to strict scrutiny.”
+
+Commonwealth v. Davis, 635 A.2d 1062, 1066 (Pa. Super. 1993) (citation
+
+omitted); accord Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555,
+
+581 n.18 (1980) (“Just as a government may impose reasonable time, place,
+
+and manner restrictions upon the use of its streets in the interest of such
+
+objectives as the free flow of traffic, see, e. g., Cox v. New Hampshire, 312
+
+U.S. 569 … (1941), so may a trial judge, in the interest of the fair
+
+administration of justice, impose reasonable limitations on access to a trial.
+
+“[T]he question in a particular case is whether that control is exerted so as
+
+not to deny or unwarrantedly abridge … the opportunities for the
+
+communication of thought and the discussion of public questions
+
+immemorially associated with resort to public places.” Id. at 574…. It is far
+
+more important that trials be conducted in a quiet and orderly setting than it
+
+is to preserve that atmosphere on city streets.”) (some citations omitted).
+
+In Davis, the jury went to the crime scene of the murder. The trial
+
+court had previously “directed from the bench that no pictures would be
+
+permitted of the jury, the defendant, or court personnel.” Davis, 635 A.2d at
+
+1063. Subsequently, a
+
+-9-
+
+J-A05003-20
+
+freelance photographer … went to the crime scene to videotape
+the proceedings. Shortly after he arrived at the scene, both the
+Clerk of Courts and a member of the print media informed [him of
+the trial court’s] order. Despite this information, [the journalist]
+continued to film the events. He filmed the jurors as they
+departed from their vehicles and as they received instructions
+from [the judge]. After being apprised of [his] conduct, [the trial
+court] directed that the videotape be confiscated.
+
+Id. (footnote omitted). The photographer was working on behalf of a TV
+
+station, which intervened to challenge the confiscation order under the First
+
+Amendment.
+
+The Davis Court first considered whether the trial court’s authority
+
+extended to the crime scene where the jury was taken, and determined that
+
+he had at least temporary authority at that location at that time. See id. at
+
+1065 (reasoning that because a “police officer’s testimony [was heard by the
+
+jury] at the alleged crime scene[,] … the crime scene where the jury viewing
+
+took place [was] just as much a court as is the four-walled building from which
+
+[the judge] issued his directive”). The Davis Court next considered whether
+
+the court’s order was an unreasonable time, place and manner restriction
+
+under the First Amendment, and concluded that it was not. Id. at 1070. In
+
+doing so, the Court balanced the institutional needs of the trial court in
+
+protecting the jurors and other aspects of the criminal trial process against
+
+the First Amendment right to open proceedings. The Davis Court expressly
+
+rejected use of the strict-scrutiny standard, because the trial court’s order “did
+
+not prohibit [the TV station] from communicating to the public any of what its
+
+- 10 -
+
+J-A05003-20
+
+reporters observed,” but instead “was simply a limitation on the right of
+
+access.” Id.
+
+The instant case is analogous to Davis with respect to the First
+
+Amendment right at issue. Here, trial court’s order did not completely deny
+
+access to the jurors’ names, it delayed that access until Held’s criminal case
+
+is resolved; that is, until after the criminal case is retried or the charges
+
+against Held are dismissed.3 Thus, we are not presented with the complete
+
+denial of the right of access to the jurors’ names as was the case in Long and,
+
+consequently, the strict-scrutiny test articulated therein does not apply.
+
+Instead, we consider whether the trial court’s order is a reasonable restriction,
+
+furthering “significant government interests,” but does not “unwarrantedly
+
+abridge” the ultimate right to access the jurors names. Davis, 635 A.2d at
+
+1066 (citing Richmond, supra).
+
+Significant Government Interests
+
+The trial court expressed two concerns underlying the temporary closure
+
+order. The court determined that revelation of the jurors’ names would have
+
+a “chilling effect” on “the potential panel which will be summoned for voir
+
+dire….” TCO at 5 (quoting the trial court’s comments during the 12/28/18
+
+hearing). Additionally, the court feared that the press’s contacting the jurors
+
+could potentially disrupt the retrial. Id. at 6 (quoting again from its comments
+
+during the 12/28/18 hearing). These concerns both implicate an interest in a
+
+____________________________________________
+
+3 We discuss the potential ambiguity in this timeframe, infra.
+
+- 11 -
+
+J-A05003-20
+
+defendant’s right to a fair trial. Additionally, the court cited the jurors’ right
+
+to privacy, which it believed was of particular concern in this case due to the
+
+manner in which the jury failed to reach a verdict, as it is undisputed that
+
+there was a solitary juror who refused to convict. Id. at 5. Both concerns
+
+implicate not just significant, but compelling government interests. See
+
+Commonwealth v. Genovese, 487 A.2d 364, 367 (Pa. Super. 1985) (“In an
+
+appropriate case, of course, the State may have a compelling interest to keep
+
+jury information confidential in order to guarantee the defendant’s right to a
+
+fair trial or the juror’s right to privacy.”).
+
+Abridgment of the First Amendment Right
+
+We must next consider the nature of the restriction involved. The order
+
+in question delays the release of the jurors’ names, but it does not deny the
+
+right of access entirely. When contemplating the scope of the restriction at
+
+issue, we recognize that, in some circumstances, the temporary abridgment
+
+of a right may function as a complete denial of that right. For example,
+
+delaying an individual’s right to vote on Election Day may risk denying the
+
+right entirely, for the world does not stop to wait for one person. When rights
+
+interact with human limitations brought on by age or health or other
+
+circumstances, time may be of the essence. What appears to be a minor time,
+
+place, and manner restriction in one instance, may be quite burdensome on
+
+the same right in another.
+
+Here, however, we detect no significant concerns in the temporary delay
+
+of the release of the jurors’ names. Furthermore, TTM has not proffered any
+
+- 12 -
+
+J-A05003-20
+
+such concerns for our consideration. It is difficult to even speculate as to how
+
+the benefits of disclosure (as articulated in Long) would be significantly
+
+impacted by the delay.4 Thus, we agree with the trial court that “the potential
+
+negative implications precipitated by the censorship are minimal….” TCO at
+
+4. The jurors’ names will ultimately be released, and thus the impact on the
+
+First Amendment right to public access is distinguishable from the impact at-
+
+issue in Long.
+
+Reasonableness
+
+Even where the impact on a First Amendment right is small, and the
+
+government interests at stake is significant, as is the case here, a time, place,
+
+or manner restriction on a First Amendment right must still be reasonable.
+
+Thus, we next consider TTM’s various concerns regarding the reasonableness
+
+of the temporary closure order.
+
+____________________________________________
+
+4 Indeed, it is far easier to speculate the opposite. In Long, the Supreme
+Court noted that “[d]isclosing jurors’ names furthers the objective of a fair
+trial to the defendant and gives assurances of fairness to society as a whole.”
+Long, 922 A.2d at 905. Here, the jurors in question did not reach a verdict
+in Held’s case, and they are no longer tasked with doing so. Thus, there may
+be even less value to disclosure here than in circumstances where a verdict
+has been reached, and where an investigation might uncover unfairness in the
+verdict due to issues pertaining to individual jurors, such as a juror’s
+misconduct. Here, whatever unfairness resulted from the makeup of the jury
+in question has already been substantially remedied by the promise of a new
+trial. In any event, it is enough to say for purposes of our analysis that there
+does not appear to be a significant negative impact on the First Amendment
+right in question caused by the delay in disclosure in the circumstances of this
+case.
+
+- 13 -
+
+J-A05003-20
+
+First, TTM repeatedly claims that the trial court’s concerns were too
+
+general, asserting that:
+
+A general statement about protecting the defendant’s right to a
+fair retrial applies in every case where a retrial may occur. There
+is nothing in this case that distinguishes it from any other case in
+which there will be a retrial, whether after a hung jury, a reversal
+on appeal and a remand for a new trial, or upon granting post-
+conviction relief.
+
+TTM’s Brief at 18.
+
+Appellants doth protest too much. This is plainly not a typical criminal
+
+case. Held, a (former) law enforcement official, is accused of engaging in a
+
+form of public corruption while holding one of the highest elected positions in
+
+Westmorland County. Even among highly publicized cases, these unique
+
+circumstances inherently raise concerns about the trial’s fairness (with respect
+
+to either party) that simply do not arise in the vast majority of criminal cases.
+
+Furthermore, the procedural posture of this case is not at all common.
+
+Few cases result in mistrials, fewer in a mistrial due to a hung jury, and fewer
+
+still where a single holdout hangs the jury. TTM’s argument applies the wrong
+
+analysis. The question is not whether the circumstances here are unique
+
+among similarly-situated trials, but whether the circumstances of this case
+
+that affect the significant government interests at stake are sufficiently unique
+
+among criminal trials generally. In Long, our Supreme Court was worried
+
+“about general concerns for harassment or invasion of privacy” that “would
+
+exist in almost any criminal trial.” Long, 922 A.2d at 906. There are several
+
+circumstances present in this matter that justify heightened concerns for the
+
+- 14 -
+
+J-A05003-20
+
+fairness of Held’s retrial and the potential for juror harassment that simply do
+
+not arise in typical criminal cases.5
+
+Additionally, we reject TTM’s assertion that the trial court’s concerns
+
+were not sufficiency particularized. The trial court extensively opined on the
+
+reason for its order during the 12/28/18 hearing. It was particularly
+
+concerned about the fact that, unlike in Long, the jury here had not reached
+
+a verdict due to a single juror. N.T., 12/28/18, at 4. This created a greater
+
+potential for juror harassment, and a greater potential for a “chilling effect”
+
+on the jury pool for the second trial. Id. Notably, the court did not express
+
+a general concern about a chilling effect on the jury pool for criminal trials
+
+generally, but instead was concerned about the voir dire process for the
+
+second trial in the very same case. Id. at 5-6. The court also found it difficult
+
+____________________________________________
+
+5 TTM cites U.S. v. Wecht, 537 F.3d 222 (3d Cir. 2008), for persuasive
+authority. In Wecht, the District Court entered an order empaneling an
+anonymous jury, leaving the Third Circuit to consider “whether the District
+Court articulated the necessary findings and consideration of alternatives to
+overcome the presumption that the jurors’ names should be publicly
+available.” Id. at 239. The Third Circuit rejected the District Court’s
+arguments that the significant publicity attached to the trial had presented
+sufficient, non-generic concerns about the jurors’ privacy interests to
+overcome the presumption. Wecht is distinguishable, inter alia, because 1)
+it involved a complete denial of the right to disclosure of the jurors’ names
+and, thus, was considered under the strict-scrutiny standard; and 2) the only
+circumstance recognized by the Third Circuit that was distinguishable from the
+typical criminal case in Wecht was the notoriety of the defendant (and the
+publicity that notoriety generated). Here, a less stringent standard applies,
+and several unique circumstances exist in addition to the public visibility of
+Held.
+
+- 15 -
+
+J-A05003-20
+
+to imagine ways in which these problems could be adequately addressed with
+
+additional voir dire questions. Id. at 8-9. We conclude that the statements
+
+were sufficiency particularized.
+
+TTM also complains that the trial court’s assessment of the publicity
+
+associated with this case was “overstated,” suggesting that only one news
+
+outlet, “not a dozen, sought the release of the names of the jurors below.”
+
+TTM’s Brief at 21. However, the publicity level of Held’s prosecution is but
+
+one of several factors affecting the fairness of Held’s retrial and the privacy
+
+concerns raised by disclosure in the unique circumstances of this case.
+
+Moreover, we are far from convinced that the number of news outlets seeking
+
+disclosure accurately describes the publicity level of the case.6 Other news
+
+outlets may find it sufficient to rely on TTM’s efforts so as not to duplicate
+
+legal expenses, and/or they may be content to investigate the identities of the
+
+jurors through other means.
+
+Next, TTM claims that the trial court’s concerns for the fairness of the
+
+retrial are inflated or illusory, because Held’s counsel did not object to
+
+disclosure. Id. at 26. TTM stresses that Held may waive his right to a fair
+
+trial, and that Held’s counsel “told the trial court in no uncertain terms that
+
+the names of the jurors should be released.” Id.
+
+____________________________________________
+
+6 TTM omits from its argument that another media outlet sought to intervene
+to access judicial records in this case. See WPXI’s Motion to Intervene and
+Obtain Access to Public Judicial Records, 12/5/2018, at 1-2 (seeking disclosure
+of evidence admitted at Held’s trial).
+
+- 16 -
+
+J-A05003-20
+
+We find this argument unconvincing for two reasons. First, Held did not
+
+waive a right to a fair trial. Held’s counsel, while participating in TTM’s
+
+argument at the hearing on December 28, 2018, essentially determined that
+
+the precedent of Long was insurmountable. He stated,
+
+Your Honor, I’ve thought this through. My client and I have
+spoken about this. The law is, I do believe, and I agree with [TTM]
+on this point—I sort of changed my way of thinking after reading
+these cases. I think the law is clear. I think that it does permit
+the release of these names. But I make no other arguments other
+than to agree that the press has a right to these names, and it is
+a matter of public information and their access.
+
+N.T., 12/28/18, 7-8 (emphasis added).
+
+TTM misconstrues Held’s counsel’s statement. He offered his legal
+
+opinion that the case law was in favor of disclosure, and made “no other
+
+arguments….” Id. Moreover, he agreed that the names should be released,
+
+but made no comment about the trial court’s decision to delay disclosure.
+
+There was no discussion with Held’s counsel, whatsoever, regarding waiving
+
+any rights.
+
+Second, we reject the inference that the trial court plays no role in
+
+preserving a defendant’s rights merely because the defendant is empowered
+
+to waive them. TTM cites no authority for this proposition beyond the
+
+undisputed fact that a defendant may waive both constitutional and statutory
+
+rights. However, such waivers require the approval of the court. For instance,
+
+when a defendant seeks to waive his right to counsel, the trial court must
+
+conduct an extensive inquiry on the voluntariness of that waiver, and may
+
+ultimately reject the waiver if not satisfied with the result of that inquiry. See
+
+- 17 -
+
+J-A05003-20
+
+Commonwealth v. Blakeney, 946 A.2d 645, 655 (Pa. 2008). Clearly, a trial
+
+court plays a significant role in the preservation of a defendant’s trial rights,
+
+even in circumstances where a defendant explicitly seeks to waive them.
+
+Finally, we address TTM’s concern that the trial court’s order to delay
+
+disclosure until Held’s prosecution is ‘finally resolved’ is too ambiguous,
+
+suggesting that that “date could be a decade away.” TTM’s Brief at 14.
+
+However, after careful review of the trial court’s statements at the 12/28/18
+
+hearing, as well its Rule 1925(a) opinion, we conclude that the trial court
+
+clearly implied that Held’s charges will be ‘finally resolved’ when his case
+
+reaches a verdict, not after all appeals and collateral attacks on the judgment
+
+of sentence are exhausted. To the extent that TTM poses hypotheticals that
+
+this case will not reach a verdict, the charges will also be resolved if Held
+
+pleads guilty, or if the charges are withdrawn or dismissed.
+
+After considering each of Appellants’ arguments, we conclude that the
+
+temporary closure order was a reasonable time/place/manner restriction that
+
+did not violate the First Amendment.
+
+Order affirmed.
+
+Judgment Entered.
+
+Joseph D. Seletyn, Esq.
+Prothonotary
+
+Date: 7/8/2020
+
+- 18 -

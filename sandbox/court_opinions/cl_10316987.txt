@@ -1,0 +1,536 @@
+=========================================================
+Case: In the Int. of: J.C., Appeal of: J.C.
+Court: Superior Court of Pennsylvania
+Date Filed: 2022-11-17
+Citations: 286 A.3d 288, 2022 Pa. Super. 193
+URL: https://www.courtlistener.com/opinion/10316987/in-the-int-of-jc-appeal-of-jc/
+Source Query: murder conviction appeal
+=========================================================
+
+J-S17029-22
+
+2022 PA Super 193
+
+IN THE INTEREST OF: J.C. : IN THE SUPERIOR COURT OF
+: PENNSYLVANIA
+:
+APPEAL OF: J.C. :
+:
+:
+:
+:
+: No. 2114 EDA 2021
+
+Appeal from the Order Entered August 19, 2021
+In the Court of Common Pleas of Monroe County Juvenile Division at
+No(s): CP-45-JV-0000171-2019
+
+BEFORE: BOWES, J., LAZARUS, J., and STABILE, J.
+
+CONCURRING OPINION BY BOWES, J.: FILED NOVEMBER 17, 2022
+
+I agree with my learned colleagues’ decision to vacate the dispositional
+
+order and reverse the adjudication of delinquency. I write separately to
+
+emphasize that this case does not concern the juvenile court’s subject matter
+
+jurisdiction, which I believe the majority infers by discussing situations where
+
+the Juvenile Act expressly vested original jurisdiction in criminal courts. As
+
+the majority highlights, there are specific instances where the legislature
+
+placed original jurisdiction in the criminal court. However, this is not one of
+
+those cases. Rather, this appeal implicates the narrow question concerning a
+
+court’s authority to render a given decision in exercising its subject matter
+
+jurisdiction. Specifically, the issue is whether the juvenile court had the
+
+J-S17029-22
+
+authority to accept J.C.’s admission1 to corruption of minors when the offense
+
+applies specifically to actors “the age of eighteen years and upwards.”2 See
+
+18 Pa.C.S. 6301(a)(1)(i). More importantly, presuming that the juvenile court
+
+did, in fact, lack the authority to accept J.C.’s admission, may we grant relief
+
+sua sponte?3
+
+For the reasons explained, infra, I believe we can address the dispositive
+
+issue sua sponte because J.C.’s admission to the commission of corruption of
+
+minors is void ab initio insofar as the juvenile court was not empowered to
+
+____________________________________________
+
+1 An admission is the juvenile court corollary to a guilty plea and therefore
+cannot be accepted unless the court confirms “that the admission is
+knowingly, intelligently and voluntarily made.” Pa.R.J.C.P. 407(A)(1)(a); see
+also Rule 407 comment(“The admission colloquy is similar to a guilty plea
+colloquy in criminal court; however, the juvenile court judge has special
+responsibilities under the Juvenile Act in providing a balanced attention to the
+protection of the community, the imposition of accountability for delinquent
+acts committed, and the development of competencies to enable juveniles to
+become responsible and productive members of the community.”).
+
+2 As the majority aptly observes, the Commonwealth’s delinquency petition
+alleged that J.C. committed aggravated indecent assault, indecent assault,
+and open lewdness, but the Commonwealth subsequently agreed to nolle
+prosse those charges in return for the juvenile’s admission to corruption of
+minors, which was designated amended count one in the delinquency petition.
+See N.T. Adjudicatory Hearing, 7/7/21, at 31.
+
+3 Neither J.C., the Commonwealth, nor the juvenile court recognized that,
+based upon the elements of corruption of minors, a juvenile can never be
+adjudicated delinquent for that offense. The Majority characterized this
+situation as a “legal impossibility,” and differentiated it from the issue of
+evidentiary insufficiency. See Majority Opinion at 14, n.18. In my view, legal
+impossibility and insufficient evidence are coterminous concepts insofar as
+both principles concern the Commonwealth’s impossible burden of proving the
+elements of corruption of minors. Neither implicates subject matter
+jurisdiction.
+
+-2-
+
+J-S17029-22
+
+accept an admission to an offense that is impossible for a child to commit.
+
+See e.g., Commonwealth v. McIntyre, 232 A.3d 609, 616 (Pa. 2020) (issue
+
+implicates legality “given that a trial court is not empowered . . . to sentence
+
+an individual for a non-existent criminal offense.”). Accordingly, I respectfully
+
+concur.
+
+First, I observe that the juvenile court’s subject matter jurisdiction over
+
+the delinquency proceedings is unassailable. The traditional concept of
+
+subject matter jurisdiction, “[a]lso termed jurisdiction of the subject matter”
+
+concerns the court’s authority to consider cases of a given nature and grant
+
+the type of relief requested. See Black’s Law Dictionary 857, 1413 (7th ed.
+
+1999) (emphasis omitted). The Courts of Common Pleas have unlimited
+
+original jurisdiction except where a statute or rule has vested exclusive
+
+original jurisdiction in another Pennsylvania court. See 42 Pa.C.S. § 931(a);
+
+see also Const. art. V, § 5 (“There shall be one court of common pleas for
+
+each judicial district (a) having such divisions and . . . (b) having unlimited
+
+original jurisdiction in all cases except as may otherwise be provided by law.”).
+
+It is beyond cavil that “[t]his general grant of authority extends to juvenile
+
+delinquency matters, among many others.” Pennsylvania Juvenile
+
+Delinquency Benchbook (2018), at 3.4.
+
+The Juvenile Act applies exclusively to, inter alia, “[p]roceedings in
+
+which a child is alleged to be delinquent or dependent.” The act defines a
+
+delinquent child as “[a] child ten years of age or older whom the court has
+
+found to have committed a delinquent act and is in need of treatment,
+
+-3-
+
+J-S17029-22
+
+supervision or rehabilitation.” 42 Pa.C.S. at § 6302. In this situation, a
+
+delinquent act “means an act designated a crime under the law of this
+
+Commonwealth,” other than murder. Id. (emphasis added). As the majority
+
+observes, since the enactment of the 1995 amendments to the Juvenile Act,
+
+the definition has not included enumerated violent offenses committed by a
+
+fifteen-year-old child (1) with a deadly weapon or (2) who has been previously
+
+adjudicated delinquent of an enumerated offense.4 Id.
+
+Thus, in these specified situations, “the Juvenile Act vests original
+
+jurisdiction in the criminal courts . . . .” Commonwealth. v. D.S., 903 A.2d
+
+582, 584 (Pa.Super. 2006)(quoting Commonwealth v. Cotto, 753 A.2d 217,
+
+219 (2000)). This principle is also ensconced in the Juvenile Act’s provisions
+
+regarding the transfer of matters to criminal courts for prosecution.
+
+(e) Murder and other excluded acts.—Where the petition
+alleges conduct which if proven would constitute murder, or any
+of the offenses excluded by paragraph (2)(ii) or (iii) of the
+definition of “delinquent act” in section 6302 (relating to
+
+____________________________________________
+
+4 As the High Court explained in Commonwealth v. Cotto, 753 A.2d 217,
+
+219 (Pa. 2000)),
+
+Prior to the amendments, those serious felonies initially came
+within the jurisdiction of the juvenile courts, subject to
+certification and transfer to adult court. The 1995 amendments
+reflect a legislative judgment that the most serious violent felonies
+should be treated in the same manner as murder charges, i.e., as
+adult crimes in adult court, at least in the first instance.
+
+Thus, the 1995 amendments explicitly excluded the enumerated offenses from
+the jurisdiction of the juvenile courts specifically because of the violence innate
+in the crimes.
+
+-4-
+
+J-S17029-22
+
+definitions), the court shall require the offense to be prosecuted
+under the criminal law and procedures[.]
+
+42 Pa.C.S. § 6355(e) (emphasis in original).
+
+Our High Court explained that “the Legislature has deemed [these]
+
+crimes so heinous” that it removed the offenses from the definition of
+
+delinquent act and conferred presumptive jurisdiction to the criminal court.
+
+Commonwealth v. Ramos, 920 A.2d 1253, 1258 (Pa.Super. 2007).
+
+Accordingly, where an offense is excluded from the definition of a delinquent
+
+act, the charges may be transferred or filed directly in criminal court. See
+
+Cotto, supra at 219-20.
+
+Instantly, the Commonwealth’s delinquency petition alleged that fifteen
+
+year-old J.C. committed several delinquent acts, i.e. a “crime[s ]under the law
+
+of this Commonwealth” that are not specifically excluded from the statutory
+
+definition of delinquent act due to their heinous nature. Hence, it is beyond
+
+argument that the juvenile court had subject matter jurisdiction to confront
+
+the Commonwealth’s delinquency petition, rule on the merits of the matters
+
+at hand, and, if the allegations are proven beyond a reasonable doubt,
+
+adjudicate J.C. delinquent and craft an appropriate disposition best suited for
+
+the child’s treatment and consistent with the public interest. Clearly, there is
+
+no jurisdictional issue in this case.
+
+By invoking the legal framework addressed in Cotto, supra, Ramos,
+
+supra, and D.S., supra, the majority intimates that the juvenile court lacked
+
+subject matter jurisdiction in this case. Our High Court in Cotto upheld the
+
+constitutionality of the Juvenile Act’s provisions permitting the criminal
+
+-5-
+
+J-S17029-22
+
+prosecution of a juvenile who was fifteen years old when he committed two
+
+armed robberies. In upholding the criminal court’s express jurisdiction in this
+
+situation, the Supreme Court reasoned,
+
+The fact that the legislature chose in the past to
+presumptively extend the benefits of the juvenile system to older
+juveniles charged with armed robbery and other serious violent
+offenses does not act as a constitutional restraint upon it to make
+a different judgment in response to changing societal conditions.
+It is no less the legislature's prerogative now to limit those
+benefits than it was to extend them in the first place.
+
+Id. at 224. Hence, the High Court recognize that the legislature carved explicit
+
+exceptions that removed specific violent offense from the jurisdiction of the
+
+juvenile courts.
+
+Similarly, in Ramos, supra at 1258, this Court observed that a criminal
+
+court had exclusive and presumptively proper jurisdiction over a seventeen-
+
+year-old’s prosecution for armed robbery because the offense was expressly
+
+“excluded from the Juvenile Act’s definition of a delinquent [act.]” We
+
+reasoned, “despite the fact that Appellant was seventeen at the time he
+
+committed his offenses, because he committed the predicate offense of
+
+robbery while possessing a deadly weapon, his crimes were not considered
+
+delinquent acts.” Id. Thus, “[the a]ppellant’s charges were directly filed with
+
+the criminal court where original exclusive jurisdiction vests and is
+
+presumptively proper.” Id.
+
+Finally, in D.S., we applied the express legislative exception to the
+
+definition of delinquent act to reverse a trial court’s refusal to transfer a
+
+-6-
+
+J-S17029-22
+
+fifteen-year-old to criminal court for the prosecution of aggravated assault and
+
+robbery with a deadly weapon. Again, we reiterated, “[a]s amended in 1995,
+
+the Juvenile Act vests original jurisdiction in the criminal courts for specified
+
+violent felonies...committed by minors aged fifteen or older who use a deadly
+
+weapon in the commission.” D.S., supra at 584 (quoting Cotto, supra at
+
+217). Hence, we concluded, “Because the offenses do not qualify as
+
+“delinquent acts,” [the] offenses must be prosecuted under the criminal law
+
+and procedures.” Id. at 586.
+
+While the majority acknowledges that corruption of minors is not one of
+
+the enumerated violent offenses that the legislature decided should be
+
+prosecuted in a criminal court, it relies upon legal authority that discusses that
+
+precise situation and implies that because it is impossible for a juvenile to
+
+commit corruption of minors, the juvenile court lacked subject matter
+
+jurisdiction in this case. See e.g., Majority Opinion at 13-14 (“[I]t logically
+
+follows that crimes that can only be committed by adults do not fall within the
+
+class of offenses subject to a juvenile adjudications under the [Juvenile]
+
+Act.”); Majority Opinion at 14, n.18 (relying upon In re D.S., supra, for the
+
+proposition “where juvenile court lacked subject matter jurisdiction, all
+
+juvenile proceedings that took place so far were legally invalid”); Majority
+
+Opinion at 16 (“The instant case presents a unique and rare situation because
+
+a juvenile can never be adjudicated delinquent for a crime under the Crimes
+
+Code, notwithstanding one excluded by 6302, which, by its very definition,
+
+-7-
+
+J-S17029-22
+
+can only apply to adult perpetrators.”). This rationale blurs the juvenile
+
+court’s subject matter jurisdiction with its legal authority to accept J.C.’s
+
+admission to an offense that was impossible for the juvenile to commit.
+
+The majority’s reliance upon In re R.A., is equally unavailing. That case
+
+concerns whether a juvenile court had statutory authority to issue a protective
+
+order pursuant to 18 Pa.C.S. § 4954, when that provision of the Pennsylvania
+
+Crimes Code related to “Any court with jurisdiction over any criminal
+
+matter[.]” Recognizing the obvious differences between juvenile courts and
+
+criminal courts, we concluded, “the Legislature expressly limited the power to
+
+issue protective orders under § 4954 to courts with jurisdiction over criminal
+
+matters [and] because the juvenile court did not have jurisdiction over a
+
+criminal matter at the time that it issued the protective order, it lacked
+
+statutory authority to issue the order.” Id. at 1224. I do not share my
+
+colleagues’ view that this relatively straight-forward principle bears upon the
+
+juvenile court’s statutory authority over the juvenile petition in the case at
+
+bar.
+
+Thus, while it was patent legal error for the court to accept J.C.’s
+
+admission to an offense that was impossible for a juvenile to commit, the fact
+
+that J.C. admitted to the offense did not divest the juvenile court of subject
+
+matter jurisdiction. Regardless of the elements of the offense, corruption of
+
+minors is “an act designated a crime under the law of this Commonwealth”
+
+and because the offense was not specifically excised from the definition of a
+
+-8-
+
+J-S17029-22
+
+delinquent act, jurisdiction does not rest in the criminal court. 42 Pa.C.S.
+
+§ 6303 (defining delinquent act). Thus, to the extent that the import of the
+
+majority’s rationale sounds in subject matter jurisdiction, we cannot simply
+
+renounce the juvenile court’s jurisdiction over the juvenile delinquency
+
+proceeding because the offense that J.C. eventually admitted to committing
+
+included an element that is impossible to prove in a juvenile court.
+
+As the juvenile court’s subject matter jurisdiction over the delinquency
+
+proceedings is irrefutable, I next address whether we can raise the juvenile
+
+court error under the rubric of an “illegal sentence” when juvenile court’s do
+
+not impose sentences or punishments. Juvenile delinquency involves a two-
+
+step process: (1) whether the juvenile committed a delinquent act and is need
+
+of treatment, supervision or rehabilitation; and (2) the appropriate disposition
+
+to serve those needs. See 42 Pa.C.S. § 6341(b) (Finding of delinquency); 42
+
+Pa.C.S § 6352(a) (Disposition of delinquent child) (“If the child is found to be
+
+a delinquent child the court may make any of the following orders of
+
+disposition determined to be consistent with the protection of the public
+
+interest and best suited to the child's treatment, supervision, rehabilitation
+
+and welfare[.]”). Thus, while it is well ensconced that this Court will address
+
+an illegal sentence sua sponte, it is less obvious whether this principle applies
+
+to juvenile dispositions, which are designed to balance the protection of
+
+public’s interest with the treatment, supervision, and rehabilitation of the
+
+-9-
+
+J-S17029-22
+
+juvenile. Hence, this dynamic presents an ill-fitting analogy comparing the
+
+delinquency adjudication to an illegal sentence.5
+
+Nevertheless, in light of our Supreme Court’s decision in McIntyre,
+
+supra, I agree with the majority’s ultimate conclusion that we may address
+
+the underlying issue sua sponte, albeit for reasons that do not interweave
+
+principles of subject matter jurisdiction. I summarize the High Court’s holding
+
+in McIntyre, as follows. McIntyre was convicted of failing to register as a sex
+
+offender under Megan’s Law III, which was subsequently deemed
+
+unconstitutional in its entirety because the legislature utilized an
+
+unconstitutional process to enacted it. McIntyre filed a PCRA petition raising
+
+unrelated claims of error, which was denied on the merits. He appealed to
+
+this Court, where he asserted for the first time that his conviction and
+
+sentence could not stand on an unconstitutional statute. We affirmed the
+
+denial of PCRA relief, finding the novel issue waived pursuant to Pa.R.A.P. 302
+
+because McIntyre failed to present the claim to the PCRA court.
+
+Interpreting McIntyre’s claim as falling under the classification of an
+
+illegal sentence, our Supreme Court reversed our determination, found the
+
+statute void ab initio, and granted relief. Critically, in deeming the issue non-
+
+____________________________________________
+
+5 An apt sentencing analogy would involve the legality of the disposition, i.e.,
+
+whether the juvenile court exceeded its statutory authority in imposing
+probation, community service, the submission of DNA samples and
+fingerprints, and the directive to undergo a sexual offender evaluation.
+Instantly, none of the components of J.C.’s disposition exceeds the juvenile
+court’s authority.
+
+- 10 -
+
+J-S17029-22
+
+waivable, the McIntyre Court reasoned, “there was no validly-enacted
+
+criminal statute on which the Commonwealth could base Appellant's
+
+conviction.” McIntyre, supra at 619. Phrased differently, the Supreme Court
+
+concluded that the “illegality” arose from the trial court proceeding on an
+
+inherently defective statute.
+
+Just as our High Court determined that the trial court in McIntyre
+
+lacked authority to impose a sentence, the juvenile court lacked the statutory
+
+authority to accept J.C.’s admission to committing corruption of minors
+
+because it was legally impossible for a juvenile to commit that offense. Thus,
+
+in the same manner that the Supreme Court deemed McIntyre’s conviction
+
+and sentence void ab initio in correcting the predicate error despite waiver
+
+under Rule 903, I believe that the juvenile court’s acceptance of J.C.’s
+
+admission to corruption of minors was inherently defective and facially invalid
+
+insofar as the offense cannot be committed by a minor. Thus, we may address
+
+the juvenile court’s error sua sponte and grant relief. See e.g., McIntyre,
+
+supra at 616 (issue concerns legality “given that a trial court is not
+
+empowered . . . to sentence an individual for a non-existent criminal offense.”)
+
+Accordingly, while I disagree with the portion of the majority’s rationale
+
+that sounds in subject matter jurisdiction, for the reasons explained above, I
+
+concur with the decision to address the trial court error sua sponte, vacate the
+
+dispositional order, and reverse the adjudication of delinquency.
+
+- 11 -

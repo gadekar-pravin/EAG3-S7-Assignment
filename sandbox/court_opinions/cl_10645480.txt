@@ -1,0 +1,1164 @@
+=========================================================
+Case: State of Tennessee v. Kenneth Shane McDonald
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-07-31
+Citations: 
+URL: https://www.courtlistener.com/opinion/10645480/state-of-tennessee-v-kenneth-shane-mcdonald/
+Source Query: murder conviction appeal
+=========================================================
+
+07/31/2025
+
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+Assigned on Briefs June 3, 2025
+
+STATE OF TENNESSEE v. KENNETH SHANE McDONALD
+
+Appeal from the Criminal Court for Smith County
+Nos. 2019-CR-132; 2019-CR-266 Brody N. Kane, Judge
+
+No. M2024-01275-CCA-R3-CD
+
+The Defendant, Kenneth Shane McDonald, appeals from his convictions for first degree
+premeditated murder, first degree felony murder, and aggravated burglary. On appeal, the
+Defendant asserts that the evidence was insufficient to support the jury’s verdict, and the
+trial court improperly restricted cross-examination of one of his codefendants regarding
+sentencing exposure. After review, we affirm the judgments of the trial court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgments of the Criminal Court Affirmed
+
+KYLE A. HIXSON, J., delivered the opinion of the court, in which JILL BARTEE AYERS and
+JOHN W. CAMPBELL, SR., JJ., joined.
+
+Robert L. Sirianni, Jr. (on appeal), Winter Park, Florida; and Frank Lannom, Melanie Bean,
+Stephanie Pirera, and Elizabeth Stovall (at trial), Lebanon, Tennessee, for the appellant,
+Kenneth Shane McDonald.
+
+Jonathan Skrmetti, Attorney General and Reporter; Ryan Patrick Dugan, Assistant
+Attorney General; Jason L. Lawson, District Attorney General; and Justin G. Harris and
+Jack A. Bare, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+I. FACTUAL AND PROCEDURAL HISTORY
+
+These cases stem from the home invasion and killing of the victim, Jason Neusse. 1
+At the time of his death, the victim had been living in a condemned warehouse in South
+Carthage, Tennessee, and the building and surrounding lot contained a vast array of tools,
+machinery, lumber, equipment, household supplies, furniture, and various other items.
+During the early morning hours of April 20, 2019, the Defendant traveled to South
+Carthage with Jeffrey Kolb and James Michael Burns. Once there, they converged with
+Tom Grisham and James Matthew Murray, and all five men eventually went to the victim’s
+warehouse. On April 23, 2019, after no one had been able to get in touch with the victim
+for several days, the victim’s wife discovered his body inside the warehouse with his hands
+and feet bound together behind his back, duct tape around his face and neck, and blood
+pooling around his body from multiple visible injuries. Post-mortem toxicology testing
+established that the victim had methamphetamine and amphetamine in his system at the
+time of his death. After extensive investigation by law enforcement, the Defendant, Mr.
+Kolb, Mr. Burns, Mr. Grisham, and Mr. Murray were indicted as codefendants for each of
+their alleged roles in the killing of the victim, but the prosecutions proceeded separately.
+The Defendant’s six-day jury trial began on April 10, 2023, at which three of his
+codefendants testified.2 Following the conclusion of proof, the Defendant was convicted
+as charged of first degree premeditated murder, first degree felony murder, and aggravated
+burglary. See Tenn. Code Ann. §§ 39-13-202(a)(1), (2); -14-402(a), -403(a) (2018). 3
+
+Retired Special Agent Douglas Williams with the Tennessee Bureau of
+Investigation (“TBI”) was declared an expert witness in the field of digital forensics at the
+Defendant’s trial. Agent Williams retrieved video surveillance footage from a neighboring
+business, Rackley Roofing, that captured the warehouse from April 18 through April 23,
+2019. This footage was received into evidence, and certain clips were published to the jury
+during the testimony of several fact witnesses. Agent Williams also received a video
+
+1
+We note that the record contains multiple spellings of the victim’s last name. For consistency,
+we utilize the spelling provided by the victim’s wife during her testimony at the Defendant’s trial.
+2
+Mr. Grisham’s case was still pending at the time of the Defendant’s trial, and he asserted his Fifth
+Amendment right against self-incrimination.
+3
+The crimes of burglary and aggravated burglary are now codified at Tennessee Code Annotated
+sections 39-13-1002 and -1003. See 2021 Tenn. Pub. Acts, ch. 545, § 3 (effective July 1, 2021).
+
+-2-
+
+surveillance system that had been found inside the warehouse, but he determined that the
+last time this system had recorded anything was on February 16, 2019.
+
+Jessica Lingnau testified that she was an acquaintance of the victim, and she had
+been introduced to him through her friend, Josh McIntire. On April 19, 2019, Ms. Lingnau
+was dropped off at the warehouse, where Mr. McIntire was spending time with the victim,
+and she remained there for approximately twelve hours. The three of them spent the
+majority of this time snorting and smoking methamphetamine, and she characterized their
+use as “[snorting] line after line” and “smoking meth all day[.]” At some point, Mr.
+McIntire left to retrieve another friend, Katherine Moffett, but Ms. Lingnau remained at
+the warehouse with the victim. She recalled that she and the victim had “a really good
+conversation,” and the victim seemed “cheery” during all the time she spent with him at
+the warehouse. After Mr. McIntire and Ms. Moffett returned to the warehouse, the
+methamphetamine use continued into the early morning hours of April 20, 2019. At
+approximately 2:00 a.m., the victim gave his three guests money to purchase food and
+cigarettes, and Ms. Lingnau, Mr. McIntire, and Ms. Moffett left to do so. When they
+returned roughly an hour later, Ms. Lingnau walked to the door of the warehouse, but “it
+slammed in [her] face.” She heard a voice from inside yelling, “Come back, my plug’s
+here.” As she was walking back to the vehicle she had arrived in, Ms. Lingnau saw “a
+bald-headed guy” who “looked really angry” walking behind her. At that point, she got
+back in the vehicle and left with Mr. McIntire and Ms. Moffett. Ms. Lingnau opined that
+“something didn’t feel right.”
+
+Josh McIntire testified that the victim had been “a really good friend” of his, and
+they had known one another for about two years at the time of the victim’s death. He
+confirmed that he was present and using methamphetamine with the victim and Ms.
+Lingnau, and later Ms. Moffett, at the warehouse on April 19, 2019. Mr. McIntire
+described the victim’s demeanor during this time as being his “[t]ypical . . . laid back,
+carefree” self, and he denied that the victim exhibited any animosity or aggression toward
+or about anyone else. At some point during the day, Mr. McIntire recalled that the victim
+had asked his guests to step into a back room while someone came to the warehouse to
+speak with him. He explained that the victim “kept a very private life for the most part.
+He kept work separate [from] his family, and away from his fun, too.” Mr. McIntire also
+testified that, when he left with Ms. Lingnau and Ms. Moffett later that night to get food,
+he fell asleep in the vehicle on the way back to the warehouse. When he awoke, he was
+alone in the vehicle outside the warehouse, but he saw “the girls walking back to the car”
+and two trucks that had not been at the warehouse when they left. On cross-examination,
+Mr. McIntire acknowledged that, as they had “already been hid[den] away from strangers
+once that day,” it was not necessarily unusual for them not to be welcome back in the
+
+-3-
+
+warehouse at the time that they returned. However, Mr. McIntire also testified that he
+returned to the warehouse the following afternoon to check on the victim, but he did not
+receive any response when he yelled and knocked on the door.
+
+Jeffrey Kolb testified that he had been charged in the murder of the victim, and he
+pled guilty to accessory after the fact. Mr. Kolb went to high school with both the
+Defendant and Mr. Burns, and the three of them were “hanging out at [the Defendant’s]
+shop” in Greenbrier, Tennessee and using drugs on the night of April 19, 2019. He stated
+that he used marijuana that evening, but Mr. Burns and the Defendant were both using
+methamphetamine. Later that night, the Defendant mentioned that he knew of a trailer Mr.
+Kolb could purchase from someone in South Carthage. The Defendant had recently
+purchased some equipment from the victim at his warehouse and stated they could go there
+and pick up the trailer there that same night. Although it was around 2:00 a.m. on April
+20, 2019, Mr. Kolb was told that the victim “worked nights, or he was up all night doing
+equipment and stuff like that,” so he did not find the timing strange. The trailer was for
+Mr. Kolb to use in his business, and was very heavy, so Mr. Kolb offered to go along to
+haul the trailer back from the warehouse. Mr. Kolb, Mr. Burns, and the Defendant then
+drove to South Carthage in Mr. Kolb’s white four-door truck, which was emblazoned with
+his phone number and the name of his company, Middle Tennessee Dirt Works.
+
+Upon arriving in South Carthage shortly before 4:00 a.m., the trio went to Walmart,
+where they were met by another truck carrying two individuals Mr. Kolb did not know, but
+he later learned were Mr. Grisham and Mr. Murray. They followed the second truck from
+Walmart to a construction site, and the Defendant got out of the vehicle to talk to the people
+in the other truck for about ten minutes. Both Mr. Kolb and Mr. Burns stayed in the vehicle,
+and Mr. Kolb could not hear what was being discussed. The Defendant then informed Mr.
+Kolb that he was “going to ride with [Mr. Grisham and Mr. Murray]” to go and find out if
+the victim was awake and if the trailer was there, but Mr. Kolb and Mr. Burns should wait
+until he called them to follow because the victim “didn’t want a bunch of people around.”
+Between thirty and forty-five minutes later, the Defendant called them to join him.
+
+Once they arrived, Mr. Kolb backed his truck up to the trailer that had been
+described to him, and Mr. Burns got out of the vehicle and walked away from it. At this
+point in his testimony, Mr. Kolb began describing what he saw occurring that night while
+also referring to the Rackley Roofing surveillance video that was published to the jury. In
+the area surrounding the warehouse, Mr. Kolb recalled that he could see two females
+walking around outside another vehicle containing a third person, which Mr. Burns walked
+toward, but he “lost sight of [Mr. Burns] around the corner of the building.” In another
+area, Mr. Kolb could also see Mr. Grisham sitting in the driver’s seat of the truck they had
+
+-4-
+
+followed from Walmart earlier in the night. Within a few minutes, the first vehicle left,
+and it drove past the place where Mr. Kolb was sitting in his truck. Shortly after this, Mr.
+Kolb saw Mr. Murray run out of the warehouse carrying “a container, a box or something”
+and get into the truck driven by Mr. Grisham, before that vehicle also left. A few minutes
+later, Mr. Burns and the Defendant returned to Mr. Kolb’s truck. Mr. Burns got into the
+front passenger seat, the Defendant got into the rear passenger seat, and Mr. Kolb inquired
+about the trailer. The Defendant told Mr. Kolb that they “needed to go” because the
+Defendant had “beat[en] the crap out of [the victim],” and Mr. Kolb then drove the three
+of them away from the scene. According to the surveillance video, Mr. Kolb’s vehicle left
+the warehouse approximately six minutes after the vehicle containing Mr. Grisham and Mr.
+Murray had left.
+
+Mr. Kolb drove to Mr. Grisham’s house, where Mr. Grisham and Mr. Murray were
+standing outside near a fire. Mr. Kolb and Mr. Burns stayed in the vehicle, but the
+Defendant got out and approached Mr. Murray. The two of them walked “a lap” around
+the property for about ten or fifteen minutes, roaming toward the house, the shed, and the
+fire before returning to the truck. During this time, Mr. Grisham approached Mr. Kolb and
+told him he should “take all [the] lettering off [of his] truck.” When the Defendant returned
+and got back in the vehicle, Mr. Kolb drove away from the residence and dropped the
+Defendant and Mr. Burns off separately before going home.
+
+On cross-examination, Mr. Kolb stated that neither the Defendant nor Mr. Burns
+were “covered in blood” when they returned to his truck from the warehouse, but he noted
+that he did not see the Defendant come out of the building. He confirmed that, during the
+drive from Walmart to the construction site, the plan—to go get a trailer, rather than to
+beat, steal from, or kill the victim—had not changed “to [his] knowledge,” but he again
+noted that the Defendant got out and spoke to Mr. Grisham and Mr. Murray out of his
+hearing before the Defendant ultimately left with them to go to the warehouse. When asked
+if anyone forced him to go to South Carthage to get the trailer, Mr. Kolb responded that he
+“asked to go actually, twice,” because he was having marital issues and did not want to go
+home that night. On redirect examination, Mr. Kolb confirmed that he initially “g[o]t the
+impression that [the Defendant and Mr. Burns] didn’t really want [Mr. Kolb] to go to
+[South] Carthage with them[.]” Mr. Kolb also confirmed the veracity of his prior
+statement, wherein he recounted the circumstances under which he left the warehouse:
+“[The Defendant] gets in the truck, says, [‘]Go, go, go, let’s go.[’] I asked about the trailer.
+[The Defendant] says, [‘]Just go.[’] [The Defendant] tells me that he beat the s--t out of,
+out of [the victim.]” Mr. Kolb agreed that the Defendant never claimed that he had been
+attacked or that he was defending himself against the victim.
+
+-5-
+
+James Michael Burns testified that he had been “charged, along with other
+individuals,” in the victim’s murder and that he pled guilty to accessory after the fact and
+aggravated burglary. He confirmed that he had met the victim on a prior occasion when
+he traveled to the South Carthage warehouse with the Defendant, who was picking up a
+trailer. Mr. Burns agreed that he, Mr. Kolb, and the Defendant went to South Carthage
+together in the early morning hours of April 20, 2019, and he believed they were going to
+the same warehouse to “get a trailer[ and] load some equipment[.]” However, when they
+arrived in South Carthage, the three men went to Walmart rather than directly to the
+warehouse, which Mr. Burns was told was to meet up with Mr. Grisham, whom Mr. Burns
+had been introduced to a few nights beforehand. When Mr. Grisham arrived at Walmart
+with Mr. Murray, whom Mr. Burns did not know, they followed Mr. Grisham and Mr.
+Murray to “a fenced-in lot of some kind” that was “somewhere on top of some big hill.”
+Once there, the Defendant told Mr. Burns and Mr. Kolb to “wait on them” and left with
+Mr. Grisham and Mr. Murray. After Mr. Burns and Mr. Kolb drove around for thirty to
+forty minutes, the Defendant called and told them to come to the warehouse. Having been
+there once before, Mr. Burns directed Mr. Kolb to the warehouse.
+
+Mr. Burns stated that he noticed “a couple of girls going back towards their vehicle,”
+as they pulled into the lot surrounding the warehouse and backed up to the trailer they
+expected to pick up. Mr. Burns got out of the truck and inspected the trailer, but he
+determined that Mr. Kolb’s truck did not have the right kind of hitch to pull it. Mr. Burns
+called the Defendant to inform him of this, and the Defendant instructed him to go and look
+for “a hitch on another truck in the parking lot” at the warehouse. When Mr. Burns was
+unable to find one, he looked for the Defendant, at which time he saw Mr. Murray standing
+in the doorway of the warehouse waving for him to come inside.
+
+When Mr. Burns entered the warehouse, he saw Mr. Murray going through some
+tools, and he saw the victim on the ground with the Defendant close by him. Mr. Burns
+noted that the victim was tied up and bloody, but he “was making some noise and [the
+Defendant] was trying to get him to hush up” by hitting the victim’s head and body against
+the ground. During this time, Mr. Burns stated that Mr. Murray was “coming in and out”
+of the warehouse, “packing boxes of tools and [taking] stuff out,” and that he saw blood
+on Mr. Murray. Although the Defendant was “shaking” and “bouncing” the bleeding
+victim against the ground, Mr. Burns testified that he did not see any blood on the
+Defendant. He clarified that the victim was moaning, not screaming, but the Defendant
+instructed Mr. Burns to “take some tape and tape [the victim’s] mouth shut.” Mr. Burns
+attempted to pull some tape off of a roll of duct tape, but he was unsuccessful, and he took
+the tape with him when he left the warehouse. Although he did not recall whether it was
+the Defendant or Mr. Murray who told him to take “one of the[] crates of tools” with him,
+
+-6-
+
+he followed the instruction and carried a box of tools out of the warehouse and back to Mr.
+Kolb’s truck. Mr. Burns stated that he then walked back to the warehouse and told the
+Defendant, “Hey, we’re leaving,” but he did not go inside and was “just hollering from the
+doorway.” Mr. Burns was not sure where Mr. Murray was at that point, or whether he had
+already left, because he “wasn’t necessarily keeping up with him.” However, as he stood
+near the doorway to the warehouse, Mr. Burns no longer heard the victim making any
+noise. Mr. Burns claimed that the Defendant returned to Mr. Kolb’s truck “a few minutes
+later” than he himself did, and the Defendant got into the rear passenger seat behind him.
+
+Mr. Burns agreed that only the Defendant got out of the truck at Mr. Grisham’s
+house where the Defendant talked to Mr. Grisham and Mr. Murray out of his hearing. He
+believed that Mr. Grisham took the box of tools he had placed in the back of Mr. Kolb’s
+truck, but he did not recall whether he actually saw him do so. Mr. Burns acknowledged
+that he had given several untruthful statements to investigators regarding the victim’s
+death, which he asserted was an attempt to protect himself and the Defendant, but he
+confirmed that his trial testimony was the truth about “how it happened out there[.]”
+
+Prior to conducting cross-examination of Mr. Burns, defense counsel requested a
+jury-out hearing regarding its scope. Defense counsel made known his desire to inquire
+into the sentencing exposure Mr. Burns was facing before he entered into a plea agreement
+in exchange for his testimony. Defense counsel asserted that “standard cross-examination
+101” established “an absolute right, . . . a duty, to cross-examine what [Mr. Burns] was
+really facing [in terms of punishment], not [merely the indicted] charge. . . . I’ve got a right
+to [let the jury] know he was facing a life sentence.” Defense counsel further argued that
+the fact that Mr. Burns was “facing the same charges” as the Defendant “means nothing if
+[the jury doesn’t] know [Mr. Burns was] going from life [imprisonment] to probation.”
+The State responded that it had not asked Mr. Burns if he was facing the same charges as
+the Defendant, but it had instead asked both Mr. Burns and Mr. Kolb if they had been
+“charged in this murder as well.” The trial court ruled,
+
+[Y]ou can ask [Mr. Burns] and say, [“]You were looking at more serious
+charges than what you agreed upon, in exchange for this proffer,[”] however
+you want to put it. I think you can . . . establish that he got a break, whatever
+or got a reduction in charge, but without going in – I don’t think life in prison
+needs to be brought out. I don’t, I don’t think that’s an appropriate remedy.
+
+Defense counsel disagreed with the trial court’s ruling because it limited “the effectiveness
+of cross-examination, which is the bedrock of our [criminal justice] system,” but he agreed
+to abide by the trial court’s decision.
+
+-7-
+
+Upon the jury’s return, defense counsel extensively cross-examined Mr. Burns
+about the numerous “boldface lie[s]” he told to the authorities during the pendency of his
+case, including the written proffer he made to the State in exchange for his plea agreement.
+Mr. Burns acknowledged that he had not always been truthful or forthcoming, but he stated
+that he was “no different than anybody else. Everybody tells lies.” He also confirmed that
+he had not included any information about his or the Defendant’s drug use on the night of
+the victim’s murder in his written account of the incident provided to the State.
+
+Mr. Burns agreed that it had been “a rough night, raining and such[,]” during the
+drive to South Carthage with Mr. Kolb and the Defendant on the night of the victim’s
+murder. He denied that he knew of any plan to steal from, beat, or kill the victim and
+asserted that he would not have gone along if such had been the case. Mr. Burns again
+confirmed that he had seen blood on Mr. Murray, but none on the Defendant, when he
+entered the warehouse. He also acknowledged that he had previously stated that he saw
+the victim tied up with an orange cord, although he did not see who had tied the victim up.
+When confronted with a crime scene photograph of the victim’s body as it was discovered,
+Mr. Kolb acknowledged that, although there was an orange extension cord on the ground
+next to and partially beneath the victim, the cords binding his hands and feet were not
+orange. Additionally, Mr. Burns asserted that he had never seen the victim’s body with
+duct tape around the head and neck, and the victim was not in that condition when he left
+the warehouse. Mr. Burns agreed that he “saw a man who had been beat[en] up,” but he
+had no reason to think that the victim was going to die or was dead when he left the
+warehouse. Additionally, Mr. Burns asserted that he saw Mr. Murray burning his clothing
+at Mr. Grisham’s house after they left the warehouse, but the Defendant did not change or
+burn his clothing.
+
+On redirect examination, Mr. Burns testified that when he left the warehouse, the
+Defendant was “the last person in that room with [the victim],” and this was after the
+Defendant had instructed him to “tape up” the victim, which he did not succeed in doing.
+After questioning by the trial court, the parties elicited testimony from Mr. Burns about the
+uncertainty in his account regarding Mr. Murray’s location during this timeframe.
+Following additional clarification that he had not been focusing on Mr. Murray at the time,
+Mr. Burns agreed that the surveillance video—showing Mr. Murray leaving in the truck
+driven by Mr. Grisham one to two minutes after Mr. Burns entered the warehouse—would
+be more accurate than his memory of something that happened “so long ago.”
+
+James Matthew Murray testified that he was currently serving a thirty-year prison
+sentence for his “conduct the night of April 19th and into the early morning hours of April
+
+-8-
+
+20th, 2019[.]” Mr. Murray did not know the Defendant or the victim prior to that time, but
+he was a friend of Mr. Grisham’s and had been using drugs at Mr. Grisham’s home that
+night. Mr. Grisham asked Mr. Murray to “give him a ride to a warehouse to pick up some
+of his tools,” and Mr. Murray eventually agreed to do so. From Mr. Grisham’s house, the
+two of them went to the Walmart parking lot in Mr. Murray’s truck, whereupon “a big,
+white, four-door” truck followed them to a construction site. At that point, Mr. Grisham
+got out of the vehicle and spoke to the Defendant, but Mr. Murray heard only “murmuring
+and whispering” and did not know what they talked about. Both men then got into Mr.
+Murray’s truck, and Mr. Grisham drove the three of them to the warehouse.
+
+Once they arrived, the Defendant asked Mr. Murray to get out of the truck to go
+look at the hitch on a trailer with him, but once the two of them were outside, the Defendant
+walked past the trailer and directed Mr. Murray to follow him around the back of the
+warehouse. The Defendant cut the tarp that was covering the back of the building but was
+unable to find a back entrance. While behind the warehouse, the Defendant put a “skull
+face” mask on, pulled out a gun, and told Mr. Murray, “The best thing you can do is just
+help me do what I’ve come here to do.” The two men went back around to the front of the
+warehouse, and the Defendant told Mr. Murray “to kick the door to gain entry.” Instead,
+Mr. Murray threw “a big stick of wood” at the door, and the Defendant pushed him inside
+once the door opened.
+
+Mr. Murray testified that, as soon as the Defendant entered the warehouse, he began
+beating the victim:
+
+It starts with a pistol. [The Defendant] starts hitting [the victim] with
+a pistol.
+
+....
+
+They get to scuffling, and then he hit, I [saw the Defendant] hit [the
+victim] with a pipe . . . [and] a T-handled shaped object. And then just, really
+anything he could get his hands on.
+
+....
+
+[Once the victim fell to the ground], [h]e’s getting punched, stomped,
+kicked, things thrown on the back of his head[ by the Defendant.]
+
+-9-
+
+Mr. Murray stated that the victim was on the ground “[t]he whole time” except “for just
+mere seconds” at the beginning of the altercation, and the beating lasted ten to fifteen
+minutes, “at least.”
+
+At this point, Mr. Murray saw “a blond-headed lady with glasses” standing at the
+door to the warehouse. When he alerted the Defendant to her presence, the Defendant
+stopped beating the victim and rushed over to slam the door. The Defendant impersonated
+the victim and told the woman through the closed door to come back later. Shortly after
+this, once the Defendant heard from “his people,” he told Mr. Murray to open the door.
+When Mr. Murray did so, he could see two women and Mr. Burns outside, and he waved
+Mr. Burns over to come into the warehouse. Once Mr. Burns entered the warehouse, the
+Defendant told Mr. Burns to “help him hold [the victim] down, and to help him find his
+gun.” The Defendant also told Mr. Murray to take one of the boxes of tools that were
+“stacked up at the door” and to back his truck down to the warehouse to load the other
+boxes. Instead, once Mr. Burns entered the warehouse, Mr. Murray “grabbed the tools and
+went out and never c[a]me back.” He got into the truck with Mr. Grisham, and the two of
+them left and went to Mr. Grisham’s house. After he reviewed the surveillance video, Mr.
+Murray agreed that he had been at the warehouse for approximately thirty-eight minutes.
+Although he never saw Mr. Grisham get out of the truck, he confirmed that Mr. Grisham
+had been the one talking to the Defendant “this whole time,” and Mr. Murray was not privy
+to those conversations.
+
+Mr. Murray testified that, when the other three men arrived at Mr. Grisham’s house,
+both Mr. Burns and the Defendant got out of Mr. Kolb’s truck and joined him and Mr.
+Grisham down at the fire where they were standing. He explained that he and Mr. Grisham
+“always had a fire built out there. . . . Every day.” When the others arrived, Mr. Burns
+“had blood all over his hands,” and Mr. Murray sprayed cleaner on them to remove it for
+him. During that process, “the blood splatter came off” onto Mr. Murray’s shirt, at which
+point the Defendant told him that they needed to burn their clothes. After that, the
+Defendant “said that the best thing to do [was] keep [their] mouth[s] shut.” Later that same
+day, the Defendant and Mr. Grisham came to the motel room where Mr. Murray was
+staying because they wanted him to go back to the warehouse to try to find the Defendant’s
+gun, but Mr. Murray refused to do so.
+
+On cross-examination, Mr. Murray stated that he had been charged with first degree
+felony murder, but he pled guilty to second degree murder, and a copy of his judgment
+form was entered into evidence and published to the jury. At a bench conference held
+while the jurors reviewed the document, defense counsel reiterated that he believed he
+should be able to ask Mr. Murray about the sentence reduction he received, but he agreed
+
+- 10 -
+
+to abide by the trial court’s prior ruling on the matter. When cross-examination resumed,
+Mr. Murray confirmed that he “never once laid hands” on the victim, but he nonetheless
+pled guilty to second degree murder. When asked if pleading guilty to murder made him
+“a murderer,” Mr. Murray explained that he pled guilty to “a lesser charge,” and he also
+had drug charges that were dismissed in exchange for his guilty plea.
+
+Defense counsel then vigorously questioned Mr. Murray regarding the numerous
+times Mr. Murray had stated “that’s the God’s honest truth” to investigators and then told
+a lie or withheld information. Mr. Murray explained that he had not been truthful because
+he was afraid of the Defendant and the other men involved in the crime:
+
+[When I was first interrogated], these men [were] not in jail. They knew
+where my kids lived, they knew where I lived, they knew where my parents
+lived, they knew where everyone live[d]. And then, I’m in between, stuck in
+between that, plus myself being there, too. Plus, I was on, I was really strung
+out on drugs at the time, I’m not going to lie. I was really strung [out]. It
+was all just a big wash to me, you know what I’m saying? And then, I can’t
+implicate [somebody] when they’re on the streets and they’ve . . . threatened
+me and my family.
+
+When defense counsel asked if Mr. Murray was calling the Defendant “the bad guy,” he
+responded by saying, “Correct. I’m a bad guy too. I put myself in that position. I’m not
+saying I didn’t. I’m just letting you know why those questions [were] answered like that,
+at the first interrogation.” Mr. Murray also stated that, at the time that he went to the
+warehouse with the Defendant and Mr. Grisham, he believed that Mr. Grisham and the
+victim “rented [the warehouse] together,” and he thought the tools inside belonged to Mr.
+Grisham.
+
+After Mr. Murray reiterated the circumstances around his entry to the warehouse,
+defense counsel asked why the Defendant started beating the victim with “everything he
+could get his hands on” if he had a gun. Mr. Murray responded, “I guess while he was
+pistol whipping the [victim], the gun flew out of his hand.” Although he never saw duct
+tape on the victim, Mr. Murray said that the victim’s hands were “possibly” bound before
+he left the warehouse because the victim’s arms were not flailing while he was on the
+ground, but his legs were. Expanding upon his earlier testimony, Mr. Murray clarified that
+he had burned his clothing and that the Defendant had burned the “black coveralls” he had
+been wearing in the fire at Mr. Grisham’s house that evening. Defense counsel then asked
+Mr. Murray whether, once the others left Mr. Grisham’s house, that would have been the
+“perfect time” for the two of them—Mr. Murray, a methamphetamine addict, and Mr.
+
+- 11 -
+
+Grisham, a thief—to go back to the warehouse and kill the victim, knowing that he had
+been severely beaten and could not defend himself. Mr. Murray replied, “That’s not what
+happened.”
+
+On redirect examination, Mr. Murray stated that he had “[n]othing to hide. I’ve
+[taken] my sentence, why would I lie about anything[?] . . . I’m serving [thirty] years for
+what I [did]. And I owned up to what I [did].” When Mr. Murray was asked by defense
+counsel on recross examination why he had gone along with what the Defendant
+supposedly told him to do, Mr. Murray stated,
+
+Because I’d . . . been threatened by [the Defendant] and [saw] what he did to
+somebody. If you sit there and watch a man do that to somebody, he’s going
+to do that to you, if you don’t do what he tells you to do, in a time like that.
+
+Mr. Murray again reiterated that he never touched the victim but did plead guilty to murder.
+
+At that point, defense counsel once again argued to the trial court that he should be
+allowed to impeach Mr. Murray’s testimony with the length amount of the sentence
+reduction he received as part of his plea agreement. He claimed that the trial court’s ruling
+was “stopping something [he had] an absolute right to cross-examination [on] and
+hamstringing it.” The State responded that Mr. Murray’s judgment had been entered into
+evidence, which showed that he pled guilty to a lesser offense, and Mr. Murray had
+repeatedly stated that he was serving a sentence for a lesser offense. The trial court stood
+by its previous ruling, stating that, because the Defendant was charged with the same
+offense as Mr. Murray had been, “[the jury] shouldn’t hear what he’s looking at, but I think
+everybody knows what first-degree murder calls for.”
+
+Gitte Neusse testified that she had been married to the victim since 2002 and that
+the two of them had been living in the South Carthage warehouse owned by the victim’s
+family “on and off” since 2004. The victim was living in the warehouse at the time of his
+death, but Ms. Neusse was living with the victim’s parents in McMinnville. She explained
+that these living arrangements were because the victim was “shutting down the business in
+Nashville, and he was going to work back and forth, hauling a lot of material up to the
+warehouse in [South] Carthage.” Ms. Neusse testified that she had been “in daily contact”
+with the victim prior to April 20, 2019, and she became worried after she had not been able
+to get in touch with him for a few days. On the morning of April 23, 2019, Ms. Neusse
+and her friend, Mary Kuc, went to the warehouse to check on the victim. Initially, Ms.
+Neusse was unable to open the door, which she stated “was not unusual” because the door
+frequently stuck and “you had to wiggle” the handle to get inside. Ms. Neusse “knocked
+
+- 12 -
+
+it really hard and kept wiggling” the handle until she was able to open the door. When she
+entered the warehouse, she saw the victim’s body on the floor. When asked how the victim
+was positioned, Ms. Neusse explained,
+
+To me, it looked like he was hog tied. But his hands were tied and, of
+course, I went over next to him and kneeled next to him. And he had duct
+tape around his face and around his neck. And it was obvious that he was no
+longer there.
+
+Ms. Neusse exited the warehouse briefly to instruct Ms. Kuc to call 911, and then she “went
+back inside and kneeled down next to him and said [her] goodbyes.”
+
+Once law enforcement arrived, Ms. Neusse provided Mr. Grisham’s name as a
+potential suspect:
+
+They had some disagreements about [the victim]’s trailer, that [Mr.
+Grisham] would just come and take whenever he found it fit. And [the
+victim] had rented a machine that [Mr. Grisham] dumped in a ditch, and it
+got damaged. There [were] some issues about [Mr. Grisham] owing [the
+victim] money for some jobs that they had done together.
+
+Ms. Neusse acknowledged that there was a notice on the door of the warehouse declaring
+that it was “unsafe to stay” in the building or otherwise use it, but she denied knowing
+anything about the victim’s illicit drug use.
+
+Special Agent David Howell with TBI testified that he was a forensic scientist
+assigned to a latent print unit as well as a team leader for the Violent Crime Response Team
+(“VCRT”). Agent Howell explained that the VCRT responds to process violent crime
+scenes at the request of local law enforcement and that his team responded to the
+warehouse. He described the procedures his team followed in processing the scene, which
+included taking a video of the scene after an initial walkthrough, photographing the scene,
+collecting evidence, and swabbing any areas or items containing “RBS,” a reddish-brown
+stain, which his team “assume[d was] blood” for purposes of later testing. Referring to the
+photographs as they were published to the jury, Agent Howell described how the victim
+was bound and noted that he had duct tape covering most of his face. A multitude of items
+containing RBS were collected at the scene, including a handgun found approximately ten
+feet from the victim’s body and a metal T-shaped object found near the victim’s head. Both
+of these items were entered into evidence and published to the jury along with the video
+and numerous photographs of the scene taken by Agent Howell and members of the VCRT.
+
+- 13 -
+
+In these depictions, a large piece of wood is visible on the ground a few feet outside of the
+door into the warehouse.
+
+Agent Howell was also declared an expert witness in the forensic field of latent print
+analysis. When he processed the cords and duct tape from the victim’s body, he was not
+able to find any identifiable prints: “‘Identifiable’ means that I can identify it to somebody.
+There could be [fingerprint] ridges on evidence” that are visible, but such prints are not
+necessarily identifiable to a person. Agent Howell testified that the only identifiable latent
+prints he found on the evidence collected from this scene were a print on a glass bottle,
+which matched the victim, and a print on a Styrofoam cup, which matched Ms. Lingnau.
+
+TBI Special Agent James Scarbro testified that he was the lead investigator into the
+victim’s death, and he responded to the warehouse on April 23, 2019. He collected two
+cell phones belonging to the victim from the warehouse, and he performed a data download
+of both phones. Agent Scarbro determined that one of the cell phones had not been used
+for more than a year, but the other cell phone showed call and message activity through
+April 23, 2019, which was the date that the data was collected. However, there was no
+outgoing activity from this phone on or after April 20, 2019, but there were numerous
+missed calls between these two dates. Thereafter, Agent Scarbro also reviewed the Rackley
+Roofing surveillance footage collected by Agent Williams, and he observed a large, white
+truck with writing on it outside the warehouse in the early morning hours of April 20, 2019.
+During the initial stages of Agent Scarbro’s investigation, the TBI tip line received a call
+from Mr. McIntire, which led Agent Scarbro to interview Mr. McIntire, followed by Ms.
+Moffett and Ms. Lingnau.
+
+Agent Scarbro confirmed that Ms. Neusse had given him Mr. Grisham’s name as a
+potential suspect, and he and other agents interviewed Mr. Grisham several times in the
+following weeks. On April 26, 2019, Agent Scarbro collected a black face mask with a
+“skull face” on it from the side of Mr. Grisham’s driveway, and he also received consent
+to download data from Mr. Grisham’s phone. Agent Scarbro “didn’t believe everything”
+Mr. Grisham told them, but he noted that Mr. Grisham was “back and forth” and provided
+some specific pieces of information that Agent Scarbro followed up on during the course
+of his investigation. During one interview, Mr. Grisham mentioned someone who drove a
+truck that “said something about Dirt Works” on the outside of the vehicle. From this,
+through the online business filings maintained by the Tennessee Secretary of State, Agent
+Scarbro was able to locate Middle Tennessee Dirt Works, which had an address listed in
+Greenbrier, Tennessee. When Agent Scarbro went to that address, he saw the same truck
+he had seen on the surveillance video, and he conducted further online database searches
+that identified Mr. Kolb as the owner of the truck and the owner of the home at that address.
+
+- 14 -
+
+On May 8, 2019, Agent Scarbro executed a search warrant at Mr. Kolb’s home and
+collected his truck, which was photographed and towed to the TBI Crime Lab in Nashville.
+He interviewed Mr. Kolb and, for the first time, was given the Defendant’s name in
+connection with the victim’s death. Agent Scarbro confronted Mr. Grisham with this
+information, and Mr. Grisham then gave him Mr. Murray’s name. Agent Scarbro
+interviewed Mr. Murray, who acknowledged having been at the warehouse on the night in
+question, and he also provided information about the fire at Mr. Grisham’s house afterward.
+Agent Scarbro directed other agents to investigate Mr. Grisham’s burn pit, which was
+photographed, but nothing was found in the burn pit that could be collected as evidence.
+On May 16, 2019, Agent Howell contacted Agent Scarbro to let him know that the VCRT,
+which was taking inventory of the contents of Mr. Kolb’s truck, had found a receipt from
+a MAPCO station in White House, Tennessee that was dated in the early morning hours of
+April 20, 2019. Agent Scarbro visited this business and reviewed its surveillance footage
+for this time period, and he observed Mr. Kolb’s truck. On this footage, he recognized Mr.
+Kolb and was also able to identify Mr. Burns.
+
+After reviewing the data downloaded from Mr. Grisham’s phone, Agent Scarbro
+noted that there were fifty-eight calls placed between the Defendant and Mr. Grisham from
+April 17 through April 26, 2019. Agent Scarbro then subpoenaed the Defendant’s cell
+phone records and created a location map for the towers to which the phone had connected
+between April 19 and April 20, 2019, which was received as an exhibit and published to
+the jury.
+
+Further investigation led Agent Scarbro to review surveillance footage from the
+Walmart parking lot in South Carthage for the early morning hours of April 20, 2019,
+which was also published to the jury. In the video, a “large individual” believed to be the
+Defendant is seen exiting Mr. Kolb’s truck and purchasing drinks, and he appears to be
+wearing a jacket and jeans. Shortly thereafter, a second truck that Agent Scarbro knew
+belonged to Mr. Murray arrives, and Mr. Kolb’s truck follows the other truck away from
+the parking lot. Following his receipt of the initial TBI crime lab report and further
+interviews, Agent Scarbro ultimately charged all five individuals in connection with the
+victim’s murder.
+
+On cross-examination, Agent Scarbro acknowledged that the cell phone location
+data he received for the Defendant’s phone was a “best estimate” only and the results may
+be “less than exact.” He admitted that he did not know Mr. Murray’s location in the hours
+following the victim’s death, and, while he reviewed video from the motel where Mr.
+Murray claimed to be staying, he did not review video for the day after the murder to
+
+- 15 -
+
+corroborate Mr. Murray’s claim that Mr. Grisham and the Defendant came there and
+threatened him. Regarding the lack of evidence in Mr. Grisham’s burn pit, Agent Scarbro
+explained, “[I]f there was something identifiable to clothes or shoes, then my expectation
+would have been that that agent would have recovered those items.” He also agreed that
+the person believed to be the Defendant in the Walmart video was wearing a jacket and
+jeans, not black coveralls. During his investigation, Agent Scarbro collected DNA samples
+from Ms. Neusse, Mr. McIntire, Ms. Moffett, Mr. Grisham, Mr. Kolb, Mr. Murray, and the
+Defendant, but he did not collect a DNA sample from Mr. Burns.
+
+TBI Special Agent Charly Castelbuono was declared an expert witness in the field
+of DNA analysis, and she received the DNA samples collected by Agent Scarbro, as well
+as the blood standard for the victim collected by the medical examiner, for use in her
+analysis. Agent Castelbuono performed DNA analysis on “quite a few” pieces of evidence
+collected in connection with the victim’s death, including multiple areas containing RBS
+in Mr. Kolb’s truck, as well as the pistol and metal T-shaped object recovered from the
+warehouse. Her testing of the RBS in Mr. Kolb’s truck indicated the presence of the blood
+that matched the DNA profile of the victim. She found the victim’s blood
+
+on the rear passenger side door grip; on the door about the handle; and on the
+door below the handle inside of the vehicle; the side of the rear passenger
+seat; the front passenger head rest; the back of the front passenger
+seat; . . . and the rear middle seat.
+
+Agent Castelbuono determined that the RBS on the pistol grip also tested positive for blood
+that matched the victim’s DNA profile. Further testing on other areas of the pistol indicated
+that both the Defendant and the victim were “contributors to the major mixture profile.”
+She acknowledged that the pistol contained “a consistent mixture of at least three
+individuals,” two of which were the Defendant and the victim, but the third person was not
+identified from any of the individuals’ samples she had received. Agent Castelbuono noted
+that additional testing was not conducted to attempt to identify the third individual, and she
+also agreed that it would not be uncommon for the Defendant’s DNA to be present on his
+own pistol.
+
+Regarding the testing she conducted on the metal T-shaped object, Agent
+Castelbuono determined that the RBS on the object was the victim’s blood, and DNA for
+at least one other individual was present as a “minor contributor,” but “the minor
+contributor profile [wa]s deemed to be inconclusive.” This prevented her from attempting
+to exclude any of the other individuals she received samples from, including the Defendant,
+as a contributor. However, Agent Castelbuono also explained that private labs elsewhere
+
+- 16 -
+
+possessed additional DNA analysis technologies that TBI did not have available, and she
+opined that “there could potentially be additional interpretation that could happen with [the
+inconclusive minor contributor] profile” if the data was sent to one of these private labs.
+Agent Castelbuono discussed this possibility with Agent Scarbro, who then sent the entire
+DNA profile from the metal T-shaped object to a private lab, Cybergenetics, to assess it.
+Agent Castelbuono noted that the data submitted included all DNA evidence collected from
+the T-shaped object.
+
+William Allan was declared an expert witness in the field of DNA evidence
+interpretation, and he testified that he utilized the software system TrueAllele to analyze
+the DNA data that Agent Scarbro transmitted to his place of employment, Cybergenetics.
+Mr. Allan received the electronic file of the DNA data TBI had processed and fed that data
+into TrueAllele, which assesses probabilities of contributors to a sample and can “compare
+it with anybody to calculate a match statistic.” He noted that this technology allowed
+Cybergenetics to be more precise than TBI: “[T]he lab may say inconclusive relative to a
+person, where we could say, no, [that person] is excluded or sometimes included.” The
+specific question Mr. Allan was asked to answer regarding the data for the metal T-shaped
+object was “whose DNA was in this evidence?” To that end, he was also provided with
+comparison data in the form of DNA profiles for Mr. Grisham, Mr. Kolb, the victim, and
+the Defendant. He acknowledged that he did not receive profiles for Mr. Murray or Mr.
+Burns, but he explained that the “evidence probabilities” would not have changed if he
+had: “[T]hey could have sent no references, they could have sent ten references, [but] it
+wouldn’t have made a difference to what the evidence was. . . . [W]e just don’t know what
+the match statistics are [for Mr. Murray or Mr. Burns].”
+
+After giving a detailed explanation on the mathematics and scientific processes
+involved, Mr. Allan reported the probability findings regarding the minor contributor
+profile on the metal T-shaped object: “[The Defendant’s] match statistic is 43.2 septillion.
+He actually contributed about 80 percent of the DNA on this object.” Mr. Allan stated that
+“[m]ore DNA usually means a higher match statistic,” and the result of this testing led to
+the conclusion that “only [one] in 41.5 million people would match as strongly as [the
+Defendant].”
+
+Dr. Miguel Laboy was declared an expert witness in the field of forensic pathology,
+and he testified that he was the medical examiner who performed the victim’s autopsy. As
+reflected in his report, which was introduced into evidence, Dr. Laboy catalogued
+numerous internal and external injuries to the victim’s body, including eleven lacerations
+to the head and face. He referred to and described photographs of each of these injuries as
+they were published to the jury, and he observed that no healing had occurred for any of
+
+- 17 -
+
+the victim’s injuries. The victim’s nose had been broken, and his entire face except for the
+bridge of his nose was wrapped in duct tape at the time Dr. Laboy received the body. He
+confirmed that the victim’s mouth, eyes, and nostrils had all been covered by the duct tape
+before he removed it to conduct his examination. Additionally, he observed hemorrhaging
+in the neck muscles, which indicated trauma to the area that had not been visible on the
+surface, and subarachnoid and subdural hemorrhaging in the brain. He noted that blood
+pooling in the victim’s broken nose coupled with unconsciousness would make breathing
+difficult, and he also explained that if “someone put pressure on the [victim’s] neck until
+[he] passed out,” it would not leave any external markings on the victim’s body. Dr. Laboy
+explained that all of the victim’s injuries were consistent with impact to the areas in which
+they occurred, many of which he believed had been caused by “impact with an object. It
+could be a fist or it could be a weapon.” He disagreed with the assertion that injuries to
+victim’s mouth or face could have been caused by struggling to breathe after the duct tape
+had been applied, and he maintained that the injuries required impact. Dr. Laboy
+determined the cause of death to be from blunt and sharp force injuries, but “asphyxia as
+part of the cause of death cannot be ruled out.”
+
+Dr. Laboy also collected a blood sample during the victim’s autopsy, but it was a
+much smaller amount than he normally collected. Dr. Laboy explained that decomposition
+causes the body to “lose a lot of fluid,” including blood, but he sent the limited sample he
+was able to collect to a toxicologist for analysis, which came back positive for high levels
+of methamphetamine and amphetamine. He described these findings as “toxic levels of
+methamphetamine and amphetamine,” but “toxic level” did not mean that the level would
+necessarily have been fatal. He also clarified that the loss of fluid and redistribution of
+blood during decomposition would affect the readings, stating that, “In decomposition,
+drugs change. . . . [S]ometimes there’s postmortem redistribution inside the body, meaning
+that the levels in different areas are going to be different.” At the conclusion of Dr. Laboy’s
+testimony, the State rested its case-in-chief.
+
+James Harold McDonald testified that he was the Defendant’s father, and he knew
+the Defendant to be a hard worker and an attentive father to his children. Mr. McDonald
+denied knowing anything about the Defendant’s involvement in any type of criminal
+activity. However, he acknowledged that he did not know any of the Defendant’s friends,
+and he was not present at the warehouse on the night of the victim’s death. Mr. McDonald
+also agreed that he loved his son, that the Defendant’s incarceration had been difficult for
+his family, and that he wanted the Defendant to come home.
+
+John Morris was declared an expert witness in the field of digital forensics, and he
+testified regarding his review of the Rackley Roofing surveillance video and the system
+
+- 18 -
+
+that had recorded it. Mr. Morris explained that the motion sensor sensitivity for this
+particular type of system could be configured to concentrate on “hot spots,” meaning it
+only recorded footage of motion in certain areas. However, Mr. Morris admitted that he
+did not know what any of the sensitivity or other recording settings were at the time this
+system recorded the footage he reviewed because the configuration information was not
+available. Still, he opined that the settings may not have been trained on the specific area
+surrounding the warehouse, as the surveillance equipment belonged to a neighboring
+business that would likely be more concerned with its own property. Mr. Morris based this
+opinion on various examples of “gaps” he identified in the recorded footage where,
+although the videos were sequential, people and vehicles suddenly appeared in the area
+around the warehouse without any recorded footage of them entering the frame. Mr.
+Morris also expressed his concern regarding the area around the warehouse because there
+was “so much clutter there that, number one, the camera can’t see [the people in the frame].
+And number two, that’s going to interfere with motion detection, as well.”
+
+Dr. Jimmie Valentine was declared an expert witness in the field of toxicology, and
+he testified regarding the general effects of methamphetamine use and his opinion on the
+levels present in the victim’s blood as noted in the medical examiner’s report. He described
+“the meth experience” as having three distinct phases: the “euphoric” state, during which
+the subject experienced a “rush” and “high energy” for ten to fifteen minutes; the
+“shoulder” stage, during which the euphoria wanes and becomes less intense for about an
+hour; and, the “tweaking” stage, during which the subject goes through a period of “coming
+down” characterized by depression, anxiety, irritability, hypervigilance, paranoia, and
+auditory and tactile hallucinations. Dr. Valentine noted that the “tweaking” stage lasts
+approximately four to six hours, and the subject would experience an intense desire during
+this time to consume more of the drug. He described how a person’s “tolerance” for
+methamphetamine increased with continued use over time, but this tolerance would not
+decrease the potency of the “tweaking” stage. However, it would require greater dosages
+of the drug to achieve the same euphoric effect during the earlier stages. Dr. Valentine
+called this “re[i]nforcing action” typical of methamphetamine use, and he stated that it
+often leads users to “binge” by taking multiple doses over a period of time.
+
+Dr. Valentine opined that this type of use was the only way to achieve the levels
+present in the victim’s blood at the time of his death, and these levels were consistent with
+an individual’s using methamphetamine somewhat continuously for approximately twelve
+hours. However, he noted that decomposition was a factor he considered in his analysis
+because “after death, some drugs can diffuse from other tissues out into the blood itself,
+and can make the levels somewhat higher.” He also explained that death stops the body
+from metabolizing methamphetamine into amphetamine, which is a process that itself
+
+- 19 -
+
+requires some “lag time” after ingestion of the drug. Based on those factors, Dr. Valentine
+was not able to determine how long before his death the victim stopped consuming
+methamphetamine, nor could he opine on what stage of “the meth experience” the victim
+had reached at the time of his death. Regarding the description of the “toxic” levels present
+in the victim’s blood, Dr. Valentine clarified that “there’s a difference between toxic and
+lethal. . . . Toxic simply means that you’re going to have some kind of overt manifestation
+of the drug that you can observe.” He also agreed that a person being described as “content,
+happy, [and] having a good time” was consistent with a “meth binge scenario[.]” He
+confirmed that, while not all users “become violent,” some users who are proceeding
+through these stages “could” be volatile.
+
+Thereafter, the defense rested its case-in-chief and moved for a judgment of
+acquittal, which was denied. Following closing arguments 4 and instruction by the trial
+court, the jury found the Defendant guilty as charged in the indictments, and his subsequent
+motion for new trial was later denied.
+
+The Defendant filed a timely notice of appeal.
+
+II. ANALYSIS
+
+On appeal, the Defendant contends that the evidence introduced at trial was
+insufficient to support the jury’s verdict, and the trial court erred by refusing to allow him
+to cross-examine Mr. Murray about the specific sentence reduction he received as part of
+his plea agreement for conviction of a lesser included offense. The State responds that the
+evidence was “more than sufficient” to sustain the Defendant’s convictions, and the trial
+court properly refused to allow the jury to hear testimony about the sentencing exposure
+the Defendant and each of his codefendants faced regarding the offenses in these cases.
+
+A. Sufficiency of the Evidence
+
+The United States Constitution prohibits the states from depriving “any person of
+life, liberty, or property, without due process of law[.]” U.S. Const. amend. XIV, § 1. A
+state shall not deprive a criminal defendant of his liberty “except upon proof beyond a
+reasonable doubt of every fact necessary to constitute the crime with which he is charged.”
+In re Winship, 397 U.S. 358, 364 (1970). In determining whether a state has met this
+burden following a finding of guilt, “the relevant question is whether, after viewing the
+
+4
+We note that, prior to closing arguments, defense counsel again argued to the trial court that he
+should be allowed to discuss during his closing argument the sentencing exposure of the codefendants who
+provided testimony. The trial court stood on its previous ruling prohibiting such argument.
+
+- 20 -
+
+evidence in the light most favorable to the prosecution, any rational trier of fact could have
+found the essential elements of the crime beyond a reasonable doubt.” Jackson v. Virginia,
+443 U.S. 307, 319 (1979). Because a guilty verdict removes the presumption of innocence
+and replaces it with a presumption of guilt, the defendant has the burden on appeal of
+illustrating why the evidence is insufficient to support the jury’s verdict. State v. Tuggle,
+639 S.W.2d 913, 914 (Tenn. 1982). If a convicted defendant makes this showing, the
+finding of guilt shall be set aside. Tenn. R. App. P. 13(e).
+
+“Questions concerning the credibility of witnesses, the weight and value to be given
+the evidence, as well as all factual issues raised by the evidence are resolved by the trier of
+fact.” State v. Bland, 958 S.W.2d 651, 659 (Tenn. 1997). Appellate courts do not “reweigh
+or reevaluate the evidence.” Id. (citing State v. Cabbage, 571 S.W.2d 832, 835 (Tenn.
+1978)). “A guilty verdict by the jury, approved by the trial judge, accredits the testimony
+of the witnesses for the State and resolves all conflicts in favor of the theory of the State.”
+State v. Grace, 493 S.W.2d 474, 476 (Tenn. 1973). The law provides this deference to the
+jury’s verdict because
+
+[t]he jury and the [t]rial [j]udge saw the witnesses face to face, heard them
+testify, and observed their demeanor on the stand, and were in much better
+position than we are, to determine the weight to be given their testimony.
+The ‘human atmosphere of the trial and the totality of the evidence’ before
+the court below cannot be reproduced in an appellate court, which sees only
+the written record[.]
+
+Carroll v. State, 370 S.W.2d 523, 527 (Tenn. 1963) (quoting Folk v. Folk, 355 S.W.2d 634,
+637 (Tenn. 1962)). Therefore, on appellate review, “the State is entitled to the strongest
+legitimate view of the trial evidence and all reasonable or legitimate inferences which may
+be drawn therefrom.” Cabbage, 571 S.W.2d at 835.
+
+The identity of the perpetrator is an essential element of any crime. State v. Miller,
+638 S.W.3d 136, 158 (Tenn. 2021). The State has the burden of proving the identity of the
+defendant as the perpetrator beyond a reasonable doubt. State v. Sneed, 908 S.W.2d 408,
+410 (Tenn. Crim. App. 1995) (citing White v. State, 533 S.W.2d 735, 744 (Tenn. Crim.
+App. 1975)). Identity is a question of fact for the jury’s determination upon consideration
+of all competent proof. State v. Thomas, 158 S.W.3d 361, 388 (Tenn. 2005). As with any
+sufficiency analysis, the State is entitled to the strongest legitimate view of the evidence
+concerning identity contained in the record, as well as all reasonable inferences which may
+be drawn from the evidence. See id. (citing State v. Evans, 838 S.W.2d 185, 191 (Tenn.
+1992)); see also Miller, 638 S.W.3d at 158-59.
+
+- 21 -
+
+1. First Degree Premeditated Murder
+
+On appeal, the Defendant asserts that the State failed to prove the elements of
+premeditation and intent to kill as necessary to sustain his conviction for this offense. He
+further asserts that the Defendant’s identity as the person who killed the victim was not
+established. Specifically, he asserts that “[n]owhere in the record through the testimonies
+of the witnesses is there even a scintilla of evidence that [he] killed anyone, let alone
+planned or prepared in a manner that would enable a finding of premeditation.” Regarding
+his intent to kill, the Defendant notes that the witnesses testified to only seeing blood on
+Mr. Murray’s clothes, not his, and that their testimonies were inconsistent and established
+only an intent to purchase a trailer that evening. He also notes that though the victim was
+assaulted that evening, no one saw the victim in the condition he was found, duct tape over
+his face and hog-tied, prior to their leaving the warehouse. The Defendant also generally
+claims that the verdict was contrary to the evidence, challenging the adequacy of the DNA
+evidence and the reliability of the video footage from the warehouse. The State responds
+that a reasonable jury could infer from the evidence that the Defendant killed the victim
+while acting with premeditation and the intent to kill.
+
+First degree premeditated murder is defined as “[a] premeditated and intentional
+killing of another.” Tenn. Code Ann. § 39-13-202(a)(1). A person acts intentionally
+“when it is the person’s conscious objective or desire to engage in the conduct or cause the
+result.” Id. § -11-106(a)(21).
+
+[P]remeditation is an act done after the exercise of reflection and judgment.
+“Premeditation” means that the intent to kill must have been formed prior to
+the act itself. It is not necessary that the purpose to kill preexist in the mind
+of the accused for any definite period of time. The mental state of the accused
+at the time the accused allegedly decided to kill must be carefully considered
+in order to determine whether the accused was sufficiently free from
+excitement and passion as to be capable of premeditation.
+
+Id. § 39-13-202(d).5 “Premeditation may be inferred from the manner and circumstances
+of the killing.” Finch v. State, 226 S.W.3d 307, 318 (Tenn. 2007) (citing State v. Bland,
+958 S.W.2d 651, 660 (Tenn. 1997)). Several circumstances may bear on the existence of
+premeditation, including but not limited to:
+
+5
+This subsection was redesignated in 2021 and is now located at Tennessee Code Annotated
+section 39-13-202(e). See 2021 Tenn. Pub. Acts, ch. 394, § 1.
+
+- 22 -
+
+(1) The use of a deadly weapon on an unarmed victim;
+
+(2) The particular cruelty of the killing;
+
+(3) Threats or declarations of intent to kill;
+
+(4) The procurement of a weapon;
+
+(5) Any preparations to conceal the crime undertaken before the crime was
+committed;
+
+(6) The destruction or secretion of evidence of the killing;
+
+(7) Calmness after the killing;
+
+(8) Evidence of motive;
+
+(9) The use of multiple weapons in succession;
+
+(10) The infliction of multiple wounds or repeated blows;
+
+(11) Evidence that the victim was retreating or attempting to escape when
+killed;
+
+(12) The lack of provocation on the part of the victim; and
+
+(13) The failure to render aid to the victim.
+
+State v. Reynolds, 635 S.W.3d 893, 916-17 (Tenn. 2021). The list of specific circumstances
+developed through case decisions is not exhaustive, however, and the trier of fact “is not
+limited to any specific evidence when determining whether a defendant intentionally killed
+the victim after the exercise of reflection and judgment.” State v. Davidson, 121 S.W.3d
+600, 615 (Tenn. 2003) (internal quotations omitted).
+
+Here, evidence was submitted to the jury that the Defendant concealed his face and
+armed himself with a gun prior to directing a forcible entry into the warehouse where the
+victim was living. From these facts, a reasonable jury could infer premeditation on the part
+of the Defendant because he had the foresight to procure a weapon and was prepared to
+conceal the crime before it was committed. See Reynolds, 635 S.W.3d at 916-17. Once
+
+- 23 -
+
+inside, the Defendant immediately began assaulting the unarmed victim by inflicting
+“repeated blows” and using “multiple weapons in succession.” Id. After the victim had
+been savagely beaten, the Defendant was the last person in the warehouse with him—until
+the victim was discovered, deceased, three days later with his hands and feet bound and
+duct tape almost completely covering his face. From these circumstances, a reasonable
+jury could infer that this was a killing of “particular cruelty” and that the Defendant failed
+to “render aid to the victim.” Id. The jury also heard testimony that the Defendant gave
+instructions to his codefendants before, during, and immediately after the killing, and that
+he burned his outer clothing after leaving the warehouse. From these additional facts, a
+reasonable jury could infer that the Defendant exhibited “[c]almness after the killing” and
+destroyed evidence of his involvement. Id. The testimony established that the victim was
+taken by surprise when the Defendant attacked him, supporting the inference that there was
+“lack of provocation on the part of the victim.” Id. These circumstances support the jury’s
+finding that the Defendant was the perpetrator and that he acted with premeditation. Also,
+covering the victim’s mouth and nose with duct tape would foreseeably lead to suffocation,
+supporting a finding of this being an intentional killing.
+
+Further, a reasonable jury could infer from Mr. Murray’s testimony—that the
+Defendant pulled out a gun and told him to “help [him] do what [he] c[a]me here to do,”
+immediately before bursting into the warehouse and beginning to assault the victim—that
+the Defendant was the perpetrator, and he acted with the intent to kill the victim. As noted
+above, we do not reweigh or reevaluate the evidence presented at trial, nor do we make any
+credibility determinations of the witnesses providing such evidence. See Bland, 958
+S.W.2d at 659. Such determinations are the province of the jury. See Grace, 493 S.W.2d
+at 476. Additionally, the jury heard from multiple experts that DNA evidence tied the
+Defendant to the objects used as weapons named in the beating, which also contained the
+victim’s blood, and the victim’s blood was found in Mr. Kolb’s truck surrounding the area
+where the Defendant was sitting after leaving the warehouse. The jury also considered
+video surveillance footage along with the physical evidence and testimony, and it was the
+role of the jury to evaluate the reliability of the evidence and give it whatever weight the
+jury deemed appropriate. See id. The evidence was sufficient to support this conviction,
+and the Defendant is not entitled to relief.
+
+2. Aggravated Burglary
+
+The Defendant contends that the evidence was insufficient to support his conviction
+for aggravated burglary because the State failed to prove that he entered the warehouse
+where the victim was living with the intent to commit a felony, theft, or assault. He grounds
+this assertion in his claim that there was no evidence that the Defendant himself took part
+
+- 24 -
+
+in any theft and that “the DNA evidence provided fails to establish [he] committed an
+assault.” The State responds that the jury could reasonably infer from the manner and
+circumstances of the Defendant’s entry into the warehouse that he did so with the intent to
+commit theft, assault, and murder.
+
+As indicted here, a person commits aggravated burglary who, without the effective
+consent of the property owner, enters a habitation with intent to commit a felony, theft, or
+assault. Tenn. Code Ann. §§ 39-14-402(a), -403(a). “Habitation” is defined as “any
+structure, including buildings, module units, mobile homes, trailers, and tents, which is
+designed or adapted for the overnight accommodation of persons.” Id. § -401(1)(A). An
+owner is a person “in lawful possession of property whether the possession is actual or
+constructive.” Id. § -401(3).
+
+The parties do not dispute that the condemned warehouse where the murder took
+place was the victim’s residence. Testimony established that the Defendant and Mr.
+Murray made a forcible entry into the warehouse, after the Defendant had armed himself
+and looked for a back entrance, and the Defendant immediately began to assault the victim
+by beating him with multiple objects. The Defendant’s DNA was later found on the same
+objects, which also contained the victim’s blood. After the victim had been subdued, the
+Defendant instructed two of his codefendants to take tools out of the warehouse. From
+this, a reasonable jury could infer that the Defendant intentionally entered the victim’s
+habitation with the intent to commit an assault, which is supported by him immediately
+attacking the victim; with the intent to commit a theft, which he directed others to complete;
+and with the intent to commit a felony, namely the first degree premeditated murder of the
+victim. It is no defense that the Defendant did not himself perform the taking; the statute
+merely requires that he have the intent to do so, or the intent to commit an assault or felony,
+which the Defendant himself did commit. See Tenn. Code Ann. §§ 39-14-402(a), -403(a).
+The Defendant is not entitled to relief.
+
+3. First Degree Felony Murder
+
+Tennessee Code Annotated section 39-13-202(a), in relevant part, defines felony
+murder as the “killing of another committed in the perpetration or attempt to perpetrate any
+. . . burglary.” The Defendant’s argument as to this offense rests solely on the evidence
+being insufficient to sustain his conviction for aggravated burglary, as without this, his
+conviction for first degree felony murder cannot stand. Because we have already
+determined that the evidence was sufficient to support the Defendant’s convictions for first
+degree premeditated murder, establishing the unlawful killing of the victim, and aggravated
+burglary, establishing the underlying felony the killing occurred during the course of, we
+
+- 25 -
+
+need not examine sufficiency of the evidence as to this conviction offense further. The
+Defendant is not entitled to relief.
+
+B. Cross-Examination Regarding Sentencing Exposure
+
+The Defendant asserts that the trial court erred by denying his request to impeach
+Mr. Murray’s credibility, specifically, by inquiring into Mr. Murray’s sentencing exposure
+and the favorable treatment Mr. Murray received when he was allowed to plead guilty to a
+lesser included offense. According to the Defendant, this denial constituted a violation of
+his state and federal constitutional rights of confrontation. The State responds that the trial
+court properly restricted the Defendant from inquiring into Mr. Murray’s sentencing
+exposure because Mr. Murray was indicted for the same offenses as the Defendant was on
+trial for, and the jury’s consideration of the “possible penalties” the Defendant faced was
+prohibited by Tennessee Code Annotated section 40-35-201(b).
+
+The Confrontation Clause of the Sixth Amendment to the United States Constitution
+provides that “[i]n all criminal prosecutions, the accused shall enjoy the right . . . to be
+confronted with the witnesses against him.” U.S. Const. amend. VI. The right of
+confrontation is fundamental and applies to the states through the Fourteenth Amendment.
+Pointer v. Texas, 380 U.S. 400, 403 (1965); State v. Henderson, 554 S.W.2d 117, 119
+(Tenn. 1977). The Tennessee Constitution contains a similar provision stating “[t]hat in
+all criminal prosecutions, the accused hath the right . . . to meet the witnesses face to
+face.” Tenn. Const. art. I, § 9. “The central concern of the Confrontation Clause is to
+ensure the reliability of the evidence against a criminal defendant by subjecting it to
+rigorous testing in the context of an adversary proceeding before the trier of fact.”
+Maryland v. Craig, 497 U.S. 836, 845 (1990). Our supreme court has held that in reviewing
+confrontation issues under our state constitution, we apply the same analysis used to
+evaluate confrontation claims under our federal constitution. State v. Hutchinson, 482
+S.W.3d 893, 905 (Tenn. 2016). Accordingly, “we ‘unitarily analyze the [D]efendant’s
+federal and state constitutional claims, as the same standards govern both.’” Id. (quoting
+State v. Dotson, 450 S.W.3d 1, 62 (Tenn. 2014)).
+
+A defendant’s constitutional right to confront witnesses includes the right to conduct
+meaningful cross-examination. Pennsylvania v. Ritchie, 480 U.S. 39, 51 (1987); State v.
+Brown, 29 S.W.3d 427, 430-31 (Tenn. 2000). The right to cross-examine witnesses
+embraces within it the right to impeach their credibility, or otherwise establish that the
+witnesses are biased, which includes any promises of leniency or other favorable treatment
+offered in exchange for testimony. See State v. Smith, 893 S.W.2d 908, 924 (Tenn. 1994).
+“The propriety, scope, manner, and control of cross-examination of witnesses, however,
+
+- 26 -
+
+remain within the discretion of the trial court.” State v. Echols, 382 S.W.3d 266, 285 (Tenn.
+2012) (citations omitted). We analyze the trial court’s restriction of cross-examination for
+abuse of that discretion to the prejudice of the complaining party. State v. Johnson, 670
+S.W.2d 634, 636 (Tenn. Crim. App. 1984) (citing Monts v. State, 379 S.W.2d 34 (Tenn.
+1964), overruled on other grounds by State v. Collier, 411 S.W.3d 886 (Tenn. 2013)).
+“Appellate courts may not disturb [a trial court’s] limits on cross-examination except when
+there has been an unreasonable restriction on the right.” State v. Dishman, 915 S.W.2d
+458, 463 (Tenn. Crim. App. 1995) (first citing State v. Fowler, 373 S.W.2d 460, 466 (Tenn.
+1963); and then citing Johnson, 670 S.W.2d at 636).
+
+“Generally speaking, the Confrontation Clause guarantees an opportunity for
+effective cross-examination, not cross-examination that is effective in whatever way, and
+to whatever extent, the defense might wish.” Delaware v. Fensterer, 474 U.S. 15, 20
+(1985). Importantly, Tennessee Code Annotated section 40-35-201(b) prohibits the trial
+court from allowing the jury to consider punishment in non-capital cases: “In all contested
+criminal cases, except for capital crimes . . . , the judge shall not instruct the jury, nor shall
+the attorneys be permitted to comment at any time to the jury, on possible penalties for the
+offense charged nor all lesser included offenses.” This court has recently held that this
+prohibition may allow a trial court to restrict inquiry on cross-examination into the
+sentencing consequences of codefendants who have been charged with the same offense or
+offenses as the defendant. See State v. Johnson, No. E2022-00302-CCA-R3-CD, 2023 WL
+2567645, at *12-14 (Tenn. Crim. App. Mar. 20, 2023) (concluding that the trial court did
+not abuse its discretion in preventing cross-examination of a codefendant regarding his
+sentencing exposure, as he was originally facing the same charges as the defendant).
+
+In the Defendant’s trial, Mr. Murray “testif[ied] under oath and in the presence of
+the accused,” and the jury was able to “observe [his] demeanor under cross-examination”
+as contemplated by the Confrontation Clause. Fensterer, 474 U.S. at 20. During a pointed
+and vigorous line of questioning in which Mr. Murray was asked if he himself was a
+“murderer,” defense counsel elicited testimony from Mr. Murray that he had pled guilty to
+a lesser included offense; Mr. Murray’s judgment form was received into evidence, which
+showed that he had been charged with first degree felony murder, as had the Defendant;
+and Mr. Murray explained that other charges against him were dismissed as a result of his
+guilty plea to the lesser included offense of second degree murder. Additionally, defense
+counsel questioned Mr. Murray about his own ability to return to the warehouse unseen
+and murder the helpless victim later in the night. Such questioning implied that Mr.
+Murray’s account of the Defendant savagely beating the victim was even more likely to be
+untruthful—because the Defendant’s alleged actions would subject Mr. Murray himself to
+less scrutiny in the investigation into the victim’s death—and was bolstered by defense
+
+- 27 -
+
+counsel’s repeated inquiries into why Mr. Murray pled guilty to murder if he “never once
+laid hands” on the victim. The Defendant was thus able to suggest to the jury that Mr.
+Murray’s account of the Defendant’s assault on the victim was unreliable, “thereby calling
+to the attention of the factfinder the reasons for giving scant weight to [his] testimony.” Id.
+at 22. As such, we conclude that the Defendant was given the opportunity to cross-examine
+Mr. Murray in accordance with his constitutional confrontation rights.
+
+We also note that Mr. Murray repeated these facts about his guilty plea numerous
+times on both direct and cross-examination. Thus, the jury was not prevented from
+considering the favorable treatment Mr. Murray received, in spite of the lack of specificity
+as to sentencing exposure, and it was able to assess that treatment as it related to his
+credibility. To allow further defense inquiry regarding the sentencing consequences the
+Defendant faced, even by allusion based upon the identical offense one of his codefendants
+was charged with, would be contrary to Tennessee Code Annotated section 40-35-201(b)
+and of minimal additional probative value in impeaching Mr. Murray’s credibility or
+showing any bias he had in favor of the State. See Johnson, 2023 WL 25667645,
+at *12-14 (concluding that the trial court did not abuse its discretion by limiting cross-
+examination on the sentencing exposure of a codefendant who “had been charged with the
+same offenses as the [d]efendant[ because] the jury was not permitted to know the possible
+punishment for a defendant’s charges”). Therefore, the trial court did not abuse its
+discretion in limiting cross-examination on this point. The Defendant is not entitled to
+relief.
+
+III. CONCLUSION
+
+Based upon the foregoing and consideration of the record as a whole, we affirm the
+judgments of the trial court.
+
+s/ Kyle A. Hixson .
+
+KYLE A. HIXSON, JUDGE
+
+- 28 -

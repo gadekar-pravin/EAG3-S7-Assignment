@@ -1,0 +1,432 @@
+=========================================================
+Case: In re Wrongful Conviction of Spangler
+Court: Supreme Court of Kansas
+Date Filed: 2024-04-26
+Citations: 547 P.3d 516
+URL: https://www.courtlistener.com/opinion/9497292/in-re-wrongful-conviction-of-spangler/
+Source Query: murder conviction appeal
+=========================================================
+
+IN THE SUPREME COURT OF THE STATE OF KANSAS
+
+No. 126,062
+
+In the Matter of the Wrongful Conviction of
+WILLIAM P. SPANGLER.
+
+SYLLABUS BY THE COURT
+
+1.
+K.S.A. 2023 Supp. 60-5004(c)(1)(D), part of a statutory provision allowing
+persons wrongfully convicted and imprisoned to bring a civil action, prohibits
+compensation when the claimant's own conduct causes or brings about the conviction.
+
+2.
+A defendant convicted of a lesser included offense after a second trial based on the
+same criminal conduct underlying the alleged wrongful conviction has engaged in illegal
+conduct that precludes the claimant's recovery under K.S.A. 2023 Supp. 60-5004.
+
+Appeal from Shawnee District Court; TERESA L. WATSON, judge. Submitted without oral
+argument. Opinion filed April 26, 2024. Affirmed.
+
+Larry G. Michel, of Kennedy Berkley, of Salina, was on the brief for appellant.
+
+Kurtis K. Wiard, assistant solicitor general, and Kris W. Kobach, attorney general, were on the
+brief for appellee.
+
+The opinion of the court was delivered by
+
+1
+
+LUCKERT, C.J.: William P. Spangler brought a civil proceeding for wrongful
+conviction and imprisonment after he was convicted of a lesser charge on a retrial for his
+role in the shooting death of Faustino Martinez. He was sentenced to time served, having
+already served about four and a half years longer in prison than the term of his new
+sentence for involuntary manslaughter. Spangler seeks compensation for those four plus
+years of imprisonment.
+
+The district court held that Spangler's own conduct caused or brought about his
+conviction and thus any recovery was precluded by K.S.A. 2023 Supp. 60-5004(c)(1),
+which requires that "[t]he claimant shall establish the following by a preponderance of
+evidence: . . . (D) the claimant did not commit or suborn perjury, fabricate evidence, or
+by the claimant's own conduct cause or bring about the conviction." We affirm.
+
+FACTS AND PROCEDURAL BACKGROUND
+
+A jury convicted Spangler of second-degree murder for his actions in causing
+Martinez' death, and the district court sentenced him to a term of 186 months and
+remanded him to prison. The Court of Appeals affirmed his conviction and sentence on
+direct appeal. See State v. Spangler, No. 112,270, 2015 WL 3632523, at *1-2 (Kan. App.
+2015) (unpublished opinion).
+
+Later, Spangler filed a motion for relief under K.S.A. 2023 Supp. 60-1507,
+arguing he received constitutionally deficient assistance of counsel. The district court
+agreed, finding that Spangler's trial counsel failed to investigate Spangler's mental health
+status and its effect on his state of mind when he shot Martinez. The district court
+concluded that failure prejudiced Spangler, and it ordered a new trial. The Court of
+Appeals affirmed. See Spangler v. State, No. 120,137, 2020 WL 1222954 (Kan. App.
+2020) (unpublished opinion).
+
+2
+
+The State retried Spangler in 2022. The jury on retrial convicted Spangler again,
+but this time of involuntary manslaughter rather than second-degree murder. At
+sentencing, he was released based on time served. Spangler had served about four-and-a-
+half years beyond the sentence imposed for his involuntary manslaughter conviction.
+
+Spangler later filed a civil action under K.S.A. 2023 Supp. 60-5004, seeking
+compensation for the time he spent in prison beyond his involuntary manslaughter
+sentence. The State moved to dismiss Spangler's case, arguing Spangler could not meet
+the conditions for recovery under the statute. It cited the condition in K.S.A. 2023 Supp.
+60-5004(c)(1)(D), requiring a claimant to prove the claimant's conduct did not cause or
+bring about the conviction. The State argued Spangler undisputedly shot Martinez,
+meaning he engaged in the underlying conduct that led to his second-degree murder
+conviction. To support its statements about the basic facts of the incident, the State
+attached to its motion to dismiss various documents filed in Spangler's criminal case and
+his K.S.A. 60-1507 action. In response, Spangler wrote: "For purposes of the Motion to
+Dismiss, William [Spangler] does not dispute the Statement of Facts contained in the
+State's brief."
+
+The district court conducted a hearing on the motion during which the court asked
+the parties whether the State's use of the various court filings to support its argument
+converted the State's motion to dismiss to one for summary judgment. The State filed a
+supplemental brief to address the question and argued that "[w]hen matters outside the
+pleadings are proper objects for judicial notice, a motion to dismiss need not be treated as
+a summary judgment motion. Rodina v. Castaneda, 60 Kan. App. 2d 384, 386 (2021),
+review denied (Dec. 6, 2021)." It added that the Rodina decision had recognized that "[a]
+trial court may take judicial notice of specific facts 'capable of immediate and accurate
+
+3
+
+determination by resort to easily accessible sources of indisputable accuracy.' Id. (quoting
+K.S.A. 60-409(b))."
+
+The district court issued a memorandum decision, citing the standard set out in
+K.S.A. 60-212(b)(6) for a motion to dismiss for failure to state a claim. In the Statement
+of Facts section of the decision the court wrote:
+
+"Because this matter is before the Court on a motion to dismiss, the Court
+considers the facts as stated in Spangler's petition along with some additional facts which,
+for purposes of the instant motion, are acknowledged as true by both parties.
+
+"Spangler had a verbal confrontation with Faustino Martinez outside Spangler's
+apartment building. Spangler went to his apartment and got his loaded AR-15 rifle.
+Spangler came out of his apartment and encountered Martinez. Spangler tried to scare
+Martinez with his rifle. When that didn't work, Spangler 'fired a warning shot.' When that
+didn't work, Spangler fired off another shot, stating that he was 'aiming for [Martinez']
+leg.' Spangler missed Martinez's leg and hit Martinez in the abdomen. Spangler fled the
+scene. Martinez died from the shooting."
+
+The court then discussed the meaning of K.S.A. 2023 Supp. 60-5004(c)(1)(D)'s
+requirement that Spangler prove by a preponderance of the evidence that he did not cause
+or bring about the conviction. It concluded that "Spangler's behavior in retrieving a
+loaded semi-automatic rifle from inside his apartment, leaving the apartment,
+encountering Martinez, brandishing the weapon, firing a 'warning shot,' and then
+purposely shooting Martinez, clearly constitutes Spangler's own conduct that caused or
+brought about the conviction for second-degree murder." This meant that "[o]n the agreed
+facts here, Spangler cannot prove by a preponderance of the evidence that he did not, by
+his own conduct, cause or bring about the conviction."
+
+4
+
+Spangler timely appealed directly to this court as permitted by K.S.A. 2023 Supp.
+60-5004(l): "The decision of the district court may be appealed directly to the supreme
+court pursuant to the code of civil procedure."
+
+ANALYSIS
+
+A claimant seeking damages under K.S.A. 2023 Supp. 60-5004(c)(1)(D) must
+establish by a preponderance of evidence that the claimant's own conduct did not "cause
+or bring about the conviction." Spangler argues the district court improperly divorced the
+phrase "cause or bring about his conviction" from its statutory context of subparagraph
+(D) ("[T]he claimant did not commit or suborn perjury, fabricate evidence, or by the
+claimant's own conduct cause or bring about the conviction."). Spangler reads the phrase
+"cause or bring about the conviction" as pertaining to conduct similar in character to that
+immediately preceding it in the statute, namely committing or suborning perjury or
+fabricating evidence.
+
+We disagree. We read the phrase to reflect the Legislature's intent to impose a
+common-sense limitation: Only someone innocent of the criminal conduct supporting the
+underlying conviction may pursue a claim for damages under K.S.A. 2023 Supp. 60-
+5004(c)(1)(D). Based on this interpretation, a claimant like Spangler who stands
+convicted of a lesser included offense based on the same charge as a previous conviction
+is not eligible to seek relief under K.S.A. 2023 Supp. 60-5004.
+
+Standard of Review
+
+We consider this issue after the district court granted the State's motion to dismiss
+for failure to state a claim. We note that the procedural question asked by the district
+court about whether the State's motion should be treated as a summary judgment motion
+
+5
+
+has not been presented to us on appeal. Both parties recite the motion to dismiss standard
+as the standard we should apply, and they do not disagree with the district court's reliance
+on undisputed facts gleaned through judicial notice. We thus proceed using that
+procedural posture to frame our standard of review without addressing the procedural
+question the district court posed to the parties.
+
+The appellate standard of review builds on the district court's standard for
+considering a motion to dismiss, so we begin there. A district court deciding a motion to
+dismiss considers the well-pleaded factual allegations, resolving factual disputes in the
+plaintiff's favor, to determine "whether the petition states any valid claim for relief."
+Williams v. C-U-Out Bail Bonds, 310 Kan. 775, 784, 450 P.3d 330 (2019). Appellate
+courts reviewing the district court's decision also assume well-pleaded facts to be true and
+draw reasonable inferences in the plaintiff's favor. 310 Kan. at 784. Whether the district
+court erred in granting a motion to dismiss for failure to state a claim is a question of law
+subject to unlimited review. In re M.M., 312 Kan. 872, 873, 482 P.3d 583 (2021).
+
+Another consideration frames our review. The district court's ruling rested on its
+interpretation of K.S.A. 2023 Supp. 60-5004. This also presents an issue of statutory
+interpretation subject to unlimited review. See In re M.M., 312 Kan. at 873-84.
+
+Discussion
+
+We apply a well-established rubric to our de novo statutory interpretation of
+K.S.A. 2023 Supp. 60-5004. The touchstone of statutory interpretation is that the
+Legislature's intent controls. A court '''must first attempt to ascertain legislative intent
+through the statutory language enacted, giving common words their ordinary meanings.'
+[Citation omitted.]" In re Wrongful Conviction of Sims, 318 Kan. 153, 158, 542 P.3d 1
+(2024).
+
+6
+
+Under K.S.A. 2023 Supp. 60-5004(a), the claimant bears the burden of proving by
+a preponderance of evidence certain conditions. Our focus here is on one of the
+conditions found in subsection (c)(1)(D), but we set out the full text of subsection (c),
+including the other conditions, for context:
+
+"(c)(1) The claimant shall establish the following by a preponderance of evidence:
+
+(A) The claimant was convicted of a felony crime and subsequently imprisoned;
+
+(B) the claimant's judgment of conviction was reversed or vacated and either the charges
+were dismissed or on retrial the claimant was found to be not guilty;
+
+(C) the claimant did not commit the crime or crimes for which the claimant was
+convicted and was not an accessory or accomplice to the acts that were the basis of
+the conviction and resulted in a reversal or vacation of the judgment of conviction,
+dismissal of the charges or finding of not guilty on retrial; and
+
+(D) the claimant did not commit or suborn perjury, fabricate evidence, or by the
+claimant's own conduct cause or bring about the conviction. Neither a confession
+nor admission later found to be false or a guilty plea shall constitute committing or
+suborning perjury, fabricating evidence or causing or bringing about the conviction
+under this subsection." (Emphasis added.) K.S.A. 2023 Supp. 60-5004.
+
+The State moved to dismiss based on its interpretation of the words "the claimant
+did not . . . by the claimant's own conduct cause or bring about the conviction" in
+subsection (c)(1)(D). It interpreted this phrase to mean any conduct by the claimant that
+caused or brought about the conviction, including the behavior leading to the filing of
+charges and ultimate conviction. The district court agreed with the State's proffered
+interpretation.
+
+7
+
+We begin our independent interpretation of the statute by considering the
+commonly understood meaning of words in the statute or, where a word has a technical
+legal meaning, the legal definition. If the Legislature includes no definitions, we look to
+dictionaries for the ordinary, contemporary, and common meaning of words, although we
+might also look to other legal authorities when examining the meaning of words with a
+technical, legal meaning. See State v. Arnett, 307 Kan. 648, 654, 413 P.3d 787 (2018)
+(considering caselaw about causation when interpreting phrase "caused by the defendant's
+crime" in restitution statute); Midwest Crane & Rigging, LLC v. Kansas Corporation
+Comm'n, 306 Kan. 845, 851, 397 P.3d 1205 (2017) (stating general proposition that
+courts assume Legislature intends the word to be used in its "ordinary, contemporary,
+common meaning" when not otherwise defined by statute).
+
+We first consider the meaning of "claimant," the only word in the phrase "the
+claimant did not . . . by the claimant's own conduct cause or bring about the conviction"
+that the Legislature chose to define. In doing so, it defined "claimant" as "a person
+convicted and subsequently imprisoned for one or more crimes that such person did not
+commit." K.S.A. 2023 Supp. 60-5004(a). The phrase "such person did not commit" is
+arguably similar in meaning to K.S.A. 2023 Supp. 60-5004(c)(1)(D)'s phrase about
+causing or bringing about the conviction. As we examine the other words in that phrase,
+the similarity stands out. See State v. Newman-Caddell, 317 Kan. 251, 259, 527 P.3d 911
+(2023) (courts may read statutory provisions together—that is, in pari materia—when
+determining whether the statutory language is plain and unambiguous).
+
+The next word we examine is "conduct." The word "conduct" can be used as a
+verb or a noun. Here, the statute uses the term as a noun, and in that context "conduct"
+means "[p]ersonal behavior, whether by action or inaction, verbal or nonverbal; the
+manner in which a person behaves; collectively, a person's deeds." Black's Law
+Dictionary 369 (11th ed. 2019). We have found this definition useful when interpreting
+
+8
+
+the word "conduct" in another context. State v. Dinkel, 311 Kan. 553, 559-60, 465 P.3d
+166 (2020). Lay dictionaries provide similar definitions: "[t]he way one acts: behavior,"
+Webster's New World College Dictionary 310 (5th ed. 2014), or "[t]he way a person acts,
+especially from the standpoint of morality and ethics," American Heritage Dictionary
+384 (5th ed. 2011).
+
+Considered in the context of the shooting of Martinez, Spangler's actions and
+behaviors—that is, his conduct—of retrieving the gun, confronting Martinez with a gun,
+and firing shots at Martinez are behaviors that contributed to charges being filed against
+him and that led to Spangler's first and second convictions. This brings us to the phrase's
+causation requirement. See K.S.A. 2023 Supp. 60-5004(c)(1)(D) ("[T]he claimant did . . .
+by the claimant's own conduct cause or bring about the conviction."[Emphasis added.]).
+
+While "cause" is commonly understood, it has a technical meaning in the law that
+involves the principles of proximate cause. We consider that technical meaning here
+because, when our Legislature adopts legislation against an established legal landscape,
+judicial discussions of the established legal principle inform a court's analysis of the
+word's meaning. Arnett, 307 Kan. at 654 (examining whether defendant's criminal actions
+cause damages subject to restitution award). Arnett discusses the legal concepts of
+causation.
+
+The Arnett court observed, "In both the criminal and civil context, we routinely
+require a showing of causation to demonstrate that one thing was the proximate cause of
+another." 307 Kan. at 654. Proximate cause consists of two components: cause-in-fact
+and legal causation. "Together, these elements limit a defendant's liability to '"those
+consequences that are probable according to ordinary and usual experience."'" 307 Kan.
+at 654 (quoting Puckett v. Mt. Carmel Regional Med. Center, 290 Kan. 406, 420, 228
+P.3d 1048 [2010]).
+
+9
+
+We sometimes refer to cause-in-fact as but-for causation. In other words, but for a
+person's conduct, would the result have occurred? Legal cause, on the other hand, limits
+liability to when the result complained of is a foreseeable risk created by the defendant's
+conduct. When other events follow the precipitating occurrence, there may be an
+intervening cause that absolves a person of liability. The key to whether an intervening
+cause cuts the causal chain is again foreseeability. See Arnett, 307 Kan. at 654-55.
+
+Here, it was foreseeable that shooting someone could lead to a conviction for some
+degree of murder or manslaughter.
+
+This brings us to the final word in the statutory phrase, "conviction." Black's Law
+Dictionary 422 (11th ed. 2019) defines "conviction" as "[t]he act or process of judicially
+finding someone guilty of a crime; the state of having been proved guilty. 2. The
+judgment (as by a jury verdict) that a person is guilty of a crime." Other dictionaries
+similarly define a conviction by referring to the judicial process. "Conviction," Merriam-
+Webster Dictionary Online, https://www.merriam-webster.com/dictionary/conviction
+("the act or process of finding a person guilty of a crime especially in a court of law");
+see also "Conviction," American Heritage Dictionary Online,
+https://ahdictionary.com/word/search.html?q=conviction ("[T]he judgment of a jury or
+judge that a person is guilty of a crime as charged" or "the state of being found or proved
+guilty.").
+
+Putting these definitions together provides a plain meaning of the phrase
+consistent with the district court's ruling. That plain meaning is reinforced when other
+subsections of the statute are considered. See Newman-Caddell, 317 Kan. at 259 (courts
+may read unambiguous statutes in pari materia).
+
+10
+
+The Legislature restricted recovery under K.S.A. 2023 Supp. 60-5004 to a
+claimant who did not commit the crime and whose conduct did not cause the conviction.
+Spangler who stands convicted of a lesser included offense on retrial after a conviction on
+a greater offense arising from the same conduct cannot as a matter of law establish his
+conduct did not create a foreseeable risk of being convicted of either the charged offense
+or a lesser included offense. Kansas law provides that "[u]pon prosecution for a crime,
+the defendant may be convicted of either the crime charged or a lesser included crime,
+but not both." K.S.A. 21-5109(b). Consideration of the two counts of conviction from
+each of Spangler's trials shows the same conduct supported each verdict.
+
+At his first trial, Spangler was convicted of murder in the second degree. Second-
+degree murder "is the killing of a human being committed . . . intentionally or . . .
+unintentionally but recklessly under circumstances manifesting extreme indifference to
+the value of human life." K.S.A. 21-5403(a). At his second trial, Spangler was acquitted
+on the second-degree murder count and convicted of involuntary manslaughter, which "is
+the killing of a human being committed . . . [r]ecklessly." K.S.A. 21-5405(a)(1). K.S.A.
+21-5202(j) describes when a person acts recklessly or is reckless as "when such person
+consciously disregards a substantial and unjustifiable risk that circumstances exist or that
+a result will follow, and such disregard constitutes a gross deviation from the standard of
+care which a reasonable person would exercise in the situation." Both offenses as charged
+here involve recklessly killing a human being. In such cases, what distinguishes the
+offenses is the degree of recklessness. State v. Gentry, 310 Kan. 715, 725, 449 P.3d 429
+(2019). In other words, the underlying behavior or conduct is the same for second-degree
+murder and involuntary manslaughter. Only the mental state differs.
+
+Spangler's personal behavior the night he killed Martinez was the cause-in-fact of
+the charges being filed against him. It is entirely foreseeable that shooting someone could
+
+11
+
+lead to a conviction for some degree of murder or manslaughter. Spangler thus is not
+entitled to compensation under K.S.A. 2023 Supp. 60-5004 as a matter of law.
+
+This reading of K.S.A. 2023 Supp 60-5004(c)(1)(D) is consistent with our recent
+holding in In re Sims, 318 Kan. 153. There, while a conviction was on direct appeal, the
+parties agreed the evidence was insufficient to uphold the conviction and that the
+defendant should be resentenced for a lesser crime. Like Spangler, on resentencing the
+defendant was sentenced to time served, having already spent more time in prison for the
+greater offense than the sentence on the lesser offense. The defendant sought
+compensation under K.S.A. 2023 Supp. 60-5004, and the State filed for summary
+judgment. The State contended that the defendant could not prove he met the condition in
+K.S.A. 2023 Supp. 60-5004(c)(1)(B). Under (c)(1)(B) a claimant must show (a) a court
+reversed or vacated a felony conviction; and (b) either the dismissal of charges or a
+finding of not guilty following a new trial. The State argued the charges had neither been
+dismissed nor had the defendant been found not guilty because he committed the lesser
+offense. The district court granted summary judgment, and we affirmed. We held that
+(c)(1)(B) clearly and unambiguously requires "both terminating the criminal accusation
+presented in court and relieving the defendant of that accusation's criminal liability."
+318 Kan. at 160.
+
+Likewise, K.S.A. 2023 Supp. 60-5004(c)(1)(D) reflects that the claimant must
+show factual innocence from the charges giving rise to criminal liability before receiving
+compensation. Other provisions in the statute convey this same intent. For example, the
+procedure set out in K.S.A. 2023 Supp. 60-5004 ultimately results in the claimant
+receiving a certificate of innocence. That certificate includes a "finding that the claimant
+was innocent of all crimes for which the claimant was mistakenly convicted." K.S.A.
+2023 Supp. 60-5004(g). After that certificate is entered, the court orders "the associated
+convictions and arrest records expunged and purged from all applicable state and federal
+
+12
+
+systems." K.S.A. 2023 Supp. 60-5004(h). Once the certificate of innocence and order of
+expungement are entered, the claimant is to be treated as if never arrested or convicted of
+the crime. K.S.A. 2023 Supp. 60-5004(h)(4). The reference to "all crimes" conveys a
+requirement of factual innocence on the originally charged crimes and their lesser
+included offenses. See K.S.A. 21-5109(b) ("Upon prosecution for a crime, the defendant
+may be convicted of either the crime charged or a lesser included crime, but not both.").
+
+Spangler argues for a different reading of the statute. He encourages us to read
+K.S.A. 2023 Supp. 60-5004(c)(1)(D) to refer to conduct engaged in during the criminal
+proceedings, beginning with the investigation and up through the conviction and to read
+K.S.A. 2023 Supp. 60-5004(c)(1)(C) to concern the criminal conduct underlying the
+conviction. Again, under (c)(1)(C) the claimant must prove that "the claimant did not
+commit the crime or crimes for which the claimant was convicted and was not an
+accessory or accomplice to the acts that were the basis of the conviction and resulted in a
+reversal or vacation of the judgment of conviction, dismissal of the charges or finding of
+not guilty on retrial." We disagree.
+
+Under (c)(1)(C), while the first portion focuses on conduct, the final portion
+focuses on the procedures leading to relief from the first crime of conviction. In contrast,
+(c)(1)(D) looks solely at conduct, that is the defendant's behavior. Some of the behavior
+is connected to the criminal proceedings, such as suborning perjury or fabricating
+evidence. But K.S.A. 2023 Supp. 60-5004(c)(1)(D)'s words "the claimant did . . . by the
+claimant's own conduct cause or bring about the conviction" convey behavior that is
+broader. It provides no qualification on when that conduct occurs. We do not agree with
+Spangler's position that we should limit that phrase to only conduct like perjury or
+fabricating evidence when its plain words do not support such a limitation.
+
+13
+
+The State correctly points out the doctrines Spangler argues support such a
+construction are doctrines we reach only when we cannot discern the Legislature's intent
+from the plain language of the statute. See Woessner v. Labor Max Staffing, 312 Kan. 36,
+56-57, 471 P.3d 1 (2020) (Luckert, C.J., concurring) (defining as rules of statutory
+construction the maxims noscitur a sociis [a word is known by the company it keeps] and
+ejusdem generis [where enumeration of specific things is followed by a more general
+word or phrase, such general word or phrase is held to refer to things of the same kind]).
+But the words "by the claimant's own conduct cause or bring about the conviction" are
+clear. We see no reason to confine the phrase "the claimant's own conduct" to the same
+type of behavior conveyed in the two statutory phrases that precede it. Again, nothing in
+the language suggests such a limitation. Each condition—no perjury, no fabricating
+evidence, no conduct leading to the conviction—finds roots in equitable principles that
+the claimant's actions cannot cause the first conviction. See Goben v. Barry, 234 Kan.
+721, 727, 676 P.2d 90 (1984) ("Equity will not permit a litigant to rely on his own
+wrongful conduct to recover."). Likewise, no other provision in K.S.A. 2023 Supp. 60-
+5004 supports Spangler's reading. Instead, our construction of (c)(1)(D) is consistent with
+our construction of (c)(1)(C). The various provisions thus can be read harmoniously.
+
+Spangler shot and killed Martinez. This shooting caused or brought about his
+convictions, first for second-degree murder and, on retrial, for the lesser included offense
+of involuntary manslaughter. Spangler is not entitled to recover under K.S.A. 2023 Supp.
+60-5004(c)(1)(D).
+
+Affirmed.
+
+14

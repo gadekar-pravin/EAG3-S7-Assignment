@@ -1,0 +1,416 @@
+=========================================================
+Case: State v. Lawson
+Court: Ohio Court of Appeals
+Date Filed: 2022-09-22
+Citations: 2022 Ohio 3332
+URL: https://www.courtlistener.com/opinion/8243172/state-v-lawson/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Lawson, 2022-Ohio-3332.]
+
+COURT OF APPEALS OF OHIO
+
+EIGHTH APPELLATE DISTRICT
+COUNTY OF CUYAHOGA
+
+STATE OF OHIO, :
+
+Plaintiff- Appellee, :
+No. 111288
+v. :
+
+PAMELA A. LAWSON, :
+
+Defendant-Appellant. :
+
+JOURNAL ENTRY AND OPINION
+
+JUDGMENT: AFFIRMED
+RELEASED AND JOURNALIZED: September 22, 2022
+
+Criminal Appeal from the Cuyahoga County Court of Common Pleas
+Case No. CR-15-592484-B
+
+Appearances:
+
+Michael C. O’Malley, Cuyahoga County Prosecuting
+Attorney, and Brandon A. Piteo and Kristen Hatcher,
+Assistant Prosecuting Attorneys, for appellee.
+
+Cullen Sweeney, Cuyahoga County Public Defender, and
+Jonathan Sidney, Assistant Public Defender, for
+appellant.
+
+MICHELLE J. SHEEHAN, P.J.:
+
+Appellant-defendant Pamela Lawson filed a motion to withdraw her
+
+guilty plea several years after her conviction for aggravated murder was affirmed by
+
+this court. She claimed the guilty plea was not knowing, intelligent, and voluntary
+
+because of her trial counsel’s defective performance during the plea proceeding. The
+
+trial court found it lacked jurisdiction to entertain the motion. We agree and affirm
+
+the trial court’s decision.
+
+Background
+
+In 2015, Lawson was indicted for aggravated murder, murder,
+
+felonious assault, and endangering children. Pursuant to a plea agreement, she
+
+pleaded guilty to aggravated murder with a three-year firearm specification and
+
+received a prison sentence of 33 years to life. On appeal, she raised a single
+
+assignment of error challenging her sentence as being contrary to law. This court
+
+affirmed the trial court’s judgment in State v. Lawson, 8th Dist. Cuyahoga No.
+
+103699, 2016-Ohio-7607.
+
+As summarized by this court, the circumstances of the case involved
+
+Lawson recruiting codefendant Lekev Spivey to kill Lawson’s former boyfriend, who
+
+was shot by Spivey in the residence the victim shared with Lawson, her two
+
+daughters, and the victim’s six-year-old disabled daughter, in the presence of all of
+
+them.
+
+In 2016, Lawson filed a postconviction petition. She alleged that she
+
+suffered bipolar disorder and past sexual abuse and, therefore, there should have
+
+been a psychological examination regarding her mental illness issues in the plea
+
+proceeding. She attached unsworn affidavits from several individuals regarding her
+
+good character and past sexual abuse she suffered. The trial court denied the
+
+petition, finding that Lawson failed to present new evidence to support her claims
+
+and that, in any event, the claims were barred by res judicata. Lawson did not appeal
+
+from the denial.
+
+In 2021, Lawson filed the instant motion to withdraw the guilty plea.
+
+She attached to the motion only her own affidavit. She claimed her plea was not
+
+knowing, intelligent, or voluntary due to trial counsel’s ineffective assistance. In the
+
+affidavit, she stated that counsel provided her “bad advice,” did not communicate
+
+with her about various aspects of the plea, and engaged in no negotiation on her
+
+behalf; she also stated that she was diagnosed with bipolar disorder and PTSD in
+
+2005 and had sought mental health help in 2011, and that a mental health evaluation
+
+would have proved her state of mind at the time of the plea.
+
+The trial court denied Lawson’s motion to withdraw the guilty plea,
+
+citing its lack of jurisdiction to consider the motion after the court of appeals
+
+affirmed her conviction on direct appeal. Lawson raises a single assignment of error,
+
+claiming that the trial court erred in holding that it lacked jurisdiction to consider
+
+her motion to withdraw the guilty plea.
+
+Law and Analysis
+
+We review a trial court’s decision on a motion to withdraw a guilty plea
+
+for an abuse of discretion. State v. Romero, 156 Ohio St.3d 468, 2019-Ohio-1839,
+
+129 N.E.3d 404, ¶ 13. Furthermore, when a defendant enters a guilty plea, he or she
+
+generally waives all errors that may have occurred unless such errors have precluded
+
+the defendant from entering a knowing, intelligent, and voluntary plea. See, e.g.,
+
+State v. Wilson, 8th Dist. Cuyahoga No. 105876, 2018-Ohio-3666, ¶ 6.
+
+As Lawson acknowledges in her brief on appeal, this court has
+
+consistently held that, pursuant to State ex rel. Special Prosecutors v. Judges, Court
+
+of Common Pleas, 55 Ohio St.2d 94, 378 N.E.2d 162 (1978), a trial court has no
+
+jurisdiction to entertain a defendant’s motion to withdraw the plea under
+
+Crim.R. 32.1 after the appellate court affirms the defendant’s convictions. The
+
+Supreme Court of Ohio held in that case that “Crim. R. 32.1 does not vest jurisdiction
+
+in the trial court to maintain and determine a motion to withdraw the guilty plea
+
+subsequent to an appeal and an affirmance by the appellate court.” Id. at 97.
+
+The holding of Special Prosecutors has been consistently applied by
+
+this and other appellate courts. “[O]nce the convictions have been affirmed on
+
+appeal, the trial court no longer may entertain a postsentence motion to withdraw a
+
+guilty plea under Crim.R. 32.1.” State v. Jones, 8th Dist. Cuyahoga No. 110855,
+
+2022-Ohio-1674, ¶ 16, citing State v. Hill, 1st Dist. Hamilton No. C-190337,
+
+2020-Ohio-3271, ¶ 10; State v. Carter, 3d Dist. Allen No. 1-11-36, 2011-Ohio-6104,
+
+¶ 11; State v. Caston, 6th Dist. Erie No. E-11-077, 2012-Ohio-5260, ¶ 10; State v.
+
+Smith, 7th Dist. Mahoning No. 14 MA 65, 2015-Ohio-4809, ¶ 5; State v. Bains,
+
+8th Dist. Cuyahoga No. 98845, 2013-Ohio-2530, ¶ 21; State v. Torres, 9th Dist.
+
+Medina No. 19CA0076-M, 2020-Ohio-3691, ¶ 7; State v. Davic, 2021-Ohio-131,
+
+166 N.E.3d 681, ¶ 16-22 (10th Dist.); and State v. Peters, 12th Dist. Clermont
+
+No. CA2015-07-066, 2016-Ohio-5288, ¶ 8. See also State v. Darling, 8th Dist.
+
+Cuyahoga No. 109439, 2021-Ohio-440; State v. Mitchell, 8th Dist. Cuyahoga
+
+No. 109178, 2020-Ohio-3726, ¶ 7; and State v. Grant, 8th Dist. Cuyahoga
+
+No. 107499, 2019-Ohio-796, ¶ 14.
+
+Lawson, however, asks this court to “clarify the present state of its
+
+jurisprudence” on this issue in light of State v. Davis, 131 Ohio St.3d 1, 2011-Ohio-
+
+5028, 959 N.E.2d 516, a death penalty case decided by the Supreme Court of Ohio
+
+11 years ago. In that case, appellant filed a motion for a new trial under Crim.R. 33
+
+based on newly discovered evidence, which consisted of the affidavit of a DNA expert
+
+opining that the state’s DNA evidence was questionable. The court of appeals,
+
+relying on Special Prosecutors, held that the trial court did not have jurisdiction to
+
+entertain Davis’s motion for a new trial after his conviction had been affirmed on
+
+appeal. The Supreme Court of Ohio disagreed, explaining that “Special Prosecutors
+
+does not bar the trial court’s jurisdiction over posttrial motions permitted by the
+
+Ohio Rules of Criminal Procedure.” It held that “a trial court retains jurisdiction to
+
+decide a motion for a new trial based on newly discovered evidence when the specific
+
+issue has not been decided upon direct appeal.” Id. at ¶ 37.
+
+In the wake of Davis, the appellate courts were confronted with the
+
+question of whether Davis, which concerns a motion for new trial, could be applied
+
+to a motion to withdraw a guilty plea. Several districts, including this district, found
+
+the word “posttrial” significant and determined Davis only applied to a motion for
+
+a new trial. See, e.g., State v. Panning, 3d Dist. Van Wert No. 15-15-11, 2016-Ohio-
+
+3284; State v. Moon, 8th Dist. Cuyahoga No. 101972, 2015-Ohio-1550; State v.
+
+Perry, 8th Dist. Cuyahoga No. 107596, 2019-Ohio-547; and State v. Crangle, 9th
+
+Dist. Summit No. 25735, 2011-Ohio-5776.1
+
+Following the well-established case law precedents, therefore, we find
+
+no abuse of discretion by the trial court in denying Lawson’s motion on the ground
+
+that it lacked jurisdiction to consider her Crim.R. 32.1 motion after her conviction
+
+had been affirmed on direct appeal. Citing State v. West, 2017-Ohio-5596, 93 N.E.3d
+
+1221 (1st Dist.), where the First District applied Davis to a Crim.R. 32.1 motion,
+
+Lawson asks us to change our jurisprudence on this issue.
+
+West involved highly unique circumstances. The appellant in that
+
+case was convicted of sexual battery, and was also adjudicated as a sex offender,
+
+which required him to register for ten years in Ohio. After his release from prison,
+
+appellant relocated to Florida and learned that his sexual battery conviction
+
+subjected him to a lifetime registration requirement in Florida. He then filed a
+
+motion to withdraw the guilty plea, claiming his plea was not knowing because his
+
+trial counsel failed to advise him of Florida’s lifetime sex-offender registration
+
+1 Lawson acknowledges that this court held in Moon and Perry that a trial court lacks
+jurisdiction to consider a defendant’s motion to withdraw a guilty plea under Crim.R. 32.1
+after an appellate court has affirmed the defendant’s convictions on direct appeal. She
+claims, however, that those cases are procedurally distinguishable because in those cases
+the defendant had challenged the validity of the plea on direct appeal. In both cases,
+however, this court found the trial court lacked jurisdiction without considering whether
+the guilty-plea issue had been raised on direct appeal.
+
+requirement even though counsel had known his intention to relocate to Florida
+
+upon his release from prison.
+
+The First District addressed the trial court’s jurisdiction over
+
+appellant’s motion to withdraw the guilty plea under these circumstances. Citing
+
+Davis’s holding that “the lower court does have jurisdiction, when the issue
+
+presented by the motion [for a new trial] could not have been raised in the direct
+
+appeal because it depends for its resolution upon evidence outside the record in that
+
+appeal,” id. at ¶ 10, the First District framed the issue on appeal as “whether, in the
+
+wake of Davis, [131 Ohio St.3d 1, 2011-Ohio-5028, 959 N.E.2d 516,] a court has
+
+jurisdiction to entertain a Crim.R. 32.1 motion to withdraw a guilty plea filed after
+
+the conviction upon that plea has been affirmed on direct appeal, when the issue
+
+presented by the motion could not have been raised on direct appeal.” (Emphasis
+
+added.) West at ¶ 12. The trial court found the distinction between a “posttrial”
+
+Crim.R. 33(A)(6) motion for a new trial and a “postsentence” Crim.R. 32.1 motion
+
+to withdraw a guilty plea to be immaterial and answered the question in the
+
+affirmative. The court stated that “we join those districts in holding that an appeal
+
+court’s decision affirming a judgment of conviction does not deprive a lower court
+
+of jurisdiction to entertain a Crim.R. 32.1 motion to withdraw a guilty plea, when the
+
+issue presented by the motion could not have been raised on direct appeal.”
+
+(Emphasis added.) Id. at ¶ 20. However, the court then found the trial court did not
+
+abuse its discretion in denying the motion because appellant did not support his
+
+claim with an affidavit or any evidence demonstrating his counsel had failed to
+
+advise him concerning Florida’s sex-offender registration requirement.
+
+Appellant in West, 2017-Ohio-5596, 93 N.E.3d 1221, also raised a
+
+claim of actual innocence in his motion to withdraw the guilty plea, attaching to his
+
+motion an affidavit from the victim averring that appellant had never molested him.
+
+The court construed the claim as alleging that the guilty plea was not voluntary
+
+because appellant felt compelled to accept the plea agreement offering reduced
+
+charges for fear that the victim would falsely testify against him at trial and he would
+
+be convicted of more serious offenses. The First District determined that the trial
+
+court abused its discretion in not holding a hearing to assess the claim.
+
+This case is distinguishable from West due to the unique
+
+circumstances present in that case, where appellant could not have raised in his
+
+direct appeal the issue of Florida’s stricter registration requirement or the claim of
+
+actual innocence predicated on the victim’s recanting affidavit. Here, Lawson’s
+
+claim that her plea was not knowing, voluntary, and intelligent due to counsel’s
+
+allegedly defective performance during the plea proceeding could have been raised
+
+in her direct appeal. As such, the instant case does not present an occasion for us to
+
+consider whether to adopt the holding from West. The holding that once the
+
+convictions have been affirmed on appeal, the trial court lacks jurisdiction to
+
+entertain a motion to withdraw the guilty plea under Crim.R. 32.1 remains the
+
+precedent of this district.2
+
+We note that, even if we were to apply Davis to a motion to withdraw
+
+the guilty plea, for the trial court to exercise jurisdiction over such a motion, there
+
+must be evidence that is “newly discovered” and “the specific issue has not been
+
+decided upon direct appeal.” Davis, 131 Ohio St.3d 1, 2011-Ohio-5028, 959 N.E.2d
+
+516, at ¶ 37. Here, Lawson did not submit any “newly discovered” evidence — she
+
+only attached her own affidavit alleging counsel’s defective assistance, and her
+
+failure to raise that issue on direct appeal is why the issue has not been decided upon
+
+2 Lawson also cites State v. Staffrey, 7th Dist. Mahoning Nos. 10 MA 130 and 10 MA 131,
+2011-Ohio-5760, and State v. Lauharn, 2d Dist. Miami No. 2011 CA 10, 2012-Ohio-1572.
+In Staffrey, appellant claimed counsel provided erroneous information regarding the
+sentence. The Seventh District cites Davis’s holding that “a trial court retains jurisdiction
+to decide a motion for a new trial based on newly discovered evidence when the specific
+issue has not been decided upon direct appeal” and stated that “merely because the
+defendant appealed the conviction and the cause was affirmed on appeal, does not mean
+that the trial court is necessarily deprived of jurisdiction over the Crim.R. 32.1 post-
+sentence motion to withdraw a guilty plea.” Without any further analysis, the court then
+determined that res judicata barred the claims raised on the motion to withdraw the guilty
+plea because the claims could have been raised in appellant’s direct appeal.
+
+Lauharn involves a different procedural posture. During the pendency of his direct
+appeal, appellant filed a motion to withdraw his guilty plea claiming his trial counsel
+provided erroneous advice about his sentence. The trial court denied the motion and
+appellant filed a motion for reconsideration, alleging he was under the influence of certain
+medications at the time of the plea and his counsel failed to report it to the trial court. The
+Second District held that the trial court lacked jurisdiction to rule on the motions during
+the pendency of the direct appeal. The court then noted in passing that, pursuant to Davis,
+the trial court would have jurisdiction to address the motions after the direct appeal was
+concluded. The Davis issue was neither analyzed nor dispositive in these cases, and we
+decline to rely on them as guiding precedents.
+
+direct appeal. Her failure cannot be a ground for granting the motion to withdraw
+
+the guilty plea.
+
+Finally, we observe that even if, for argument’s sake, the trial court
+
+had jurisdiction to entertain Lawson’s motion, her claim that her plea was not
+
+knowing, intelligent, or voluntary due to counsel’s allegedly defective performance
+
+could have been raised on direct appeal and is, therefore, barred by the principle of
+
+res judicata.
+
+Judgment affirmed.
+
+It is ordered that appellee recover of appellant costs herein taxed.
+
+The court finds there were reasonable grounds for this appeal.
+
+It is ordered that a special mandate issue out of this court directing the
+
+common pleas court to carry this judgment into execution.
+
+A certified copy of this entry shall constitute the mandate pursuant to Rule 27
+
+of the Rules of Appellate Procedure.
+
+__________________________________
+MICHELLE J. SHEEHAN, PRESIDING JUDGE
+
+MARY EILEEN KILBANE, J., and
+EILEEN T. GALLAGHER, J., CONCUR

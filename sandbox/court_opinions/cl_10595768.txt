@@ -1,0 +1,408 @@
+=========================================================
+Case: Douglas E. Alvey v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-05-30
+Citations: 
+URL: https://www.courtlistener.com/opinion/10595768/douglas-e-alvey-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+05/30/2025
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+Assigned on Briefs April 22, 2025
+
+DOUGLAS E. ALVEY v. STATE OF TENNESSEE
+
+Appeal from the Circuit Court for Rhea County
+No. 2016-CR-232 Justin C. Angel, Judge
+___________________________________
+
+No. E2024-01305-CCA-R3-PC
+___________________________________
+
+The Petitioner, Douglas E. Alvey, appeals from the denial of his petition seeking post-
+conviction relief from his conviction of first degree murder. On appeal, he argues: (1) trial
+counsel were ineffective in failing to present expert testimony negating the mens rea; and
+(2) that he did not knowingly understand the nature of his constitutional right to testify at
+trial. After review, we affirm the judgment of the post-conviction court.
+
+Tenn R. App. P. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+CAMILLE R. MCMULLEN, P.J., delivered the opinion of the court, in which ROBERT W.
+WEDEMEYER and J. ROSS DYER, JJ., joined.
+
+John Michael Deakins, Dayton, Tennessee (on appeal); Clancy Covert and Lee Ortwein,
+Chattanooga, Tennessee (at trial), for the appellant, Douglas E. Alvey.
+
+Jonathan Skrmetti, Attorney General and Reporter; Johnny Cerisano, Assistant Attorney
+General; Courtney Lynch, District Attorney General; and J. Michael Taylor, David Shinn,
+and Colin Campbell, Assistant District Attorneys General, for the appellee, State of
+Tennessee.
+
+OPINION
+
+On September 6, 2016, the Petitioner drove his pickup truck to a thrift store in
+Dayton, Tennessee. State v. Alvey, No. E2020-00273-CCA-R3-CD, 2021 WL 1944393,
+at *1 (Tenn. Crim. App. May 14, 2021). After spending some time inside the store, the
+Petitioner drove his truck to the loading dock area at the back of the store, where donations
+could be dropped off. Id. A video of the loading dock area was admitted into evidence
+and shown to the jury. Id. The video showed the Petitioner getting out of his truck and
+unloading furniture in the parking lot several yards away from the back door, where
+
+donations were accepted. Id. The Petitioner then got back in his truck and began to drive
+away. Id. The victim, who was a manager and supervisor at the store, approached the
+Petitioner’s vehicle to stop him. Id. As the victim walked into the path of the Petitioner’s
+vehicle while holding up his hand, appearing to signal the Petitioner to stop, the Petitioner
+accelerated and struck the victim with his vehicle, causing the victim to roll onto the hood
+of the truck. Id. As the Petitioner turned onto the street, the victim was thrown from the
+hood of the truck into some shrubbery across the road. Id. The victim died a few days
+later from the injuries he sustained. Id. at *2.
+
+The Petitioner was indicted for first degree murder, vehicular homicide, and leaving
+the scene of an accident resulting in injury or death. Id. at *1. The Petitioner was
+represented by two trial counsel, which we will refer to as first and second counsel in this
+appeal. Prior to trial, the State moved to dismiss the charge of vehicular homicide, and the
+trial court granted the motion. Id. The Petitioner was found guilty on the remaining counts,
+and the trial court imposed a life sentence for the first degree conviction and a sentence of
+two years, to be served concurrently, for the conviction for leaving the scene of an accident.
+Id. On direct appeal, this court affirmed the sufficiency of the evidence for the Petitioner’s
+first degree murder conviction. Id.
+
+On April 2, 2022, the Petitioner filed a timely pro se petition for post-conviction
+relief. The Petitioner alleged, as relevant to this appeal, that trial counsel provided deficient
+representation because they failed to inform him of his right to testify. He also claimed
+that he was deprived of his right to the effective assistance of counsel because trial counsel
+failed to present evidence to negate the mens rea element of the first degree murder
+conviction. On May 26, 2022, the Petitioner was appointed counsel, and there was no
+amended petition filed in this case.
+
+The post-conviction court held an evidentiary hearing on June 24, 2024. The
+Petitioner testified that first and second counsel represented him at trial. The Petitioner
+initially claimed that he was informed of his right not to testify, but that no one told him he
+had a right to testify if he wanted. He further stated that although he never asked counsel
+if he could testify at trial, he did ask them if he should testify, and they advised him against
+it. The Petitioner later claimed that he told counsel that he wanted to testify. When the
+Petitioner was asked whether trial counsel had advised him that he could testify if he
+wanted to, he responded, “Yes.” He also said that he was never told by counsel that he
+was not allowed to testify. When post-conviction counsel asked, “[Y]our testimony under
+oath today is that you were never informed by your counsel that you had an absolute right
+to testify, is that what you’re saying?” the Petitioner responded, “No, he told me I did have
+a right, but I don’t remember the court telling me so.”
+
+-2-
+
+The Petitioner did not recall the trial court informing him of his right to testify, but
+he did recall being advised of his right not to testify. The Petitioner introduced the
+transcript of from hearing pursuant to Momon v. State 18 S.W.3d 152 (Tenn. 1999), as an
+exhibit. During the Momon hearing, the trial court asked trial counsel if they had
+conversations with the Petitioner about his right to remain silent, to which second counsel
+responded, “[W]e have repeatedly, your Honor.” The court then asked the Petitioner the
+same question, and he responded affirmatively. The Petitioner also agreed with the court
+that he had a good rapport with his attorneys, and that they requested additional time from
+the court to review the Petitioner’s Fifth Amendment rights with him. The court asked the
+Petitioner, “[D]o you understand that if you chose to remain silent and not testify, that I
+would tell the jury they cannot hold that against you, that’s your [Fifth] Amendment
+constitutional right to remain silent[?]” The Petitioner again responded affirmatively. The
+court proceeded, “[D]o you understand that I can’t make you testify, your attorneys can’t
+make you testify, the State can’t make you testify. Now if you do testify it’s because you
+want to do that of your own volition and consent, do you understand that, sir?” The
+Petitioner stated “[y]es” in response. When the court asked him whether he wished to
+remain silent or testify on his own behalf, the Petitioner stated that he wished to remain
+silent. Finally, the court asked the Petitioner if he had any questions about his right to
+remain silent, and the Petitioner responded, “No, sir.”
+
+The Petitioner claimed he was diagnosed with seizures, depression, and bipolar
+disorder, and that he asked trial counsel to call his doctors as witnesses to testify at trial
+about these diagnoses, his prescribed medications, and their effect on his mental health.
+The Petitioner claimed he asked trial counsel to call Dr. Stokes, the doctor who treated him
+for his depression, to testify at trial. Further, after his arrest, the court ordered a
+psychological thirty-day evaluation by Dr. Khariwal. The Petitioner was found competent
+to stand trial, and the Petitioner did not disagree with the results from the evaluation. He
+also stated that he was on medication for bipolar disorder at the time of trial and that he
+was medicated at the time of the incident. The Petitioner also claimed that he asked trial
+counsel to call Dr. Khariwal at trial. The Petitioner agreed that trial counsel did not call an
+expert to testify at trial and that no medical proof was presented regarding his medical
+conditions. He also claimed that he told trial counsel that he did not agree with their
+strategy of not calling any witnesses.
+
+On cross-examination, the Petitioner agreed that Dr. Khariwal knew that he suffered
+from anxiety, depression, and bipolar disorder. Nevertheless, Dr. Khariwal determined
+that the Petitioner was competent for trial, knew right from wrong, and could appreciate
+the wrongfulness of his actions. On redirect, the Petitioner stated that he believed that an
+expert witness could have testified that his flight from the scene was a response to his pre-
+existing psychological disorders, and not indicative of a guilty mind.
+
+-3-
+
+First counsel testified that he was retained to represent the Petitioner at trial. He
+met with the Petitioner several times leading up to the trial to discuss trial strategy, but a
+determination of whether the Petitioner would testify was not made. After the State rested
+its case, first and second counsel met with the Petitioner privately for about forty-five
+minutes to discuss the case and talk with the Petitioner about his right to testify and his
+right not to testify. First counsel stated that their entire defense strategy was to negate the
+mens rea element of premeditation for first degree murder. First counsel said they advised
+the Petitioner not to testify because they “didn’t think he would be a very effective
+witness,” and there was “nothing he could shed on the circumstances surrounding [the
+victim’s] death.” He further testified that the Petitioner “clearly indicated that he did not
+feel that it would be good for him to testify.” First counsel agreed that the case turned on
+the State proving the Petitioner’s mens rea, stating that “it was all or nothing. . . . [I]t was
+either first degree murder or we were trying to get it knocked down to something lower
+than that.” When asked if he ever advised the Petitioner that he should not testify, first
+counsel stated:
+
+I suggested to [the Petitioner] that I did not think it would be in his best
+interest to do so, but I did not tell him, you know, you’re not testifying or I’m
+not going to allow you to testify or anything like that. I just made the
+suggestion that I made and he agreed with us.
+
+First counsel believed that the issues the Petitioner would have been asked about had he
+testified would have only solidified the mens rea and the State’s argument.
+
+First counsel was aware of the Petitioner’s mental disorders at the time of trial and
+had spoken at length with the Petitioner about his prior medical issues. Although Dr.
+Khariwal was available to testify, her testimony would not negate the Petitioner’s mens rea
+to premeditate the offense. When trial counsel asked Dr. Khariwal to provide testimony
+concerning how the Petitioner’s mental condition impacted his mens rea, she said they were
+not mutually exclusive and that “[t]here’s a lot of people that are depressed and have
+anxiety that can form premeditation.” First counsel was concerned that calling Dr.
+Khariwal or Dr. Stokes to testify at trial would benefit the State’s case. He believed the
+downside of having an expert witness testify about the Petitioner’s medical conditions was
+that Dr. Khariwal’s report would be admitted at trial. First counsel said, “[The Petitioner]
+scored twenty-nine out of thirty on cognitive abilities. Yes, it does talk about his mental
+conditions of anxiety, depression, severe depression, epilepsy, things of that nature, but
+none of those, according to our conversations with Dr. Khariwal and other people,” negated
+the mens rea. First counsel said that he could not find a medical or a mental health
+professional to testify that the Petitioner’s medical and mental health conditions had any
+impact on his mental status at the time of the offense. Ultimately, first counsel stated that
+he was “[o]ne hundred percent” certain that there was no viable medical defense to pursue
+-4-
+
+in the case. He did not call Dr. Khariwal to testify because she would not testify that the
+Petitioner’s medical conditions “caused him to react differently than anyone else or caused
+him to not appreciate the wrongfulness of his acts.” First counsel believed that calling any
+expert on the Petitioner’s behalf without having the testimony to negate the mens rea would
+“put nails in [the Petitioner’s] coffin.” He reasoned that Dr. Khariwal’s report “says [the
+Petitioner is] lucid, he’s competent, he’s cognitive, . . . [and] there were no issues
+mentioned at the time of the incident about him having some epileptic seizure or depression
+or in a severe depressive bout . . . .”
+
+On cross-examination, first counsel agreed “one hundred percent without a doubt”
+that he informed the Petitioner of his right to testify. He advised the Petitioner multiple
+times of the pros and cons of testifying, he answered all the Petitioner’s questions regarding
+his right to testify, and the Petitioner seemed to understand first counsel’s advice. When
+asked if the Petitioner ever told him explicitly to call Dr. Stokes as a witness, first counsel
+responded, “No.”
+
+Second counsel testified that he also represented the Petitioner in the trial and stated
+that they decided not to call an expert concerning mental health issues. Second counsel
+explained that Dr. Khariwal’s report said that any mental health condition the Petitioner
+had at the time of the offense would have had no impact on his conduct. Second counsel
+said that both he and first counsel informed the Petitioner of his right to testify at trial. He
+elaborated further, stating that “with respect to cases where the individuals are charged
+with crimes that carry the [most severe] penalty like this one, [his] practice has always been
+to . . . let the defendant make that decision instead of [himself].”
+
+After hearing the above testimony, the post-conviction court filed a written order
+denying the petition. In the order, the court found that the Petitioner was informed of his
+right to testify at trial and that he failed to establish that trial counsel were deficient or that
+their deficient performance prejudiced the defense. The court relied on first counsel’s
+testimony about his strategy to negate premeditation, his communications with the
+Petitioner, and the “extensive Momon hearing” The court also found that the Petitioner
+failed to prove by clear and convincing evidence that he received ineffective assistance of
+counsel. The court emphasized that none of the doctors contacted by first counsel told him
+that the Petitioner’s diagnoses or medications would have caused an involuntary action that
+would negate the mens rea. The Petitioner then filed an untimely appeal to this court.
+
+ANALYSIS
+
+As an initial matter, we must briefly address the timeliness of the Petitioner’s notice
+of appeal. Tennessee Rule of Appellate Procedure 4(a) states, “the notice of appeal
+required by Rule 3 shall be filed with the clerk of the appellate court within 30 days after
+-5-
+
+the date of entry of the judgment appealed from; however, in all criminal cases the ‘notice
+of appeal’ document is not jurisdictional and the timely filing of such document may be
+waived in the interest of justice.” Tenn. R. App. P. 4(a). “Waiver is not automatic and
+should only occur when ‘the interest of justice’ mandates waiver. If this court were to
+summarily grant a waiver whenever confronted with untimely notices, the thirty-day
+requirement of Tennessee Rule of Appellate Procedure 4(a) would be rendered a legal
+fiction.” State v. Rockwell, 280 S.W.3d 212, 214 (Tenn. Crim. App. 2007) (citing Hill v.
+State, No. 01C01-9506-CC00175, 1996 WL 63950, at *1 (Tenn. Crim. App. Feb. 13,
+1996)). “‘In determining whether waiver is appropriate, this court will consider the nature
+of the issues presented for review, the reasons for and the length of the delay in seeking
+relief, and any other relevant factors presented in the particular case.’” Id. (quoting State
+v. Broyld, No. M2005-00299-CCA-R3-CO, 2005 WL 3543415, at *1 (Tenn. Crim. App.
+Dec. 27, 2005)); see also, State v. James, No. E2021-00559-CCA-R3-CD, 2022 WL
+633540, at *1 (Tenn. Crim. App. Mar. 4, 2022) (declining to find the interest of justice
+mandated waiver where pro se defendant’s notice of appeal was seventeen days late
+without requesting a waiver or providing an explanation for the untimely filing).
+
+The order denying the petition for post-conviction relief was filed on July 24, 2024.
+As such, the notice of appeal should have been filed within thirty days or no later than
+August 23, 2024. The Petitioner filed his notice of appeal on August 27, 2024, four days
+after the deadline. Although the Petitioner did not address the timeliness issue on the merits
+in his opening brief, given the seriousness of the conviction offenses in this case, the
+shortness in the delay in filing the notice, and the nature of the issues presented, we waive
+the timely filing requirement in the interest of justice. Accordingly, we will review the
+issues presented in this appeal.
+
+The Petitioner argues on appeal that first and second counsel were ineffective in
+failing to present expert proof about the Petitioner’s mental health issues and that he did
+not knowingly understand the full nature of his constitutional right to testify. The State
+first responds that the Petitioner is not entitled to relief because he failed to establish that
+first and second counsel were ineffective in not calling an expert to testify regarding his
+mental health. The State also avers that the Petitioner was informed of his right to testify
+by both counsel and the court during the Momon hearing.
+
+A claim for post-conviction relief based on alleged ineffective assistance of counsel
+presents mixed questions of law and fact. Mobley v. State, 397 S.W.3d 70, 80 (Tenn. 2013)
+(citing Calvert v. State, 342 S.W.3d 477, 485 (Tenn. 2011)). A petitioner bears the burden
+of proving factual allegations in the petition for post-conviction relief by clear and
+convincing evidence. Tenn. Code Ann. § 40-30-110(f); Wiley v. State, 183 S.W.3d 317,
+325 (Tenn. 2006). Evidence is considered clear and convincing when there is no serious
+or substantial doubt about the accuracy of the conclusions drawn from it. Hicks v. State,
+-6-
+
+983 S.W.2d 240, 245 (Tenn. Crim. App. 1998) (citing Hodges v. S.C. Toof & Co., 833
+S.W.2d 896, 901 n. 3 (Tenn. 1992)). A post-conviction court’s findings of fact are
+conclusive on appeal unless the evidence in the record preponderates against them.
+Calvert, 342 S.W.3d at 485 (citing Grindstaff v. State, 297 S.W.3d 208, 216 (Tenn. 2009);
+State v. Burns, 6 S.W.3d 453, 461 (Tenn. 1999)). “Accordingly, we generally defer to a
+post-conviction court’s findings with respect to witness credibility, the weight and value
+of witness testimony, and the resolution of factual issues presented by the evidence.”
+Mobley, 397 S.W.3d at 80 (citing Momon, 18 S.W.3d at 156). However, we review a post-
+conviction court’s application of the law to its factual findings de novo without a
+presumption of correctness. Id. (citing Grindstaff, 297 S.W.3d at 216; Finch v. State, 226
+S.W.3d 307, 315 (Tenn. 2007); Vaughn v. State, 202 S.W.3d 106, 115 (Tenn. 2006)).
+
+The right to effective assistance of counsel is protected by both the United States
+Constitution and the Tennessee Constitution. U.S. Const. amend. VI; Tenn. Const. art. I,
+§ 9; see also Tenn. Code Ann. § 40-30-103 (granting relief when the conviction or sentence
+is void or voidable because of the abridgment of any right guaranteed by the Constitution
+of Tennessee or the Constitution of the United States). To prevail on an ineffective
+assistance of counsel claim, the petitioner must establish that (1) his lawyer’s performance
+was deficient and (2) the deficient performance prejudiced the defense. Goad v. State, 938
+S.W.2d 363, 369 (Tenn. 1996); Strickland v. Washington, 466 U.S. 668, 687 (1984). A
+petitioner successfully demonstrates deficient performance when the petitioner establishes
+that his attorney’s conduct fell “below an objective standard of reasonableness under
+prevailing professional norms.” Goad, 938 S.W.2d at 369 (citing Strickland, 466 U.S. at
+688; Baxter v. Rose, 523 S.W.2d 930, 936 (Tenn. 1975)). Prejudice arising therefrom is
+demonstrated once the petitioner establishes “‘a reasonable probability that, but for
+counsel’s unprofessional errors, the result of the proceeding would have been different. A
+reasonable probability is a probability sufficient to undermine confidence in the outcome.’”
+Id. at 370 (quoting Strickland, 466 U.S. at 694).
+
+The prejudice showing is, in most cases, a necessary part of a Strickland claim.
+Weaver v. Massachusetts, 582 U.S. 286, 300 (2017). The reason is that a defendant has a
+right to effective representation, not a right to an attorney who performs his duties mistake-
+free. Id. (citations and internal quotation marks omitted). As a rule, therefore, a violation
+of the Sixth Amendment right to effective representation is not “complete” until the
+defendant is prejudiced. Id. Under Strickland, “[b]ecause a petitioner must establish both
+prongs of the test, a failure to prove either deficiency or prejudice provides a sufficient
+basis to deny relief on the ineffective assistance claim.” Goad, 938 S.W.2d at 370.
+
+I. Expert Testimony. The Petitioner’s first issue raised is whether first and second
+counsel were ineffective in failing to call an expert witness to testify regarding his mental
+health and its impact on his mens rea. He asserts that trial counsel knew that the Petitioner
+-7-
+
+had mental health issues that could affect his mental state but did not introduce any proof
+of the Petitioner’s mental state at trial, which was “an abdication of lawyer duty that
+amounts to deficient performance that prejudiced the [Petitioner].” The State responds that
+the Petitioner failed to establish any deficiency because “his trial attorneys testified that
+they could not find a helpful expert witness, and they were concerned that the State would
+highlight Petitioner’s strong cognitive abilities on cross-examination.” Additionally, the
+State asserts that the Petitioner failed to present these witnesses at the post-conviction
+hearing, and as such, cannot establish prejudice. We agree with the State.
+
+The record does not preponderate against the determination of the post-conviction
+court. First counsel testified that his strategy was to attack the element of premeditation.
+First counsel attempted to locate a doctor who would testify to support their defense, but
+they were unable to find any doctor who would testify that the Petitioner’s medical
+condition or diagnosis negated the element of premeditation. Although Dr. Khariwal was
+available to testify during trial, she would not have testified favorably in support of the
+Petitioner’s defense. Dr. Khariwal told trial counsel that none of the Petitioner’s mental
+conditions negated the mens rea or had any impact on his mental status at the time of the
+offense. First and second counsel were also concerned that having Dr. Khariwal testify
+could have benefited the State’s case because she would be subject to cross-examination
+about her report on the Petitioner’s psychological thirty-day evaluation and how the
+Petitioner scored twenty-nine out of thirty on cognitive abilities. Finally, despite his
+contentions to the contrary, the Petitioner failed to present an expert witness at the post-
+conviction hearing to establish this claim and, as such, has not shown what testimony these
+witnesses would have been able to provide regarding the Petitioner’s mental state. Black
+v. State, 764 S.W.2d 752, 757-58 (Tenn. Crim. 1990). Accordingly, the Petitioner has
+failed to establish deficient performance of first and second counsel or prejudice to his
+defense by their actions. He is not entitled to relief.
+
+II. Denial of Right to Testify. The Petitioner alleges that the post-conviction court
+erred by finding that he “knowingly understood the full nature of his constitutional right to
+testify at trial.” The State responds that the Petitioner waived this issue because “the
+concern regarding his right to testify was raised as an ineffective assistance claim in the
+post-conviction court.” Alternatively, the State argues there was no deficiency in trial
+counsels’ performance in informing him of his right to testify and that the Petitioner failed
+to establish any prejudice. In so much as the Petitioner is attempting to recast his original
+claim that first and second trial counsel were ineffective in failing to advise him of his right
+to testify into an independent constitutional claim, we agree with the State and conclude
+that the Petitioner has waived this issue for failure to raise it before the trial court. See e.g.
+Mobley, 397 S.W.3d at 104 (citing Tenn. Code Ann. § 40-30-106(g)) (holding that the
+petitioner waived his Momon claim by not presenting it to the trial court or on direct
+appeal); Edwards v. State, No. E2023-00410-CCA-R3-PC, 2024 WL 3311438, at *11
+-8-
+
+(Tenn. Crim. App. July 5, 2024) (stating that the Petitioner’s stand-alone Momon claim
+was waived because the claim regarding his decision not to testify was raised as an
+ineffective assistance claim in the post-conviction court), perm. app. denied (Tenn. Dec.
+10, 2024); Thomas v. State, No. 2004-01704-CCA-R3-PC, 2005 WL 1669898, at *2-3
+(Tenn. Crim. App. July 18, 2005) (addressing the petitioner’s Momon claim only as it
+related to ineffective assistance of counsel because the stand-alone claim was waived).
+
+We further conclude that the record does not preponderate against the determination
+of the post-conviction court regarding whether first and second counsel properly advised
+the Petitioner of his right to testify. The extent of the Petitioner’s argument in his brief on
+this issue is as follows:
+
+In the instant case, defense counsel — nor the trial court for that matter —
+really made sure that Appellant understood (2) above — that he had the right
+to testify. Appellant confirmed this in his own testimony at the Post-
+Conviction hearing when he testified that “no one told me I had a right not
+to testify.
+
+The record shows that at trial a Momon hearing was conducted to review the
+Petitioner’s rights with him and to determine whether he intended to testify. During the
+extensive Momon hearing, first counsel, second counsel, and the Petitioner agreed that they
+had conversations about the Petitioner’s right to remain silent. The trial court asked the
+Petitioner, “[D]o you understand that I can’t make you testify, your attorneys can’t make
+you testify, the State can’t make you testify. Now if you do testify it’s because you want
+to do that of your own volition and consent, do you understand that, sir?” and the Petitioner
+responded affirmatively. When the court asked the Petitioner whether he wished to remain
+silent or testify on his own behalf, the Petitioner stated that he wished to remain silent.
+Finally, the trial court asked the Petitioner whether he had any questions about his right to
+remain silent, and he responded that he did not.
+
+At the post-conviction hearing, first and second counsel confirmed that they had
+informed the Petitioner of his right to testify at trial. First counsel testified that he advised
+the Petitioner multiple times of the pros and cons of testifying, that he answered all the
+Petitioner’s questions regarding his right to testify, and that the Petitioner seemed to
+understand his advice. First counsel further testified that the Petitioner agreed with his
+advice not to testify, saying that the Petitioner “clearly indicated that he did not feel that it
+would be good for him to testify.” Second counsel confirmed that he and first counsel
+discussed the right to testify with the Petitioner many times and that second counsel’s
+practice was to always let the defendant decide whether to testify when the defendant is
+charged with a crime that carries the most severe sentence. The Petitioner also
+acknowledged that at least one of his attorneys informed him of his right to testify. Based
+-9-
+
+on this proof, the Petitioner has failed to establish deficient performance or prejudice
+arising therefrom. Accordingly, the Petitioner is not entitled to relief.
+
+CONCLUSION
+
+Based on the above reasoning and authority, we affirm the judgment of the post-
+conviction court.
+
+S/ Camille R.
+McMullen____________
+CAMILLE R. MCMULLEN, PRESIDING JUDGE
+
+- 10 -

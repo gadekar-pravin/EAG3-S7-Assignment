@@ -1,0 +1,215 @@
+=========================================================
+Case: Kenyon Demario Reynolds
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-10-14
+Citations: 
+URL: https://www.courtlistener.com/opinion/10160603/kenyon-demario-reynolds/
+Source Query: murder conviction appeal
+=========================================================
+
+10/14/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT KNOXVILLE
+Assigned on Briefs September 24, 2024
+
+KENYON DEMARIO REYNOLDS v. STATE OF TENNESSEE
+
+Appeal from the Criminal Court for Knox County
+No. 124117 Steven W. Sword, Judge
+
+No. E2023-01441-CCA-R3-PC
+
+The Petitioner, Kenyon Demario Reynolds, appeals from the Knox County Criminal
+Court’s denial of post-conviction relief from his convictions for second degree murder,
+delivery and sale of a Schedule I controlled substance, and unlawful possession of a
+firearm. On appeal, the Petitioner contends that the post-conviction court erred by denying
+relief on his ineffective assistance of counsel claim. We affirm the judgment of the post-
+conviction court.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+ROBERT H. MONTGOMERY, JR., J., delivered the opinion of the court, in which CAMILLE R.
+MCMULLEN, P.J., and JILL BARTEE AYERS, J., joined.
+
+Jackson M. Fenner, Knoxville, Tennessee, for the appellant, Kenyon Demario Reynolds.
+
+Jonathan Skrmetti, Attorney General and Reporter; Elizabeth Evan, Assistant Attorney
+General; Charme P. Allen, District Attorney General; and Greg Eshbaugh, Assistant
+District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+The Petitioner’s convictions relate to the sale and distribution of a Schedule I
+controlled substance that resulted in the victim’s death. On July 2, 2015, the victim
+telephoned Justin Lee, with whom she had a “close relationship,” requesting that he obtain
+heroin for her. Mr. Lee telephoned the Petitioner and arranged to purchase the heroin. The
+Petitioner supplied the heroin, advising Mr. Lee that it “was very strong.” Mr. Lee gave
+the victim a “little over half” of the heroin he received from the Petitioner. The next day,
+the victim’s mother found the victim unconscious. Despite efforts to revive the victim, she
+
+died. The victim’s arms showed track marks and other evidence of drug use. Police
+officers questioned Mr. Lee about the victim’s death, and Mr. Lee agreed to assist officers
+with a controlled buy from the Petitioner, during which the Petitioner left heroin in Mr.
+Lee’s mailbox. As a result, officers arrested the Petitioner, who admitted that he distributed
+heroin and sold drugs to Mr. Lee before the victim’s death. The victim’s autopsy report
+listed the cause of death as “heroin intoxication” and the manner of death as an “accident.”1
+The blood and toxicology reports confirmed that the victim’s body was metabolizing
+heroin at the time of her death. See State v. Kenyon Demario Reynolds, No. E2021-00066-
+CCA-R3-CD, 2022 WL 1741266, at *1-4 (Tenn. Crim. App. May 31, 2022).
+
+The Petitioner filed a pro se petition for post-conviction relief, alleging that he
+received the ineffective assistance of trial counsel because of his counsel’s failure to
+address at the trial how the Petitioner could be convicted of murder if the medical examiner
+found the victim’s manner of death was accidental. Post-conviction counsel was appointed
+to represent the Petitioner.
+
+At the post-conviction hearing, trial counsel testified that he met with the Petitioner
+on more than ten occasions and that he stipulated at the trial to the Petitioner’s prior
+convictions regarding the possession of a firearm by a convicted felon. Counsel said that
+he did not ask the State’s medical examiner to elaborate on the victim’s accidental manner
+of death and that he did not consult with any independent medical experts regarding the
+victim’s cause of death. Counsel stated that he cross-examined the State’s scientific expert,
+who testified that heroin had metabolized into morphine in the victim’s bloodstream at the
+time of her death, but that he did not ask if the expert could connect the heroin in the
+victim’s bloodstream with the Petitioner. Counsel stated that he did not consult an
+independent expert regarding the metabolization of heroin into morphine and that he did
+not recall asking Mr. Lee whether he added anything to the heroin before giving it to the
+victim or whether anyone other than the Petitioner had provided drugs to Mr. Lee. Counsel
+said he discussed with the Petitioner whether the Petitioner should testify at the trial and
+advised him against testifying. Counsel said he did not have an independent drug test
+conducted.
+
+On cross-examination, trial counsel testified that he had extensive discussions with
+the Petitioner regarding the benefits and risks of testifying at the trial. Counsel stated that
+by stipulating to the Petitioner’s prior convictions, including a prior felony drug conviction,
+he hoped to preclude the State from introducing specific facts regarding those convictions.
+
+1
+Second degree murder is in this matter is defined as a “[k]illing of another that results from the unlawful
+distribution of any Schedule I or Schedule II drug, when the drug is the proximate cause of the death of the
+user[.]” T.C.A. § 39-13-210(a)(2). “The requisite mens reas for second degree murder under this provision
+is that ‘the killing be done recklessly as a result of unlawful distribution of a Schedule I or Schedule II
+drug.’” State v. Tommy Lynn Rutherford, No. E2019-00063-CCA-R3-CD, 2020 WL 587078, at *9 (Tenn.
+Crim. App. Feb. 5, 2020) (citing T.C.A. § 39-13-210, Sentencing Comm’n Cmt.).
+
+-2-
+
+Counsel acknowledged that the State cross-examined the Petitioner regarding his criminal
+history. Counsel stated that the State did not have to prove the Petitioner intended the
+victim’s death and that he cross-examined the State’s expert regarding the victim’s cause
+and manner of death. Counsel stated he was familiar with the Tennessee Bureau of
+Investigation’s (TBI) testing procedures and, after reviewing documents relating to the
+TBI’s chain of custody and laboratory reports, he found no evidence that the TBI
+mishandled the evidence or conducted inadequate testing.
+
+The post-conviction court denied relief. The court noted that the testimony at the
+post-conviction hearing addressed the following issues which were not presented in the
+post-conviction petition: (1) trial counsel’s decision to stipulate to the Petitioner’s prior
+criminal history; (2) counsel’s decision not to obtain an independent toxicology expert; and
+(3) counsel’s discussion with the Petitioner regarding whether the Petitioner should testify
+at the trial. Although the court credited counsel’s testimony, it noted that the “sole
+argument outlined in [the] written petition is that his attorney was ineffective in how he
+handled the finding by the medical examiner that the victim’s death was an ‘accident,’ and
+thus not a homicide.” See T.C.A. § 40-30-110-(c). The court further noted that there was
+“no further specificity raised in the petition as to the exact complaint.” The court found
+that “the Petitioner ha[d] failed to show by clear and convincing evidence that his counsel
+was deficient in his performance concerning how he addressed the medical examiner’s
+findings[,]” that “[t]he Petitioner ha[d] not presented any expert proof that would
+demonstrate any other opinions than those presented by the experts at trial[,]” and that “the
+Petitioner [had] not presented any specific evidence as to what [counsel] could or should
+have done differently.” The court concluded that the Petitioner failed to show that his
+counsel’s performance was deficient or that any alleged deficiency prejudiced the
+Petitioner at the trial. This appeal followed.
+
+The Petitioner contends that the post-conviction court erred in denying relief on his
+ineffective assistance of counsel claim. He argues that his trial counsel was ineffective for
+(1) failing to address how the Petitioner could be convicted of second degree murder if the
+medical examiner determined that the victim’s manner of death was accidental; (2) failing
+to hire an independent expert to explain the metabolizing of heroin; and (3) failing to cross-
+examine the State’s scientific expert about whether the drugs found in the victim’s
+bloodstream were the same drugs that the Petitioner gave to Mr. Lee. The State counters
+that the Petitioner has waived any claims not raised in his post-conviction petition and that
+the Petitioner has not proved counsel’s performance was deficient for failing to call an
+independent expert.
+
+Post-conviction relief is available “when the conviction or sentence is void or
+voidable because of the abridgment of any right guaranteed by the Constitution of
+Tennessee or the Constitution of the United States.” T.C.A. § 40-30-103 (2018). A
+petitioner has the burden of proving his factual allegations by clear and convincing
+evidence. Id. § 40-30-110(f) (2018). A post-conviction court’s findings of fact are binding
+
+-3-
+
+on appeal, and this court must defer to them “unless the evidence in the record
+preponderates against those findings.” Henley v. State, 960 S.W.2d 572, 578 (Tenn. 1997);
+see Fields v. State, 40 S.W.3d 450, 456-57 (Tenn. 2001). A post-conviction court’s
+application of law to its factual findings is subject to a de novo standard of review without
+a presumption of correctness. Fields, 40 S.W.3d at 457-58.
+
+To establish a post-conviction claim of the ineffective assistance of counsel in
+violation of the Sixth Amendment, a petitioner has the burden of proving that (1) counsel’s
+performance was deficient and (2) the deficient performance prejudiced the defense.
+Strickland v. Washington, 466 U.S. 668, 687 (1984); see Lockhart v. Fretwell, 506 U.S.
+364, 368-72 (1993). The Tennessee Supreme Court has applied the Strickland standard to
+an accused’s right to counsel under article I, section 9 of the Tennessee Constitution. See
+State v. Melson, 772 S.W.2d 417, 419 n.2 (Tenn. 1989).
+
+A petitioner must satisfy both prongs of the Strickland test in order to prevail in an
+ineffective assistance of counsel claim. Henley, 960 S.W.2d at 580. “[F]ailure to prove
+either deficiency or prejudice provides a sufficient basis to deny relief on the ineffective
+assistance claim.” Goad v. State, 938 S.W.2d 363, 370 (Tenn. 1996). To establish the
+performance prong, a petitioner must show that “the advice given, or the services rendered
+. . . are [not] within the range of competence demanded of attorneys in criminal cases.”
+Baxter v. Rose, 523 S.W.2d 930, 936 (Tenn. 1975); see Strickland, 466 U.S. at 690. The
+post-conviction court must determine if these acts or omissions, viewed in light of all of
+the circumstances, fell “outside the wide range of professionally competent assistance.”
+Strickland, 466 U.S. at 690. A petitioner “is not entitled to the benefit of hindsight, may
+not second-guess a reasonably based trial strategy by his counsel, and cannot criticize a
+sound, but unsuccessful, tactical decision.” Adkins v. State, 911 S.W.2d 334, 347 (Tenn.
+Crim. App. 1994); see Pylant v. State, 263 S.W.3d 854, 874 (Tenn. 2008). This deference,
+however, only applies “if the choices are informed . . . based upon adequate preparation.”
+Cooper v. State, 847 S.W.2d 521, 528 (Tenn. Crim. App. 1992). To establish the prejudice
+prong, a petitioner must show that “there is a reasonable probability that, but for counsel’s
+unprofessional errors, the result of the proceeding would have been different.” Strickland,
+466 U.S. at 694. “A reasonable probability is a probability sufficient to undermine
+confidence in the outcome.” Id.
+
+“As a general rule, this court will not address post-conviction issues that were not
+raised in the petition or addressed in the trial court.” Brown v. State, 928 S.W.2d 453, 457
+(Tenn. Crim. App. 1996); see T.C.A. § 40-30-106(g) (2018) (providing that “[a] ground
+for relief is waived if the petitioner personally or through an attorney failed to present it for
+determination in any proceeding before a court of competent jurisdiction in which the
+ground could have been presented,” with limited exceptions). We agree with the post-
+conviction court that the only issue presented in the petition is whether the Petitioner’s trial
+counsel was ineffective for failing to address how the Petitioner could be convicted of
+second degree murder if the medical examiner determined that the victim’s manner of death
+
+-4-
+
+was accidental. The Petitioner’s other issues on appeal are waived because they were not
+raised in the petition for relief or ruled upon by the post-conviction court.
+
+The Petitioner argues that the medical examiner’s finding, that the manner of death
+was an accident, “introduced doubt to the proceedings.” At the post-conviction hearing,
+trial counsel testified that he cross-examined the medical examiner, who was “very clear
+as to cause of death” and about the limits of what her testing showed. The post-conviction
+court noted that the Petitioner failed to present expert proof at the hearing and that the
+Petitioner failed to present any specific evidence as to what his counsel could or should
+have done differently.
+
+Neither this court nor a post-conviction court may speculate about the substance of
+any witness testimony which is not introduced at the evidentiary hearing. See Black v.
+State, 794 S.W.2d 752, 757 (Tenn. Crim. App. 1990). We must defer to the post-conviction
+court’s findings of fact “unless the evidence in the record preponderates against those
+findings.” Henley, 960 S.W.2d at 578; see Fields, 40 S.W.3d at 456-57. The post-
+conviction court found that the Petitioner failed to establish deficient performance or
+prejudice by clear and convincing evidence. The evidence does not preponderate against
+the post-conviction court’s finding. The Petitioner is not entitled to relief.
+
+In consideration of the foregoing and the record as a whole, the judgment of the
+post-conviction court is affirmed.
+
+_____________________________________
+ROBERT H. MONTGOMERY, JR., JUDGE
+
+-5-

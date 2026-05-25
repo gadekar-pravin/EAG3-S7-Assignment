@@ -1,0 +1,1084 @@
+=========================================================
+Case: In re Appeal of M.V.
+Court: Supreme Court of Vermont
+Date Filed: 2022-07-08
+Citations: 2022 VT 31
+URL: https://www.courtlistener.com/opinion/6622382/in-re-appeal-of-mv/
+Source Query: murder conviction appeal
+=========================================================
+
+NOTICE: This opinion is subject to motions for reargument under V.R.A.P. 40 as well as formal
+revision before publication in the Vermont Reports. Readers are requested to notify the Reporter
+of Decisions by email at: JUD.Reporter@vermont.gov or by mail at: Vermont Supreme Court, 109
+State Street, Montpelier, Vermont 05609-0801, of any errors in order that corrections may be made
+before this opinion goes to press.
+
+2022 VT 31
+
+No. 21-AP-249
+
+In re Appeal of M.V. Supreme Court
+
+On Appeal from
+Human Services Board
+
+April Term, 2022
+
+Michael J. Donohue, Chair
+
+Alexander M. Dean of Barr, Sternberg, Moss, Silver & Munson, P.C., Bennington, for
+Appellant M.V.
+
+Thomas J. Donovan, Jr., Attorney General, and Robert F. McDougall, Assistant Attorney
+General, Montpelier, for Appellee Department for Children and Families.
+
+PRESENT: Reiber, C.J., Eaton, Carroll, Cohen and Waples, JJ.
+
+¶ 1. CARROLL, J. Petitioner M.V. appeals an order of the Human Services Board
+
+granting summary judgment to the Department for Children and Families (DCF) regarding DCF’s
+
+decision to substantiate him for child abuse. Petitioner argues that the same underlying facts to
+
+which he admitted when he pleaded guilty to criminal charges of child-pornography possession
+
+cannot substantiate a report of child abuse. He contends that the Board applied the wrong legal
+
+standard because it did not require DCF to prove the existence of identifiable child victims or to
+
+establish a relationship between himself and each child. We affirm.
+
+I. Factual Background
+
+¶ 2. In November 2019, petitioner pleaded guilty to two counts of possession of child
+
+pornography, one for each photograph he downloaded from a social-media platform, in violation
+
+of 13 V.S.A. § 2827(a). He signed a plea agreement that imposed consecutive sentences resulting
+
+in a total of two-to-four years to serve, all suspended, with ten years of probation. The plea
+
+agreement recognized that the convictions would require petitioner to register as a sex offender.1
+
+At his change-of-plea hearing, petitioner admitted to knowingly possessing two photographs, each
+
+depicting prepubescent girls in sexually suggestive positions. The photographs focused on the
+
+children’s genitalia.2 The plea judge found that petitioner was not coerced into accepting the plea
+
+agreement, voluntarily admitted he understood the elements in the charges and the factual basis
+
+underlying each, and waived his right to a jury trial.
+
+¶ 3. Meanwhile, the State reported the underlying evidence to DCF. DCF investigates
+
+reports of child abuse and neglect, which may culminate in a substantiated report. 33 V.S.A.
+
+§§ 4915, 4915a, 4915b. To substantiate a report of child abuse, DCF must demonstrate that it has
+
+obtained “accurate and reliable information that would lead a reasonable person to believe that the
+
+child has been abused or neglected.” Id. § 4912(16). If a report is substantiated, DCF places the
+
+person’s name on the child protection registry. Id. § 4916. Access to the registry is restricted to
+
+entities provided for by statute and to specific employers who hire individuals “providing care,
+
+custody, treatment, transportation, or supervision of children or vulnerable adults.” Id. § 4919.
+
+1
+The sex offender registry is governed by 13 V.S.A. ch. 167, subch. 3, and is distinct from
+the child protection registry.
+2
+The State’s amended information for both charges reads: “[Petitioner] . . . with
+knowledge of the character and content, possessed a photograph, film or visual depiction,
+including any depiction which is stored electronically, of a clearly lewd exhibition of a child’s
+genitals or anus, in violation of 13 V.S.A. § 2827(a).”
+2
+
+¶ 4. In August 2019, DCF substantiated petitioner “for sexual abuse by [his] possession
+
+of child pornography.” Petitioner challenged that determination, and following a November 2020
+
+teleconference, a neutral DCF reviewer affirmed the substantiation. Thereafter, petitioner timely
+
+appealed to the Board pursuant to § 4916b(a).
+
+¶ 5. DCF filed a summary-judgment motion claiming that petitioner was collaterally
+
+estopped from contesting the facts on which DCF relied to substantiate him. DCF argued that the
+
+issue in the criminal proceeding was the same issue before the Board—whether petitioner
+
+possessed child pornography. Moreover, DCF asserted, petitioner admitted to the same facts
+
+during the plea colloquy that it had relied on to substantiate him.
+
+¶ 6. Petitioner responded that the statutory framework governing substantiation requires
+
+an identifiable victim and a caretaking relationship between himself and each victim. According
+
+to petitioner, the mere possession of child pornography cannot substantiate a report of child abuse.
+
+On the other hand, criminal possession of child pornography does not require the State to prove
+
+the existence of an identifiable victim nor that a defendant had a caretaking relationship with the
+
+victim. Therefore, petitioner argues, he was not collaterally estopped from contesting the factual
+
+basis of his substantiation because the issue of whether he admitted to possessing child
+
+pornography of an identifiable child victim and whether he had a caretaking relationship with the
+
+children was not raised in the criminal action.
+
+¶ 7. After holding a hearing on DCF’s motion, the Board granted summary judgment in
+
+DCF’s favor. It first addressed petitioner’s claim that mere possession of child pornography
+
+without identifiable victims cannot substantiate a report of child abuse under Title 33. The Board
+
+explained that 33 V.S.A. § 4912(1) defines an “abused or neglected child” in part as “a child who
+
+is sexually abused or at substantial risk of sexual abuse by any person.” In turn, § 4912(15)(G)
+
+defines sexual abuse as “any act or acts by any person involving the sexual molestation or
+
+exploitation of a child, including . . . viewing, possessing, or transmitting child pornography . . . .”
+
+3
+
+The Board cited a DCF policy affirming that “any person” who possesses child pornography “can
+
+be substantiated for sexual abuse.” The policy expressly excludes the requirement that a person
+
+needs to be a parent or other person responsible for the child’s welfare for DCF to substantiate that
+
+person for sexual abuse. On these bases, the Board concluded that Title 33 does not require DCF
+
+to prove that petitioner had a relationship with the children in the two photographs, nor does it
+
+require DCF to identify the child victims. The Board determined that “the legal standard regarding
+
+substantiation is whether petitioner engaged in sexual abuse by possessing two photos of child
+
+pornography on his computer.” Based on the record evidence, the Board concluded that DCF had
+
+met its burden demonstrating petitioner possessed child pornography.
+
+¶ 8. Turning to collateral estoppel, the Board analyzed each of the elements this Court
+
+announced in Trepanier v. Getting Organized, Inc. that govern the application of the doctrine. 155
+
+Vt. 259, 583 A.2d 583 (1990). It found that each was satisfied and concluded that DCF was entitled
+
+to summary judgment as a matter of law.
+
+¶ 9. Petitioner renews his arguments on appeal. He argues that DCF cannot substantiate
+
+him for child abuse based on his guilty plea to child-pornography possession depicting unidentified
+
+victims because Title 33 requires DCF to identify the child victims and demonstrate a caretaking
+
+relationship. He maintains the issue in the criminal prosecution is therefore different than the issue
+
+in the substantiation proceeding. Because the issues are distinct, petitioner argues, he is not
+
+collaterally estopped from relitigating the factual basis underlying the criminal convictions, and
+
+the Board deprived him of an opportunity to do so in a fair hearing.
+
+¶ 10. We hold that Title 33 provides that the mere possession of child pornography
+
+constitutes sexual abuse, which in turn is sufficient to substantiate petitioner for child abuse. We
+
+also hold that petitioner is collaterally estopped from contesting whether his guilty pleas to
+
+criminal possession of child pornography can form the basis to substantiate him for child abuse
+
+and placement on the child protection registry.
+
+4
+
+II. Substantiation
+
+A. Standard of Review
+
+¶ 11. “[W]e defer to the Board’s decision regarding substantiation on appeal.” In re R.H.,
+
+2010 VT 95, ¶ 21, 189 Vt. 15, 14 A.3d 267. “Our review is thus limited to determining whether
+
+the Board applied the proper legal standard, whether the evidence before the Board reasonably
+
+supports its findings, and whether the Board’s findings reasonably support its conclusions.” In re
+
+E.C., 2010 VT 50, ¶ 6, 188 Vt. 546, 1 A.3d 1007 (mem.).
+
+B. Legal Standard
+
+¶ 12. The question presented is whether the statutes governing substantiation require
+
+DCF to identify child victims of pornography and the existence of a caretaking relationship
+
+between petitioner and each child. Chapter 49 of Title 33 is divided into two subchapters: the first
+
+sets out “General Provisions”; the second governs “Reporting Abuse of Children.” 33 V.S.A. ch.
+
+49. Subchapter 2 provides two definitions of what constitutes “an abused or neglected child”:
+
+“An abused or neglected child” is a child whose physical health,
+psychological growth and development, or welfare is harmed or is
+at substantial risk of harm by the acts or omissions of his or her
+parent or other person responsible for the child’s welfare. An
+“abused or neglected child” also means a child who is sexually
+abused or at substantial risk of sexual abuse by any person and a
+child who has died as a result of abuse or neglect.
+
+33 V.S.A. § 4912(1). The Legislature subsequently defines sexual abuse as consisting “of any act
+
+or acts by any person involving sexual molestation or exploitation of a child,
+
+including . . . viewing, possessing, or transmitting child pornography . . . .” Id. § 4912(15)(G).
+
+¶ 13. Separately, § 4916a lays out the process by which persons alleged to have abused
+
+or neglected a child can challenge their placement on the registry, including providing for an
+
+administrative-review conference conducted by “a neutral and independent arbiter who has no
+
+prior involvement in the original investigation.” Id. § 4916a(f). To prevail at this stage (and on
+
+appeal before the Board), DCF bears “the burden of proving that it has accurately and reliably
+
+5
+
+concluded that a reasonable person would believe that the child has been abused and neglected by
+
+that person.” Id. § 4916a(e).
+
+¶ 14. Petitioner’s first argument is that the Board did not apply the correct legal standard
+
+in upholding DCF’s substantiation determination. The Board, after reviewing the plain language
+
+of subchapter 2, concluded that “the legal standard regarding substantiation [in this case] is
+
+whether petitioner engaged in sexual abuse by possessing two photos of child pornography on his
+
+computer.” However, petitioner argues that DCF bears the burden of identifying the child victims
+
+in the photographs and proving he had a relationship with them because § 4916a(e) contains the
+
+terms “the child” and “that person.” He claims these terms reinforce the overarching goal of
+
+subchapter 2, which is to protect identifiable children. Petitioner asserts that the alternate
+
+definition in § 4912(1) of an abused or neglected child, which provides that “any person” who
+
+sexually abuses a child can also be substantiated for child abuse, “does not abrogate” DCF’s burden
+
+to identify a victim and establish a relationship between victim and petitioner. Therefore,
+
+according to him, the Board’s interpretation of the substantiation statutes was error because it did
+
+not require DCF to make either showing.
+
+¶ 15. We begin with the plain language of this statutory framework. In re E.C., 2010 VT
+
+50, ¶ 8 (“Our first recourse when interpreting a statute is to look at the plain language of the
+
+enactment.”); see also State v. A.P., 2021 VT 90, ¶ 12, __ Vt. __, 268 A.3d 58 (“If the intent of
+
+the Legislature is apparent on the face of the statute because the plain language of the statute is
+
+clear and unambiguous, we implement the statute according to that plain language.” (quotation
+
+omitted)). The Legislature provided two distinct definitions of an abused or neglected child in
+
+§ 4912(1). The first sentence provides: “An ‘abused or neglected child’ means a child whose
+
+physical health, psychological growth and development, or welfare is harmed or is at substantial
+
+risk of harm by the acts or omissions of his or her parent or other person responsible for the child’s
+
+welfare.” 33 V.S.A. § 4912(1). The second sentence provides: “An ‘abused or neglected child’
+
+6
+
+also means a child who is sexually abused or at substantial risk of sexual abuse by any person and
+
+a child who has died as a result of abuse or neglect.” Id. (emphasis added). The second sentence
+
+expands the definition of who is considered an abused or neglected child. In addition to those
+
+harmed by parents and persons responsible for a child’s welfare, a child who suffers sexual abuse
+
+by any person is also an abused or neglected child.
+
+¶ 16. Petitioner concedes that mere possession of child pornography is defined as sexual
+
+abuse under § 4912(15)(G). However, he maintains that this does not automatically mean he has
+
+abused or neglected a child under § 4912(1). He asserts that § 4916a(e) requires DCF to prove he
+
+had a relationship with identifiable child victims depicted in the photographs to substantiate him.
+
+¶ 17. Section 4916a(e) does not transform DCF’s burden in this way. The term “that
+
+person” in § 4916a(e) refers to the person being substantiated for child abuse. Here, petitioner is
+
+“that person” because he is both the subject of substantiation proceedings and because “that
+
+person” includes “any person” who sexually abuses a child under the definition set forth in
+
+§ 4912(1). See State v. A.P., 2021 VT 90, ¶ 12 (“We do not read statutory language in isolation;
+
+we read and construe together the whole and every part of the statute, together with other statutes
+
+standing in pari materia with it, as parts of a unified statutory system.” (quotation omitted)). While
+
+“that person” may also refer to the parents or other persons responsible for a child’s welfare under
+
+the first definition in § 4912(1), it does not follow that the Legislature intended a relationship
+
+requirement in the second definition. See State v. Hale, 2021 VT 18, ¶ 14, __ Vt. __, 256 A.3d
+
+595 (“It is a well-settled principle of statutory construction that we will not read words into a
+
+statute that are not there, unless it is necessary in order to make the statute effective.” (quotation
+
+and alteration omitted)).
+
+¶ 18. Petitioner likewise asserts that the term “the child” in § 4916a(e) is further evidence
+
+that DCF must prove he had a relationship with the children depicted in the two photographs. As
+
+above, we do not read words into a statute that are not there. Hale, 2021 VT 19, ¶ 14. Section
+
+7
+
+4916a(e) requires DCF to prove an allegation of child abuse such “that a reasonable person would
+
+believe that the child has been abused.” Here, “the child” refers to the subject of the abuse. The
+
+term is not a separate requirement to identify the child. As defined, possessing child pornography
+
+is sexual abuse. Id. § 4912(15)(F). Sexual abuse of a child by any person is child abuse. Id.
+
+§ 4912(1). Accordingly, DCF must prove that a reasonable person would believe that it has
+
+accurately and reliably substantiated a report that petitioner possessed pornographic materials
+
+depicting a child.3
+
+¶ 19. Our conclusion is further supported by the presence of an additional provision
+
+defining sexual abuse as the production of child pornography in § 4912(15)(F). Subsection F
+
+provides that a person commits sexual abuse by “aiding, abetting, counseling, hiring, or procuring
+
+a child to perform or participate in any photograph, motion picture, exhibition, show,
+
+representation, or other presentation that, in whole or in part, depicts sexual conduct, sexual
+
+excitement, or sadomasochistic abuse involving a child.” Id. We have not before addressed
+
+§ 4912(15)(F), and we express no opinion about it here. However, that the Legislature separately
+
+included this definition indicates it knows the difference between producing child pornography
+
+and “viewing, possessing, or transmitting” child pornography, and the resulting legal standards
+
+under each. See State v. DeRosa, 161 Vt. 78, 80, 633 A.2d 277, 279 (1993) (“[W]e presume the
+
+Legislature used the language [in the statute] advisedly.”).
+
+¶ 20. Petitioner next contends that the Board’s legal standard is at odds with the statute’s
+
+purpose to “protect children whose health and welfare may be adversely affected through abuse
+
+and neglect.” 33 V.S.A. § 4911(1). We discern nothing in the Board’s interpretation contravening
+
+the statute’s purpose. See In re R.H., 2010 VT 95, ¶ 21 (“[W]e defer to the Board’s decision
+
+regarding substantiation on appeal.”). The Legislature created a framework in which merely
+
+3
+A child is defined as “an individual under the age of majority.” 33 V.S.A. § 4912(3).
+
+8
+
+possessing child pornography is child abuse, and the consequence is placement on the child
+
+protection registry. The Legislature selected placement on the registry as one method to “protect
+
+children whose health and welfare may be adversely affected through abuse and neglect.” 33
+
+V.S.A. § 4911(a). Moreover, the purpose behind this framework aligns with the view held by
+
+most—if not all—jurisdictions that possession of child pornography constitutes a “direct and
+
+primary emotional harm” to the children depicted. United States v. Sherman, 268 F.3d 539, 547
+
+(7th Cir. 2001) (collecting cases); see also Paroline v. United States, 572 U.S. 434, 457 (2014) (“It
+
+is common ground the victim [depicted in child pornography] suffers continuing and grievous
+
+harm as a result of [their] knowledge that a large, indeterminate number of individuals have viewed
+
+and will in the future view images of the sexual abuse [they] endured. . . . The unlawful conduct
+
+of everyone who . . . possesses the images . . . plays a part in sustaining and aggravating this
+
+tragedy.”).
+
+¶ 21. Finally, petitioner argues that the statutory framework is ambiguous, and therefore
+
+we should resolve any ambiguity in his favor under the rule of lenity. See State v. Hurley, 2015
+
+VT 46, ¶ 17, 198 Vt. 552, 117 A.3d 433 (describing rule as “principle that requires that any doubts
+
+created by ambiguous legislation be resolved in favor of the defendant and construed against the
+
+[S]tate” (quotation omitted)); see also Doe v. La. Bd. of Ethics, 112 So. 3d 339, 347 (La. Ct. App.
+
+2013) (stating rule of lenity “applies to both criminal laws and civil statues of a penal nature”).
+
+¶ 22. Petitioner’s argument fails for two reasons. First, the statutes governing child-
+
+abuse substantiation fall within DCF’s area of expertise; therefore, we and the Board must defer
+
+to DCF’s interpretation. In re R.H., 2010 VT 95, ¶ 29 (quotation omitted). Moreover, we will not
+
+find ambiguity unless we first detect a “compelling indication of . . . error” in DCF’s interpretation
+
+of the registry statutes. Shires Hous., Inc. v. Brown, 2017 VT 60, ¶ 9, 205 Vt. 186, 172 A.3d 1215
+
+(explaining that this Court sustains interpretation of statute “by an administrative body responsible
+
+for its execution” unless interpretation “unjust or unreasonable”); see In re S-S Corp./Rooney
+
+9
+
+Hous. Devs., 2006 VT 8, ¶ 13, 179 Vt. 302, 896 A.2d 67 (“We will not equate a grant of agency
+
+discretion with ambiguity . . . .”). The Board has made no error, and its interpretation of these
+
+statutes aligns with DCF’s. The Board correctly interpreted subsection 2 by looking at the plain
+
+language and analyzed the undisputed facts using the legal standard for substantiating petitioner.4
+
+¶ 23. Second, the rule of lenity only applies where the statutory language is ambiguous.
+
+Hurley, 2015 VT 46, ¶ 17 (“The rule of lenity does not apply if the statutory language is
+
+unambiguous . . . . (quotation omitted)); La. Bd. of Ethics, 112 So. 3d at 347 (explaining rule of
+
+lenity “applies to both criminal laws and civil statutes of a penal nature”). Because this statutory
+
+framework is unambiguous, the rule of lenity is inapplicable.
+
+III. Collateral Estoppel
+
+¶ 24. Petitioner’s next claim is in large measure predicated on his first: he maintains that
+
+collateral estoppel does not apply to him because substantiation requires an identifiable victim and
+
+a caretaking relationship, and criminal child-pornography possession does not. He argues that the
+
+issue presented in the substantiation proceeding is not the same issue in the criminal prosecution.
+
+Therefore, he contends, the Board erred by applying collateral estoppel.
+
+A. Standard of Review
+
+¶ 25. We have previously held that the Board may apply collateral estoppel in
+
+substantiation proceedings. In re P.J., 2009 VT 5, ¶ 7, 185 Vt. 606, 969 A.2d 133 (mem.).
+
+However, because its application falls outside the Board’s “special expertise,” we review the
+
+Board’s use of collateral estoppel de novo. Id.
+
+4
+We note that DCF’s own interpretation of subsection 2 aligns with the Board’s
+interpretation. DCF Policy 56 provides in part: “Any person may be substantiated for sexually
+abusing a child,” which includes those persons possessing child pornography. Vt. Dept. for Child.
+& Fams., Fam. Servs. Pol’y Manual, Policy No. 56 (Oct. 14, 2020),
+https://dcf.vermont.gov/sites/dcf/files/FSD/Policies/56.pdf [https://perma.cc/Q2ZC-2JWJ]; cf. In
+re Porter, 2012 VT 97, ¶ 8, 192 Vt. 601, 70 A.3d 915 (“We defer to an administrative agency’s
+interpretation of statutory provisions that are within its particular area of expertise.” (quotation
+omitted).
+10
+
+B. Crossover Collateral Estoppel
+
+¶ 26. Collateral estoppel, also called issue preclusion, “bars a party from relitigating an
+
+issue decided in a previous action.” State v. Pollander, 167 Vt. 301, 304, 706 A.2d 1359, 1361
+
+(1997) (quotation omitted). “The underlying goal of . . . collateral estoppel[] is to promote judicial
+
+economy and finality in litigation.” Allstate Ins. Co. v. Blount, 491 F.3d 903, 909 (8th Cir. 2007)
+
+(quotation omitted). We articulated the factors courts should use to analyze collateral estoppel in
+
+Trepanier. 155 Vt. 259, 583 A.2d 583. Collateral estoppel will bar the subsequent litigation of an
+
+issue when the following factors are met:
+
+(1) preclusion is asserted against one who was a party or in privity
+with a party in the earlier action; (2) the issue was resolved by a final
+judgment on the merits; (3) the issue is the same as the one raised in
+the later action; (4) there was a full and fair opportunity to litigate
+the issue in the earlier action; and (5) applying preclusion in the later
+action is fair.
+
+Id. at 265, 583 A.2d at 588 (citing Bernhard v. Bank of Am. Nat’l. Tr. & Sav. Ass’n, 122 P.2d 892
+
+(Ca. 1942)). “The party opposing application of collateral estoppel has the burden of showing that
+
+it is appropriate to relitigate an issue.” In re P.J., 2009 VT 5, ¶ 13.
+
+¶ 27. This Court has previously addressed the issue of crossover estoppel—the situation
+
+where an issue litigated in a civil action bars the relitigation of the same issue in a subsequent
+
+criminal action. See, e.g., State v. Stearns, 159 Vt. 266, 272, 617 A.2d 140, 143 (1992) (holding
+
+that State was not precluded from introducing evidence in subsequent DUI trial after being
+
+prevented from introducing same evidence in less formal administrative-suspension proceeding);
+
+see also State v. Brunet, 174 Vt. 135, 143, 806 A.2d 1007, 1013 (2002) (holding that State was not
+
+precluded from prosecuting defendant following probation-revocation proceedings decided
+
+adversely to State). In both Stearns and Brunet, we held that collateral estoppel did not apply
+
+against the State in subsequent criminal actions where the earlier civil proceedings had more
+
+relaxed evidentiary and procedural requirements.
+
+11
+
+¶ 28. In State v. Pollander, we addressed the question of whether an acquittal in a jury
+
+trial precluded the State from relitigating the same issue in a subsequent civil action. 167 Vt. 301,
+
+706 A.2d 1359. We held that the State’s failure to prove at trial that the defendant’s BAC was
+
+0.08% did not preclude the State from relitigating the same issue in a subsequent civil-suspension
+
+hearing. Id. at 306-07, 706 A.2d at 1362. We reasoned that collateral estoppel was not appropriate
+
+under those circumstances because “what cannot be proven beyond a reasonable doubt may still
+
+be proven by a preponderance of the evidence.” Id. at 306, 706 A.2d at 1362. However, we have
+
+never addressed the situation we are presented with here: whether a guilty plea in a criminal
+
+prosecution has preclusive effect in subsequent civil actions. We address this question first.
+
+C. Collateral-Estoppel Effect of a Guilty Plea5
+
+¶ 29. Petitioner contends that guilty pleas cannot have collateral-estoppel effect because
+
+issues resolved by guilty pleas are not “actually litigated.” He urges the Court to adopt the
+
+Restatement (Second) of Judgments which does not consider an issue to have been actually
+
+litigated in the first action “where the criminal judgment was based on . . . a guilty plea . . . .”6
+
+Restatement (Second) of Judgments § 85 cmt. b (1982); but see Pollander, 167 Vt. at 305, 706
+
+A.2d at 1361 (citing Restatement § 28(4) which states that no preclusion applies where “party
+
+5
+For the purposes of this opinion, we use “collateral-estoppel effect” and “preclusive
+effect” interchangeably.
+6
+Comment b to § 85 reads as follows:
+
+The rule of this Section presupposes that the issue in question was
+actually litigated in the criminal prosecution. Accordingly, the rule
+of the Section does not apply where the criminal judgment was
+based on . . . a guilty plea . . . . A defendant who pleads guilty may
+be held to be estopped in subsequent civil litigation from contesting
+facts representing the elements of the offense. However, under the
+terms of this Restatement such an estoppel is not a matter of issue
+preclusion, because the issue has not actually been litigated, but is a
+matter of the law of evidence beyond the scope of this Restatement.
+12
+
+against whom preclusion is sought had a significantly heavier burden of persuasion with the issue
+
+in the initial action than in the subsequent action”).
+
+¶ 30. Courts are split on this issue. One line of cases, following an Iowa Supreme Court
+
+decision, Ideal Mutual Insurance Co. v. Winker, adopts the view that there is no actual-litigation
+
+requirement. 319 N.W.2d 289, 291-96 (Iowa 1982) (explaining that courts relying on reasoning
+
+in Restatement to deny preclusive effect to guilty pleas do not read Restatement closely); see also
+
+James v. Paul, 49 S.W.3d 678, 686-87 (Mo. 2001) (en banc) (affirming issue preclusion following
+
+guilty plea and noting that “an almost equal number of states” give preclusive effect to guilty pleas
+
+as states that do not); see also Allen v. Martin, 203 P.3d 546, 562-563 (Colo. App. 2008) (same).
+
+Another line of cases adopts the opposite view: because the criminal prosecution did not proceed
+
+to trial, the issue was not actually litigated, and precluding the defendant from later relitigating the
+
+issue is unfair. See, e.g., Mrozek v. Intra Fin. Corp., 2005 WI App 73, ¶¶ 17-21, 281 Wis. 2d 448,
+
+699 N.W.2d 54, 61-63 (declining to follow Paul and Winker because under Wisconsin law “a
+
+defendant who pleads guilty need not admit the facts of a crime that has been charged as a
+
+precondition to a court accepting his or her plea” and therefore issue was not actually litigated);
+
+see also Teitelbaum Furs, Inc. v. Dominion Ins. Co., 375 P.2d 439, 441 (Cal. 1962) (in bank)
+
+(“When a plea of guilty has been entered in the prior action, no issues have been ‘drawn into
+
+controversy’ by a ‘full presentation’ of the case. It may reflect only a compromise or a belief that
+
+paying a fine is more advantageous than litigation. Considerations of fairness to civil litigants and
+
+regard for the expeditious administration of criminal justice . . . combine to prohibit the application
+
+of collateral estoppel against a party who, having pleaded guilty to a criminal charge, seeks for the
+
+first time to litigate his cause in a civil action.”).
+
+¶ 31. Some prominent commentators also share the view that guilty pleas should not have
+
+preclusive effect. For example, Wright and Miller sharply criticize courts’ application of collateral
+
+estoppel to guilty pleas because “[t]he lack of actual adjudication is fatal to issue preclusion.” 18B
+
+13
+
+C. Wright, A. Miller & E. Cooper, Federal Practice and Procedure § 4474.1 (3d ed. 2019). “Just
+
+as issue preclusion should not rest on civil judgments by consent, stipulation, or default, so it
+
+should not rest on a plea of guilty.”7 Id.
+
+¶ 32. However, we reject the view that a guilty plea cannot have collateral-estoppel
+
+effect. We find the Iowa Supreme Court’s decision in Ideal Mutual Insurance Co. v. Winker to be
+
+instructive. 319 N.W.2d 289. In that case, Winker, a law enforcement officer, shot and killed his
+
+estranged girlfriend while off-duty. Winker was covered by professional liability insurance at the
+
+time he committed the crime. The state charged him with first-degree murder, but he ultimately
+
+pleaded guilty to second-degree murder. Later, the administrator of the decedent’s estate brought
+
+a civil action alleging wrongful death. In response, Ideal, Winker’s insurer, filed a declaratory
+
+action arguing that it was not required to defend him in the wrongful-death action nor indemnify
+
+him if the administrator prevailed. Ideal argued that criminal conduct was exempt activity under
+
+the policy and Winker’s “guilty plea conclusively established for purposes of the declaratory action
+
+that [he] had committed a criminal act.” Id. at 291. The trial court agreed. Winker appealed,
+
+arguing that he only entered the guilty plea “because of the risk of a first-degree murder conviction
+
+and not because he admitted second-degree murder.” Id.
+
+¶ 33. In a close examination of the case law, the Restatement,8 and the work of several
+
+prominent commentators, the supreme court held that guilty pleas can have preclusive effect in
+
+7
+Petitioner, citing comment e to § 27 of the Restatement, argues that collateral estoppel
+should not apply to him because a guilty plea is a judgment obtained by “confession, consent, or
+default.” See Restatement (Second) of Judgments § 27 cmt. e. However, as the quote from Wright
+and Miller suggests, this language in comment e does not refer to guilty pleas, ; it refers to civil
+actions.
+8
+The supreme court explained that the Restatement did not oppose the application of
+collateral estoppel to issues resolved by guilty pleas. Winker, 319 N.W.2d at 291-94. In the same
+comment petitioner points to while arguing the opposite, the Restatement explains that “[a]
+defendant who pleads guilty may be held to be estopped in subsequent civil litigation from
+contesting facts representing the elements of the offense.” Restatement (Second) of Judgments
+§ 85 cmt. b. The Restatement treated “such an estoppel [as] not a matter of issue preclusion,
+14
+
+civil actions. The supreme court explained that the requirement for trial courts to first ascertain a
+
+factual basis for the guilty plea serves both to convince a court that a guilty plea is founded on fact
+
+and that “a judicial determination has thus been made with respect to the essential elements of the
+
+crime.” Id. at 295. Accordingly, a guilty plea satisfies the requirement that the “issue must have
+
+been raised and litigated in the prior action.” Id. at 294; see also In re Harwood, 2013 VT 89, ¶ 11,
+
+195 Vt. 7, 86 A.3d 976 (“Preclusion is possible only if the issue was necessarily and essentially
+
+determined in a prior action.” (quotation omitted)). The supreme court noted that its conclusion
+
+squared with the Restatement’s underlying rationale that preclusion is only appropriate where “the
+
+parties have obtained a judicial determination of an issue following the exploration of that issue
+
+through the litigative process.” 319 N.W.2d at 296 (citing Restatement (Second) of Judgments
+
+§ 68 cmt. d). The court reasoned that just as judgments following trial, and dispositive motions
+
+such as motions to dismiss, all have issue-preclusive effect, there was no reason why the factual-
+
+basis requirement for a guilty plea should not also. Id. We agree.
+
+¶ 34. Vermont has robust safeguards in place for trial courts to accept guilty pleas. The
+
+overarching goal of Vermont Rule of Criminal Procedure 11 is to ensure that a defendant
+
+voluntarily admits guilt before the court enters a guilty verdict. See In re Dunham, 144 Vt. 444,
+
+451, 479 A.2d 144, 148 (1984). We recently clarified that Criminal Rule 11(f) requires the
+
+defendant to “personally admit[] to facts relating to the elements of the offense.” In re Bridger,
+
+2017 VT 79, ¶ 22, 205 Vt. 380, 176 A.3d 489. By ensuring the defendant’s personal admission,
+
+“the court exposes the defendant’s understanding of the factual basis for each element on the
+
+because the issue has not actually been litigated, but [as] a matter of the law of evidence beyond
+the scope of this Restatement.” Id. The Winker court explained that the Restatement had to take
+this position because of its theory of actual adjudication. See 319 N.W.2d at 292 (“In sum, the
+[Restatement] recognizes that a guilty plea can be conclusive in a civil suit, but it is forced to
+conclude that this result is beyond the scope of issue preclusion to maintain consistency with its
+‘actual litigation’ requirement.”).
+
+15
+
+record, which facilitates the court’s understanding of the facts and provides subsequent courts with
+
+the opportunity to review the record to establish that the defendant’s plea was truly voluntary.” 9
+
+Id. We explained that strict adherence to Rule 11, including requiring the defendant to
+
+affirmatively acknowledge the factual basis underlying the charge against him, makes it less likely
+
+that false guilty pleas will occur. Id. Additionally, the Reporter’s Notes for Rule 11 explain that
+
+pleas of nolo contendere are permitted in part to allow defendants “to avoid the preclusive effect
+
+of a guilty plea or conviction upon a plea of not guilty in later civil or criminal litigation.”
+
+Reporter’s Notes, V.R.Cr.P. 11.
+
+¶ 35. For these reasons, we conclude that a guilty plea may have collateral-estoppel effect
+
+in subsequent civil proceedings.10 We now turn to the Trepanier elements to determine whether
+
+the Board correctly applied collateral estoppel in this case.
+
+D. Trepanier Elements
+
+¶ 36. The first Trepanier element asks whether the party against whom preclusion is
+
+asserted was a party in the earlier action. 155 Vt. at 265, 583 A.2d at 587. Petitioner does not
+
+dispute that he was a party in the criminal proceeding. Thus, the first element is met.
+
+¶ 37. The second Trepanier element asks whether the issue was resolved in the earlier
+
+action by a final judgment on the merits. Id.; see also Trahan v. Trahan, 2003 VT 100, ¶ 8, 176
+
+9
+We note that petitioner entered his guilty pleas on November 19, 2019, long after Bridger
+issued.
+10
+Two civil division decisions have addressed this precise issue. Normandy v. Martin,
+No. S0278-04 CnC, (Vt. Super. Ct. Jan. 11, 2005), https://www.vermontjudiciary.org/sites
+/default/files/documents/2005-9-20-2.pdf [https://perma.cc/M33C-4QAC]; Geico Gen. Ins., Co. v.
+Cota, No. 490-4-17 Cncv, (Vt. Super. Ct. Oct. 2, 2018), https://www.vermontjudiciary.org/sites/
+default/files/documents/2019-6-7-13.pdf [https://perma.cc/NEE8-UKBV]. In each case, the
+courts held that guilty pleas had collateral-estoppel effect in subsequent civil proceedings and
+noted that Vermont’s safeguards for ensuring voluntary guilty pleas significantly diminished the
+risk that it would be unfair for defendants to be precluded from relitigating issues in other
+proceedings.
+
+16
+
+Vt. 539, 839 A.2d 1246 (mem.) (“To determine whether the second, third, and fourth criteria [of
+
+collateral estoppel] are also satisfied, we must identify what is at issue here and what was at issue
+
+in the [prior action].”). “[T]he key question [is] whether the factual or legal question presented in
+
+the first action is the same as the question presented in the second.” In re H.H., 2020 VT 107,
+
+¶ 26, __ Vt. __, 251 A.3d 560 (quotation omitted).
+
+¶ 38. In the criminal prosecution, the State bore the burden of proving beyond a
+
+reasonable doubt that defendant possessed a visual depiction of a “clearly lewd exhibition of a
+
+child’s genitals or anus,” and that he did so knowingly. 13 V.S.A. § 2827(a). During the plea
+
+colloquy, petitioner affirmatively indicated he understood these elements and admitted to the
+
+underlying factual basis for each. The court accepted petitioner’s guilty plea, finding that he made
+
+it voluntarily after consultation with counsel and that petitioner waived his constitutional rights.
+
+The plea judge found that there was a factual basis for the plea based on petitioner’s answers during
+
+the colloquy. Following a sentencing hearing in February 2020, the court entered final judgment
+
+in the case. This was a final judgment on the merits. See State v. Merchant, 173 Vt. 249, 253,
+
+790 A.2d 386, 290 (2001) (“[E]ntry of judgment after sentencing constitutes final judgment, not
+
+the entry of the plea.”); see also V.R.Cr.P. 32(b). The second element is met.
+
+¶ 39. The third Trepanier element asks whether the issue is the same in both proceedings.
+
+Trepanier, 155 Vt. at 265, 583 A.2d at 587; see also In re R.H., 2010 VT 95, ¶ 36 (“Preclusion is
+
+possible only if the issue was necessarily and essentially determined in a prior action.” (quotation
+
+omitted)). Petitioner maintains that the issues are not the same because DCF must prove the
+
+existence of identifiable children and a relationship between those children and himself.
+
+Therefore, he asserts that the legal standards applied in each proceeding are different. See
+
+Harwood, 2013 VT 89, ¶ 11 (stating that issues are not same if “second action involves application
+
+of a different legal standard” (quotation omitted)). However, as we concluded in Section II above,
+
+the issue in this substantiation proceeding is whether petitioner possessed child pornography under
+
+17
+
+§ 4912(15)(G). DCF is not required to prove more. The issue in the first proceeding was whether
+
+petitioner knowingly possessed child pornography. The State could not win a conviction against
+
+petitioner in the criminal prosecution without obtaining a necessary and essential determination on
+
+the issue of possession. Id. Therefore, the issue was the same in both proceedings—whether
+
+petitioner possessed child pornography. The third element is met.11
+
+¶ 40. The fourth Trepanier element asks whether petitioner had a full and fair opportunity
+
+to litigate the issue in the earlier action, and the fifth element asks whether the application of
+
+collateral estoppel against him in the subsequent litigation is fair. Trepanier, 155 Vt. at 265, 583
+
+A.2d at 587. “No single test is determinative as to the last two criteria, which must be considered
+
+on a case-by-case basis.” Daiello v. Town of Vernon, 2018 VT 17, ¶ 13, 207 Vt. 139, 184 A.3d
+
+1192. Some factors to be weighed “are the type of issue preclusion, the choice of forum, the
+
+incentive to litigate, the foreseeability of future litigation, the legal standards and burdens
+
+employed in each action, the procedural opportunities available in each forum, and the existence
+
+of inconsistent determinations of the same issue in separate prior cases.” Trepanier, 155 Vt. at
+
+265, 583 A.2d at 587.
+
+¶ 41. DCF, as plaintiff, seeks to apply collateral estoppel against petitioner. This is an
+
+example of offensive collateral estoppel. We have previously explained that “[t]he use of offensive
+
+collateral estoppel is more controversial than the use of defensive collateral estoppel, and generally
+
+requires additional considerations.” Id. at 265 n.2, 583 A.2d at 588 n.2; see also In re R.H., 2010
+
+VT 95, ¶ 33 (same). The United States Supreme Court enunciated factors courts should consider
+
+11
+In cases where the issues between the two proceedings are a closer call, we recently
+explained that additional factors may be appropriate to decide the question. See State v. Nutbrown-
+Covey, 2017 VT 26, ¶¶ 10-11, 204 Vt. 363, 169 A.3d 216 (adopting considerations for courts
+weighing second and third Trepanier factors from Restatement § 27 comment c); see also In re
+H.H., 2020 VT 107, ¶ 25 (citing factors enunciated in Nutbrown-Covey). However, because we
+conclude that the issue here is the same in each proceeding, we need not proceed with a discussion
+of those additional considerations.
+18
+
+when deciding whether offensive collateral estoppel is fair. Parklane Hosiery Co. v. Shore, 439
+
+U.S. 322, 329-31 (1979) (“[O]ffensive use of collateral estoppel does not promote judicial
+
+economy in the same manner as defensive use does.”). These factors may include whether: (1) the
+
+plaintiff could easily have joined in the earlier action; (2) the plaintiff adopted a “wait-and-see”
+
+approach hoping that another plaintiff obtained favorable judgment against the defendant; (3) a
+
+defendant failed to litigate vigorously in the first action; (4) the second action affords the
+
+defendant procedural opportunities that were unavailable in the first action; and (5) it would be
+
+unfair to apply collateral estoppel to a judgment that is inconsistent with previous judgments in
+
+favor of the defendant Id.; see also Bifolck v. Philip Morris USA Inc., 936 F.3d 74, 84 (2d Cir.
+
+2019) (applying some Parklane Hosiery factors and explaining that list is not exclusive).
+
+¶ 42. Offensive collateral estoppel is appropriate here because the first, second, third, and
+
+fourth Parklane Hosiery considerations above do not weigh in petitioner’s favor, and the fifth is
+
+inapplicable. First, DCF could not have joined the State in prosecuting petitioner in the first action.
+
+Therefore, the first Parklane Hosiery factor weighs in favor of DCF.
+
+¶ 43. The second Parklane Hosiery factor also weighs in favor of DCF. While DCF did
+
+stay petitioner’s request for administrative review of its substantiation determination while he
+
+litigated the criminal action, he points to nothing in the record indicating DCF’s actions were a
+
+calculated strategy to obtain a favorable judgment before deciding to proceed against him. In fact,
+
+he requested the stay himself. See 33 V.S.A. § 4916a(c)(2) (permitting stays pursuant to request
+
+of person substantiated). DCF already had the State’s evidence before he entered his plea, which
+
+was sufficient on its own to substantiate petitioner. Thus, DCF did not adopt a “wait-and-see”
+
+approach.
+
+¶ 44. The third Parklane Hosiery factor asks whether the defendant litigated vigorously
+
+in the first proceeding. 439 U.S. at 329-31. Petitioner does not argue that he failed to vigorously
+
+litigate his criminal defense. He does not attack his plea agreement or allege that the plea colloquy
+
+19
+
+was improperly conducted; nor does the record contain any evidence indicating otherwise.12 We
+
+presume petitioner had an “incentive to fully litigate and defend” in an action where his liberty
+
+interests were at stake. See Allen v. Martin, 203 P.3d 546, 561 (Colo. App. 2008) (quotation
+
+omitted).
+
+¶ 45. As explained above, our safeguards are designed to ensure that defendants
+
+voluntarily and expressly admit their guilt. At the plea colloquy, petitioner admitted to the factual
+
+basis underlying each charge, indicated that he understood the elements of the charges, and waived
+
+his constitutional right to trial and rights related to trial. He answered “No” when asked whether
+
+he was coerced into the plea agreement, testified that he was of sound mind, and again answered
+
+“No” when given an opportunity to ask questions. Petitioner concedes he “pleaded guilty with the
+
+assistance of highly competent trial counsel based on the evidence against him.” Permitting
+
+petitioner to now take a different position than he took in the criminal action on the issue of whether
+
+he possessed child pornography defies the purposes of collateral estoppel, which include
+
+encouraging the public to trust the judicial process. See Harwood, 2013 VT 89, ¶ 10 (“The purpose
+
+of collateral estoppel is to conserve court resources by protecting the recourses against repetitive
+
+litigation, to promote the finality of judgments, to encourage reliance on judicial decisions, and to
+
+decrease the chances of inconsistent adjudication.” (quoting In re P.J., 2009 VT 5, ¶ 8)). The third
+
+Parkland Hosiery factor weighs in DCF’s favor.
+
+¶ 46. The fourth Parklane Hosiery factor asks whether petitioner has procedural
+
+opportunities in the second action that were unavailable in the first action. 439 U.S. at 331 n.15
+
+(providing example of unfair procedural opportunity where defendant in first action was forced to
+
+12
+Petitioner also does not challenge the admission of his plea before the Board. The statute
+governing fair hearings provides that a “plea of any type . . . shall be competent evidence in a
+hearing held under this subchapter.” 33 V.S.A. § 4916b(b)(4). Presumably, this would also
+include a plea of nolo contendere. See V.R.Cr.P. 11(b). Though we express no opinion on it
+today, the Reporter’s Notes to Rule 11 suggest that nolo contendere pleas do not have collateral-
+estoppel effect. Reporter’s Notes, V.R.Cr.P. 11.
+20
+
+litigate in inconvenient forum which hampered ability to conduct discovery and call witnesses).
+
+Petitioner does not have procedural opportunities available to him in the substantiation
+
+proceedings that he did not have in the first action. As we have emphasized, criminal defendants
+
+in Vermont who plead guilty are afforded significant procedural safeguards to ensure that their
+
+pleas are voluntary. Therefore, the fourth Parklane Hosiery factor weighs in DCF’s favor.
+
+Offensive collateral estoppel is appropriate in this case.
+
+¶ 47. Returning to the final Trepanier element, application of collateral estoppel in this
+
+case is fair because the evidentiary burden in the criminal prosecution exceeded DCF’s burden in
+
+the substantiation proceedings. We have held that collateral estoppel was not appropriate to apply
+
+against the State in a subsequent civil-suspension hearing where it failed to prove elements of a
+
+charge beyond a reasonable doubt in an earlier criminal action. See Pollander, 167 Vt. at 306-07,
+
+706 A.2d at 1362. We explained “that what cannot be proven beyond a reasonable doubt may still
+
+be proven by a preponderance of the evidence.” Id. at 306, 706 A.2d at 1362. However, it follows
+
+that what is proven beyond a reasonable doubt is proven by a preponderance of the evidence. Put
+
+differently, by proving the allegations in the criminal prosecution, the State also impliedly met
+
+DCF’s “burden of proving that it has accurately and reliably concluded that a reasonable person
+
+would believe that the child has been abused and neglected by that person.” 33 V.S.A. § 4916a(e).
+
+Accordingly, the fourth and fifth Trepanier elements are met. Petitioner has failed to meet his
+
+burden to demonstrate that collateral estoppel is inappropriate. In re P.J., 2009 VT 5, ¶ 13.
+
+IV. Fair Hearing
+
+¶ 48. Petitioner’s only remaining argument is that he was deprived of a fair hearing as
+
+provided by 33 V.S.A. § 4916b, because the Board applied collateral estoppel to prevent him from
+
+relitigating the facts underlying his criminal conviction, rather than allowing him a full hearing.
+
+However, we held in In re P.J. that where the Board appropriately applies collateral estoppel, a
+
+petitioner is not entitled to an evidentiary hearing to relitigate the issue. Id. ¶ 15 (“As all the
+
+21
+
+elements of the Trepanier test have been satisfied, we find that the CHINS determination precludes
+
+mother from relitigating the . . . facts and affirm the Board’s denial of a hearing to do so.”).
+
+Therefore, we affirm.
+
+Affirmed.
+
+FOR THE COURT:
+
+Associate Justice
+
+22

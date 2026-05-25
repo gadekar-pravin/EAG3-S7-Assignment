@@ -1,0 +1,603 @@
+=========================================================
+Case: Kenneth D. Cook v. State of Tennessee
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-07-01
+Citations: 
+URL: https://www.courtlistener.com/opinion/9987442/kenneth-d-cook-v-state-of-tennessee/
+Source Query: murder conviction appeal
+=========================================================
+
+07/01/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs June 4, 2024
+
+KENNETH D. COOK v. STATE OF TENNESSEE
+
+Appeal from the Circuit Court for Gibson County
+Nos. H9849, 19858 Clayburn Peeples, Judge
+___________________________________
+
+No. W2023-01408-CCA-R3-PC
+___________________________________
+
+The Petitioner, Kenneth D. Cook, appeals from the denial of his petition seeking post-
+conviction relief from his guilty plea convictions of solicitation of first-degree murder,
+robbery, and aggravated assault with serious bodily injury. Upon our review, we affirm.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+CAMILLE R. MCMULLEN, P.J., delivered the opinion of the court, in which TIMOTHY L.
+EASTER and TOM GREENHOLTZ, JJ., joined.
+
+Kelly F. Tomlinson, Brownsville, Tennessee, for the appellant, Kenneth D. Cook.
+
+Jonathan Skrmetti, Attorney General and Reporter; Benjamin A. Ball, Senior Assistant
+Attorney General; Frederick H. Agee, District Attorney General; and Scott Kirk, Assistant
+District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+On June 3, 2019, the day the Petitioner was set to go to trial, he entered guilty pleas
+in case numbers 19858 (solicitation of first-degree murder) and H-9849 (robbery and
+aggravated assault with serious bodily injury). Before entering his guilty pleas, the trial
+court explained that they were conducting the plea colloquy in the judge’s chambers instead
+of the courtroom where the jury was seated in the event they still needed to go forward
+with the trial. The Petitioner waived jurisdiction in his Humbolt based robbery and
+aggravated assault case to dispose of it at the same time as the Trenton based solicitation
+of first-degree murder. The trial court advised the Petitioner of his rights if he chose to
+proceed to trial, including the right to counsel, the right to remain silent, the right to
+confront and cross-examine witnesses against him, and the right to call witnesses on his
+
+behalf. The trial court advised the Petitioner these rights would be waived by entering into
+the plea agreement. The trial court further advised the Petitioner that if his guilty pleas
+were accepted by the court, it would “close the matter forever with regard to your guilt or
+innocence of the things to which you plead guilty” and that these convictions may be used
+to enhance his sentence on any later convictions. The trial court asked the Petitioner if he
+had any questions, and the Petitioner replied, “No, sir. I just wanted to make sure that I’m
+signing for one [thirty]-year sentence at [thirty] percent and not no consecutive of [fifteen]
+and a [fifteen] consecutive while I’m out to serve a [fifteen] followed by another [fifteen].”
+
+The trial court and the State engaged in a discussion and explained the alignment of
+the Petitioner’s sentence and assured the Petitioner he was receiving a concurrent sentence.
+The trial court then asked the Petitioner if he had any further questions, and the Petitioner
+said no. The trial court then asked the Petitioner if he had enough time to make a decision,
+and the following lengthy exchange occurred:
+
+[THE PETITIONER]: Well, I don’t know. On the hands of
+everything going on, I said I didn’t have no choice.
+
+THE COURT: All right. Well, General – I’m going to ask the
+prosecutor to tell me what happened. And you do have a choice. The
+choice is to go to trial, but I know you don’t want to do that.
+
+[THE PETITIONER]: I’m saying as far as the decision –
+
+THE COURT: I know. I understand.
+
+[THE PETITIONER]: -- of going to trial was sprung on me at the last
+minute.
+
+[THE STATE]: All right. Your Honor –
+
+THE COURT: Wait. Wait just a minute. Let -- before you do that,
+let’s explore what he just said. He said this is sprung on him at the
+last minute.
+
+[THE STATE]: Okay.
+
+[DEFENSE COUNSEL]: Your Honor, I think last Thursday about
+eight days ago I got an all-inclusive offer to handle all of his cases
+from [the State]. I believe it was that -- that evening.
+
+-2-
+
+[THE STATE]: At this point, the last Thursday was like twelve days
+ago because today is Monday.
+
+[DEFENSE COUNSEL]: Oh, you’re right. I’m sorry. I got confused.
+Yes. That’s—
+
+[THE STATE]: Four plus seven - eleven days ago.
+
+[DEFENSE COUNSEL]: Right. Last Thursday we got the all-
+inclusive offer -- this exact offer. Now I had tried -- at that point, [the
+Petitioner] was housed at Morgan County. And I attempted to contact
+Morgan County to get up there to go visit him. They never even -- I
+never got a return call from them, but, however, [the Petitioner] had
+left Morgan County that next week, I think, at -- on Tuesday.
+
+[THE PETITIONER]: Wednesday.
+
+[DEFENSE COUNSEL]: Okay. On Wednesday. And came back
+and came to Trenton -- or came to Henning. He went to Henning
+TDOC and then from Henning went to Gibson County later
+Wednesday evening. I attempted to contact him. I got some
+information that he would be here Wednesday -- meaning here --
+meaning Gibson County Jail, and he was not there yet.
+
+So the first time I was able to talk to him about this offer was Thursday
+morning. I talked to him for about four hours on Thursday morning
+and –
+
+THE COURT: “This offer” being the offer that he ultimately has
+taken?
+
+[DEFENSE COUNSEL]: That’s right.
+
+THE COURT: All right.
+
+[DEFENSE COUNSEL]: That is correct.
+
+[THE STATE]: For the record so it was four days ago you began
+talking to him?
+
+[DEFENSE COUNSEL]: Correct.
+-3-
+
+[THE STATE]: And –
+
+THE COURT: All right.
+
+[THE STATE]: -- met with him for four hours that day?
+
+[DEFENSE COUNSEL]: Yes.
+
+THE COURT: And, of course, you know, the record will show that
+we were in court here Friday morning and we discussed your
+situation.
+
+[THE PETITIONER]: And now really the plea deadline was actually
+the date that I was told.
+
+[DEFENSE COUNSEL]: Right. That’s - that is correct.
+
+THE COURT: This -- that -- I understand that.
+
+[THE STATE]: Your Honor, that is true. And for the record, I re-
+thought the State’s position in light of I didn’t want [the Petitioner]
+put on the spot like that. They did communicate with me Friday
+afternoon as in three days ago that they wanted to take the offer. And
+at that point, I said, you know, “It’s too late.” I thought about that
+over the weekend, and I talked to General Brown. Even though the
+offer had been made over a week prior to that, I know that [the
+Petitioner] didn’t get it until Thursday. So I talked to [defense
+counsel] yesterday, and I said, “We’ll do that [thirty] years.” And I
+changed my mind and talked to the boss. He said, “Okay.” He went
+and met with [the Petitioner], and here we are now doing exactly what
+the offer was made that was made –
+
+THE COURT: Well, had there been a previous offer?
+
+[THE STATE]: -- eleven days ago. There had been an offer on his
+old cases prior to this Solicitation of Murder. But that offer was an
+all[-]inclusive [twenty]-year sentence.
+
+THE COURT: For the Humboldt matters?
+
+-4-
+
+[THE STATE]: For the – and he’s got several other things. I’m
+dismissing three docket numbers upon his pleas in this. He -- it was
+a package [twenty][-]year offer. He picked up this new Solicitation
+and Conspiracy to Commit Murder, and we changed that to a [thirty]-
+year offer. And he had exposures much, much greater than that.
+
+[DEFENSE COUNSEL]: Right. But initially your offer was [forty]
+years. It was [twenty] and [twenty] to him?
+
+[THE STATE]: That’s correct.
+
+[DEFENSE COUNSEL]: Correct?
+
+THE COURT: Had you conveyed that to him?
+
+[DEFENSE COUNSEL]: Yes.
+
+[THE PETITIONER]: What was the [twenty-five] that you said that
+you never knew the percentage on that they had offered and I asked
+you to get back to me about the [twenty-five]? Do you remember the
+first time we came for this and you said they offered [twenty-five],
+but you don’t know what percentage it was. And you think it was just
+on the—
+
+THE COURT: Humboldt cases.
+
+[THE PETITIONER]: No. It was supposed to have just been on this
+case. You said you didn’t know for sure what it was.
+
+[DEFENSE COUNSEL]: I don’t recall that [twenty-five]-year offer
+because I know I -- I just recall there was a [twenty]-year offer on this
+case, and it was a [twenty]-year offer on your Humboldt case, and
+their offer was to run it consecutive for a sentence of [forty] years.
+
+THE COURT: [Petitioner], do you wish to take this offer?
+
+[THE PETITIONER]: Yes, sir.
+
+Upon hearing that the Petitioner accepted the State’s offer, the State provided the
+factual basis in support of the guilty pleas in the Humboldt case, case number H-9849:
+
+-5-
+
+[THE STATE]: -- the proof would show that on January 27, 2016,
+this [Petitioner] did go to a residence located at 224 West Avenue in
+Medina; Tennessee, which was the residence of Melissa Smothers.
+There he did go and brandished a weapon. And there was at least one
+other person present, that being Diamond Street. And he did take a
+sum of money from Ms. Smothers, the proof would show, at gunpoint,
+that this was essentially an Aggravated Robbery, that the amount of
+cash taken was approximately $13,000. We resolved this as a plea to
+one count of Simple Robbery and two counts of Aggravated Assault,
+being the brandishing of a weapon in the presence of the two adults
+that were there. This is a multi, multi-count indictment. He’s
+pleading to Count 4, Count 10, and Count 12. All other counts will
+be dismissed.
+
+The trial court asked, and the State confirmed that the Petitioner would receive “a
+15[-]year sentence for each” of the above convictions even though the sentence was outside
+of the Petitioner’s range. The trial court also asked, and the State confirmed that the
+Petitioner’s convictions in the Humbolt case would be served concurrently with Case
+number 19858, the solicitation of first-degree murder. The Petitioner was also required to
+pay restitution. The factual basis in support of Case number 19858 was as follows:
+
+[I]n Case Number 19858, this [Petitioner] while incarcerated in the Gibson
+County Jail was awaiting trial on the aforementioned Number H-9849. That
+trial was set to occur on May 18, 2017, being with the victim, Melissa
+Smothers, from the H-9849 would have been the State’s key witness in the
+prosecution of that on that trial date of May 18, 2017. Shortly before May
+18, 2017, approximately, the proof would show May 6th of 2017, this
+[Petitioner] while in the county jail awaiting trial did approach Jason Samples
+who was also an inmate serving a sentence at the jail and did inquire about
+whether or not he could kill Melissa Smothers in exchange for a payment.
+Jason Samples had somehow developed a reputation as being some type of a
+hit man. I think the proof would show that he is not a hit man but that he
+somehow had that reputation.
+
+Approximately a day after that, Mr. Samples did write letters to Paul Thomas,
+to Garry Brown telling him - telling them that he’d been approached in the
+jail. Ultimately[,] we contacted the [Tennessee Bureau of Investigation
+(“TBI”)]. The TBI got with Mr. Samples and gave him a recording device,
+and he went inside the jail and recorded [the Petitioner] in more than one
+conversation discussing how he would be paid for carrying out this murder.
+He was to get out a few days later, and they had made arrangements or they
+-6-
+
+were going to make arrangements to get Mr. Samples a gun and an amount
+of illegal drugs in exchange for payment for the murder. Once Mr. Samples
+got out of jail, he was given a phone number that was: a TBI recorded line
+number or a TBI number. Mr. Samples had given that number to [the
+Petitioner] as being his contact information. And after Mr. Samples was out,
+he awaited contact from someone that was going to provide him a gun and
+the illegal drugs.
+
+That was all a setup where agents were going to apprehend whoever made
+the delivery. [The Petitioner] did place several phone calls from the jail to
+various people including, among others, the co-defendant, Monique Lennon.
+And the proof would show that it was in an attempt to get this delivery made
+to Mr. Samples. But ultimately the delivery was never made. The victim
+was notified because the delivery had never been made of the items, and the
+arrest had never been made. She was notified of this potential threat to her
+life. One person told another person, and pretty soon everybody knew,
+including, I believe, [the Petitioner] in the jail. And that was sort of the end
+of this sting operation. [The Petitioner] was indicted along with Ms. Lennon
+on a two-count indictment. He’ll be pleading to the Solicitation of First:
+Degree Murder. That’ll be Count 2. Count 1 would be dismissed. He will
+receive an out-of-range sentence of [thirty] years, being the maximum
+sentence for a B Felony, but at the less range of [thirty] percent- - . . . .
+concurrent with the Humbolt case.
+
+The trial court asked the Petitioner, “[I]s that essentially what happened in those
+cases?” The Petitioner responded, “That’s what they’ve got on paper. Yes, sir.” The trial
+court asked again, “Is that essentially what happened?” And the Petitioner replied, “Yes,
+sir. That’s part of it. Yes, sir.” The State noted that the Petitioner’s sentences would be
+served consecutively to an unrelated case for which the Petitioner was serving a four-year
+term. The trial court then determined that the Petitioner had entered his guilty pleas
+knowingly and voluntarily with the advice of competent counsel and imposed a sentence
+consistent with the plea agreement.
+
+The Petitioner timely filed a pro se post-conviction petition alleging numerous
+grounds for relief, including an allegation that his plea was unlawfully induced or
+involuntarily entered because “counsel failed to give [the Petitioner] any discovery to help
+prepare for his case” and “counsel was not truthful about the trial/plea[.]” The Petitioner
+asserted that “counsel failed to give any evidence found during the discovery process with
+the State to the [the Petitioner] until the day of trial.” The Petitioner acknowledged that
+counsel “gave a jump drive to the [the Petitioner’s] mom at the [Petitioner’s] request,” but
+she was unable to access any information from it. Without the State’s evidence against the
+-7-
+
+Petitioner, the Petitioner argued he was not able to prepare his defenses with counsel nor
+was he able to decide until the day of trial whether he should accept a plea offer. The
+Petitioner additionally alleged that he was “told to dress” for trial on what he believed to
+be his trial day in court. However, instead of going into the courtroom on the trial day, the
+[Petitioner] was directed to the Judge’s Chambers for the plea agreement. The Petitioner
+asserted he was not prepared for what happened in chambers as he had just received
+discovery from counsel. The post-conviction court subsequently appointed post-
+conviction counsel, who filed an amendment to the petition, and the State filed a response
+denying all claims.
+
+As relevant to the issue raised herein, the following proof was adduced at the post-
+conviction evidentiary hearing on August 2, 2023. Regarding discovery, the Petitioner was
+aggrieved because counsel “never gave [him] any motion at all.” The Petitioner testified
+that he had been in jail for over two years and had not received any “paperwork” from
+counsel. The Petitioner said counsel gave the Petitioner’s family “a disc which they took
+several places trying to get the information off of, but nothing was there.” On the day set
+for trial, the Petitioner stated he received “the Motion for Discovery which [counsel] signed
+a piece of paper to still basically admit that he just now gave me that Motion of Discovery
+the day that I’m signing the plea.” The Petitioner explained he was sitting in the hallway,
+and counsel went to print off a copy of the discovery and gave it to the Petitioner on the
+day of his guilty pleas. The Petitioner said he was unable to review his discovery prior to
+entry of his guilty pleas because he did not have time and he was “rush[ed].” The Petitioner
+said he did not have time to review any of the evidence or what “[he] could have been
+going up against” or “if [he] wanted to change [his] mind or anything.” The Petitioner
+believed “it was like . . . a tactic. I didn’t . . . I didn’t have no choice.” The Petitioner said
+he signed the plea deal when counsel gave him the discovery.
+
+On cross-examination, the Petitioner agreed that he told the court that the facts
+announced by the State were “essentially” what happened. The Petitioner explained,
+however, that was only “part of it” because he did not have discovery material to know
+what he was “up against.” Although he knew “what the TBIs came to the jail and
+approached him about,” he insisted he never knew any of the evidence against him. He
+maintained that he was forced to take a plea deal without knowing any of the evidence
+against him.
+
+Counsel testified that he visited the Petitioner at least nine times in jail. Counsel
+filed motions for discovery in all of the Petitioner’s cases, and he believed “the problem
+with getting the [Petitioner] discovery” was the number of cases the Petitioner had.
+Counsel explained that in the process of getting some of those cases dismissed, the
+Petitioner was indicted for the solicitation of first-degree murder. All the discovery in that
+case consisted of recordings and statements the Petitioner made to a jailhouse informant.
+-8-
+
+Counsel said the Petitioner “has no access to get . . . digital copies of that.” However,
+counsel said he reviewed with the Petitioner all of the discovery, including “paper
+discovery and everything as far as what the recordings had on them.” Counsel recalled that
+they may have listened to some of the recordings together. Counsel obtained a private
+investigator and a cell phone expert to assist in the investigation of the case. Counsel
+vaguely recalled giving the Petitioner’s mother a copy of the recordings and that she had
+difficulty accessing the digital recordings from the compact disc.
+
+Counsel agreed that he gave the Petitioner a packet of paperwork “at the last hour[,]”
+however, counsel could not recall if it was discovery material. Counsel recalled the day of
+the guilty plea differently than the Petitioner. Counsel said that on June 3, 2019, the
+Petitioner was set to go to trial. However, a week prior to that day, the State had contacted
+counsel and advised him they had until the end of the week to accept the plea agreement.
+After that date, “all plea deadlines [were] off.” On the day counsel received the initial call
+from the State relaying the plea deadline, a Wednesday, counsel went to meet with the
+Petitioner, but he was not there. The next day, counsel met with the Petitioner for four
+hours, explained the final plea offer, and reviewed the Petitioner’s “total exposure on all of
+his cases.” This meeting involved a “very heated exchange,” and counsel filed a motion to
+withdraw based on it. However, later that same day, counsel received a call from the
+Petitioner wanting to accept the State’s offer. Counsel contacted the State; however, they
+told him it was beyond the deadline and refused to accept it. Counsel met with the
+Petitioner that weekend and explained the situation. The Sunday before the day of trial,
+counsel was notified by the State that they would allow the Petitioner to plead guilty if he
+still wanted to do so. Counsel then notified the Petitioner, and the Petitioner said, “That’s
+fine.”
+
+The post-conviction court issued an order denying relief on August 31, 2023. The
+order incorporated the court’s findings of fact and conclusions of law from the evidentiary
+hearing which provided, in relevant part, as follows:
+
+Okay. Let me deal with [the Petitioner’s] accusations, if you will, or
+positions, one at a time. First of all with regard to ineffective assistance of
+counsel, I think it’s clear from [defense counsel’s] testimony today and from
+the record in this case that he did an extremely effective job of representing
+[the Petitioner] under very, very difficult circumstances. He -- in twenty
+years of being a judge and twenty before that of being a District Attorney,
+I’ve never heard in a case like this an attorney say he had visited the client in
+jail at least nine times. Normally the accusation is that “He never came to
+see me” or “He only came to see me once.” And frankly I know from
+observing [defense counsel] in many, many other cases he does pay personal
+attention to his clients, and he does visit them even when incarcerated. So I
+-9-
+
+have no doubt that at least nine times when he testifies to that means at least
+nine times.
+....
+With regard to the discovery, again, going to [defense counsel’s] testimony,
+a great, great deal of discovery was obtained in this case. I have not heard
+any proof of any discovery that was not obtained that would have changed
+the posture of this case in -- in any way.
+....
+[The Petitioner] calls this a “surprise plea deal.” This -- this was an extended,
+long-running plea agreement. I find it significant frankly that he’s the one
+who said he wanted the deal. And the District Attorney’s Office at first said,
+“No. We’re not going to do it. You’ve waited too long.” The only surprise
+was that they changed their mind. But they didn’t offer him something then
+that they hadn’t already offered. So I -- I just don’t find any merit in that at
+all.
+
+I also frankly after reading the statements in the transcript by the judge don’t
+believe that that influenced him to plead guilty unless, in fact, the information
+the judge gave him might have influenced him. It always grieves me as a
+judge when a defendant refuses to plead guilty to something and then is found
+guilty and gets a sentence of three or four or maybe even five or six times
+what the plea agreement was. Based upon what I’ve seen in this case, I think
+it’s probable that the [Petitioner] would have gotten substantially more than
+thirty years. This lawyer testified that he was facing more than a hundred
+years as a possibility. And quite frankly, he might have gotten that too. He
+very possibly if not probably would have received a -- the equivalent of a life
+sentence had he gone to trial and been found guilty. And the evidence looked
+like he would, in fact, be found guilty. Now is it prejudicial to a defendant
+to make sure he knows that? I don’t think it is. And so I – I’m finding for
+all those reasons that the [Petitioner’s] motion is not well taken, and -- and it
+is denied.
+
+The Petitioner filed a timely notice of appeal, and this case is now properly before
+this court for review.
+
+ANALYSIS
+
+We begin our analysis by acknowledging the following well-established legal
+framework. Post-conviction relief is only warranted when a petitioner establishes that his
+or her conviction or sentence is void or voidable because of an abridgment of a
+constitutional right. Tenn. Code Ann. § 40-30-103. A post-conviction petitioner has the
+- 10 -
+
+burden of proving the factual allegations by clear and convincing evidence. Id. § 40-30-
+110(f); see Tenn. Sup. Ct. R. 28, § 8(D)(1); Nesbit v. State, 452 S.W.3d 779, 786 (Tenn.
+2014). Evidence is considered clear and convincing when there is no serious or substantial
+doubt about the accuracy of the conclusions drawn from it. Lane v. State, 316 S.W.3d 555,
+562 (Tenn. 2010); Grindstaff v. State, 297 S.W.3d 208, 216 (Tenn. 2009); Hicks v. State,
+983 S.W.2d 240, 245 (Tenn. Crim. App. 1998).
+
+A claim for post-conviction relief based on alleged ineffective assistance of counsel
+presents a mixed question of law and fact. Mobley v. State, 397 S.W.3d 70, 80 (Tenn.
+2013) (citing Calvert v. State, 342 S.W.3d 477, 485 (Tenn. 2011)). A post-conviction
+court’s findings of fact are conclusive on appeal unless the evidence in the record
+preponderates against them. Calvert, 342 S.W.3d at 485 (citing Grindstaff, 297 S.W.3d at
+216; State v. Burns, 6 S.W.3d 453, 461 (Tenn. 1999)). “Accordingly, we generally defer
+to a post-conviction court’s findings with respect to witness credibility, the weight and
+value of witness testimony, and the resolution of factual issues presented by the evidence.”
+Mobley, 397 S.W.3d at 80 (citing Momon v. State, 18 S.W.3d 152, 156 (Tenn. 1999)).
+“However, we review de novo a post-conviction court’s application of the law to its factual
+findings and accord no presumption of correctness to the court’s conclusions of law.” Id.
+(citing Grindstaff, 297 S.W.3d at 216; Finch v. State, 226 S.W.3d 307, 315 (Tenn. 2007);
+Vaughn v. State, 202 S.W.3d 106, 115 (Tenn. 2006)).
+
+The right to effective assistance of counsel is protected by both the United States
+Constitution and the Tennessee Constitution. U.S. Const. amend. VI; Tenn. Const. art. I,
+§ 9. In order to prevail on an ineffective assistance of counsel claim, a petitioner must
+establish (1) his lawyer’s performance was deficient and (2) the deficient performance
+prejudiced the defense. Goad v. State, 938 S.W.2d 363, 369 (Tenn. 1996); Strickland v.
+Washington, 466 U.S. 668, 687 (1984). A petitioner proves deficient performance if the
+petitioner proves that “counsel’s acts or omissions were so serious as to fall below an
+objective standard of reasonableness under prevailing professional norms.” Id. (citing
+Strickland, 466 U.S. at 688; Baxter v. Rose, 523 S.W.2d 930, 936 (Tenn. 1975)). A
+petitioner proves that a deficiency resulted in prejudice if the petitioner establishes “a
+reasonable probability that, but for counsel’s unprofessional errors, the result of the
+proceeding would have been different. A reasonable probability is a probability sufficient
+to undermine confidence in the outcome.” Id. at 370 (quoting Strickland, 466 U.S. at 694).
+However, to establish prejudice in the context of a guilty plea, a petitioner must show that
+there is a reasonable probability that, but for counsel’s errors, the petitioner would not have
+entered his guilty plea and would have proceeded to trial. Serrano v. State, 133 S.W.3d
+599, 605 (Tenn. 2004) (citing Hill v. Lockhart, 474 U.S. 52, 59 (1985)).
+
+- 11 -
+
+The Supreme Court clarified this standard in Lee v. United States, 582 U.S. 357
+(2017), noting that the inquiry demands “a case-by-case examination of the totality of the
+evidence.” Id. at 358 (internal quotation marks omitted). The Court elaborated:
+
+Surmounting Strickland’s high bar is never an easy task,” Padilla v.
+Kentucky, 559 U.S. 356, 371[] (2010), and the strong societal interest in
+finality has “special force with respect to convictions based on guilty pleas.”
+United States v. Timmreck, 441 U.S. 780, 784[] (1979). Courts should not
+upset a plea solely because of post hoc assertions from a defendant about
+how he would have pleaded but for his attorney’s deficiencies. Judges should
+instead look to contemporaneous evidence to substantiate a defendant’s
+expressed preferences.
+
+Lee, 582 U.S. at 368-69. “Because a petitioner must establish both prongs of the
+[Strickland] test, a failure to prove either deficiency or prejudice provides a sufficient basis
+to deny relief on the ineffective assistance claim.” Goad, 938 S.W.2d at 370.
+
+The validity of a guilty plea is a mixed question of law and fact that is reviewed de
+novo. Lane, 316 S.W.3d at 562. To be valid, a guilty plea must be entered into knowingly,
+voluntarily, and intelligently. Id. (citing State v. Mackey, 553 S.W.2d 337, 340 (Tenn.
+1977); North Carolina v. Alford, 400 U.S. 25, 31 (1970); Brady v. United States, 397 U.S.
+742, 747 (1970); Boykin v. Alabama, 395 U.S. 238, 242-44 (1969)). “[T]he record of
+acceptance of a defendant’s plea of guilty must affirmatively demonstrate that his decision
+was both voluntary and knowledgeable, i.e., that he has been made aware of the significant
+consequences of such a plea[.]” Mackey, 553 S.W.2d at 340; see Tenn. R. Crim. P.
+11(b)(1). “Courts are constitutionally required to notify defendants of only the direct
+consequences—not the collateral consequences—of a guilty plea.” Ward v. State, 315
+S.W.3d 461, 467 (Tenn. 2010). “The most obvious ‘direct consequence’ of a conviction is
+the penalty to be imposed. It is, therefore, well-recognized that the defendant must be
+apprised of the sentence that he will be forced to serve as the result of his guilty plea and
+conviction.” Blankenship v. State, 858 S.W.2d 897, 905 (Tenn. 1993) (internal quotations
+omitted).
+
+When determining whether a guilty plea was knowingly, voluntarily, and
+intelligently entered, the court must consider “whether the plea represents a voluntary and
+intelligent choice among the alternative courses of action open to the defendant.” Lane,
+316 S.W.3d at 562 (quoting Grindstaff, 297 S.W.3d at 218). If a guilty plea is not
+knowingly, voluntarily, and intelligently entered, then the defendant has been denied due
+process, and the guilty plea is void. Id. (citations omitted). A plea is not voluntary if it is
+the result of “[i]gnorance, incomprehension, coercion, terror, inducements, [or] subtle or
+blatant threats. . . .” Blankenship, 858 S.W.2d at 904 (quoting Boykin, 395 U.S. at 242-
+- 12 -
+
+43). In determining whether a guilty plea is voluntarily and intelligently entered, a trial
+court must look at a number of factors, which include the following:
+
+1) the defendant’s relative intelligence; 2) the defendant’s familiarity with
+criminal proceedings; 3) the competency of counsel and the defendant’s
+opportunity to confer with counsel about alternatives; 4) the advice of
+counsel and the court about the charges and the penalty to be imposed; and
+5) the defendant’s reasons for pleading guilty, including the desire to avoid
+a greater penalty in a jury trial.
+
+Howell v. State, 185 S.W.3d 319, 330-31 (Tenn. 2006) (citing Blankenship, 858 S.W.2d at
+904).
+
+Based on the Petitioner’s supplemental brief, the sole issue for our review is
+“whether delivering the Defendant’s discovery to him on the day of the trial/plea deal
+violates Defendant’s Sixth Amendment rights where Defendant was harmed.” Combined
+with the issue presented in the petition for post-conviction relief, we interpret the Petitioner
+to claim that his guilty plea was not knowingly and voluntarily entered based on trial
+counsel’s failure to provide Petitioner with discovery until the day of the guilty pleas. The
+State initially contends the Petitioner has waived appellate review for failure to provide
+adequate citation and authority in support of his issues and for failure to provide an
+adequate record.1 The State nevertheless argues the Petitioner failed to present clear and
+convincing evidence to overcome the trial court’s finding that his guilty plea was knowing
+and voluntarily made with the advice of competent counsel and the Petitioner’s
+acknowledgments during the guilty plea colloquy.
+
+While not entirely clear from the Petitioner’s brief, the thrust of the Petitioner’s
+argument in support of this issue is that he was “rushed” into pleading guilty and did not
+review the evidence against him before entering his guilty pleas. The Petitioner does not
+argue on appeal that had trial counsel met with him more frequently than he did, he would
+have elected to proceed to trial rather than enter a guilty plea. Nor does the Petitioner
+identify the discovery information that he purportedly learned the day he entered his guilty
+pleas or explain how, based on this information, he would have proceeded to trial rather
+than enter his guilty pleas. Instead, the Petitioner laments generally that he pleaded guilty
+because he “felt like he had no choice.”
+
+1
+The State’s argument was well-taken, and on May 3, 2024, this court ordered the Petitioner
+to file a supplemental brief in accordance with Rule 27 of the Tennessee Rules of Appellate
+Procedure. On June 2, 2024, the Petitioner filed a supplemental brief.
+- 13 -
+
+Upon our review, we conclude that the record supports the determination of the
+post-conviction court. The guilty plea colloquy reflects that the Petitioner understood he
+could have proceeded to trial or entered the guilty pleas. The Petitioner’s primary concern
+at the guilty plea hearing was the alignment of his sentence, which was explained to him
+in detail by the court and the State. We acknowledge that the Petitioner expressed concern
+about the time in which he had to accept the State’s offer. However, the record shows the
+parties entered into plea negotiations on the Petitioner’s other cases before the entry of the
+guilty pleas. The court engaged in a lengthy discussion at the time of the guilty plea hearing
+to illustrate the extent of the negotiations, and the Petitioner agreed that he wanted to accept
+the State’s offer and enter the guilty pleas. The post-conviction court found that the
+Petitioner was not rushed into pleading guilty and characterized the deal as a “long-running
+plea agreement” and that the only “surprise” was that the State changed their mind and
+allowed the Petitioner to enter a plea agreement they had previously extended to him.
+
+Both counsel and the post-conviction court observed that the Petitioner was
+“intelligent” and “articulate.” Counsel met with the Petitioner at least nine times before he
+pled guilty and reviewed the discovery material with the Petitioner before entering the
+guilty pleas. Counsel explained that the discovery consisted primarily of recordings and
+that the Petitioner, an inmate, may not have had the equipment to listen to the recordings.
+However, counsel recalled listening to some of the recordings with the Petitioner. The
+post-conviction court credited counsel’s testimony that he met with the Petitioner nine
+times at the jail and that he reviewed the discovery with the Petitioner before entry of the
+guilty pleas. Finally, counsel and the court acknowledged that had the Petitioner proceeded
+to trial and been found guilty, he could have received “the equivalent of a life sentence[.]”
+The post-conviction court’s findings of fact “are conclusive on appeal unless the evidence
+preponderates against those findings.” Jaco v. State, 120 S.W.3d 828, 830 (Tenn. 2003);
+Younger v. State, No. E2018-02168-CCA-R3-PC, 2019 WL 7049692, at *4-5 (Tenn. Crim.
+App. Dec. 19, 2019). Accordingly, we conclude that the Petitioner failed to establish that
+his guilty pleas were unknowingly and involuntarily entered based on trial counsel’s
+alleged deficient performance. He is not entitled to relief.
+
+CONCLUSION
+
+Based on the foregoing reasoning and authority, we affirm the judgment of the post-
+conviction court.
+
+___________________________________________
+CAMILLE R. MCMULLEN, PRESIDING JUDGE
+
+- 14 -

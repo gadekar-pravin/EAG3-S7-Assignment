@@ -1,0 +1,353 @@
+=========================================================
+Case: Deanta Antwon Lavender v. State of Alabama (Appeal from Tuscaloosa Circuit Court: CC-20-1344)
+Court: Court of Criminal Appeals of Alabama
+Date Filed: 2024-05-03
+Citations: 
+URL: https://www.courtlistener.com/opinion/9499103/deanta-antwon-lavender-v-state-of-alabama-appeal-from-tuscaloosa-circuit/
+Source Query: murder conviction appeal
+=========================================================
+
+Rel: May 3, 2024
+
+Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter.
+Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue,
+Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections
+may be made before the opinion is published in Southern Reporter.
+
+Alabama Court of Criminal Appeals
+OCTOBER TERM, 2023-2024
+_________________________
+
+CR-2023-0278
+_________________________
+
+Deanta Antwon Lavender
+
+v.
+
+State of Alabama
+
+Appeal from Tuscaloosa Circuit Court
+(CC-20-1344)
+
+McCOOL, Judge.
+
+Deanta Antwon Lavender appeals his convictions for murder, see §
+
+13A-6-2, Ala. Code 1975; attempted murder, see § 13A-4-2 and § 13A-6-
+
+2, Ala. Code 1975; and discharging a firearm into an unoccupied vehicle,
+
+see § 13A-11-61, Ala. Code 1975. The trial court sentenced Lavender to
+
+CR-2023-0278
+
+life imprisonment for his murder and attempted-murder convictions and
+
+sentenced him to 10 years' imprisonment for his discharging-a-firearm-
+
+into-an-unoccupied-vehicle conviction. Those sentences are to run
+
+concurrently.
+
+Facts
+
+In the early morning hours of July 5, 2020, Kevin Matthews was
+
+shot and killed in the parking lot of an apartment complex in Tuscaloosa.
+
+Three witnesses for the State -- Jarodrick Nelson, Jamarcus Shaw, and
+
+Lavender's brother Antonio -- testified that they saw Lavender
+
+repeatedly shoot Matthews. Nelson further testified that Lavender shot
+
+him twice after shooting Matthews, and Shaw further testified that he
+
+saw Lavender shoot at another person who was hiding behind an
+
+unoccupied truck during the melee. The State's evidence indicated that
+
+two of the shots Lavender fired at that person hit the unoccupied truck.
+
+Discussion
+
+The only claim Lavender raises on appeal is that the trial court
+
+erred by denying his motion for a judgment of acquittal because, he says,
+
+the State's evidence was not sufficient to sustain his convictions. In
+
+support of that claim, Lavender argues that the testimony of the three
+
+2
+
+CR-2023-0278
+
+eyewitnesses were "fraught with inconsistencies and should be
+
+discounted," that neither Shaw nor Nelson identified him as the shooter
+
+at the time of the offenses, that Antonio admitted on cross-examination
+
+that he "was drunk and high" at the time of the offenses and that there
+
+was "bad blood" between Lavender and him, and that "there was no
+
+physical evidence connecting [him (Lavender)] to the shooting."
+
+(Lavender's brief, p. 7.)
+
+In reviewing the sufficiency of the State's evidence, this Court
+
+" ' "must accept as true all evidence introduced by the State,
+accord the State all legitimate inferences therefrom, and
+consider all evidence in a light most favorable to the
+prosecution." ' Ballenger v. State, 720 So. 2d 1033, 1034 (Ala.
+Crim. App. 1998) (quoting Faircloth v. State, 471 So. 2d 485,
+488 (Ala. Crim. App. 1984), aff'd, 471 So. 2d 493 (Ala. 1985))."
+
+Wilson v. State, 142 So. 3d 732, 809 (Ala. Crim. App. 2010).
+
+Section 13A-6-2(a)(1) provides that "[a] person commits the crime
+
+of murder if[,] … [w]ith intent to cause the death of another person, he or
+
+she causes the death of that person or of another person."
+
+Section 13A-4-2(a) provides that "[a] person is guilty of an attempt
+
+to commit a crime if, with the intent to commit a specific offense, he or
+
+she does any overt act towards the commission of the offense."
+
+3
+
+CR-2023-0278
+
+Section 13A-11-61(a) provides that "[n]o person shall shoot or
+
+discharge a firearm, explosive or other weapon which discharges a
+
+dangerous projectile into any occupied or unoccupied dwelling or building
+
+or railroad locomotive or railroad car, aircraft, automobile, truck or
+
+watercraft in this state."
+
+This Court has explained that " '[t]he testimony of an eyewitness,
+
+standing alone, is sufficient to support a defendant's conviction.' " Yancey
+
+v. State, 65 So. 3d 452, 473 (Ala. Crim. App. 2009) (quoting Lopez v.
+
+State, 415 So. 2d 1204, 1206 (Ala. Crim. App. 1982)). Here, the State
+
+presented three eyewitnesses who testified that they saw Lavender
+
+repeatedly shoot Matthews, who died as a result of his gunshot wounds,
+
+and Lavender's intent to kill Matthews could be inferred from his use of
+
+a deadly weapon. Henderson v. State, 248 So. 3d 992, 1007 (Ala. Crim.
+
+App. 2017). In addition, Nelson testified that Lavender shot him twice,
+
+and, again, Lavender's intent to kill Nelson could be inferred from his use
+
+of a deadly weapon. Id. Finally, Shaw testified that he saw Lavender
+
+shoot at a person who was hiding behind an unoccupied truck, and the
+
+State's evidence indicated that two of the shots Lavender fired at that
+
+person hit the truck.
+
+4
+
+CR-2023-0278
+
+The State's eyewitnesses clearly provided a sufficient basis upon
+
+which to convict Lavender of the murder of Matthews, the attempted
+
+murder of Nelson, and discharging a firearm into an unoccupied vehicle.
+
+Thus, the trial court did not err by denying Lavender's motion for a
+
+judgment of acquittal and submitting those charges to the jury. The
+
+arguments Lavender makes -- that the State's eyewitnesses were not
+
+credible and that there was no physical evidence to connect him to the
+
+crimes -- are arguments that address the weight of the evidence, not its
+
+sufficiency. See Harris v. State, [Ms. CR-2022-0934, Feb. 9, 2024] ___ So.
+
+3d ___, ___ (Ala. Crim. App. 2024) (noting that the defendant's arguments
+
+regarding a witness's credibility and the lack of physical evidence
+
+connecting him to the crimes were arguments that addressed the weight
+
+of the evidence). To the extent Lavender has attempted to raise a weight-
+
+of-the-evidence claim, he failed to preserve that claim for appellate
+
+review because he did not raise it in a motion for a new trial. Adams v.
+
+State, 336 So. 3d 673, 686 (Ala. Crim. App. 2020).
+
+The only claim Lavender has raised on appeal lacks merit. Thus,
+
+we affirm Lavender's convictions. However, we must remand this case
+
+to the trial court for that court to correct a sentencing error. Neither
+
+5
+
+CR-2023-0278
+
+party raises an issue regarding Lavender's sentences, but it is well
+
+settled that " '[m]atters concerning unauthorized sentences are
+
+jurisdictional' " and that this Court therefore " 'may take notice of an
+
+illegal sentence at any time.' " Harris ___ So. 3d at ___ (quoting,
+
+respectively, Hunt v. State, 659 So. 2d 998, 999 (Ala. Crim. App. 1994),
+
+and Austin v. State, 864 So. 2d 1115, 1117 (Ala. Crim. App. 2003)).
+
+One of Lavender's convictions was for the offense of discharging a
+
+firearm into an unoccupied vehicle, which is a Class C felony. § 13A-11-
+
+61(c). At the time of Lavender's offenses, § 13A-5-6(a)(3), Ala. Code 1975,
+
+provided that the sentence for a Class C felony had to be "not more than
+
+10 years or less than 1 year and 1 day and must be in accordance with
+
+subsection (b) of Section 15-18-8[, Ala. Code 1975,] unless sentencing is
+
+pursuant to Section 13A-5-9[, Ala. Code 1975]," i.e., the Habitual Felony
+
+Offender Act. At the time of Lavender's offenses, § 15-18-8(b), Ala. Code
+
+1975, provided, in pertinent part:
+
+"Unless a defendant is sentenced to probation, drug
+court, or a pretrial diversion program, when a defendant is
+convicted of an offense that constitutes a Class C … felony
+offense and receives a sentence of not more than 15 years, the
+judge presiding over the case shall order that the convicted
+defendant be confined in a prison, jail-type institution,
+treatment institution, or community corrections program for
+a Class C felony offense … for a period not exceeding two years
+
+6
+
+CR-2023-0278
+
+in cases where the imposed sentence is not more than 15
+years, and that the execution of the remainder of the sentence
+be suspended notwithstanding any provision of the law to the
+contrary and that the defendant be placed on probation for a
+period not exceeding three years and upon such terms as the
+court deems best." 1
+
+(Emphasis added.)
+
+In short, then, at the time of Lavender's offenses,
+
+"§§ 13A-5-6(a)(3) and 15-18-8(b), Ala. Code 1975, d[id] not
+allow a trial court to impose a 'straight' sentence for a Class
+C felony when the Habitual Felony Offender Act does not
+apply. Instead, under §[§] 13A-5-6(a)(3) and 15-18-8(b), once
+the trial court impose[d] on a defendant a sentence length
+between 1 year and 1 day and 10 years, the trial court [had
+to] either:
+
+"(1) Sentence the defendant to probation, drug court, or
+a pretrial diversion program; or
+
+"(2) 'Split' the confinement portion of the defendant's
+sentence to a period not exceeding two years, suspend the
+remainder of the defendant's sentence, and impose a term of
+probation on the defendant that does not exceed three years.
+
+"Here, [Lavender] … was not sentenced under § 13A-5-
+9, Ala. Code 1975. Yet the trial court sentenced [Lavender] to
+
+1Effective July 1, 2023, the Alabama Legislature amended § 13A-5-
+
+6(a)(3) and § 15-18-8. See Act No. 2023-461, Ala. Acts 2023. Under the
+amended statutes, § 13A-5-6(a)(3) does not require that a sentence for a
+Class C felony must be in accordance with § 15-18-8, and § 15-18-8 does
+not require a trial court to split a sentence for a Class C felony. However,
+the amended statutes do not apply retroactively to Lavender's 2020
+offenses. Cosper v. State, [Ms. CR-2022-1168, Dec. 15, 2023] ___ So. 3d
+___, ___ n.2 (Ala. Crim. App. 2023).
+7
+
+CR-2023-0278
+
+a 'straight' 10-year sentence in the Alabama Department of
+Corrections [for his Class C felony offense], which, as
+explained above, [was] impermissible under § 13A-5-6(a)(3),
+Ala. Code 1975[, at the time of Lavender's offenses]. Thus, we
+must remand this case to the trial court to impose a sentence
+on [Lavender] for his conviction for discharging a firearm into
+an unoccupied vehicle that complies with [the versions of] §§
+13A-5-6(a)(3) and 15-18-8(b) [that were in effect at the time of
+his offenses].
+
+"In so doing, however, we note that [Lavender's] 10-year
+sentence is valid; thus, the trial court cannot change the
+underlying sentence. See generally Moore v. State, 871 So. 2d
+106, 110 (Ala. Crim. App. 2003) (recognizing that, when the
+base sentence imposed by the trial court is valid, the trial
+court cannot alter it on remand)."
+
+Born v. State, 331 So. 3d 626, 637-38 (Ala. Crim. App. 2020) (footnote and
+
+citation to record omitted). Lavender's sentences of life imprisonment for
+
+his murder and attempted-murder convictions are also valid and may not
+
+be changed. The trial court shall take all necessary action to ensure that
+
+the circuit clerk makes due return to this Court within 35 days from the
+
+date of this opinion, and the return to remand shall include the transcript
+
+of the new sentencing hearing and a copy of the new sentencing order.
+
+Conclusion
+
+Lavender has not demonstrated that any reversible error occurred
+
+in his trial. Thus, we affirm Lavender's convictions. However, we
+
+remand the case to the trial court for that court to hold a new sentencing
+
+8
+
+CR-2023-0278
+
+hearing at which it imposes a sentence for Lavender's discharging-a-
+
+firearm-into-an-unoccupied-vehicle conviction that complies with the
+
+version of § 15-18-8(b) that was in effect at the time of his offenses.
+
+AFFIRMED AS TO CONVICTIONS; REMANDED WITH
+
+INSTRUCTIONS AS TO SENTENCING.
+
+Windom, P.J., and Kellum, Cole, and Minor, JJ., concur.
+
+9

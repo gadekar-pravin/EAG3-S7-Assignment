@@ -1,0 +1,254 @@
+=========================================================
+Case: State of Tennessee v. Travis Andrew Harris
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-12-16
+Citations: 
+URL: https://www.courtlistener.com/opinion/10293099/state-of-tennessee-v-travis-andrew-harris/
+Source Query: murder conviction appeal
+=========================================================
+
+12/16/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+Assigned on Briefs December 10, 2024
+
+STATE OF TENNESSEE v. TRAVIS ANDREW HARRIS
+
+Appeal from the Criminal Court for Davidson County
+No. 2020-A-407 Cheryl A. Blackburn, Judge
+___________________________________
+
+No. M2023-01625-CCA-R3-CD
+___________________________________
+
+Defendant, Travis Andrew Harris, was convicted of first degree premeditated murder and
+possession of a firearm by a felon convicted of a violent crime. The trial court imposed an
+effective sentence of life plus twelve years. On appeal, Defendant contends that the
+evidence at trial as to his premeditation and identity was insufficient to support his murder
+conviction. We conclude that the evidence was sufficient and affirm Defendant’s
+conviction. The judgments of the trial court are affirmed.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgments of the Criminal Court Affirmed
+
+TIMOTHY L. EASTER, J., delivered the opinion of the court, in which TOM GREENHOLTZ
+and KYLE A. HIXSON, JJ., joined.
+
+Jay Umerley, Nashville, Tennessee, for the appellant, Travis Andrew Harris.
+
+Jonathan Skrmetti, Attorney General and Reporter; Ronald L. Coleman, Senior Assistant
+Attorney General; Glenn R. Funk, District Attorney General; and Megan King, Assistant
+District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+Trial
+
+Defendant was charged by indictment for the shooting death of Quenton Brooks.1
+Lenora Wigfall was dating Defendant at the time of the shooting, and she shared a six-
+
+1
+In a superseding indictment, Defendant was also charged with possessing a firearm after having
+been convicted of a felony crime of violence. Defendant was convicted of that offense following a
+bifurcated trial at which the parties stipulated that “[o]n December the 6th, 2012, the defendant . . . was
+
+year-old son with the victim. Ms. Wigfall had custody of their son during the school year,
+and the victim had custody during the summer. On the day of the shooting, July 10, 2018,
+Ms. Wigfall and the victim exchanged text messages and phone calls. Ms. Wigfall said the
+conversations “were normal for a bit” and then “started to get a little heated back and forth
+due to a conversation about food stamps.” Ms. Wigfall and Defendant “were just riding
+around” in her car, and Defendant overheard the conversation between Ms. Wigfall and the
+victim. Defendant told them they “needed to wrap up the conversation if it wasn’t about
+[their] child.” The victim became angry and said, “I don’t need another grown man telling
+me to shut up or stop talking.”
+
+Later, Defendant took Ms. Wigfall’s phone and began using it, which Ms. Wigfall
+testified was not unusual for him to do. That night, Defendant told Ms. Wigfall to drop
+him off at the McFerrin Park Community Center in Nashville. Ms. Wigfall asked
+Defendant why he wanted to be dropped off there, and he “didn’t say anything.” Defendant
+kept her phone when he got out of the car. He was wearing blue jeans, a black t-shirt, a
+fitted cap, and white tennis shoes. Ms. Wigfall left to get something to eat. When she
+returned to the community center, Ms. Wigfall saw the victim’s car and the parking lot was
+“surrounded by police officers and [an] ambulance.” She eventually found Defendant
+walking down the street and picked him up. He would not tell her anything about what
+had happened.
+
+On cross-examination, Ms. Wigfall testified that she did not see Defendant with a
+gun that day. She also testified that she had seen Defendant lean against the victim’s car
+on a prior occasion. Defendant and the victim had been around each other before, and Ms.
+Wigfall agreed that their interactions went “very smoothly.”
+
+An extraction of Ms. Wigfall’s cell phone revealed text messages between the
+victim and Defendant on the day of the shooting. At 7:25 p.m., Defendant told the victim
+to “stay in yo lane” and to “keep it short” when the victim communicated with Ms. Wigfall.
+The victim responded, “Is this travis bruh? If so we can talk like men homie. Face to face
+on some real sh[**] ya feel cause u can’t [t]ell me when [I] call to keep it short[.]” At 7:48
+p.m., the victim texted, “u can call me homie we grown a[**] men we can rap when u feel
+free[.]” At 8:07 p.m., the victim asked, “Where yal tryna meet we all need this talk
+homie[,]” and suggested Ms. Wigfall come too. Defendant said, “Naw cuz we going to
+meet up[.] Me n u homie[.]” At 8:34 p.m., Defendant told the victim to meet him at the
+McFerrin Center. At 8:35 p.m., Defendant said, “I’m here[.]” At 8:39 p.m., the victim
+texted, “Bout 10 min away homie[.]”
+
+convicted of a felony involving the use of attempted use of force, violence, or a deadly weapon.” Defendant
+does not challenge this conviction on appeal.
+
+-2-
+
+Several individuals who were playing tennis beside the McFerrin Park Community
+Center that night witnessed the shooting. Summer Moltzan heard “loud shots ringing from
+the direction of the parking lot of the community center.” She saw a man holding a gun,
+pointing it toward a vehicle that was “slowly backing away[,]” and she saw “orange sparks”
+of gunfire. Ms. Moltzan was unable to identify the shooter but testified he was wearing
+black clothing. She believed she heard around five gunshots. Robert Gideon saw the man
+“shooting through the passenger side” of the vehicle. After the shooter fled on foot, he saw
+the driver “slump out of the car and then onto the ground [ ] near the sidewalk.” Mr. Gideon
+called 911 and attempted to render aid to the victim, who was unresponsive.
+
+Officers from the Metro Nashville Police Department responded to the scene and
+found the victim lying on the ground “covered in blood.” He was transported to Vanderbilt
+University Medical Center, where he was pronounced dead. An autopsy revealed that the
+victim suffered a single gunshot wound to his chest. The bullet entered the left side of his
+body and pierced a rib, a lung, and his aorta before lodging in the victim’s spine.
+
+Detective Cressie Prill was the lead investigator in the case. She observed the
+victim’s vehicle, “which had come to rest with its back wheels against a curb with the
+reverse lights still on.” The vehicle had bullet holes in the front windshield, and the
+passenger side window was “shattered.” Police found several 9-millimeter cartridge
+casings on the ground and a cell phone near the casings “along the path that was determined
+to be where [D]efendant had run.” The cell phone was later identified as belonging to Ms.
+Wigfall. The shell casings were determined to have all been fired from the same weapon.
+Bullet fragments were recovered from the victim’s vehicle. The bullet fragment that was
+recovered from the victim’s spine was too damaged to determine its caliber or whether it
+was fired from the same weapon as the projectiles recovered from the victim’s car.
+Detective Prill testified that no weapon was found on or around the victim or inside his
+vehicle. Defendant’s latent fingerprints were found on the driver’s side hood of the vehicle.
+
+Police obtained security video footage of the community center parking lot, which
+was admitted as an exhibit and shown to the jury. The video showed a person wearing a
+dark shirt, dark pants, and white shoes shooting at the victim’s vehicle before running
+away. At trial, Ms. Wigfall identified her car and Defendant in the surveillance video. Ms.
+Wigfall also gave a statement to police that was consistent with her testimony at trial.
+Police obtained a warrant for Defendant’s arrest and located him more than two weeks later
+at an apartment complex in Sumner County.
+
+Analysis
+
+-3-
+
+Defendant contends that the evidence was insufficient to support his conviction for
+first degree premeditated murder because, he argues, the evidence “did not show that [he]
+acted with the necessary reflection or judgment to justify a conviction for premeditated
+murder.” Defendant also asserts that the evidence “did not establish [his] identity as the
+shooter beyond a reasonable doubt.” The State asserts that the proof at trial
+overwhelmingly established Defendant’s guilt. We agree with the State.
+
+When the sufficiency of the evidence is challenged, the relevant question for the
+reviewing court is “whether, after viewing the evidence in the light most favorable to the
+prosecution, any rational trier of fact could have found the essential elements of the crime
+beyond a reasonable doubt.” State v. Wagner, 382 S.W.3d 289, 297 (Tenn. 2012) (quoting
+Jackson v. Virginia, 443 U.S. 307, 319 (1979) (emphasis in original)); see Tenn. R. App.
+P. 13(e). The standard of review is the same whether a conviction is based on direct or
+circumstantial evidence. State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011) (citing State
+v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)). “Because a verdict of guilt removes the
+presumption of innocence and raises a presumption of guilt, the criminal defendant bears
+the burden on appeal of showing that the evidence was legally insufficient to sustain a
+guilty verdict.” State v. Shackleford, 673 S.W.3d 243, 250 (Tenn. 2023) (quoting Hanson,
+279 S.W.3d at 275). Further, the State is afforded “the strongest legitimate view of the
+evidence as well as all reasonable and legitimate inferences which may be drawn
+therefrom.” State v. Davis, 354 S.W.3d 718, 729 (Tenn. 2011) (quoting State v. Majors,
+318 S.W.3d 850, 857 (Tenn. 2010)).
+
+The jury evaluates the credibility of the witnesses, determines the weight to be given
+to witnesses’ testimony, and reconciles all conflicts in the evidence. State v. Campbell,
+245 S.W.3d 331, 335 (Tenn. 2008) (citing Byrge v. State, 575 S.W.2d 292, 295 (Tenn.
+Crim. App. 1978)). Moreover, the jury determines the weight to be given to circumstantial
+evidence, the inferences to be drawn from this evidence, and the extent to which the
+circumstances are consistent with guilt and inconsistent with innocence. Dorantes, 331
+S.W.3d at 379. A guilty verdict “accredits the testimony of the witnesses for the State and
+resolves all conflicts in favor of the prosecution’s theory.” State v. Bland, 958 S.W.2d 651,
+659 (Tenn. 1997) (citing State v. Grace, 493 S.W.3d 474, 476 (Tenn. 1973)). This Court
+“neither re-weighs the evidence nor substitutes its inferences for those drawn by the jury.”
+Wagner, 382 S.W.3d at 297 (citing Bland, 958 S.W.2d at 659).
+
+First degree murder is the premeditated and intentional killing of another person.
+T.C.A. § 39-13-202(a)(1). A person acts intentionally “when it is the person’s conscious
+objective or desire to engage in the conduct or cause the result.” Id. § 39-11-302(a).
+Premeditation “is an act done after the exercise of reflection and judgment. ‘Premeditation’
+means that the intent to kill must have been formed prior to the act itself. It is not necessary
+that the purpose to kill pre-exist in the mind of the accused for any definite period of time.”
+-4-
+
+Id. § 39-13-202(d). Additionally, “[t]he mental state of the accused at the time the accused
+allegedly decided to kill must be carefully considered in order to determine whether the
+accused was sufficiently free from excitement and passion as to be capable of
+premeditation.” Id. Premeditation “may be established by proof of the circumstances
+surrounding the killing.” State v. Suttles, 30 S.W.3d 252, 261 (Tenn. 2000). These
+circumstances include, but are not limited to:
+
+the use of a deadly weapon upon an unarmed victim; the particular cruelty of
+a killing; the defendant’s threats or declarations of intent to kill; the
+defendant’s procurement of a weapon; any preparations to conceal the crime
+undertaken before the crime is committed; destruction or secretion of
+evidence of the killing; and a defendant’s calmness immediately after a
+killing.
+
+State v. Davidson, 121 S.W.3d 600, 615 (Tenn. 2003) (citing Bland, 958 S.W.2d at 660;
+State v. Pike, 978 S.W.2d 904, 914-15 (Tenn. 1998)). This Court has also noted that the
+jury may infer premeditation from any planning activity by the defendant before the killing,
+evidence concerning the defendant’s motive, and the nature of the killing. State v. Bordis,
+905 S.W.2d 214, 222 (Tenn. Crim. App. 1995) (citation omitted). In addition, a jury may
+infer premeditation from a lack of provocation by the victim and the defendant’s failure to
+render aid to the victim. State v. Lewis, 36 S.W.3d 88, 96 (Tenn. Crim. App. 2000)
+abrogated on other grounds by State v. Thomas, 687 S.W.3d 223 (Tenn. 2024). Whether
+premeditation is present in a given case is a question of fact to be determined by the jury
+from all of the circumstances surrounding the killing. Davidson, 121 S.W.3d at 614 (citing
+Suttles, 30 S.W.3d at 261; Pike, 978 S.W.2d at 914).
+
+Viewed in the light most favorable to the State, the evidence showed that Defendant
+arranged to meet the victim at McFerrin Park, where Defendant arrived first and waited for
+the victim to arrive. Defendant then shot the unarmed victim, who was still inside his
+vehicle, and fled the scene without rendering aid to the victim. Communications between
+Defendant and the victim on the day of the shooting showed that the victim sought only to
+talk to Defendant and did not provoke Defendant. From all of this, a rational juror could
+conclude that Defendant intentionally killed the victim with premeditation.
+
+Defendant asserts that the communications between the victim and Defendant
+“leading up to the incident suggest[] that the encounter was spontaneous rather than
+planned” because there were no threats made. We disagree. The communication between
+Defendant and the victim established that the victim wanted to talk to both Defendant and
+Ms. Wigfall about their problems. Defendant then lured the victim to the park and went
+there without Ms. Wigfall. Defendant concedes “a lack of provocation” by the victim, but
+he asserts that “the absence of provocation does not exclude the possibility that [Defendant]
+-5-
+
+acted impulsively or out of fear.” Defendant also concedes that he “fled the scene after the
+shooting,” but asserts that the State failed to prove that he “took deliberate steps to hide the
+crime,” and that his “departure from the scene could just as easily indicate panic or
+fear. . . .” The lack of provocation and Defendant’s fleeing the scene, however, along with
+other circumstances, sufficiently established premeditation. The proof at trial showed
+planning on Defendant’s part, and motive could be reasonably inferred from the prior
+relationship between the victim and Defendant and Defendant’s conduct toward the victim.
+
+Defendant also contends that the evidence was insufficient to establish his identity
+as the shooter. The identity of the perpetrator is an essential element of any crime and may
+be established based solely upon circumstantial evidence. State v. Miller, 638 S.W.3d 136,
+158 (Tenn. 2021). Identity is “a question of fact for the jury upon its consideration of all
+competent proof.” State v. Bell, 512 S.W.3d 167. 198 (Tenn. 2015).
+
+The proof in this case of Defendant’s identity as the shooter was overwhelming.
+Defendant told the victim to meet him at the park, and Ms. Wigfall dropped him off at the
+park a short time later. Defendant kept Ms. Wigfall’s phone, which police found at the
+scene of the shooting. Witnesses described the shooter’s clothing, which matched
+Defendant’s clothing on that night. Defendant’s fingerprints were found on the victim’s
+car. Ms. Wigfall identified Defendant in surveillance video that captured the incident, and
+the video was shown to the jury. From all of this, a rational juror could reasonably have
+found that Defendant was the shooter. Defendant is not entitled to relief.
+
+CONCLUSION
+
+Based on the foregoing, we affirm the judgments of the trial court.
+
+S/ Timothy L. Easter
+TIMOTHY L. EASTER, JUDGE
+
+-6-

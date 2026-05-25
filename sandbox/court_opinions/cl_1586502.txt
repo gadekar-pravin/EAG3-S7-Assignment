@@ -1,0 +1,302 @@
+=========================================================
+Case: Witherspoon v. State
+Court: Court of Criminal Appeals of Alabama
+Date Filed: 2009-05-01
+Citations: 33 So. 3d 625, 2009 Ala. Crim. App. LEXIS 57, 2009 WL 1164989
+URL: https://www.courtlistener.com/opinion/1586502/witherspoon-v-state/
+Source Query: murder conviction appeal
+=========================================================
+
+WISE, Presiding Judge.
+
+The appellant, Jamie Marcus Wither-spoon, was convicted of felony murder for the murder of Eric Baggett, a violation of § 13A-6-2(a)(3), Ala.Code 1975, and first-degree robbery, a violation of § 13A-8-41(a)(1), Ala.Code 1975. The trial court sentenced him to serve concurrent terms of thirty-five years in prison. Wither-spoon filed a motion for a new trial, which the trial court denied after conducting a hearing. This appeal followed.
+
+Jack Mohamed Musaed testified that, on December 29, 2005, he was working at the Raceway service station on McFarland Boulevard in Tuscaloosa; that, between 2:30 a.m. and 2:40 a.m., he was sitting behind the counter counting money when two masked men came into the store; that one man was wearing a red mask, and the other was wearing a black mask; that the man with the red mask had a gun; that the man in the black mask was wearing a white t-shirt; that the men were screaming and telling him not to move and to give them all of the money; that, when he saw them, he grabbed his gun, which was under the counter; that he jumped up and shot the man in the red mask; that the man in the red mask fell out through the door; that the man in the black mask got onto the ground; that he told the man to put his hands up, and the man did; that he telephoned law enforcement officers; that, while he was on the telephone, the man in the black mask tried to jump up and leave the store; that he told the man not to move and to keep his hands up; that the man was yelling and at one point said, “ ‘[Y]ou shot him, you shot him’ ”; that, at some point, the man in the black mask pulled up his mask; and that law enforcement officers arrived between five and eight minutes later. (R. 134.) Musaed also identified Witherspoon in court as one of the robbers.
+
+Michael Aultman testified that, on December 29, 2005, he was with Witherspoon and Eric Baggett; that Witherspoon brought up a robbery and said he needed money; that, at one point, Witherspoon suggested robbing a convenience store; that they all rode around in his vehicle looking for something to rob; that Wither-spoon had an orange toboggan style cap, and he and Baggett talked about how they were going to put holes in it; that one of them burned holes in the cap; that With-erspoon had a gun; that he dropped With-erspoon and Baggett off at some apartments and left; and that he did not know what happened at the store.
+
+The State presented evidence that, when law enforcement officers arrived at the scene, Baggett’s body was partially in the Raceway station and partially in the door of the station; that officers found a gun and a red or orange toboggan style cap that had holes burned into the front of it next to Baggett’s body; that Witherspoon was wearing a black stocking or skullcap that had a knot tied in the back; and that a skullcap is something that is worn on the
+
+*627
+
+head and that is flexible and can be worn as a mask. The State also presented evidence that Baggett was pronounced dead at the scene and that the cause of death was a gunshot wound to the chest.
+
+Officer Kristopher Brad Thomas of the Tuscaloosa Police Department testified that, when he was at the Raceway, Wither-spoon told him that he and Baggett had just gone inside the store to buy something and that the clerk pulled a gun and shot his buddy.
+
+Officer Charles A. Groves of the Tuscaloosa Police Department testified that he and Officer T.E. Burroughs transported Witherspoon to the Tuscaloosa Police Department and took him to an interview room; that he and Burroughs waited with Witherspoon in the interview room; that, while they were sitting there, Witherspoon said that he could not believe that the clerk had shot that guy; that the guy did not deserve it; that he did not know why he was there; that he went inside after the guy; and that, when he went inside, the clerk pointed a gun at him and told him to put his head on the counter until law enforcement officers arrived. Subsequently, a homicide investigator came in and asked them to step out of the interview room, and the investigator interviewed Wither-spoon. Burroughs testified that Wither-spoon also said that he did not know the man who had been shot.
+
+I.
+
+Witherspoon argues that the felony-murder doctrine should not apply when a participant in the underlying felony is killed by the victim of the felony. (Issue II in Witherspoon’s brief.)
+
+“A person commits the crime of murder if:
+
+[[Image here]]
+
+“(3) He commits or attempts to commit arson in the first degree, burglary in the first or second degree, escape in the first degree, kidnapping in the first degree, rape in the first degree, robbery in any degree, sodomy in the first degree or any other felony clearly dangerous to human life and, in the course of and in furtherance of the crime that he is committing or attempting to commit, or in immediate flight therefrom,
+
+he, or another participant if there be any, causes the death of any person.”
+
+§ 13A-6-2(a), Ala.Code 1975 (emphasis added).
+
+A.
+
+Initially, Witherspoon contends that the felony-murder doctrine should not apply to his case because the act that caused Baggett’s death was not done in furtherance of the robbery. However, he did not present this specific argument to the trial court. Therefore, it is not properly before this court.
+
+See Smith v. State,
+
+602 So.2d 470, 472 (Ala.Crim.App.1992) (holding that “[s]pecific grounds of objection waive all other grounds not specified at trial”).
+
+B.
+
+Witherspoon also contends that the felony-murder doctrine should not apply in his case because neither he nor another participant in the underlying felony caused Baggett’s death.
+
+“(a) A person is criminally liable if the result would not have occurred but for his conduct, operating either alone or concurrently with another cause, unless the concurrent cause was sufficient to produce the result and the conduct of the actor clearly insufficient.
+
+“(b) A person is nevertheless criminally liable for causing a result if the only difference between what actually
+
+*628
+
+occurred and what he intended, contemplated or risked is that:
+
+“(1) A different person or property was injured, harmed or affected; or
+
+“(2) A less serious or less extensive injury or harm occurred.
+
+“(c) When causing a particular result is a material element of an offense for which absolute liability is imposed by law, the element is not established unless the actual result is a probable consequence of the actor’s conduct.”
+
+§ 13A-2-5, Ala.Code 1975.
+
+In
+
+Pearson v. State,
+
+601 So.2d 1119, 1126-29 (Ala.Crim.App.1992), this court addressed the issue of causation as follows:
+
+“The victim’s injuries ‘must have ensued
+
+as the result of
+
+the act of the person sought to be charged.’
+
+Holsemback v. State,
+
+448 So.2d 1371, 1381 (Ala.Cr.App.1983) (quoting F. Wharton,
+
+The Law of Homicide,
+
+§ 44 (1907)) (emphasis added). Section 13A-2-5(a), Ala. Code 1975, provides that ‘[a] person is criminally liable if the result would not have occurred but for his conduct, operating either alone or concurrently with another cause, unless the concurrent cause was sufficient to produce the result and the conduct of the actor clearly insufficient.’ The Commentary to § 13A-2-5 explains that
+
+“ ‘this section is a modified “but for” test, with an express exclusion of those situations in which the concurrent cause was clearly sufficient to produce the result and the defendant’s conduct clearly insufficient.... If the actual result is not within the contemplation of the actor, or within the area of risk of which he should have been aware, he is not deemed to have “caused” the result. But if the difference is only one concerning which person or what property would be affected by defendant’s act, or one of the degree of harm which would result, he is still held to have “caused” the result.’
+
+“The accused’s conduct is not the cause-in-fact of an injury if there was an unforeseen ‘supervening, intervening cause sufficient to break the chain of causation.’
+
+Lewis v. State,
+
+474 So.2d 766, 771 (Ala.Cr.App.1985).
+
+“In
+
+Lewis,
+
+the victim shot himself after having played Russian roulette earlier in the day with the accused. The accused was charged with murder in connection with the victim’s death and was convicted of criminally negligent homicide. In reversing that conviction, this Court determined that the victim’s conduct was a ‘supervening, intervening cause sufficient to break the chain of causation,’
+
+id.,
+
+because it occurred after the Russian roulette game had ended and the accused had put the gun away and left the room. We held that ‘[ejven though the victim might never have shot himself in this manner if the appellant had not taught him to play Russian [rjoulette,
+
+we cannot say that the appellant should have perceived the risk that the victim would play the game by himself’ Lewis,
+
+474 So.2d at 771 (emphasis added).
+
+“As
+
+Lewis
+
+illustrates, foreseeability is the key issue in a causation inquiry. The ‘controlling question[]’ is ‘whether the ultimate result was foreseeable to the original actor.’
+
+Henderson v. Kibbe,
+
+431 U.S. 145, 151 n. 9, 97 S.Ct. 1730, 1735 n. 9, 52 L.Ed.2d 203 (1977). If the accused ‘should have perceived’ that his own conduct would concur with another cause to bring about the injury to the victim, then the other cause is concurrent, not supervening.
+
+See Shirah v. State,
+
+555 So.2d 807, 812-13 (Ala.Cr.App.1989) (conduct of accused, who supplied morphine to victim, was the cause-
+
+*629
+
+in-fact of victim’s death from overdose of Secobarbital and morphine combined). On the other hand, a supervening cause ‘breaks the chain of causation’ precisely because it is not a reasonably foreseeable result of the accused’s conduct.
+
+Lewis,
+
+474 So.2d at 771.
+
+“In 1 W. LaFave & A. Scott,
+
+Substantive Criminal Law,
+
+§ 3.12 (1986), the authors discuss two types of intervening causes, namely: those which are ‘coincidences’ and those which are ‘responses’ to the accused’s conduct:
+
+“‘As might be expected, courts have tended to distinguish cases in which the intervening act was a
+
+coincidence
+
+from those in which it was a
+
+response
+
+to the defendant’s prior actions. An intervening act is a
+
+coincidence
+
+when the defendant’s act merely put the victim at a certain place at a certain time, and because the victim was so located it was possible for him to be acted upon by the intervening cause. The case put earlier in which B, after being fired upon by A, changed his route and then was struck by lightning is an example of a coincidence .... [I]t is important to note that there may be a coincidence even when the subsequent act is that of a human agency, as where A shoots B and leaves him lying in the roadway, resulting in B being struck by C’s car; or where A shoots at B and causes him to take refuge in a park, where B is then attacked and killed by a gang of hoodlums.
+
+“
+
+‘By contrast, an intervening act may be said to be a response to the prior actions of the defendant when it involves reaction to the conditions created by the defendant. The m,ost obvious illustrations are actions of the victim, to avoid harm, actions of a bystander to rescue him, and actions of medical personnel in treating the victim.
+
+But, while a response usually involves a human agency, this is not necessarily the case; infection of a wound inflicted by the defendant may be said to be an instance of germs responding to the victim’s condition.
+
+“ ‘As common sense would suggest, the perimeters of legal cause are more closely drawn when the intervening cause was a matter of coincidence rather than response. There is less reason to hold the defendant liable for the bad results when he has merely caused the victim to be at a particular place at a particular time, than when he has brought other agencies into play in response to a danger or injury.
+
+Thus
+
+— though
+
+the distinction is not carefully developed in many of the decided cases
+
+— it
+
+may be said that a coincidence will break the chain of legal cause unless it was foreseeable, while a response will do so only if it is abnormal (and, if abnormal, also unforeseeable).
+
+If A shoots B and leaves him disabled and then C runs over B with his car (coincidence), the question is whether A could not have reasonably foreseen this possibility; if A shoots B and then Dr. C gives B improper medical treatment (response), the basic question is whether the treatment was abnormal (generally, negligent medical treatment is not so viewed). If A shoots B and B is taken to the hospital, where he comes into contact with some communicable disease which causes his death (coincidence), A is not guilty of murder unless this was foreseeable (unlikely, unless it was generally known that there had been an outbreak of this disease); if instead B’s wounds became infected and he died (response), A is guilty of murder (infection not abnormal).’
+
+*630
+
+“Id.
+
+at 406-07 (emphasis in original).”
+
+(Emphasis added.)
+
+In
+
+People v. Hudson,
+
+222 Ill.2d 392, 401-03, 305 Ill.Dec. 927, 856 N.E.2d 1078, 1083-84 (2006), the Illinois Supreme Court addressed the issue of causation and felony-murder as follows:
+
+“In general, Illinois law provides that a defendant may be charged with murder pursuant to the ‘proximate cause’ theory of felony murder.
+
+People v. Lowery,
+
+178 Ill.2d 462, 227 Ill.Dec. 491, 687 N.E.2d 973 (1997). The term ‘proximate cause’ describes two distinct requirements: cause in fact and legal cause.
+
+First Springfield Bank & Trust v. Galman,
+
+188 Ill.2d 252, 257-58, 242 Ill.Dec. 113, 720 N.E.2d 1068 (1999). We have stated, ‘We believe that the analogies between civil and criminal cases in which individuals are injured or killed are so close that the principle of proximate cause applies to both classes of cases. Causal relation is the universal factor common to all legal liability.’
+
+Lowery,
+
+178 Ill.2d at 466, 227 Ill.Dec. 491, 687 N.E.2d 973. Legal cause ‘is essentially a question of foreseeability’; the relevant inquiry is ‘whether the injury is of a type that a reasonable person would see as a likely result of his or her conduct.’
+
+Galman,
+
+188 Ill.2d at 258, 242 Ill.Dec. 113, 720 N.E.2d 1068. Foreseeability is added to the cause-in-fact requirement because ‘even when cause in fact is established, it must be determined that any variation between the result intended and the result actually achieved is not so extraordinary that it would be unfair to hold the defendant responsible for the actual result.’ 1 W. LaFave,
+
+Substantive Criminal Law
+
+§ 6.4, at 464 (2d ed.2003). Although foreseeability is a necessary component of a proximate cause analysis, it need not be specifically mentioned in a jury
+
+instruction to communicate the idea of ‘proximate’ to a jury. Thus, the IPI civil jury instruction communicates the definition of ‘proximate cause,’ as ‘[any] cause which, in natural or probable sequence, produced the injury complained of. [It need not be the only cause, nor the last or nearest cause. It is sufficient if it concurs with some other cause acting at the same time, which in combination with it, causes the injury.]’ Illinois Pattern Jury Instructions, Civil, No. 15.01 (2005).
+
+“We set forth the general parameters of the law of proximate cause in a felony-murder case in
+
+Lowery,
+
+albeit without the specific mention of the cause-in-fact and legal-cause components:
+
+“ ‘It is equally consistent with reason and sound public policy to hold that when a felon’s attempt to commit a forcible felony sets in motion a chain of events which were or should have been within his contemplation when the motion was initiated, he should be held responsible for any death which by direct and almost inevitable sequence results from the initial criminal act. Thus, there is no reason why the principle underlying the doctrine of proximate cause should not apply to criminal cases. Moreover, we believe that the intent behind the felony-murder doctrine would be thwarted if we did not hold felons responsible for the foreseeable consequences of their actions.’
+
+Lowery,
+
+178 Ill.2d at 467, 227 Ill.Dec. 491, 687 N.E.2d 973.
+
+“Thus, in
+
+Lowery,
+
+we held that the civil concepts of proximate cause are equally applicable to criminal cases.
+
+“Whether the instant fact situation can be charged as felony murder was answered by this court in
+
+People v. Dekens,
+
+182 Ill.2d 247, 230 Ill.Dec. 984, 695 N.E.2d 474 (1998). In
+
+Dekens,
+
+this
+
+*631
+
+court held that ‘liability attaches “for any death proximately resulting from the unlawful activity — notwithstanding the fact that the killing was by one resisting the crime.” ’
+
+Dekens,
+
+182 Ill.2d at 249, 230 Ill.Dec. 984, 695 N.E.2d 474, quoting
+
+Lowery,
+
+178 Ill.2d at 465, 227 Ill.Dec. 491, 687 N.E.2d 973. Further, a defendant may be liable for murder where the one resisting the crime causes the death of the defendant’s co-felon.
+
+Dekens,
+
+182 Ill.2d at 252, 230 Ill.Dec. 984, 695 N.E.2d 474. We have affirmed our historical adherence to this form of liability in
+
+People v. Klebanowski,
+
+221 Ill.2d 538, 304 Ill.Dec. 357, 852 N.E.2d 813 (2006), in a parallel fact situation. In rejecting defendant’s request that we adopt Justice Bilandic’s dissent in
+
+Dekens (Dekens,
+
+182 Ill.2d at 254, 230 Ill.Dec. 984, 695 N.E.2d 474 (Bilandic, J., dissenting, joined by McMorrow, J.)), we stated, ‘In light of the thorough review of the proximate cause theory of liability contained in
+
+Dekens,
+
+the recency of the decision, and the principles of stare deci-sis [citations], we determine also that the proximate cause theory of liability is the theory applicable to the case at bar.’
+
+Klebanowski
+
+221 Ill.2d at 554-55, 304 Ill.Dec. at 367, 852 N.E.2d at 823.”
+
+In this case, the State presented evidence that Witherspoon and Baggett entered the Raceway where Musaed was working; that both men were wearing masks, and Baggett had a gun; that both men were screaming and demanding money; and that Musaed pulled a gun from underneath the counter and shot Baggett. Therefore, the State established that Bag-gett would not have been killed
+
+but for
+
+the actions of Witherspoon and Baggett, who were participants in the robbery. Also, Musaed’s reactions to Witherspoon’s and Baggett’s conduct were not abnormal or unforeseeable. Because the actions of the participants in the robbery caused Bag-gett’s death, Witherspoon was properly convicted of felony murder pursuant to § 13A-6-2(a)(3), Ala.Code 1975.
+
+II.
+
+Witherspoon also argues that his convictions for both first-degree robbery and felony murder violate double jeopardy principles. In this case, the same robbery served as the basis for Witherspoon’s robbery conviction and his felony-murder conviction. Therefore, his convictions for both offenses violate double jeopardy principles.
+
+See Brooks v. State,
+
+952 So.2d 1180 (Ala.Crim.App.2006);
+
+Edwards v. State,
+
+907 So.2d 1077 (Ala.Crim.App.2004);
+
+Jones v. State,
+
+895 So.2d 376 (Ala.Crim.App.2004);
+
+Harris v. State,
+
+854 So.2d 145 (Ala.Crim.App.2002). Accordingly, we must remand this case for the trial court to vacate Witherspoon’s conviction and sentence for first-degree robbery.
+
+For the above-stated reasons, we affirm Witherspoon’s conviction and sentence for felony murder. However, we remand this case to the trial court for that court to vacate his conviction and sentence for first-degree robbery.
+
+AFFIRMED AS TO CONVICTION FOR FELONY-MURDER; REVERSED AND REMANDED AS TO CONVICTION FOR FIRST-DEGREE ROBBERY.
+
+WELCH, WINDOM, and KELLUM, JJ., concur.

@@ -1,0 +1,465 @@
+=========================================================
+Case: State of Tennessee v. Terrell Craft
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-01-22
+Citations: 
+URL: https://www.courtlistener.com/opinion/9467830/state-of-tennessee-v-terrell-craft/
+Source Query: murder conviction appeal
+=========================================================
+
+01/22/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT JACKSON
+Assigned on Briefs December 5, 2023
+
+STATE OF TENNESSEE v. TERRELL CRAFT
+
+Appeal from the Criminal Court for Shelby County
+No. 19-05168 Paula Skahan, Judge
+
+No. W2023-00152-CCA-R3-CD
+
+The defendant, Terrell Craft, appeals his Shelby County Criminal Court jury convictions
+of second degree murder and three counts of aggravated assault, challenging the sufficiency
+of the convicting evidence and the trial court’s omission of a jury instruction on the defense
+of necessity. Discerning no error, we affirm.
+
+Tenn. R. App. P. 3; Judgments of the Criminal Court Affirmed
+
+JAMES CURWOOD WITT, JR., J., delivered the opinion of the court, in which ROBERT W.
+WEDEMEYER and MATTHEW J. WILSON, JJ., joined.
+
+Josie S. Holland (on appeal), C. Alexandria Jones (at trial and on appeal), and James Jones
+(at trial), Memphis Tennessee, for the appellant, Terrell Craft.
+
+Jonathan Skrmetti, Attorney General and Reporter; Brooke A. Huppenthal, Assistant
+Attorney General; Steve Mulroy, District Attorney General; and Theresa McCusker and
+Tanisha Johnson, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+
+The Shelby County Grand Jury charged the defendant with one count of first
+degree murder and three counts of aggravated assault in relation to the June 14, 2019
+murder of the victim, Corrisha “Rasha” Teal.
+
+At the defendant’s May 2022 trial, Shavonda Taylor testified that she and the
+victim had been dating for 10 years prior to the victim’s death. On June 14, 2019, Ms.
+Taylor and the victim moved their belongings from their previous apartment into the
+Waterview Apartments in Memphis. The couple was assisted by the victim’s niece and
+nephew, Takeria “Tootsie Pop” Ayers and Jacquez Withers. The victim drove herself, Ms.
+
+Taylor, Ms. Ayers, and Mr. Withers to the Waterview Apartments, where she noticed a
+man, identified by Ms. Taylor as the defendant, walking near the apartments. The victim
+told Ms. Taylor to “keep your eye on [the defendant].” Ms. Taylor stated that though she
+briefly lost sight of the defendant as the victim parked her vehicle, she saw him again once
+they had stopped moving. Ms. Taylor said that prior to June 14, 2019, she had never seen
+the defendant.
+
+Ms. Taylor testified that while she, the victim, Ms. Ayers, and Mr. Withers
+exited the victim’s vehicle, the defendant continued to walk alone on a sidewalk near the
+apartment complex. The victim and her companions exited the vehicle and moved to its
+trunk, where several of the couple’s televisions were stored. Ms. Taylor stated that the
+defendant then approached the front of the victim’s vehicle and “was just looking” at the
+victim. Ms. Taylor said that this prompted the victim to say to her, “Mane, bae, what this
+bitch ass n**** on?” Ms. Taylor testified that the defendant then asked what the victim
+had said and that the victim did not respond but instead “walked off from the car.” As she
+walked away, the defendant “cut [the victim] off” by stepping in front of her to block her
+path. Ms. Taylor testified that the victim then turned around to look at the defendant, who
+“pulled the gun out and put it to her head,” shooting her twice. Ms. Taylor stated that she
+had not seen the defendant’s firearm until he shot the victim.
+
+Ms. Taylor testified that after the defendant shot the victim, he stood over the
+victim’s body as though “he was [about] to shoot her” again. Ms. Taylor stated that she
+began screaming after she saw the victim fall to the ground and that the defendant thereafter
+pointed his firearm towards her, Ms. Ayers, and Mr. Withers, and walked towards them.
+She stated that this made her “[feel] like my life was in danger” and that she, Ms. Ayers,
+and Mr. Withers quickly fled the scene. After running a short distance away, Ms. Taylor
+looked back towards the victim’s body and saw that the defendant had gone. She then
+returned to the victim’s body, held her, and instructed Mr. Withers to give her his shirt so
+she could “cover [the victim’s] face up” while they awaited the arrival of the police and an
+ambulance.
+
+Ms. Taylor stated that the victim “always” carried a firearm on her person
+because their previous apartment was frequently burglarized. She testified that before she
+and the victim left their previous apartment on June 14, 2019, she observed the victim tuck
+her “silver nine-millimeter” pistol into her boxer shorts. Ms. Taylor stated that the firearm
+was obscured underneath the victim’s sweatpants and the “big shirt” she wore and that she
+did not see the victim display her firearm at any point during her encounter with the
+defendant.
+
+On cross examination, Ms. Taylor stated that she did not recall testifying at
+the defendant’s preliminary hearing that the defendant had previously lived next door to
+the victim and herself. She also clarified that the defendant did not actually cut the victim
+off by blocking her path but rather that the victim “walked off first. But once [the victim]
+
+-2-
+
+turned around, [the defendant] was right there.” She admitted that she neglected to include
+this aspect of the encounter in her initial statement to the police. She maintained that the
+victim never spoke to the defendant but instead directed her comments to Ms. Taylor.
+
+Ms. Ayers testified that she traveled with the victim, Ms. Taylor, and Mr.
+Withers on the day of the victim’s murder. She stated that the victim drove them to the
+Waterview Apartment complex and that they entered it through the back gate, near the
+pool. Ms. Ayers noticed the defendant standing near “the pool area” and saw him give the
+victim a “mean look.” Ms. Ayers testified that the victim instructed the occupants of her
+vehicle to watch the defendant while the victim backed her vehicle into a parking space.
+Ms. Ayers then exited and moved towards the vehicle’s trunk, where the victim and Ms.
+Taylor’s televisions were stored. She stated that the victim attempted to pull a television
+out of the trunk when the defendant reemerged and approached the victim. Ms. Ayers
+testified that when the victim saw the defendant, the victim asked, “Dang, what you on?”
+Ms. Ayers stated that the defendant did not respond and continued walking. She testified
+that the victim then pushed the television back into her trunk, looked at Ms. Ayers, Ms.
+Taylor, and Mr. Withers, and stated, “Bitch ass n****.” The victim then walked away until
+the defendant asked her what she said and “blocked her off” near the sidewalk’s curb. Ms.
+Ayers testified that the victim and the defendant looked at each other “face-to-face” until
+the victim looked down for a moment, at which point the defendant shot her in the head.
+
+Ms. Ayers testified that after the defendant shot the victim, Ms. Taylor began
+crying and pleading with him not to do so again. She stated that the defendant stood over
+the victim after shooting her and then lifted his firearm toward her, Ms. Taylor, and Mr.
+Withers. Ms. Ayers recalled that she ran away until she saw that the defendant had left the
+victim’s body, at which point she returned. She testified that Mr. Withers thereafter called
+9-1-1.
+
+Ms. Ayers testified that although she did not see the defendant’s firearm
+before he shot the victim, she heard two gunshots before the victim fell to the ground. She
+stated that the victim had placed her firearm on top of her vehicle’s radio on their drive to
+the Waterview Apartments and that she watched the victim place the firearm into the
+waistband of her pants “below her stomach” when they arrived. She further testified that
+when she returned to the victim’s body after the victim was shot, she saw that the victim’s
+shirt had been lifted up and that her firearm was missing.
+
+On cross-examination, Ms. Ayers stated that when the police arrived, she
+provided a statement that the defendant had “cornered” the victim prior to shooting her.
+She testified that she did not see the defendant take the victim’s firearm from her body
+before he disappeared.
+
+Jacqueline Watkins testified that she had previously worked as a clerk for the
+Criminal Court for Shelby County. She identified two recordings from the defendant’s
+
+-3-
+
+July 23, 2019 preliminary hearing, with the former containing the entirety of the
+defendant’s preliminary hearing and the latter being isolated to Mr. Withers’ testimony.
+Ms. Ayers testified that Mr. Withers had recently passed away due to injuries sustained in
+an automobile accident. The recording of his preliminary hearing testimony was played
+for the jury.
+
+At the defendant’s preliminary hearing, Mr. Withers testified that after
+arriving at the Waterview Apartments with the victim, Ms. Taylor, and Ms. Ayers, he
+walked to the back of the victim’s vehicle to help her move her belongings. He testified
+that he heard the victim say “What’s up with this bitch ass n****?” while he was looking
+away. He stated that he did not see the defendant shoot the victim but recalled that he heard
+between two and three gunshots. He testified that after the defendant shot the victim, the
+defendant retrieved her firearm from her body. Mr. Withers said that he did not see the
+victim display her firearm during her encounter with the defendant. He recalled that he ran
+away after the victim was shot and located “some men” near the apartment and requested
+to use their cell phones. He thereafter called his mother.
+
+On cross-examination, Mr. Withers testified that he first saw the defendant
+when the victim backed her vehicle into a parking spot at the Waterview Apartments. He
+did not recall whether the defendant said anything to the victim. He also stated that he saw
+the defendant remove his firearm from a pocket in his cargo pants.
+
+Officer Joseph Bacchus of the Memphis Police Department (“MPD”)
+testified that he was among the first officers to respond to the report that a black woman
+had been shot on Birch Lake Drive on June 14, 2019. He recalled that he saw the victim
+lying near a vehicle and that he subsequently helped secure the crime scene. After securing
+the scene, he was advised that a “suspect called in advising that he shot” the victim and
+stated that he was “by the leasing office.”
+
+On cross-examination, Officer Bacchus testified that he interviewed Ms.
+Taylor upon arriving at the crime scene. Though he recalled wearing a body camera during
+the interview, he could not remember whether it had been activated during his interview
+with Ms. Taylor. Officer Bacchus also testified that he recovered a number of spent bullet
+casings from the crime scene.
+
+Doctor Erica Curry of the Shelby County Medical Examiner’s Office
+testified as an expert in forensic pathology regarding her June 15, 2019 autopsy of the
+victim’s body. She determined that the victim had suffered four gunshot wounds prior to
+her death. The first gunshot wound, fired at close range, was located on the right side of
+the victim’s head near her scalp; the second gunshot wound, fired at intermediate range,
+was located on the victim’s upper back; the third gunshot wound, fired at intermediate
+range, was located on the victim’s left ankle; and the fourth gunshot wound, fired at close
+range, grazed the victim’s upper left arm. She testified that the first gunshot wound was
+
+-4-
+
+fatal. Doctor Curry also identified skin abrasions on the victim’s face, forehead, cheeks,
+neck, back, left arm, left leg, and both hands, which she stated could be consistent with
+someone who had been shot and had subsequently fallen onto concrete. Doctor Curry
+removed bullet fragments from the victim’s shirt and hair, which were sent to the
+Tennessee Bureau of Investigation (“TBI”) for examination.
+
+Officer Linda Rogers of the MPD testified that she collected evidence and
+photographed the crime scene. Through her investigation, Officer Rogers collected and
+identified, among other things, spent bullet casings and blood on the ground. She identified
+four nine-millimeter bullet casings, one 40-caliber bullet casing, and two unknown bullet
+fragments. She testified that she also traveled to the leasing office for the Waterview
+Apartments, where she identified and collected two firearms stacked on top of one another
+underneath a pickup truck. She testified that one of the firearms was a Taurus pistol and
+the other was a Ruger pistol.
+
+Special Agent Kasia Lynch of the TBI testified that she reviewed two pistols,
+three nine-millimeter cartridges, four nine-millimeter cartridge casings, one 40-caliber
+Smith and Wesson cartridge case, and a number of bullet fragments. She testified that one
+pistol was a Taurus nine-millimeter pistol and the other was a Ruger nine-millimeter pistol.
+After testing the firearms, she determined that the cartridge casings recovered from the
+crime scene matched the class characteristics of both the firearms and some of the
+individual characteristics of the Ruger firearm. She noted that her examination did not
+provide enough evidence to determine conclusively whether the recovered cartridge
+casings had been fired from either firearm.
+
+Special Agent Lynch testified that after this examination, she received
+several other bullet fragments from the Shelby County Medical Examiner’s Office. After
+examination, she determined that one of the bullet fragments, which had been recovered
+from the victim’s shirt, had been fired from the Ruger pistol. She was unable to say
+whether any of the recovered bullet casings had been fired from the Taurus pistol.
+
+On cross-examination, Special Agent Lynch reiterated that she was only able
+to determine that one of the three bullet fragments she examined came from the Ruger
+pistol. Though she noted that two of the bullet fragments shared characteristics with the
+Taurus pistol, she was unable to determine whether they had been fired from the Taurus or
+the Ruger pistols.
+
+Sergeant Jason Battle of the MPD testified that he assisted Sergeant S. Green
+with the defendant’s June 14, 2019 interview. A recording of this interview was played
+for the jury. Prior to the interview, Sergeant Green presented the defendant an “Advice of
+Rights” form and reviewed it with him. The defendant signed the form and did not request
+an attorney.
+
+-5-
+
+During the interview, the defendant stated that he had been returning from a
+luau party at the Waterview Apartments when he saw the victim arrive with Ms. Taylor,
+Ms. Ayers, and Mr. Withers. He said that he recognized the victim and observed her
+remove a firearm from her vehicle. He stated that he spoke to the victim and that she
+responded by calling him a “bitch” and “cursing him out.” The defendant recalled that the
+victim drew her gun and pointed it at the ground after she cursed at him. He said that he
+then retrieved his firearm and shot the victim “three or four times.” He then retrieved the
+victim’s firearm from where it had fallen beside her and told Ms. Taylor, Ms. Ayers, and
+Mr. Withers not to return as they ran away.
+
+Throughout his interview, the defendant maintained that he shot the victim
+in self-defense because he saw that she was armed and because she had disrespected him.
+Near the end of the interview, Sergeant Green provided the defendant with a photograph
+of the victim, upon which he wrote, “This is the young lady that disrespected me with a
+gun in hand. After profane language (bitch) with a gun in her hand. And with self-defense
+I had a gun as well and fired. (Four rounds were shot).” He signed this statement and the
+interview concluded. Sergeant Battle testified that his involvement with the investigation
+was limited to assisting with the defendant’s interview.
+
+Sergeant Latanya West of the MPD testified that she also assisted Sergeant
+Green with the defendant’s interview. Approximately one hour after Sergeants Green and
+Battle concluded their interview, Sergeant Green returned with Sergeant West, who
+reviewed the defendant’s statements in the previous portion of his interview and
+transcribed his answers. A recording of the interview was played for the jury. During the
+interview, the defendant supplemented his handwritten statement by writing “I Terrell
+Craft was the one who defended myself and pulled the trigger.”
+
+On cross-examination, Sergeant West conceded that her transcribed report of
+the defendant’s interview did not include the entirety of the interview, but she nevertheless
+maintained that she recorded “pretty much every word.” She also stated that the four-page
+statement was close to a transcript of the defendant’s interview. On redirect examination,
+Sergeant West testified that any part of the interview omitted from her transcript would
+have been preserved in the recording.
+
+The State rested. After a Momon colloquy, the defendant elected not to
+testify and did not present proof. On this evidence, the jury convicted the defendant of one
+count of second degree murder and three counts of aggravated assault. Following a
+sentencing hearing, the trial court imposed an effective sentence of 23 years. The defendant
+filed a timely but unsuccessful motion for new trial. This timely appeal followed.
+
+On appeal, the defendant challenges the sufficiency of the convicting
+evidence and the trial court’s omission of a jury instruction on the defense of necessity.
+
+-6-
+
+I. Sufficiency
+
+The defendant argues that the evidence is insufficient to sustain his
+conviction for second degree murder because the State failed to disprove that the defendant
+acted in self-defense. He maintains that the evidence indicates that he was walking past
+the victim’s vehicle when the victim separated herself from Ms. Taylor, Ms. Ayers, and
+Mr. Withers “to have a face-to-face confrontation.” The defendant argues that before he
+shot the victim, she “looked down, towards where her gun was in her waistband.” He
+contends that though both the defendant and the victim’s firearms held nine-millimeter
+bullets, Special Agent Lynch was only able to match one bullet fragment to the defendant’s
+Ruger pistol, while she was unable to determine the source of the other fragments. The
+defendant maintains that Doctor Curry’s testimony that the first gunshot wound was fatal,
+coupled with Ms. Taylor and Ms. Ayers’ testimony that the victim did not fall to the ground
+until they heard the second gunshot, indicates that the victim fired her weapon at the
+defendant before the defendant shot the victim. The State responds that the evidence
+overwhelmingly supports the defendant’s conviction.
+
+Sufficient evidence exists to support a conviction if, after considering the
+evidence—both direct and circumstantial—in the light most favorable to the prosecution,
+any rational trier of fact could have found the essential elements of the crime beyond a
+reasonable doubt. Tenn. R. App. P. 13(e); Jackson v. Virginia, 443 U.S. 307, 319 (1979);
+State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011). This court will neither re-weigh the
+evidence nor substitute its inferences for those drawn by the trier of fact. Dorantes, 331
+S.W.3d at 379. The verdict of the jury resolves any questions concerning the credibility of
+the witnesses, the weight and value of the evidence, and the factual issues raised by the
+evidence. State v. Cabbage, 571 S.W.2d 832, 835 (Tenn. 1978). Significantly, this court
+must afford the State the strongest legitimate view of the evidence contained in the record
+as well as all reasonable and legitimate inferences which may be drawn from the evidence.
+Id.
+
+As relevant here, second degree murder is “[a] knowing killing of another.”
+T.C.A. § 39-13-210(a)(1). “A person acts knowingly with respect to a result of the person’s
+conduct when the person is aware that the conduct is reasonably certain to cause the result.”
+Id. § 39-11-302(b). Code section 39-11-611(b)(2) sets the parameters of self-defense:
+
+(1) Notwithstanding § 39-17-1322, a person who is not
+engaged in unlawful activity and is in a place where the person
+has a right to be has no duty to retreat before threatening or
+using force against another person when and to the degree the
+person reasonably believes the force is immediately necessary
+to protect against the other’s use or attempted use of unlawful
+force.
+
+-7-
+
+(2) Notwithstanding § 39-17-1322, a person who is not
+engaged in unlawful activity and is in a place where the person
+has a right to be has no duty to retreat before threatening or
+using force intended or likely to cause death or serious bodily
+injury, if:
+
+(A) The person has a reasonable belief that there is an
+imminent danger of death or serious bodily injury;
+(B) The danger creating the belief of imminent death or
+serious bodily injury is real, or honestly believed to be
+real at the time; and
+(C) The belief of danger is founded upon reasonable
+grounds.
+
+Id. § 39-11-611(b) (Supp. 2018). It is well settled that the defendant cannot be the initial
+aggressor in order to avail himself of self-defense. Smith v. State, 60 S.W. 145, 148 (Tenn.
+1900). The jury, upon review of the proof, determines whether self-defense applies. State
+v. Echols, 382 S.W.3d 266, 283 (Tenn. 2012).
+
+Here, we cannot agree that the evidence was insufficient to convict the
+defendant. The proof adduced at trial established that the defendant knowingly killed the
+victim, and the defendant does not contest this. The sum of the defendant’s arguments
+regarding the sufficiency of the evidence relative to his theory of self-defense boils down
+to the issue of his and the State’s differing versions of events. Ms. Ayers testified that the
+victim looked down briefly before she was shot, and the defendant contends that this was
+a glance towards her firearm. The defendant, both in his statement and in his recorded
+post-arrest interview, claims that the victim brandished her firearm at him and that he
+reacted in self-defense after she disrespected him. Three witnesses, Mr. Withers at the
+defendant’s preliminary hearing and Ms. Taylor and Ms. Ayers at the defendant’s trial,
+testified instead that the victim did not draw her firearm during her encounter with the
+defendant. Further, though Special Agent Lynch testified that she was only able to link
+one of the recovered spent bullet fragments to the defendant’s Ruger pistol, she also noted
+that it is not unusual to be unable to make conclusive determinations in firearms
+identifications. Affording the State all reasonable and legitimate inferences which may be
+drawn from this evidence, we cannot say that the jury acted irrationally. The jury, upon its
+review of this conflicting evidence, accredited the State’s evidence by convicting the
+defendant and rejecting his theory of self-defense. The jury thereby resolved any conflict
+in the evidence, and we will not disturb this conclusion. See Cabbage, 571 S.W.2d at 835.
+
+II. Jury Instruction
+
+The defendant also argues that the trial court erred by neglecting to instruct
+the jury on the defense of necessity. This is the first time the defendant has raised this
+
+-8-
+
+issue, and he concedes that it would normally be waived. See Tenn. R. App. P. 3(e) (“No
+issue presented for review shall be predicated upon error in . . . jury instructions granted or
+refused . . . unless the same was specifically stated in a motion for new trial; otherwise such
+issues will be treated as waived.”). The defendant nevertheless contends that the trial court
+committed plain error in neglecting to instruct the jury on the defense of necessity.
+
+This court may review certain issues not properly preserved for appeal when
+the issue affects the substantial rights of a party, but our review is limited to plain error
+review. See Tenn. R. App. P. 36(b). All five of the following factors must be met to grant
+relief under plain error review:
+
+(a) [T]he record must clearly establish what occurred in the
+trial court; (b) a clear and unequivocal rule of law must have
+been breached; (c) a substantial right of the accused must have
+been adversely affected; (d) the accused did not waive the issue
+for tactical reasons; and (e) consideration of the error is
+necessary to do substantial justice.
+
+State v. Adkisson, 899 S.W.2d 626, 641-42 (Tenn. Crim. App. 1994) (footnotes omitted);
+see also State v. Smith, 24 S.W.3d 274, 283 (Tenn. 2000) (adopting the Adkisson test for
+determining plain error). Relief under the Adkisson test is limited to those instances in
+which the plain error “more probably than not affected the verdict returned by the jury.”
+Adkisson, 899 S.W.2d at 646 (footnotes omitted). Additionally, “complete consideration
+of all the factors is not necessary when it is clear from the record that at least one of the
+factors cannot be established.” Smith, 24 S.W.3d at 283.
+
+In criminal cases, a defendant has the right to a correct and complete charge
+of the law. State v. Garrison, 40 S.W.3d 426, 432 (Tenn. 2000). Thus, it follows that the
+trial court has a duty to give a complete charge of the law applicable to the facts of a case.
+State v. Thompson, 519 S.W.2d 789, 792 (Tenn. 1975). The failure to do so deprives the
+defendant of the constitutional right to a jury trial. Garrison, 40 S.W.3d at 432. In
+evaluating claims of error in the jury charge, this court must review the charge in its entirety
+and read it as a whole. State v. Leach, 148 S.W.3d 42, 58 (Tenn. 2004). A jury instruction
+is considered “prejudicially erroneous if it fails to fairly submit the legal issues or if it
+misleads the jury as to the applicable law.” State v. Hodges, 944 S.W.2d 346, 352 (Tenn.
+1997). Notably, when jury instructions fully and fairly state the applicable law, a trial court
+is not required to provide special instructions. State v. Mann, 959 S.W.2d 503, 521 (Tenn.
+1997); State v. Kelley, 683 S.W.2d 1, 6 (Tenn. Crim. App. 1984).
+
+Necessity is a general defense which need not be submitted to the jury unless
+it is fairly raised by the proof at trial. State v. Perrier, 536 S.W.3d 388, 403 (Tenn. 2017)
+(citing State v. Hawkins, 406 S.W.3d 121, 129 (Tenn. 2013)).
+
+-9-
+
+To determine whether a general defense has been fairly raised
+by the proof, a court must consider the evidence in the light
+most favorable to the defendant and draw all reasonable
+inferences in the defendant’s favor. Whenever admissible
+evidence fairly raises a general defense, the trial court is
+required to submit the general defense to the jury.
+
+Hawkins, 406 S.W.3d at 129 (citing State v. Bledsoe, 226 S.W.3d 349, 355 (Tenn. 2007)).
+Necessity justifies a defendant’s otherwise criminal conduct when both “(1) [t]he person
+reasonably believes the conduct is immediately necessary to avoid imminent harm; and (2)
+[t]he desirability and urgency of avoiding the harm clearly outweigh the harm sought to be
+prevented by the law proscribing the conduct, according to ordinary standards of
+reasonableness.” T.C.A. § 39-11-609. The defense “contemplate[s] a balancing between
+the harm caused by the conduct constituting an offense, and the harm the defendant sought
+to avoid by the conduct.” Id., Sentencing Comm’n Comments. Traditionally, necessity
+has been applied where “the extreme situation is brought on by something other than a
+human act,” such as “a ship violating an embargo law to avoid a storm, a pharmacist
+providing medication without a prescription to alleviate someone’s suffering during an
+emergency, or one of two shipwrecked sailors pushing the other off the float to save his
+own life.” State v. Aaron T. James, No. M2004-00808-CCA-R3-CD, 2005 WL 1521965,
+at *6 (Tenn. Crim. App., Nashville, June 21, 2005) (internal citations omitted).
+
+Viewing the evidence in the light most favorable to the defendant and with
+necessity’s balancing test in mind, we cannot say that the trial court erred in neglecting to
+submit a necessity instruction to the jury. The defendant maintains that the victim pointed
+her firearm at him and that he responded in self-defense to her insults in spite of conflicting
+testimony from Ms. Taylor and Ms. Ayers that the victim did not brandish her weapon
+during her encounter with the defendant. This conflicting evidence justified the trial
+court’s instruction of self-defense, but not necessity, because “[a]ssuming that death is the
+maximum harm that an individual can suffer, the harm resulting from a homicide can never
+be less than the harm sought to be avoided by a defendant.” Marquis D. Hendricks v. State,
+No. E2016-02123-CCA-R3-PC, 2017 WL 3174074, at *7 (Tenn. Crim. App., Knoxville,
+July 26, 2017). In other words, the harm the defendant sought to avoid was equivalent to
+the harm he inflicted upon the victim, so the balancing test for the necessity defense was
+not satisfied. The defendant also did not establish that a non-human act prompted his
+murder of the victim. See State v. Anthony Eugene Poole, No. M2010-01179-CCA-R3-
+CD, 2012 WL 826605, at *7 (Tenn. Crim. App., Nashville, Mar. 9, 2012) (analyzing the
+history of the common law defense of necessity and concluding that it did not apply where
+the evidence demonstrated provocation arising from a human, rather than non-human,
+source). Thus, the defense of necessity was not fairly raised by the evidence, and the trial
+court was not required to submit the instruction to the jury. We therefore find no error in
+the trial court’s omission of a necessity instruction in this case.
+
+- 10 -
+
+Accordingly, the judgments of the trial court are affirmed.
+
+_______________________________________
+JAMES CURWOOD WITT, JR., JUDGE
+
+- 11 -

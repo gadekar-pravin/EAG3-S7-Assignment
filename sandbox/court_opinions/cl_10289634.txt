@@ -1,0 +1,498 @@
+=========================================================
+Case: State of Tennessee v. Brentnol Calvin James
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2024-12-06
+Citations: 
+URL: https://www.courtlistener.com/opinion/10289634/state-of-tennessee-v-brentnol-calvin-james/
+Source Query: murder conviction appeal
+=========================================================
+
+12/06/2024
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+September 10, 2024 Session
+
+STATE OF TENNESSEE v. BRENTNOL CALVIN JAMES
+
+Appeal from the Criminal Court for Davidson County
+No. 2021-A-365 Steve R. Dozier, Judge
+___________________________________
+
+No. M2024-00193-CCA-R3-CD
+___________________________________
+
+A Davidson County jury convicted the Defendant, Brentnol Calvin James, of first degree
+premeditated murder, and the trial court imposed a life sentence. On appeal, the Defendant
+asserts that the evidence of premeditation was insufficient to support his conviction, and
+that the trial court erred by failing to provide a jury instruction on self-defense. After
+review, we affirm the trial court’s judgment.
+
+Tenn. R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+ROBERT W. WEDEMEYER, J., delivered the opinion of the court, in which ROBERT L.
+HOLLOWAY, JR., and JOHN W. CAMPBELL, SR., JJ., joined.
+
+Patrick T. McNally (on appeal), Jim Todd and Katherine Hagan (at trial), Nashville,
+Tennessee, for the appellant, Brentnol Calvin James.
+
+Jonathan Skrmetti, Attorney General and Reporter; William C. Lundy, Assistant Attorney
+General; Glenn R. Funk, District Attorney General; and Jeffrey A. George and J. Wesley
+King, Assistant District Attorneys General, for the appellee, State of Tennessee.
+
+OPINION
+I. Facts
+
+This case arises from the Defendant’s shooting the victim, Brian Shannon, Jr., on
+November 14, 2020. A Davidson County grand jury indicted the Defendant for first degree
+premeditated murder. At a trial on the charge, the parties presented the following evidence.
+
+On November 14, 2020, Valeria Buck, a Nashville Fire Department paramedic,
+responded to a shooting call on Trinity Lane. When she arrived, she saw the victim lying
+on the sidewalk in a pool of blood. The blood had begun to congeal, and she observed
+brain matter on the ground. Because the victim was still breathing on his own and his pulse
+
+was rapid, Ms. Buck and her driver moved him “pretty quickly” for transport to the
+hospital. As they moved him to the spine board, it appeared there was “some deformity”
+to the upper back portion of the victim’s head, but due to the volume of blood, she was
+unable to ascertain the exact location of the injury. She quickly inspected the victim’s torso
+and found no indication of gunshot wounds to that area.
+
+Monique Shannon, the victim’s wife, testified that her husband brought breakfast
+home on the morning of November 14, 2020. As he deposited the food, he stated he wanted
+to know why the Defendant, who owned a nearby auto body shop, had photographed the
+Shannons’ residence. The victim had previously told his wife that the Defendant suspected
+that their son had attempted to rob him. The victim left the house to walk over to the auto
+body shop and ask the Defendant about the photography. The body shop was
+approximately one tenth of a mile from the Shannon house. Shortly thereafter, Ms.
+Shannon decided to go to the store to buy a drink. As she was leaving her residence, she
+saw the victim lying on the ground. She drove toward the area where she saw him, parked
+her car, and looked directly at the Defendant saying, “you killed my husband.” The
+Defendant responded angrily by yelling at Ms. Shannon and pointing at her. Fearful for
+her safety, Ms. Shannon moved to the side of the car to protect herself from any gunfire.
+Once the police officers arrived, they instructed her to remain behind the car while they
+arrested the Defendant.
+
+Francis Diaz was working in her store on the day of the shooting when she heard
+gunfire. Ms. Diaz went outside to see if anyone was hurt. The Defendant’s auto body shop
+was approximately 100 feet from her shop. She saw the Defendant, who was “very upset,”
+holding a gun. She heard the Defendant loudly say, “nobody is going to come to my
+property and yell at me.”
+
+Olivia Workman and her friend “Cassie” were driving to a coffee shop when she
+observed a man beating another man on the side of the road. Cassie pulled the car over,
+and Ms. Workman called 911. The man who had been punching the other man walked
+away leaving the body lying on the side of the road. A woman drove up and began crying
+and screaming. Ms. Workman and Cassie remained in the car, as the 911 operator
+instructed, until the police arrived. Ms. Workman did not hear any gunfire and was
+unaware of a shooting at the time of these events.
+
+Metro Nashville Police Officer Brandon Evans responded at 9:21 a.m. on November
+14, 2020, to East Trinity Lane to a report of a shooting. As Officer Evans and Officer
+Baker approached the address , Officer Evans heard Officer Baker shout “drop the gun.”
+While the Defendant lay on the ground, Officer Evans handcuffed the Defendant. A crowd
+was gathering at this point, and Officer Evans lifted the Defendant to his feet, picked up a
+pistol lying on a vehicle next to where the Defendant had laid down, and escorted the
+-2-
+
+Defendant to Officer Evans’s patrol car. Once at the patrol car, Officer Evans searched the
+Defendant and found a magazine for the pistol in his right pocket. Officer Evans identified
+in court the pistol, a Ruger 9-millimeter, the eleven rounds of ammunition found in the
+pistol, and the ten rounds of ammunition found in the magazine. He confirmed that the
+pistol had a seventeen-round capacity, and the magazine had a ten-round capacity.
+
+Metro Nashville Police Officer Maria Reynolds was in training on November 14,
+2020, and rode along with Officer Josh Baker. Officer Baker and Officer Reynolds arrived
+at the shooting scene first, followed by Officer Evans. Officer Baker and Officer Evans
+advanced toward the Defendant in “an L-shaped pattern to kind of corner” him. Officer
+Reynolds rendered aid to the victim. Officer Reynolds quickly observed that the victim
+was bleeding from his head but she found no other injuries. The victim was lying on the
+ground in front of the auto body shop with his feet toward the road and his head toward the
+shop.
+
+Metro Nashville Police Officer Josh Baker observed a man lying on the sidewalk.
+A man at the scene motioned to an area, indicating the shooter’s location. Officer Baker
+held his gun on the Defendant until Officer Evans was able to handcuff him. Officer Evans
+escorted the Defendant to his patrol car, and Officer Baker turned his attention to the
+victim. The victim had a large wound to the back of his head and irregular breathing.
+Officer Baker turned the victim to his side to prevent him from choking on his blood and
+waited for the paramedics. The victim was not armed.
+
+Metro Nashville Police Detective1 Kyle Williams arrived at the scene and spoke to
+the responding officers, Officer Baker and Officer Evans. He obtained surveillance video
+footage from a business located across the street. The State introduced the surveillance
+video. It showed the victim walking across the street and approaching the auto body shop.
+He did not enter the auto body shop but stood in the driveway and pointed toward his house.
+As he turned and started to walk away, the Defendant followed him and grabbed him from
+behind. The victim tried to resist but ultimately fell to the ground. The Defendant turned
+and walked back into his business while the victim remained on the ground.
+
+Detective Williams interviewed the Defendant at Metro Nashville Police
+Headquarters. The State played a recording of the interview for the jury. During the
+interview, the Defendant admitted to shooting the victim. The Defendant referenced an
+ongoing dispute between the parties. He explained that earlier that morning he had gone
+to the victim’s house and photographed the house with the intent to post the picture on
+Facebook to warn others that the victim’s son had shot him. The Defendant drove away
+
+1
+At the time of trial, Kyle Williams worked as a special agent at the Bureau of Alcohol,
+Tobacco, Firearms and Explosives.
+-3-
+
+when he saw the victim. The victim walked to the Defendant’s business and asked the
+Defendant why he was taking pictures and threatened to kill the Defendant. The Defendant
+confirmed that the victim did not enter his business but remained outside and that the
+Defendant walked outside to the victim. The Defendant stated that when the victim
+threatened him, he “went and g[o]t [his] gun and [he] started swinging.” About his
+shooting the victim, the Defendant stated, “He need to die,” and that he had fired the gun
+multiple times. The Defendant admitted ownership of the gun used during the shooting,
+and he confirmed that he placed the gun on a car near him after shooting the victim. The
+Defendant stated that the victim threatened him by shoving his hand in his pocket when
+the victim saw the Defendant at “the store.”
+
+The Defendant explained that the victim’s son shot the Defendant in the knee in
+2015. Detective Williams asked the Defendant, “if [the victim] is dead what would you
+say to that?” The Defendant responded, “Glad. Should [be] dead ten time over. Because
+he never, he never get no right for coming out, what they done to me, he should [be] dead,
+his mother should [be] dead, his wife should [be] dead, all the family should [be] dead.
+They are dogs.” The Defendant stated that he could not recognize the victim or his wife,
+but he could recognize the victim’s son and “little daughter” because they came “regularly,
+pass regularly and do weird [stuff] to me.” Detective Williams confirmed that the
+Defendant never claimed that the gun accidentally discharged.
+
+Detective Williams investigated the Defendant’s allegations about an incident in
+2015. He learned that the Defendant was the victim of a robbery on October 3, 2015, and
+that Bree Starnes was arrested for the offense. He found no indication that the victim was
+involved in the incident or “ever did anything to [the victim].” Detective Williams stated
+that he did not observe any no trespassing signs at the Defendant’s auto body shop.
+
+Caleb Foster, an MNPD Crime Scene Investigator, arrived at the Trinity Lane crime
+scene and observed two cartridge cases, a stack of clothing, and possible blood stains on
+the driveway entrance to the business. Officer Foster’s primary responsibility that day was
+to photograph the scene. He took approximately ninety photographs, several of which were
+offered into evidence.
+
+Davidson County Chief Medical Examiner Dr. Feng Li testified as an expert witness
+in the field of pathology. Dr. Li performed an autopsy on the victim’s body. Dr. Li found
+three gunshot wounds. The first gunshot wound went through the brain and had partially
+exited the body. Dr. Li opined that the gun was fired from intermediate range meaning
+between two and half to three feet. The second wound was a perforating wound. The
+bullet went through the victim’s ear lobe, and the gun was fired from more than three feet
+away. The third gunshot wound was caused by a continuation of the bullet from the second
+gunshot wound. This bullet went through the earlobe and embedded on the right side of
+-4-
+
+the neck. The bullet moved in a downward location and was lodged inside the chest cavity.
+Dr. Li also observed blunt force injuries to the victim’s head. Dr. Li documented his
+findings in his medical report concluding that the cause of death was multiple gunshot
+wounds and the manner of death was homicide. The toxicology report revealed the
+presence of cocaine metabolite and marijuana metabolite in the victim’s system.
+
+The State concluded its case-in-chief, and the defense offered one witness, the
+Defendant. The Defendant testified that he moved from Guyana, South America to the
+United States in 1988, seeking an education and “a better life.” In 2010, the Defendant
+opened an auto body shop on Trinity Lane.
+
+The Defendant testified about an incident that occurred in October 2015. One
+evening he observed two individuals pacing in front of his shop. He later learned that one
+of the two people was the victim’s son. He observed the two people pointing at his
+surveillance cameras and surveillance cameras of a neighboring business. The Defendant
+passed his business and walked to a nearby store. As he passed, he heard the people stating,
+“these foreigners think they can come over here and build what they want and do what they
+want.”
+
+The following day, the Defendant left his shop after work and went home. A
+customer, Bree Starnes, came to the Defendant’s house. She told the Defendant she was
+looking for her child’s father’s residence. Ms. Starnes wanted the Defendant to show her
+where her child’s father had moved. Ms. Starnes held the front door open as the Defendant
+dressed to go with Ms. Starnes. As they prepared to leave, a man walked up and put a gun
+to the Defendant’s head and asked for the Defendant’s wallet. Another man came from the
+side of the house and put another gun to the Defendant’s head. The Defendant recognized
+one of the men from the night before outside his auto body shop. He later learned this man
+was the victim’s son. The second man who approached pulled the trigger on his gun, but
+it did not fire. The victim’s son then shot the Defendant in the foot. The men told him not
+to call the police or they would return and then the two men fled. The Defendant called
+the police, and the police searched his house. The police recovered marijuana from the
+house, but the Defendant was not charged with possession. Ms. Starnes was later arrested
+and charged.
+
+The Defendant testified that he told the victim that his son had shot the Defendant
+and that the victim responded that he was going to tell his son to “finish [him] off.” In
+2018 or 2019, the victim would “peel his tire[s]” in front of the Defendant’s shop. In July
+2020, the Defendant filed a civil lawsuit against the victim’s son for the 2015 shooting. He
+explained that he did so to stop the victim and his son - “to get some distance between him
+and the Shannons.” The Defendant requested the Davidson County’s Sheriff’s Department
+serve the victim’s son notice of the suit. He was later notified that the Sheriff’s Department
+-5-
+
+was unable to serve the warrant. It was because of this notice that the Defendant tried to
+photograph the victim’s home in November 2020. He believed the photograph would assist
+Sheriff’s deputies in serving the victim’s son. Due to some glitch with his phone, however,
+he was unable to take the picture, but he did see the victim in the yard before he drove
+away.
+
+The Defendant returned to his shop where he maintained that there were no
+trespassing signs clearly posted. He explained that he posted the signs for insurance
+purposes related to customer safety inside the garage bay area. He was inside the garage
+when he heard someone call his name, initially thinking it was a customer. He walked to
+the door and saw the victim. The victim was cursing and threatening the Defendant. The
+Defendant described the victim as “in a rage” and that the victim charged toward him. This
+caused the Defendant to be fearful, and he believed he needed to defend his property based
+upon his 2015 interaction with the victim’s son. The Defendant walked outside so that
+“they could see me in the clear and he would stop.” The victim moved toward the
+Defendant and began circling him. The victim raised his hand several times to strike the
+Defendant, but the Defendant moved away. The Defendant withdrew his gun and squeezed
+the trigger in an attempt to scare the victim away, but the gun did not fire. The Defendant
+then began hitting the victim with his gun in order to protect himself. He did not recall if
+he was pulling the trigger at this point, but he was squeezing the gun tightly. The Defendant
+heard the gun discharge, and the victim went down on his knees. When the victim fell
+down, the Defendant turned to leave and the victim “jumped up and try to grab [the
+Defendant].” The Defendant swung and hit the victim. The victim was motionless this
+time, so the Defendant returned to his shop. The Defendant set his gun down and waited
+for the police to arrive.
+
+The Defendant agreed that there were statements that he made during his police
+interview that he regretted. The Defendant stated that he was deeply sorry for the shooting
+and that he had no intention to harm the victim.
+
+On cross-examination, the Defendant denied that the victim ever walked away from
+him. He explained that the two men ended up at the end of the driveway by the street while
+they were fighting and not because the victim turned and walked away. The State played
+the surveillance video footage of the shooting. When confronted with the portion showing
+the Defendant running toward the victim who is walking away from the shop, the
+Defendant conceded that in the surveillance video recording it appeared he was running
+toward the victim but to the Defendant, at the time, it felt like the victim was trying to go
+around the Defendant. The Defendant agreed that the victim was not present during the
+2015 robbery, but he asserted that the victim had sent his son to rob the Defendant.
+
+-6-
+
+The Defendant maintained that he was attempting to photograph the victim’s house
+to assist the Sheriff’s deputies in serving the victim’s son with the civil warrant, which
+contradicted his statement during the police interview that he planned to post the pictures
+on Facebook. The Defendant stated that he told the detective during his police interview
+that the gun misfired and that he had only swung the gun at the victim, which contradicted
+his statements in the video recording of the interview. The Defendant explained the
+discrepancies between what he claimed he said during the police interview and the written
+report by saying that the police wrote what they wanted to write.
+
+On redirect, the Defendant explained that he followed the victim away from his shop
+because the victim was still making threats. The Defendant feared the victim was moving
+to “get a better angle on me to shoot me.”
+
+After hearing the evidence, the jury convicted the Defendant of first degree
+premeditated murder, and the trial court imposed a life sentence. It is from this judgment
+that the Defendant appeals.
+
+II. Analysis
+
+On appeal, the Defendant asserts that the evidence is not sufficient to prove
+premeditation and that the trial court erred by failing to provide the complete pattern jury
+instruction for self-defense.
+
+A. Sufficiency of the Evidence
+
+The Defendant contends that the evidence is insufficient to support his conviction
+for first degree premeditated murder. He specifically attacks the element of premeditation,
+asserting that the State failed to prove that he was free from excitement or passion. The
+State responds that a reasonable jury could conclude that the Defendant’s shot the victim
+with premeditation. We agree with the State.
+
+When an accused challenges the sufficiency of the evidence, this Court’s standard
+of review is whether, after considering the evidence in the light most favorable to the State,
+“any rational trier of fact could have found the essential elements of the crime beyond a
+reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319 (1979); see Tenn. R. App. P.
+13(e); State v. Goodwin, 143 S.W.3d 771, 775 (Tenn. 2004) (citing State v. Reid, 91 S.W.3d
+247, 276 (Tenn. 2002)). This standard applies to findings of guilt based upon direct
+evidence, circumstantial evidence, or a combination of both direct and circumstantial
+evidence. State v. Pendergrass, 13 S.W.3d 389, 392-93 (Tenn. Crim. App. 1999) (citing
+State v. Dykes, 803 S.W.2d 250, 253 (Tenn. Crim. App. 1990)). In the absence of direct
+evidence, a criminal offense may be established exclusively by circumstantial evidence.
+-7-
+
+Duchac v. State, 505 S.W.2d 237, 241 (Tenn. 1973). “The jury decides the weight to be
+given to circumstantial evidence, and ‘[t]he inferences to be drawn from such evidence,
+and the extent to which the circumstances are consistent with guilt and inconsistent with
+innocence, are questions primarily for the jury.’” State v. Rice, 184 S.W.3d 646, 662 (Tenn.
+2006) (quoting Marable v. State, 313 S.W.2d 451, 457 (Tenn. 1958)). “The standard of
+review [for sufficiency of the evidence] ‘is the same whether the conviction is based upon
+direct or circumstantial evidence.’” State v. Dorantes, 331 S.W.3d 370, 379 (Tenn. 2011)
+(quoting State v. Hanson, 279 S.W.3d 265, 275 (Tenn. 2009)).
+
+In determining the sufficiency of the evidence, this Court should not re-weigh or
+reevaluate the evidence. State v. Matthews, 805 S.W.2d 776, 779 (Tenn. Crim. App. 1990).
+Nor may this Court substitute its inferences for those drawn by the trier of fact from the
+evidence. State v. Buggs, 995 S.W.2d 102, 105 (Tenn. 1999) (citing Liakas v. State, 286
+S.W.2d 856, 859 (Tenn. 1956)). “Questions concerning the credibility of witnesses, the
+weight and value to be given the evidence, as well as all factual issues raised by the
+evidence are resolved by the trier of fact.” State v. Bland, 958 S.W.2d 651, 659 (Tenn.
+1997). “A guilty verdict by the jury, approved by the trial judge, accredits the testimony
+of the witnesses for the State and resolves all conflicts in favor of the theory of the State.”
+State v. Grace, 493 S.W.2d 474, 476 (Tenn. 1973). The Tennessee Supreme Court stated
+the rationale for this rule:
+
+This well-settled rule rests on a sound foundation. The trial judge and the
+jury see the witnesses face to face, hear their testimony and observe their
+demeanor on the stand. Thus the trial judge and jury are the primary
+instrumentality of justice to determine the weight and credibility to be given
+to the testimony of witnesses. In the trial forum alone is there human
+atmosphere and the totality of the evidence cannot be reproduced with a
+written record in this Court.
+
+Bolin v. State, 405 S.W.2d 768, 771 (Tenn. 1966) (citing Carroll v. State, 370 S.W.2d 523,
+527 (Tenn. 1963)). This Court must afford the State of Tennessee the “‘strongest legitimate
+view of the evidence’” contained in the record, as well as “‘all reasonable and legitimate
+inferences’” that may be drawn from the evidence. Goodwin, 143 S.W.3d at 775 (quoting
+State v. Smith, 24 S.W.3d 274, 279 (Tenn. 2000)). Because a verdict of guilt against a
+defendant removes the presumption of innocence and raises a presumption of guilt, the
+convicted criminal defendant bears the burden of showing that the evidence was legally
+insufficient to sustain a guilty verdict. State v. Carruthers, 35 S.W.3d 516, 557-58 (Tenn.
+2000) (citations omitted).
+
+First degree murder is defined as a “premeditated and intentional killing of another.”
+T.C.A. § 39-13-202(a)(1) (2018). Premeditation refers to “an act done after the exercise
+-8-
+
+of reflection and judgment.” T.C.A. § 39-13-202(d) (2018). “The mental state of the
+accused must be carefully considered in order to determine whether the accused was
+sufficiently free from excitement and passion as to be capable of premeditation. Id.
+Whether the defendant premeditated the killing is for the jury to decide, and the jury may
+look at the circumstances of the killing to decide that issue. Bland, 958 S.W.2d at 660.
+The Tennessee Code states that, while “the intent to kill must have been formed prior to
+the act itself,” that purpose need not “pre-exist in the mind of the accused for any definite
+period of time” for a defendant to have premeditated the killing. T.C.A. § 39-13-202(d).
+
+The following factors have been accepted as actions that demonstrate the existence
+of premeditation: the use of a deadly weapon upon an unarmed victim, the particular cruelty
+of the killing, declarations by the defendant of an intent to kill, evidence of procurement of
+a weapon, preparations before the killing for concealment of the crime, and calmness
+immediately after the killing. Bland, 958 S.W.2d at 660. In addition, a jury may consider
+destruction or secretion of evidence of the murder and “the planning activities by the
+appellant prior to the killing, the appellant’s prior relationship with the victim, and the
+nature of the killing.” State v. Nichols, 24 S.W.3d 297, 302 (Tenn. 2000); State v. Halake,
+102 S.W.3d 661, 668 (Tenn. Crim. App. 2001) (citing State v. Gentry, 881 S.W.2d 1, 4-5
+(Tenn. Crim. App. 1993)). Also, “[e]stablishment of a motive for the killing is a factor
+from which the jury may infer premeditation.” State v. Leach, 148 S.W.3d 42, 54 (Tenn.
+2004).
+
+The evidence, viewed in the light most favorable to the State, showed that the victim
+observed the Defendant photographing the victim’s home. The unarmed victim walked to
+the Defendant’s nearby business, during morning business hours, to inquire about the
+photography. The victim walked about halfway up the driveway to the Defendant’s
+business and motioned toward the victim’s house. The victim then turned and walked away
+from the business. The Defendant rushed forward and began hitting the victim. The
+victim’s actions appear on the surveillance video to be largely defensive. After the brief
+altercation, the victim was lying on the ground, and the Defendant turned and walked back
+to his business. He placed his gun on a car and waited for the police to arrive. The
+Defendant did not call the police or attempt to render any aid to the victim, who had been
+shot twice. He admitted to the police that he shot the victim and that he did so based upon
+an ongoing issue between the victim’s family and the Defendant. The Defendant showed
+little remorse after the shooting, telling police officers that he would be “glad” if the victim
+was dead as a result of the altercation. Based upon this evidence, a jury could reasonably
+find that the Defendant committed first degree premeditated murder.
+
+As to the Defendant’s claim that the State failed to show that the Defendant acted
+with premeditation, we note that the Defendant, with a gun, walked out of his business to
+approach the unarmed victim. A jury could reasonably view this conduct as evidence of a
+-9-
+
+deadly weapon being used against an unarmed victim. Further evidence of premeditation
+presented at trial was that the Defendant pursued the victim, who was walking away from
+the Defendant and, after shooting the victim, the Defendant offered no assistance or aid to
+the victim and walked calmly back toward his business. The prior relationship establishes
+motive in support of a finding of premeditation in that the Defendant believed that the
+victim’s son had shot him in the foot, five years earlier, and believed the victim deserved
+this act of retaliation. This is sufficient evidence upon which a rational jury could conclude
+that the Defendant acted with premeditation. Moreover, the jury heard the Defendant’s
+claims of self-defense. By its verdict, the jury rejected the Defendant’s theory of self-
+defense in favor of the State’s evidence that the Defendant acted with premeditation. This
+court will not reweigh the evidence. Bland, 958 S.W.2d at 659. The Defendant is not
+entitled to relief as to this issue.
+
+B. Jury Instructions
+
+The Defendant contends that the trial court erred when it denied his request for
+inclusion in the jury instructions that portion of the self-defense instruction that states that
+a person using deadly force within his business is presumed to have had a reasonable fear
+of imminent death or serious bodily injury when the deadly force is used against someone
+who entered the business unlawfully or forcibly. See T.C.A. § 39-11-611(c). The
+Defendant argues that he was entitled to the instruction because the victim entered his
+business, posing a threat of imminent death or serious bodily harm to the Defendant. The
+State responds that the Defendant was not entitled to the instruction because the victim did
+not unlawfully and forcibly enter the Defendant’s business. We agree that the trial court
+properly declined to include the requested instruction.
+
+Questions involving the propriety of jury instructions are mixed questions of law
+and fact, therefore, our standard of review is de novo with no presumption of correctness.
+See State v. Cole-Pugh, 588 S.W.3d 254, 259-260 (Tenn. 2019). It is well-settled in
+Tennessee that a “defendant has a right to a correct and complete charge of the law, so that
+each issue of fact raised by the evidence will be submitted to the jury on proper
+instructions.” State v. Garrison, 40 S.W.3d 426, 432 (Tenn. 2000). An instruction on a
+defense must be given if fairly raised by the proof. Cole-Pugh, 588 S.W.3d at 260-264. In
+determining whether a defense instruction is raised by the evidence, the trial court must
+examine the evidence in the light most favorable to the defendant to determine whether
+there is evidence that reasonable minds could accept as to that defense. See State v. Sims,
+45 S.W.3d 1, 9 (citing Johnson v. State, 351 S.W.2d 558, 559 (Tenn. 1975)).
+
+Tennessee Code Annotated § 39-11-611(c) states,
+Any person using force intended or likely to cause death or serious bodily
+injury within a [ ] business . . . is presumed to have held a reasonable belief
+- 10 -
+
+of imminent death or serious bodily injury . . . when that force is used against
+another person, who unlawfully and forcibly enters or has unlawfully and
+forcibly entered the [ ] business . . . and the person using defensive force
+knew or had reason to believe that an unlawful and forcible entry occurred.
+
+The statute defines business as “a commercial enterprise or establishment owned by a
+person as all or part of the person’s livelihood or is under the owner’s control or who is an
+employee or agent of the owner with responsibility for protecting persons and property and
+shall include the interior and exterior premises of the business.” Id. § 39-11-611(a)(1).
+
+In the case under submission, the Defendant argues that when the victim walked
+onto the business driveway and threatened the Defendant, the victim unlawfully and
+forcibly entered the Defendant’s business. The Defendant, therefore, maintains that his
+use of deadly force was a response to the unlawful entry and that the presumption of
+reasonableness under Tennessee Code Annotated section 39-11-611(c) should have been
+included in the jury instructions in this case.
+
+The proof presented at trial, even viewed in the light most favorable to the
+Defendant, does not present a factual basis for the requested instruction. First, the evidence
+failed to show that the victim unlawfully and forcibly entered the business. The
+surveillance footage showed the victim walking halfway up the driveway to the business,
+gesturing toward his house then walking away. The Defendant contends that due to the
+posted “No Trespassing” signs, the Defendant was unlawfully on the property. As the State
+notes, however, the Defendant testified that the signs were posted to prevent customers
+from entering the shop area where they might be injured. Further law enforcement officers
+present at the scene did not see any “No Trespassing” signs. The Defendant confirmed to
+the police that the victim never entered the business but only stood in the driveway, so the
+victim was not in violation of the “No Trespassing” signs posted for insurance purposes.
+
+Further, the surveillance footage showed that the victim never exercised any
+physical force against the Defendant at any time. To the contrary, it was the Defendant
+who chased the unarmed victim after the victim turned and walked away from the
+Defendant and his business. The Defendant began hitting the victim repeatedly as the
+victim sank down to the ground. This is further supported by the Defendant’s testimony at
+trial that he walked out to the victim. At no point was any testimony or evidence introduced
+that showed the victim forcefully entering the business. Instead, the record reflects that the
+physical altercation, which began after the victim walked away, occurred on the sidewalk
+by the street. Therefore, there was no factual basis to trigger the use of the requested
+instruction.
+
+- 11 -
+
+Further, the evidence showed that the victim was walking away from the Defendant
+and his business when the Defendant attacked the victim from behind and discharged his
+pistol. Therefore, even if the victim entered onto the Defendant’s property unlawfully and
+presented a threat, when the victim proceeded to leave the property, any threat ended.
+Accordingly, the trial court did not err in denying the Defendant’s requested jury
+instruction. The Defendant is not entitled to relief.
+
+III. Conclusion
+
+Based on the foregoing reasoning and authorities, we affirm the trial court’s
+judgment.
+
+____________________________________
+ROBERT W. WEDEMEYER, JUDGE
+
+- 12 -

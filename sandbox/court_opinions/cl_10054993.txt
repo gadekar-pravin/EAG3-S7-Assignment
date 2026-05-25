@@ -1,0 +1,654 @@
+=========================================================
+Case: Labarron Miller v. State of Alabama (Appeal from Mobile Circuit Court: CC-81-1570)
+Court: Court of Criminal Appeals of Alabama
+Date Filed: 2024-08-23
+Citations: 
+URL: https://www.courtlistener.com/opinion/10054993/labarron-miller-v-state-of-alabama-appeal-from-mobile-circuit-court/
+Source Query: murder conviction appeal
+=========================================================
+
+Rel: August 23, 2024
+
+Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter.
+Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue,
+Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections
+may be made before the opinion is published in Southern Reporter.
+
+Alabama Court of Criminal Appeals
+OCTOBER TERM, 2023-2024
+_________________________
+
+CR-2022-1224
+_________________________
+
+Labarron Miller
+
+v.
+
+State of Alabama
+
+Appeal from Mobile Circuit Court
+(CC-81-1570)
+
+COLE, Judge.
+
+In November 1980, when Labarron Miller was 17 years old, he
+
+broke into Geraldine Hayles's house and strangled her to death in front
+
+of her eight-year-old granddaughter. Miller was convicted of capital
+
+murder, and the Mobile Circuit Court sentenced him to life imprisonment
+
+CR-2022-1224
+
+without the possibility of parole. This Court affirmed Miller's conviction
+
+and sentence on direct appeal. See Miller v. State, 440 So. 2d 1127 (Ala.
+
+Crim. App. 1983).
+
+In 2016, Miller filed a Rule 32, Ala. R. Crim. P., petition for
+
+postconviction relief requesting that he be resentenced pursuant to Miller
+
+v. Alabama, 567 U.S. 460, 132 S. Ct. 2455, 183 L. Ed. 2d 407 (2012), and
+
+Montgomery v. Louisiana, 577 U.S. 190, 136 S. Ct. 718, 193 L. Ed 2d 599
+
+(2016). (C. 92.) The circuit court granted his petition, vacated his
+
+sentence, and conducted a Miller resentencing hearing. After the
+
+hearing, the circuit court issued a 40-page sentencing order analyzing the
+
+14 factors set out in Ex parte Henderson, 144 So. 3d 1262 (Ala. 2013). (C.
+
+90-129.) "The Henderson factors have been described as mitigating
+
+circumstances" in the sentencing of a juvenile convicted of a capital
+
+offense. Jones v. State, 355 So. 3d 361, 388 (Ala. Crim. App. 2021). The
+
+circuit court sentenced Miller in open court, and in his written order, to
+
+life imprisonment without the possibility of parole. Miller appeals the
+
+circuit court's judgment.
+
+On appeal, Miller argues that the circuit court erred when it
+
+sentenced him to life imprisonment without the possibility of parole
+
+2
+
+CR-2022-1224
+
+because, he says, it made "multiple errors in applying the facts of this
+
+case to the factors delineated in [Ex parte] Henderson[, 144 So. 3d 1262
+
+(Ala. 2013)]." (Miller's brief, p. 13.) The State, on the other hand, argues
+
+that Miller's complaint about the circuit court's allegedly erroneous
+
+application of the Henderson factors in this case is not preserved for
+
+appellate review because Miller did not "file any post-resentencing
+
+motions or otherwise notify the trial court of its supposed abuse of
+
+discretion." (State's brief, p. 11.) We agree with the State.
+
+It is well settled that
+
+" ' "[r]eview on appeal is restricted to questions and
+issues properly and timely raised at trial." Newsome v. State,
+570 So. 2d 703, 717 (Ala. Crim. App. 1989). "An issue raised
+for the first time on appeal is not subject to appellate review
+because it has not been properly preserved and presented."
+Pate v. State, 601 So. 2d 210, 213 (Ala. Crim. App. 1992).
+" '[T]o preserve an issue for appellate review, it must be
+presented to the trial court by a timely and specific motion
+setting out the specific grounds in support thereof.' "
+McKinney v. State, 654 So. 2d 95, 99 (Ala. Crim. App. 1995)
+(citation omitted). "The statement of specific grounds of
+objection waives all grounds not specified, and the trial court
+will not be put in error on grounds not assigned at trial." Ex
+parte Frith, 526 So. 2d 880, 882 (Ala. 1987). "The purpose of
+requiring a specific objection to preserve an issue for appellate
+review is to put the trial judge on notice of the alleged error,
+giving an opportunity to correct it before the case is submitted
+to the jury." Ex parte Works, 640 So. 2d 1056, 1058 (Ala.
+1994).' "
+
+3
+
+CR-2022-1224
+
+R.V.D. v. State, 268 So. 3d 96, 98-99 (Ala. Crim. App. 2018) (quoting Ex
+
+parte Coulliette, 857 So. 2d 793, 794-95 (Ala. 2003)). There are very few
+
+arguments that escape this rigid preservation-and-waiver rule; thus,
+
+there are very few arguments that can be raised for the first time in this
+
+Court on direct appeal. See, e.g., Hulsey v. State, 196 So. 3d 342, 352
+
+(Ala. Crim. App. 2015) (holding that "issues with respect to the statute of
+
+limitations ... are matters not subject to the ordinary rules regarding
+
+preservation and waiver"), and Gavin v. State, 383 So. 3d 417, 419 (Ala.
+
+Crim. App. 2022) (recognizing the four exceptions to the preservation-
+
+and-waiver rule in a direct appeal from a probation revocation). One of
+
+the few recognized exceptions to the preservation-and-waiver rule is that,
+
+"when a sentence is clearly illegal or is clearly not authorized by statute,
+
+the defendant does not need to object at the trial level in order to preserve
+
+that issue for appellate review." Ex parte Brannon, 547 So. 2d 68, 68
+
+(Ala. 1989) (citing Bartone v. United States, 375 U.S. 52, 84 S. Ct. 21, 11
+
+L. Ed 2d 11 (1963)) (emphasis added).
+
+Here, Miller's sentence of life imprisonment without the possibility
+
+of parole is clearly legal and clearly authorized by statute. See § 13A-5-
+
+43(e), Ala. Code 1975 ("If the defendant is found guilty of a capital offense
+
+4
+
+CR-2022-1224
+
+or offenses with which he or she is charged and the defendant establishes
+
+to the court by a preponderance of the evidence that he or she was under
+
+the age of 18 years at the time of the capital offense or offenses, the
+
+sentence shall be either life without the possibility of parole or, in the
+
+alternative, life, and the sentence shall be determined by the procedures
+
+set forth in the Alabama Rules of Criminal Procedure for judicially
+
+imposing sentences within the range set by statute without a jury, rather
+
+than as provided in Sections 13A-5-45 to 13A-5-53, inclusive. The judge
+
+shall consider all relevant mitigating circumstances."). What is more,
+
+Miller's argument on appeal does not challenge the legality of his
+
+sentence of life imprisonment without the possibility of parole. Rather,
+
+Miller argues that the circuit court made "multiple errors in applying the
+
+facts of this case to the factors delineated in [Ex parte] Henderson[, 144
+
+So. 3d 1262 (Ala. 2013)]." (Miller's brief, p. 13.) That argument, however,
+
+is not one of the recognized exceptions to the preservation-and-waiver
+
+rule, and this Court will not expand the preservation-and-waiver rule to
+
+make an exception for Miller's argument. Thus, to present his argument
+
+to this Court, Miller had to first present that argument to the circuit
+
+court. He did not.
+
+5
+
+CR-2022-1224
+
+Here, the circuit court held Miller's resentencing hearing on
+
+December 13, 2021. At the hearing, Miller called several witnesses,
+
+including Breeshun Juzang Callier, Mary Simmons, and Judith Miller
+
+Williams. Miller also testified on his own behalf. At the close of the
+
+evidence, the circuit court addressed the parties as follows:
+
+"So the hearing will be, shortly, concluded. I'm gonna
+tell the parties what I plan to do. I understand that the
+parties have already addressed the Henderson factors. I know
+that. But what I'm going to do is ask the parties to consolidate
+-- You've previously addressed it. There's been some more
+information come out today that we didn't previously -- at
+least, I wasn't previously aware of.
+
+"I'm gonna ask each party to file a post-hearing brief
+addressing each one of the 14 Henderson factors. You may be
+repeating things that you've already done. You may both do -
+- I want it -- I want it in post-hearing form and I want you to
+cite the record.
+
+"So I'm going -- I'm going to need to get a transcript from
+the court reporter before you can cite the record…
+
+"(Off the record briefly.)
+
+"Back on the record.
+
+"I'm going to ask you each to give me a post-hearing brief
+addressing each of the Henderson factors with citations to the
+record, the transcript of this hearing, as well as the exhibits.
+
+"….
+
+6
+
+CR-2022-1224
+
+"Now, one thing I'm interested in is -- and I -- I spent the
+weekend trying to locate a lot of information. I was try -- I've
+been trying to get the original appellate opinion affirming this
+conviction in 1982. And I've got the --
+
+"....
+
+"If either of you can get your hands on that, I would like
+to see the Court of Criminal Appeals' opinion.
+
+"Third, there's some law out there -- a very recent case,
+Wynn, and I've got the Westlaw cite, I'll give this to both sides:
+20 -- 2177656, 2177656. It's a May '21 opinion. And in this
+case, the -- it was a review of the Judge's sentencing order. He
+went through an evaluation of the 14 Henderson factors. And
+there was a discussion about the fact that the defendant must
+be sentenced under the law in effect at the time of the
+commission of the offense.
+
+"But the Wynn case confirmed what we all already
+know, which is that the legislature, however, kind of
+addressed that issue when it made life or life without parole
+option for juvenile defendants retroactive. Okay. I know that.
+But I still would like to get my hands on -- and I haven't been
+able to get my hands on it yet -- the capital murder statute
+and the sentencing statute that were in effect at the time the
+act was committed here, so some help from either of you on
+that."
+
+(R. 343-47.) The parties agreed that they could file their post-hearing
+
+briefs within a timeframe suggested by the circuit court.
+
+On June 8, 2022, Miller filed a post-hearing brief, in which Miller
+
+set out the 14 Henderson factors and explained how he had established
+
+those factors at the resentencing hearing. (Supp. C. 1527-65.) On June
+
+7
+
+CR-2022-1224
+
+9, 2022, the State filed its post-hearing brief arguing that the circuit court
+
+should sentence Miller to life imprisonment without the possibility of
+
+parole. (Supp. C. 1569-78.)
+
+On October 26, 2022, the circuit court sentenced Miller in open
+
+court. Before doing so, the circuit court gave the parties an opportunity
+
+to correct any errors to the presentence investigation report, allowed
+
+Miller to present a statement from Mary Simmons, and allowed Miller to
+
+allocute. The circuit court then read from portions of its written
+
+sentencing order, explaining its findings as to the 14 Henderson factors.
+
+(R. 12-45.) Miller raised no objections to the circuit court's findings. On
+
+the same day it pronounced Miller's sentence, the circuit court issued its
+
+40-page written order. (C. 90-129.) Miller filed no postjudgment motions
+
+challenging the circuit court's judgment or its application of the
+
+Henderson factors.
+
+Because Miller raised no arguments in the circuit court concerning
+
+the way it had applied the Henderson factors to his case, Miller's
+
+argument on appeal that the circuit court erred in its application of the
+
+Henderson factors is not preserved for appellate review and, thus, it is
+
+not properly before this Court.
+
+8
+
+CR-2022-1224
+
+In his reply brief, Miller says that his argument is preserved for
+
+appellate review because the circuit court "was apprised of [his] position
+
+that, based on the evidence presented at the Resentencing Hearing,
+
+analyzed by the parties under [Henderson] in the post-hearing briefs, he
+
+should be sentenced [to] life imprisonment, with the possibility of parole"
+
+and the circuit court rejected his position. (Miller's reply brief, pp. 1-2.)
+
+But Miller's position in his post-hearing brief as to how he viewed the
+
+evidence presented at his resentencing hearing and why he believed it
+
+warranted a sentence of life imprisonment is not equivalent to his
+
+argument on appeal that the circuit court erred in its application of the
+
+Henderson factors to his case.
+
+For example, throughout his brief on appeal, Miller argues that the
+
+circuit court "erred in failing to consider" the Henderson factors "as
+
+mitigating in favor of a sentence of life imprisonment." (Miller's brief,
+
+pp. 27, 35, 37, 39, 40, 41, 42, 45, and 48.) Miller never raised an argument
+
+in the circuit court that the circuit court had "failed to consider" a
+
+particular Henderson factor as mitigating when it should have. Although
+
+Miller's post-hearing brief provided the circuit court with Miller's view as
+
+to how he would weigh the evidence presented at his resentencing
+
+9
+
+CR-2022-1224
+
+hearing, Miller never argued, either at the sentencing hearing or in a
+
+post-judgment motion, that the circuit court erred in the way it weighed
+
+the evidence in reaching its judgment.
+
+In short, if Miller believed that the circuit court erred when it
+
+applied the Henderson factors to his case (either because it had failed to
+
+consider a particular factor as mitigating when it should have or that it
+
+had improperly weighed the Henderson factors), Miller had to first
+
+present his argument to the circuit court. Because Miller did not do so,
+
+his argument on appeal is not properly before this Court for appellate
+
+review.
+
+But even if it had been preserved, Miller's argument on appeal is
+
+without merit.
+
+On appeal, Miller argues that the circuit court's application of the
+
+Henderson factors to his case was erroneous. Throughout his brief on
+
+appeal, Miller points to two reasons to reverse the circuit court's
+
+judgment. First, Miller argues that the circuit court "erred in failing to
+
+consider" the Henderson factors "as mitigating in favor of a sentence of
+
+life imprisonment." (Miller's brief, pp. 27, 35, 37, 39, 40, 41, 42, 45, and
+
+48.) Second, Miller argues that the circuit court erred in its weighing of
+
+10
+
+CR-2022-1224
+
+the evidence when it sentenced him to life imprisonment without the
+
+possibility of parole.
+
+As to his first argument,
+
+" 'This Court has previously recognized:
+
+" ' " 'The United States Supreme
+Court's decision in Lockett v. Ohio, 438
+U.S. 586, 98 S. Ct. 2954, 57 L. Ed. 2d
+973 (1978), requires that a circuit court
+consider all evidence offered in
+mitigation when determining a capital
+defendant's sentence. However,
+
+" ' " ' " '[m]erely because
+an accused proffers
+evidence of a mitigating
+circumstance does not
+require the judge or the jury
+to find the existence of that
+fact. Mikenas [v. State, 407
+So. 2d 892, 893 (Fla. 1981)];
+Smith [v. State, 407 So. 2d
+894 (Fla. 1981)].' Harrell v.
+State, 470 So. 2d 1303, 1308
+(Ala. Cr. App. 1984), aff'd,
+470 So. 2d 1309 (Ala.), cert.
+denied, 474 U.S. 935, 106 S.
+Ct. 269, 88 L. Ed. 2d 276
+(1985)."
+
+" ' " 'Perkins v. State, 808 So. 2d 1041[,
+1137] (Ala. Crim. App. 1999).
+" 'Although the trial court must
+consider all mitigating circumstances,
+it has discretion in determining
+
+11
+
+CR-2022-1224
+
+whether a particular mitigating
+circumstance is proven and the weight
+it will give that circumstance.' "
+Simmons v. State, 797 So. 2d 1134,
+1182 (Ala. Crim. App. 1999), quoting
+Wilson v. State, 777 So. 2d 856, 893
+(Ala. Crim. App. 1999). " 'While
+Lockett [v. Ohio, 438 U.S. 586, 98 S. Ct.
+2954, 57 L. Ed. 2d 973 (1978),] and its
+progeny require consideration of all
+evidence submitted as mitigation,
+whether the evidence is actually found
+to be mitigating is in the discretion of
+the sentencing authority.' " Ex parte
+Slaton, 680 So. 2d 909, 924 (Ala. 1996),
+quoting Bankhead v. State, 585 So. 2d
+97, 108 (Ala. Crim. App. 1989).' "
+
+" 'White v. State, 179 So. 3d 170, 236 (Ala. Crim.
+App. 2013) (quoting Albarran v. State, 96 So. 3d
+131, 212-13 (Ala. Crim. App. 2011)).'
+
+"Wilkerson, 284 So. 3d [937, 959 (Ala. Crim. App. 2018)]
+(emphasis added)."
+
+Thrasher v. State, 295 So. 3d 118, 130 (Ala. Crim. App. 2019).
+
+Here, Miller does not argue that the circuit court failed to consider
+
+any of the 14 Henderson factors; rather, Miller argues that the circuit
+
+court erred because it "failed to consider" those factors "as mitigating in
+
+favor of life imprisonment." Miller's argument conflates the circuit
+
+court's duty to consider the 14 Henderson factors with its discretionary
+
+function of finding those factors as having been established by the
+
+12
+
+CR-2022-1224
+
+evidence and what mitigating weight it should assign to any established
+
+factor. Although the circuit court must consider the Henderson factors
+
+presented to it, there is no requirement that the court find that the factor
+
+exists or that it assign any particular mitigating weight to that factor.
+
+Because, here, the circuit court clearly considered all the Henderson
+
+factors when it sentenced Miller to life imprisonment without the
+
+possibility of parole, Miller's "failed-to-consider" argument is without
+
+merit.
+
+Additionally, Miller's argument concerning how the circuit court
+
+applied the Henderson factors to the evidence presented at his
+
+resentencing hearing is without merit. Indeed, Miller's argument is
+
+nothing more than his disagreeing with the circuit court's weighing of the
+
+evidence presented at his resentencing hearing and his disagreeing with
+
+the circuit court's finding that its weighing of that evidence warrants a
+
+sentence of life imprisonment without the possibility of parole. The law
+
+is clear that a
+
+" ' "mere disagreement with the circuit court's weighing of the
+evidence does not entitle [a defendant] to relief." ' Wynn v.
+State, 354 So. 3d 1007, 1030 (Ala. Crim. App. 2021) (quoting
+Boyd v. State, 306 So. 3d 907, 919 (Ala. Crim. App. 2019)).
+
+" 'It is well settled that,
+
+13
+
+CR-2022-1224
+
+" ' " '[w]here a trial judge imposes
+a sentence within the statutory range,
+this Court will not disturb that
+sentence on appeal absent a showing of
+an abuse of the trial judge's discretion.'
+Alderman v. State, 615 So. 2d 640, 649
+(Ala. Crim. App. 1992). 'The exception
+to this general rule is that "the
+appellate courts may review a
+sentence, which, although within the
+prescribed limitations, is so
+disproportionate to the offense charged
+that it constitutes a violation of a
+defendant's Eighth Amendment
+rights." ' Brown [v. State, 611 So. 2d
+1194,] 1197, n. 6 [(Ala. Crim. App.
+1992)], quoting Ex parte Maddox, 502
+So. 2d 786, 789 (Ala. 1986)."
+
+" ' Adams v. State, 815 So. 2d 583, 585 (Ala. Crim.
+App. 2001). Because life imprisonment without
+the possibility of parole remains a sentencing
+option for juvenile offenders, even in light of the
+Supreme Court's decisions in Miller and
+Montgomery, the standard of review to be applied
+is an abuse-of-discretion standard. In the present
+case, ... we see no reason to create or apply a more
+stringent standard for reviewing a sentencing
+court's ultimate determination following a hearing
+conducted pursuant to Miller and Montgomery.
+Cf. [People v.] Skinner, 502 Mich. [89] at 137, 917
+N.W.2d [292] at 317 [(2018)] ("Miller's and
+Montgomery's emphasis on the rarity of juveniles
+deserving of life-without-parole sentences does not
+counsel against applying an abuse-of-discretion
+standard. The trial court remains in the best
+position to determine whether each particular
+
+14
+
+CR-2022-1224
+
+defendant is deserving of life without parole. All
+crimes have a maximum possible penalty, and
+when trial judges have discretion to impose a
+sentence, the imposition of the maximum possible
+penalty for any crime is presumably 'uncommon'
+or 'rare.' Yet this Court has never imposed a
+heightened standard of appellate review, and it
+should not do so in this instance.").'
+
+"Wilkerson v. State, 284 So. 3d 937, 956 (Ala. Crim. App.
+2018)."
+
+Jones v. State, 355 So. 3d 361, 387 (Ala. Crim. App. 2021).
+
+Here, Miller's sentence is within the range of punishment set out
+
+for juvenile capital offenders and, based on the evidence presented at his
+
+Miller resentencing hearing, the circuit court's weighing of that evidence,
+
+and the circuit court's consideration of the Henderson factors, we cannot
+
+conclude that the circuit court abused its discretion when it sentenced
+
+Miller to life imprisonment without the possibility of parole.
+
+As explained above, the circuit court considered all the Henderson
+
+factors when it sentenced Miller to life imprisonment without the
+
+possibility of parole, and it weighed the evidence presented at the Miller
+
+resentencing hearing in light of those factors. Although Miller argues
+
+that the evidence he presented supports a sentence of life imprisonment,
+
+Miller's "disagreement with the circuit court's weighing of the evidence
+
+15
+
+CR-2022-1224
+
+does not entitle [him] to relief." Boyd v. State, 306 So. 3d 907, 919 (Ala.
+
+Crim. App. 2019).
+
+Conclusion
+
+Because Miller's argument on appeal is not preserved for appellate
+
+review, and, even if it had been preserved, is without merit, we affirm the
+
+circuit court's judgment sentencing Miller to life imprisonment without
+
+the possibility of parole.
+
+AFFIRMED.
+
+Windom, P.J., and Kellum, McCool, and Minor, JJ., concur.
+
+16

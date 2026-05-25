@@ -1,0 +1,204 @@
+=========================================================
+Case: State of Tennessee v. David Anthony Avery
+Court: Court of Criminal Appeals of Tennessee
+Date Filed: 2025-07-24
+Citations: 
+URL: https://www.courtlistener.com/opinion/10640501/state-of-tennessee-v-david-anthony-avery/
+Source Query: murder conviction appeal
+=========================================================
+
+07/24/2025
+IN THE COURT OF CRIMINAL APPEALS OF TENNESSEE
+AT NASHVILLE
+Assigned on Briefs July 15, 2025
+
+STATE OF TENNESSEE v. DAVID ANTHONY AVERY
+
+Appeal from the Criminal Court for Davidson County
+No. 2006-C-2451 Cheryl A. Blackburn, Judge
+___________________________________
+
+No. M2024-01537-CCA-R3-CD
+___________________________________
+
+The Petitioner, David Anthony Avery, acting pro se, appeals from the summary dismissal
+of his third motion pursuant to Rule 36.1 of the Tennessee Rules of Criminal Procedure
+seeking correction of his sentence. As grounds, the Petitioner asserts his sentence is illegal
+because attempted murder, a crime which he was convicted of, does not exist in Tennessee.
+Because the Petitioner’s motion failed to state a colorable claim for relief, we affirm the
+judgment of the trial court.
+
+Tenn R. App. P. 3 Appeal as of Right; Judgment of the Criminal Court Affirmed
+
+CAMILLE R. MCMULLEN, P.J., delivered the opinion of the court, in which ROBERT W.
+WEDEMEYER, and J. ROSS DYER, JJ., joined.
+
+David Anthony Avery, Henning, Tennessee, Pro Se.
+
+Jonathan Skrmetti, Attorney General and Reporter; Ronald L. Coleman, Senior Assistant
+Attorney General; Glenn R. Funk, District Attorney General; and Megan King, Assistant
+District Attorney General, for the appellee, State of Tennessee.
+
+OPINION
+
+A full account of the procedural history of the Petitioner’s case can be found in our
+most recent opinion denying his second Rule 36.1 motion. State v. Avery, No. M2024-
+00651-CCA-R3-CD, 2024 WL 4201411, at *1 (Tenn. Crim. App. Sept. 16, 2024)
+(affirming summary dismissal of second Rule 36.1 motion). The facts underlying the
+Petitioner’s convictions stem from the June 23, 2006 robbery of a couple whose throats
+were slit during the commission of the robbery. The Petitioner and two co-defendants,
+
+-1-
+
+Frederick Avery and Iris Avery, were indicted on two counts of especially aggravated
+robbery and two counts of attempted first degree murder. State v. Avery, No. M2008-
+01809-CCA-R3-CD, 2009 WL 4724430, at *1 (Tenn. Crim. App. Dec. 10, 2009), perm.
+app. denied (Tenn. Apr. 23, 2010) (affirming convictions). Co-Defendant Iris Avery
+entered a guilty plea, and a jury found the Petitioner and Frederick Avery guilty of one
+count each of aggravated robbery, especially aggravated robbery, reckless endangerment,
+and attempted second degree murder. Id. The trial court sentenced the Petitioner as a
+Range I standard offender to twelve years for aggravated robbery, twenty-five years for
+especially aggravated robbery, twelve years for attempted second degree murder, and
+eleven months and twenty-nine days for reckless endangerment. Id. at *14. The trial court
+aligned the three felony sentences consecutively, for a total effective sentence of forty-nine
+years. Id. at *16.
+
+In 2023, the Petitioner filed his first Rule 36.1 motion to correct an illegal sentence,
+arguing that the trial court misapplied enhancement factors and improperly imposed
+consecutive sentences. The trial court denied relief, and Petitioner appealed. This court
+dismissed the appeal as untimely. State v. Avery, No. M2023-01582-CCA-R3-CD (Tenn.
+Crim. App. Dec. 13, 2023) (Order).
+
+On May 6, 2024, the Petitioner filed his second Rule 36.1 motion, alleging his
+sentence was illegal because the trial court did not have jurisdiction to impose the sentence.
+State v. Avery, No. M2024-00651-CCA-R3-CD, 2024 WL 4201411, at *1. The trial court
+summarily dismissed the motion, and this court affirmed. We stated that the Petitioner “is
+profoundly mistaken about the nature of the proceedings against him.” Id. at *2. The
+criminal offenses for which the Petitioner was convicted were punishable by confinement
+in the Tennessee Department of Correction. This was a criminal case, and the Petitioner’s
+claim that it was somehow a civil case is preposterous and utterly absurd. Id. at *2. We
+also noted that “[p]ursuant to Tennessee Code Annotated section 40-1-108, the circuit and
+criminal courts have original jurisdiction of all criminal matters not exclusively conferred
+by law on some other tribunal.” Id. We affirmed the judgment of the trial court summarily
+dismissing the Petitioner’s second Rule 36.1 motion for failure to state a colorable claim
+for relief.
+
+At some point, the Petitioner subsequently filed the instant Rule 36.1 motion, his
+third, seeking relief from his convictions. The motion is not included in the record on
+appeal. On December 5, 2024, the trial court issued an order summarily denying the
+Petitioner’s third Rule 36.1 motion. The court noted that the Petitioner’s motion alleged
+that his “sentence is illegal because the crime of which he was convicted—Attempted
+Second Degree Murder—does not exist in Tennessee. In support of this argument he cites
+State v. Ball, 1997 WL 581118.” In denying the petition, the order provided, in relevant
+part:
+-2-
+
+Petitioner’s allegations are not the proper subject matter for a Rule 36.1
+petition, but for the sake of clarity the Court will explain why Petitioner’s
+reliance on State v. Ball is misplaced: Ball’s holding was based on the former
+Tennessee Code Annotated § 39-13-202(a) which read in part as follows:
+
+First degree murder-(a) First degree murder is:
+
+… (2) A reckless killing of another committed in the
+perpetration of, or attempt to perpetrate, any first degree
+murder, arson, rape, robbery, burglary, theft, kidnapping or
+aircraft piracy;
+
+(3) A reckless killing of another committed as the result of the
+unlawful throwing, placing or discharging of a destructive
+device or bomb . . . .
+
+The court in Ball reversed the conviction stating that one cannot attempt to
+commit a crime that alleges “recklessness” as the culpable mental state. The
+murder statute at issue in Ball was superseded by Tennessee’s felony murder
+statute, T.C.A. §39-13-202(a)(2)-(5) where recklessness may be a culpable
+mental state for the underlying felony. The statute in Ball was amended in
+1995. [The Petitioner] was indicted for a crime committed in 2006 wherein
+he was charged and convicted of an attempted murder where the culpable
+mental state was intentionally.
+
+The Petitioner filed a premature notice of appeal of the trial court’s order. His case
+is now before this court for review.
+
+ANALYSIS
+
+In his appellate brief, the Petitioner asserts, relying on State v. Ball, that his sentence
+is illegal because the crime of attempting to commit murder does not exist in Tennessee.
+No. 03C01-9501-CR-00018, 1997 WL 581118, at *1 (Tenn. Crim. App. Sept. 19, 1997)
+perm. app. denied (Tenn. June 8, 1998). In response, the State contends that the Petitioner
+has waived appellate review of this issue because he failed to include his third Rule 36.1
+petition in the record on appeal. Waiver notwithstanding, the State asserts summary
+dismissal was proper because the Petitioner’s motion failed to state a colorable claim for
+relief.
+
+Rule 36.1 provides the defendant and the State an avenue to “seek to correct an
+illegal sentence,” which is defined as a sentence “that is not authorized by the applicable
+-3-
+
+statutes or that directly contravenes an applicable statute.” Tenn. R. Crim. P. 36.1(a)(1),
+(2); see also State v. Wooden, 478 S.W.3d 585, 594-95 (Tenn. 2015) (holding that “the
+definition of ‘illegal sentence’ in Rule 36.1 is coextensive with, and not broader than, the
+definition of the term in the habeas corpus context”). To avoid summary denial of an illegal
+sentence claim brought under Rule 36.1, a defendant must “state with particularity the
+factual allegations,” Wooden, 478 S.W.3d at 594, establishing “a colorable claim that the
+unexpired sentence is illegal.” Tenn. R. Crim. P. 36.1(b). “[F]or purposes of Rule 36.1 . .
+. ‘colorable claim’ means a claim that, if taken as true and viewed in a light most favorable
+to the moving party, would entitle the moving party to relief under Rule 36.1.” Wooden,
+478 S.W.3d at 593. The determination whether a Rule 36.1 “motion states a colorable
+claim for correction of an illegal sentence under Rule 36.1 is a question of law, to which
+de novo review applies.” Id. at 589 (citing Summers v. State, 212 S.W.3d 251, 255 (Tenn.
+2007)). Sentencing errors fall into three categories: clerical errors, appealable errors, and
+fatal errors. Id. at 595. Rule 36.1 applies only to fatal errors. Id.
+
+As an initial matter, we acknowledge that the Petitioner failed to include the Rule
+36.1 motion in the record on appeal. Where the appellate record is inadequate, the
+reviewing court must presume that the trial court ruled correctly. State v. Ivy, 868 S.W.2d
+724, 728 (Tenn. Crim. App. 1993) (citing Herron v. State, 456 S.W.2d 873, 876 (Tenn.
+Crim. App. 1970)). The obligation of preparing a complete and adequate record for the
+issues presented on appeal rests upon the appealing party. See Tenn. R. App. P. 24(b). For
+this reason, any issues raised are typically waived. However, we decline to waive appellate
+review of this issue because Rule 36.1 does not mandate waiver under these circumstances
+and the order of the trial court detailing the issue presented is sufficient for meaningful
+appellate review.
+
+As noted by the trial court, in State v. Ball, the defendant argued the trial court erred
+in not dismissing the indictment for attempt to commit first degree murder on the grounds
+that the indictment failed to state a cause of action. Ball, 1997 WL 581118, at *1. More
+specifically, the defendant alleged that Tennessee did not recognize as a crime an attempt
+to commit reckless killing in violation of Tennessee Code Annotated section 39-13-
+202(a)(3). Id. At that time, Tennessee did not recognize the crime of attempt to commit
+first degree murder as defined in Tennessee Code Annotated section 39-13-202(a)(2)
+because “all three alternative versions of criminal attempt as set out in Tennessee Code
+Annotated § 39-12-101(a)(1)-(3) involve[d] a specific intent.” Id. at *3 (citing State v.
+Kimbrough, 924 S.W.2d 888 (Tenn. 1996)). The first degree murder statute was
+subsequently amended and deleted recklessness as its mens rea. Because the Petitioner
+was convicted in 2008 under the amended statute, Ball is easily distinguishable.
+
+Moreover, the Petitioner is in effect challenging the validity of his conviction, which
+is not grounds for a cognizable claim under Rule 36.1. See Tenn. R. Crim. P. 12(b)(2)
+-4-
+
+(requiring objections to defects in the indictment to be raised before trial). To the extent
+the Petitioner claims his indictment is so defective that it fails to charge an offense, the
+appropriate avenue to seek relief is in the form of a habeas corpus petition. Habeas corpus
+is distinct from Rule 36.1, which is confined to addressing illegal sentences. Count four
+of the Petitioner’s indictment clearly states that on June 23, 2006, the Petitioner “did
+attempt to intentionally and with premeditation kill Sam Gift, in violation of Tennessee
+Code Annotated § 39-12-101[.]” The judgment form also reflects a conviction of
+attempted first degree murder and cites the relevant statute. The Defendant’s claim that he
+was convicted of a crime which does not exist is unsupported by the record. See State v.
+Troglin, No. E2020-00129-CCA-R3-CD, 2020 WL 6112986, at *2 (Tenn. Crim. App. Oct.
+16, 2020). Accordingly, the Defendant failed to state a cognizable basis for relief, and the
+trial court did not err in denying his motion.
+
+CONCLUSION
+
+Based on the above reasoning and authority, we affirm the judgment of the trial
+court.
+
+S/ Camille R.
+McMullen____________
+CAMILLE R. MCMULLEN, PRESIDING JUDGE
+
+-5-

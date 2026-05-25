@@ -1,0 +1,568 @@
+=========================================================
+Case: State v. Harner
+Court: Ohio Court of Appeals
+Date Filed: 2025-03-03
+Citations: 2025 Ohio 698
+URL: https://www.courtlistener.com/opinion/10348606/state-v-harner/
+Source Query: murder conviction appeal
+=========================================================
+
+[Cite as State v. Harner, 2025-Ohio-698.]
+
+IN THE COURT OF APPEALS
+
+TWELFTH APPELLATE DISTRICT OF OHIO
+
+MADISON COUNTY
+
+STATE OF OHIO, :
+
+Appellee, : CASE NO. CA2023-11-017
+
+: OPINION
+- vs - 3/3/2025
+:
+
+NILEN HARNER, :
+
+Appellant. :
+
+CRIMINAL APPEAL FROM MADISON COUNTY COURT OF COMMON PLEAS
+Case No. CRI20230108
+
+Nicholas A. Adkins, Madison County Prosecuting Attorney, and Rachel M. Price, and
+Michael S. Klamo, Assistant Prosecuting Attorneys, for appellee.
+
+Shannon M. Treynor, for appellant.
+
+BYRNE, P.J.
+
+{¶ 1} Nilen Harner appeals from his conviction for aggravated murder in the
+
+Madison County Court of Common Pleas. Harner argues that he did not knowingly,
+
+intelligently, and voluntarily enter his guilty plea. He also challenges his sentence. For
+
+the reasons discussed below, we affirm.
+
+I. Factual and Procedural Background
+
+Madison CA2023-11-017
+
+{¶ 2} In 2023, multiple complaints were filed in the Madison County Court of
+
+Common Pleas, Juvenile Division, alleging that Harner (then age 17) was a delinquent
+
+child for having committed an act that if committed by an adult would have constituted the
+
+offenses of aggravated murder and murder.
+
+{¶ 3} The complaints arose following allegations that Harner shot the victim,
+
+Jamie Crim, three times with a 9 mm firearm, causing Crim's death. The shooting incident
+
+occurred during a home invasion robbery in which Harner allegedly stole a quarter pound
+
+of marijuana from the victim.
+
+{¶ 4} In June 2023, the matter proceeded to a probable cause/bind over hearing.
+
+Based on the evidence presented, the juvenile court found probable cause to believe that
+
+Harner committed the charged acts and bound him over to the Madison County Court of
+
+Common Pleas, General Division—that is, to adult court.
+
+{¶ 5} In July 2023, a Madison County grand jury indicted Harner on the following
+
+counts: (1) Count One, aggravated murder, a violation of R.C. 2903.01(B) and an
+
+unclassified felony, with a firearm specification in violation of R.C. 2941.145(A); and (2)
+
+Count Two, murder, a violation of R.C. 2903.02(A) and an unclassified felony, with a
+
+firearm specification in violation of R.C. 2941.145(A). Harner entered not guilty pleas to
+
+both counts.
+
+{¶ 6} Subsequently, Harner and the state negotiated a plea and jointly-
+
+recommended sentence. In November 2023, Harner appeared before the court for a plea
+
+hearing.
+
+{¶ 7} At the hearing, the court stated that it understood that the terms of the plea
+
+agreement were that Harner would be entering a guilty plea to Count One, aggravated
+
+murder. In return, the state agreed to dismiss the gun specification to Count One as well
+
+as to dismiss Count Two in its entirety, including its gun specification. The court also
+
+-2-
+
+Madison CA2023-11-017
+
+stated it understood that the parties would also be jointly recommending an agreed
+
+sentence, consisting of a life sentence with eligibility for parole after 20 years.
+
+{¶ 8} Harner's counsel and the state agreed that these terms were accurate.
+
+Harner then signed a written plea agreement before the court. The written plea form
+
+advised Harner of the three potential sentences he faced by pleading guilty to aggravated
+
+murder, which were mandatory terms of life in prison with a possibility of parole after 20,
+
+25, or 30 years.1
+
+{¶ 9} The court reiterated the terms of the plea and the jointly-recommended
+
+sentence and Harner expressly stated that he understood those terms and was satisfied
+
+with the terms of the plea agreement.
+
+{¶ 10} The court then conducted a colloquy to ensure that Harner understood the
+
+ramifications of his plea. This colloquy included the court advising Harner of the three
+
+potential life prison terms he faced by pleading guilty. Harner acknowledged his
+
+understanding of the potential sentences he faced. The court also advised Harner of the
+
+various constitutional trial rights he was waiving by entering the plea. Harner
+
+acknowledged his understanding that he was waiving these rights.
+
+{¶ 11} Harner then pleaded guilty. The court found that Harner's plea was made
+
+knowingly, intelligently, and voluntarily, and found Harner guilty.
+
+{¶ 12} Following the finding of guilt, the court asked Harner's counsel if Harner
+
+intended to waive the preparation of a presentence-investigative report, in light of the
+
+jointly-recommended sentence. Harner's counsel agreed that Harner would waive the
+
+report. Harner, Harner's counsel, and the state all agreed that the court should proceed
+
+with sentencing immediately.
+
+1. At the plea hearing, the prosecutor noted that a term of life in prison without parole was not included in
+this list of possible prison terms because Harner was a juvenile at the time of the offense. R.C. 2929.07(A).
+-3-
+
+Madison CA2023-11-017
+
+{¶ 13} The court then proceeded to impose the jointly-recommended sentence of
+
+life in prison with the possibility of parole after 20 years.
+
+{¶ 14} Harner appealed and raised two assignments of error.
+
+II. Law and Analysis
+
+A. Voluntariness of Guilty Plea
+
+{¶ 15} Harner's first assignment of error states:
+
+THE DEFENDANT'S GUILTY PLEA WAS NOT MADE
+KNOWINGLY, INTELLIGENTLY OR VOLUNTARILY, AS
+THE COURT FAILED TO ADVISE THE DEFENDANT THAT
+HE WAS WAIVING ALL GROUNDS TO APPEAL BY
+ENTERING INTO AN AGREED SENTENCE.
+
+{¶ 16} Harner argues that his plea was not made knowingly, intelligently, and
+
+voluntarily under Crim.R. 11 because the trial court failed to inform him at the plea hearing
+
+of the effect of entering into a jointly-recommended sentence under R.C. 2953.08(D)(1).
+
+Specifically, Harner argues that the court was required by Crim.R. 11 to inform him at the
+
+plea hearing that R.C. 2953.08(D)(1) would preclude him from appealing his jointly-
+
+recommended sentence.
+
+1. Applicable Law – R.C. 2953.08(D)
+
+{¶ 17} We first review the text of R.C. 2953.08(D). That statute provides in relevant
+
+part:
+
+(1) A sentence imposed upon a defendant is not subject to
+review under this section if the sentence is authorized by law,
+has been recommended jointly by the defendant and the
+prosecution in the case, and is imposed by a sentencing
+judge.
+
+...
+
+(3) A sentence imposed for aggravated murder or murder
+pursuant to sections 2929.02 to 2929.06 of the Revised Code
+is not subject to review under this section.2
+
+2. R.C. 2929.02 to 2929.06 address the penalties for convictions of murder and aggravated murder.
+-4-
+
+Madison CA2023-11-017
+
+{¶ 18} Based upon the plain language of R.C. 2953.08(D)(1), Harner's sentence is
+
+not reviewable by this court because the sentence was a jointly-recommended sentence
+
+that was authorized by law and was imposed by a sentencing judge.
+
+{¶ 19} Moreover, based on the plain language of R.C. 2953.08(D)(3), the sentence
+
+is not reviewable because it was a sentence imposed for aggravated murder. We note,
+
+however, that the Ohio Supreme Court has held—despite the plain language of R.C.
+
+2953.08(D)(3)—that an appellate court is not precluded from reviewing a sentence for
+
+aggravated murder when a defendant raises a constitutional claim regarding that
+
+sentence on appeal. State v. Patrick, 2020-Ohio-6803, ¶ 22. Harner has not raised a
+
+constitutional challenge to his sentence in this appeal. The only constitutional claim he
+
+raises is to the voluntariness of his plea.
+
+{¶ 20} Accordingly, we proceed with the understanding that Harner is precluded,
+
+pursuant to R.C. 2953.08(D)(1) and (3), from challenging his sentence in this appeal.
+
+2. Applicable Law – Voluntariness of a Plea
+
+{¶ 21} "'When a defendant enters a plea in a criminal case, the plea must be made
+
+knowingly, intelligently, and voluntarily. Failure on any of those points renders
+
+enforcement of the plea unconstitutional under both the United States Constitution and
+
+the Ohio Constitution.'" State v. Tipton, 2021-Ohio-1128, (12th Dist.) ¶ 10, quoting State
+
+v. Engle, 74 Ohio St.3d 525, 527, 1996-Ohio-179. "Crim.R. 11(C) prescribes the process
+
+that a trial court must use before accepting a plea of guilty to a felony." State v. Bishop,
+
+2018-Ohio-5132, ¶ 11. The rule "ensures an adequate record on review by requiring the
+
+trial court to personally inform the defendant of his rights and the consequences of his
+
+plea and determine if the plea is understandingly and voluntarily made." State v. Stone,
+
+43 Ohio St.2d 163, 168 (1975). This requires the trial court to notify the defendant of the
+
+-5-
+
+Madison CA2023-11-017
+
+constitutional rights set forth in Crim.R. 11(C)(2)(c). State v. Oliver, 2021-Ohio-2543, ¶
+
+41 (12th Dist.). This also requires the trial court to make the required determinations and
+
+give the necessary warnings set forth in Crim.R. 11(C)(2)(a) and (b). Id.
+
+{¶ 22} Specifically, Crim.R. 11(C)(2) provides that, in felony cases, the trial court
+
+may refuse to accept a plea of guilty or a plea of no contest, and shall not accept a plea
+
+of guilty or no contest, without first addressing the defendant personally and doing the
+
+following:
+
+(a) Determining that the defendant is making the plea
+voluntarily, with understanding of the nature of the charges
+and of the maximum penalty involved, and if applicable, that
+the defendant is not eligible for probation or for the imposition
+of community control sanctions at the sentencing hearing.
+
+(b) Informing the defendant of and determining that the
+defendant (understands the effect of the plea of guilty or no
+contest, and that the court, upon acceptance of the plea, may
+proceed with judgment and sentence.
+
+(c) Informing the defendant and determining that the
+defendant understands that by the plea the defendant is
+waiving the rights to jury trial, to confront witnesses against
+him or her, to have compulsory process for obtaining
+witnesses in the defendant's favor, and to require the state to
+prove the defendant's guilt beyond a reasonable doubt at a
+trial at which the defendant cannot be compelled to testify
+against himself or herself.
+
+{¶ 23} In State v. Dangler, 2020-Ohio-2765, "the Ohio Supreme Court addressed
+
+a trial court's compliance with Crim.R. 11(C) and the method of reviewing a trial court's
+
+plea colloquy to ensure that a defendant's plea is knowingly and voluntarily entered."
+
+State v. Broughton, 2021-Ohio-2987, ¶ 16 (12th Dist.). As the Ohio Supreme Court
+
+explained, aside from two exceptions, "a defendant is not entitled to have his plea vacated
+
+unless he demonstrates he was prejudiced by a failure of the trial court to comply with the
+
+provisions of Crim.R. 11(C)." Dangler at ¶ 16. The first exception occurs "[w]hen a trial
+
+court fails to explain the constitutional rights [set forth in Crim.R. 11(C)(2)(c)] that a
+
+-6-
+
+Madison CA2023-11-017
+
+defendant waives by pleading guilty or no contest . . . ." Id. at ¶ 14. When this occurs,
+
+"we presume that the plea was entered involuntarily and unknowingly, and no showing of
+
+prejudice is required." Id. The second exception occurs as a result of "a trial court's
+
+complete failure to comply with a portion of Crim.R. 11[C]." (Emphasis in original.) Id. at
+
+¶ 15. This, too, "eliminates the defendant's burden to show prejudice." Id. Therefore, as
+
+set forth in Dangler, the questions to be answered when reviewing a trial court's plea
+
+colloquy under Crim.R. 11(C) are threefold:
+
+(1) has the trial court complied with the relevant provision of
+the rule? (2) if the court has not complied fully with the rule, is
+the purported failure of a type that excuses a defendant from
+the burden of demonstrating prejudice? and (3) if a showing
+of prejudice is required, has the defendant met that burden?
+
+Id. at ¶ 17.
+
+3. Analysis
+
+{¶ 24} In this case, Harner does not dispute that he received the necessary
+
+constitutional advisements under Crim.R. 11(C)(2)(c). The only dispute is whether
+
+Harner's guilty plea was knowingly, intelligently, and voluntarily entered under Crim.R.
+
+11(C)(2)(a) and (b) given that the trial court did not inform Harner that by pleading guilty
+
+and entering into a jointly-recommended sentence, he was waiving his right to appeal his
+
+sentence under R.C. 2953.08(D)(1).3 Harner claims that such an advisement "fall[s]
+
+under the nonconstitutional advisements . . . governed by Civ. R. 11(C)(2)(a) and (b)."
+
+Harner cites no authority in support of this assertion.
+
+{¶ 25} This court has held that "[t]he fact that a guilty plea waives the defendant's
+
+right to contest various pretrial motions [on appeal] is not one of the specifically
+
+enumerated rights the trial court is required to provide in the Crim.R. 11 colloquy." State
+
+3. Harner does not argue that the court was also required to warn him of the effect of pleading guilty to
+aggravated murder under R.C. 2953.08(D)(3).
+-7-
+
+Madison CA2023-11-017
+
+v. Moxley, 2012-Ohio-2572, ¶ 13 (12th Dist.). Accord State v. Reynolds, 2018-Ohio-4942,
+
+¶ 12 (12th Dist.). Citing Reynolds and Moxley, we have also suggested that Crim.R.
+
+11(C)(2) does not require a court to inform a defendant that by entering a guilty plea to a
+
+jointly-recommended sentence, he is waiving his to right to appeal that sentence. In re
+
+M.A., 2019-Ohio-829, ¶ 41 (12th Dist.). In M.A., the defendant argued that the trial court
+
+had erred by informing him at the plea hearing that by pleading guilty to a jointly-
+
+recommended sentence, he was "perhaps" waiving his right to appeal. Id. We rejected
+
+this argument, citing our precedent in Reynolds and Moxley. Id.
+
+{¶ 26} Other courts have specifically found that Crim.R. 11(C)(2) does not require
+
+a court to inform a defendant of the effect of a jointly-recommended sentence on appellate
+
+rights. State v. Thomas, 2011-Ohio-214, ¶ 31 (8th Dist.) ("Crim.R. 11[C][2] does not
+
+require the trial court to inform a defendant that by pleading guilty, he or she is waiving
+
+his or her right to appeal a jointly-agreed sentence under R.C. 2953.08[D][1]."); State v.
+
+Alvarez, 2020-Ohio-5183, ¶ 23 (8th Dist.) ("Crim.R. 11[C][2] does not contain any
+
+language requiring a trial court to inform defendants of their appellate rights, or lack
+
+thereof, before accepting a plea."); State v. Brown, 2017-Ohio-9225, ¶ 20 (2d Dist.)
+
+(holding the same).
+
+{¶ 27} We find no reason to reconsider our precedent set forth in Moxley,
+
+Reynolds, and M.A. There is no language in Crim.R. 11(C)(2) that would require a trial
+
+court to inform a defendant of the effect of a guilty plea on appellate rights, let alone the
+
+effect of a jointly-recommended sentence on appellate rights. Instead, the purpose of the
+
+rule is to ensure that the defendant understands the ramifications of sentencing following
+
+the plea, as well as the waiver of constitutional trial rights. See Crim.R. 11(C)(2). We are
+
+aware of no authority holding that a court must advise a defendant of the effect of a jointly-
+
+recommended sentence on appellate rights, and, as stated above, Harner has cited none.
+
+-8-
+
+Madison CA2023-11-017
+
+{¶ 28} Even if we assume that the trial court was required to inform Harner of the
+
+effect of the guilty plea on his appellate rights under Crim.R. 11(C)(2)(a) or (b) (which it
+
+was not), and even if we assume that such was not a complete failure to comply with a
+
+portion of Crim.R. 11(C), we would not find that he has established prejudice. We note
+
+that Harner does not articulate in his appellate brief how he was prejudiced by the alleged
+
+failure to inform him of the effect of a jointly-recommended sentence under R.C.
+
+2953.08(D)(1). But based on the record of the probable cause hearing, we observe that
+
+the evidence against Harner was overwhelming. Text conversations established that
+
+Harner and another person discussed robbing the victim of a quarter pound of marijuana.
+
+Text conversations also established that Harner was communicating with the victim about
+
+obtaining marijuana before the shooting. A doorbell camera recorded video of Harner
+
+going into the victim's home. Three gunshots are audible on the video and then Harner
+
+is seen on the same video leaving the victim's home. A firearm matching the caliber used
+
+in the shooting was recovered from Harner at the time of his arrest. Harner admitted to
+
+investigating police officers that he "took [the victim] for a QP"—meaning a quarter pound
+
+of marijuana.
+
+{¶ 29} In light of this evidence, Harner cannot realistically argue that if he had
+
+known that he would lose the ability to appeal his sentence, he would not have entered
+
+the plea. The benefits to Harner in entering this negotiated plea agreement were obvious.
+
+The state dismissed Count Two as well as both firearm specifications. The court imposed
+
+the jointly-recommended sentence, which was the minimum sentence available. Had
+
+Harner proceeded to trial and been convicted, he could have been sentenced to life in
+
+prison with the possibility of parole after 25 or 30 years. And the two firearm specifications
+
+would have resulted in an additional consecutive 6-year prison term even though the
+
+-9-
+
+Madison CA2023-11-017
+
+aggravated murder and murder charges would have merged under R.C. 2941.25. See
+
+State v. Bollar, 2022-Ohio-4370, ¶ 1; R.C. 2929.14(B)(1)(g).
+
+{¶ 30} Other than the jointly-recommended-sentence argument, Harner
+
+challenges no other aspect of the trial court's compliance with Crim.R. 11(C)(2). Based
+
+on the foregoing, we conclude that the court did not err in its plea colloquy and Harner
+
+knowingly, intelligently, and voluntarily entered his plea. We overrule Harner's first
+
+assignment of error.
+
+B. Consideration of Harner's Youthful Age During Sentencing
+
+{¶ 31} Harner's second assignment of error states:
+
+THE COURT ERRED BY NOT INDEPENDENTLY
+CONSIDERING THE YOUTHFULNESS OF THE
+OFFENDER, EVEN WHEN THE COURT IMPOSES LIFE
+IMPRISONMENT WITH THE POSSIBILITY OF PAROLE.
+
+{¶ 32} With certain qualifications that are not relevant here, R.C. 2929.03(A)(1)
+
+provides the following options for the sentencing of a person convicted of aggravated
+
+murder: (1) life imprisonment without parole, (2) life imprisonment with parole eligibility
+
+after 20 years; (3) life imprisonment with parole eligibility after 25 years; and (4) life
+
+imprisonment with parole eligibility after 30 years. In the case before us, life imprisonment
+
+without the possibility of parole was not an available option because Harner was a juvenile
+
+at the time of the offense. R.C. 2929.07(A). Among the three remaining options, the
+
+parties jointly recommended a sentence of life imprisonment with the possibility of parole
+
+after 20 years and the trial court imposed that same sentence.
+
+{¶ 33} Harner argues that the trial court erred by failing to consider his
+
+youthfulness before imposing the jointly-recommended sentence of life imprisonment with
+
+a possibility of parole after 20 years. Harner cites State v. Patrick, 2020-Ohio-6803, in
+
+support of his argument. As we already noted above, in Patrick, the Ohio Supreme Court
+
+- 10 -
+
+Madison CA2023-11-017
+
+held that R.C. 2153.08(D)(3) does not preclude an appeals court from reviewing a
+
+sentence for aggravated murder when a defendant raises a constitutional claim regarding
+
+that sentence on appeal. Id. at ¶ 22. The supreme court also held that the aggravated
+
+sentencing scheme set forth in R.C. 2929.03(A) was not unconstitutional as it related to
+
+juvenile offenders, but that the Eighth Amendment and the Ohio Constitution, art. I, § 9
+
+require a sentencing court to consider a juvenile offender's age as a factor in selecting
+
+among the R.C. 2929.03(A) sentencing options. Id. at ¶ 23-41.
+
+{¶ 34} Here, the trial court did not need to consider Harner's age in selecting
+
+among the R.C. 2929.03(A) options because the state and Harner agreed upon a suitable
+
+sentence and the court imposed that sentence. R.C. 2953.08(D)(1) (providing that a
+
+jointly agreed sentence is not subject to appellate review). Though the Ohio Supreme
+
+Court in Patrick held that a juvenile offender's age must be considered despite the
+
+language in R.C. 2953.08(D)(3), it made no such holding with respect to R.C.
+
+2953.08(D)(1), and in fact did not analyze R.C. 2953.08(D)(1) at all. Moreover, even if
+
+the court had erred in failing to consider Harner's age, any error would be harmless
+
+because the court imposed the minimum available sentence. See R.C. 2929.03(A)(1)(b).
+
+Thus, consideration of Harner's age would not have resulted in any lesser sentence. We
+
+overrule Harner's second assignment of error.
+
+{¶ 35} Judgment affirmed.
+
+HENDRICKSON and M. POWELL, JJ., concur.
+
+- 11 -
