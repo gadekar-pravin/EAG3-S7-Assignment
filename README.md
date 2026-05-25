@@ -34,7 +34,15 @@ The loop runs up to 20 iterations (`MAX_ITERATIONS` in `agent7.py`). Each goal i
 | `vector_index.py` | FAISS `IndexFlatIP` wrapper with disk persistence (`state/index.faiss`) |
 | `artifacts.py` | Content-addressable (SHA-256) byte store under `state/artifacts/` |
 | `mcp_server.py` | FastMCP server exposing 11 tools over stdio |
+| `court_rag.py` | Standalone RAG engine for the court-opinion UI (own FAISS index in `state/court_rag/`) |
+| `rag_app.py` | Localhost web server (`ThreadingHTTPServer`) serving static UI and API endpoints |
 | `test_mcp_server.py` | pytest suite for the MCP tools |
+| `rag_queries.json` | 6 evaluation queries (3 semantic-recall, 3 direct-lookup) |
+| **Scripts** | |
+| `scripts/index_corpus.py` | Batch-index sandbox text files into agent memory (bypasses MCP layer) |
+| `scripts/run_rag_queries.sh` | Two-phase RAG comparison demo (without-index vs. with-index) |
+| `scripts/run_all.sh` | 10-test suite runner with HTML report generation |
+| `scripts/clean_state.sh` | Removes `state/`, `usage.json`, and generated sandbox files |
 
 ## MCP Tools
 
@@ -83,7 +91,9 @@ If no query is provided, the agent uses a default query about time differences b
 
 ## Local Court-Opinion RAG App
 
-The Session 7 assignment UI is a standalone localhost app over `sandbox/court_opinions`.
+The Session 7 assignment UI is a standalone localhost app over 62 court opinion
+text files in `sandbox/court_opinions/`. The RAG engine (`court_rag.py`) maintains
+its own FAISS index under `state/court_rag/`, separate from the agent's main memory.
 It reuses LLM Gateway V7 for embeddings and answer generation, but keeps the
 four-layer agent loop unchanged.
 
@@ -95,9 +105,17 @@ cd ../llm_gatewayV7 && uv run main.py
 uv run python rag_app.py --port 8117
 ```
 
-Open `http://127.0.0.1:8117`, click **Build Index**, and try the five sample
-queries from `rag_queries.json`. The **Ask Without Index** path intentionally
-returns no grounded answer so the indexed-vs-unindexed behavior is visible.
+Open `http://127.0.0.1:8117`, click **Build Index**, and try the six evaluation
+queries from `rag_queries.json` (3 semantic-recall, 3 direct-lookup). The
+**Ask Without Index** path intentionally returns no grounded answer so the
+indexed-vs-unindexed behavior is visible.
+
+To run all six queries automatically in a two-phase comparison (without-index
+then with-index):
+
+```bash
+./scripts/run_rag_queries.sh
+```
 
 ## Testing
 
@@ -110,6 +128,9 @@ uv run pytest -v test_mcp_server.py -m "not network"
 
 # Skip tests that need the embedding endpoint
 uv run pytest -v test_mcp_server.py -m "not embed"
+
+# Full 10-test suite with HTML report (output in logs/)
+./scripts/run_all.sh
 ```
 
 ## LLM Routing
