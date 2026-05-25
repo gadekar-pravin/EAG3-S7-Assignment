@@ -26,14 +26,6 @@ out/
 # VS Code
 .vscode/
 
-# data files
-*.json
-!rag_queries.json
-*.faiss
-
-# runtime state — tracked; override *.json and *.faiss above
-!state/**
-
 # copied corpus files (source: ../rag-corpus/)
 # sandbox/court_opinions/ — now tracked
 
