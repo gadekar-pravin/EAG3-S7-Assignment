@@ -1,0 +1,8 @@
+{
+  "id": "art:73f7870c6199124a",
+  "content_type": "text/plain",
+  "size_bytes": 6750,
+  "source": "mcp:web_search",
+  "descriptor": "web_search({\"max_results\": 3, \"query\": \"Python asyncio best practices\"}) → 6750 bytes",
+  "created_at": "2026-05-24T13:19:13.756644"
+}

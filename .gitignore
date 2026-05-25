@@ -31,8 +31,8 @@ out/
 !rag_queries.json
 *.faiss
 
-# runtime state
-state/
+# runtime state — tracked; override *.json and *.faiss above
+!state/**
 
 # copied corpus files (source: ../rag-corpus/)
 # sandbox/court_opinions/ — now tracked
