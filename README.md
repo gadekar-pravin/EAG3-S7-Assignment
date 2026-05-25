@@ -1,4 +1,4 @@
-y# EAGV3 Session 7 Agent
+# EAGV3 Session 7 Agent
 
 Session 7 agent for the EAG3 course: the Session 6 cognitive architecture plus FAISS-backed vector memory and document indexing tools.
 
