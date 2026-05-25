@@ -30,7 +30,6 @@ out/
 *.json
 !rag_queries.json
 *.faiss
-*.txt
 
 # runtime state
 state/
